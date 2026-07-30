@@ -1,17 +1,10 @@
 ﻿{
-    "name": "Minecraft: The Gathering",
-    "formats": "",
-    "image_type": "jpg",
-    "draft_structure": "play booster",
-    "unpreviewed": "card back",
-    "image_name": "position",
-    "v_mana": "",
     "cards": [
         {
             "card_name": "Timorous Sheep",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Sheep",
+            "type": "Creature \u2013 Sheep",
             "number": 35,
             "color_identity": "W",
             "cost": "{W}",
@@ -26,17 +19,19 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Thieving Fox",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Fox",
+            "type": "Creature \u2013 Fox",
             "number": 169,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "{T}: Add {C}.\n[i]Metalcraft[/i] \u2014 {T}: Add one mana of any color. Activate only if you control three or more artifacts.",
+            "rules_text": "{T}: Add {C}.\n[i]Metalcraft[/i] \u2013 {T}: Add one mana of any color. Activate only if you control three or more artifacts.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -47,17 +42,19 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wandering Panda",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Bear",
+            "type": "Creature \u2013 Bear",
             "number": 172,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land enters under your control, Wandering Panda gets +2/+1 and gains trample until end of turn.",
+            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land enters under your control, Wandering Panda gets +2/+1 and gains trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -68,13 +65,15 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Scavenger Cat",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Cat",
+            "type": "Creature \u2013 Cat",
             "number": 28,
             "color_identity": "WB",
             "cost": "{1}{W}",
@@ -89,13 +88,15 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Stalwart Pig",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Boar",
+            "type": "Creature \u2013 Boar",
             "number": 34,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -110,13 +111,15 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "School of Fish",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Fish",
+            "type": "Creature \u2013 Fish",
             "number": 65,
             "color_identity": "U",
             "cost": "{U}",
@@ -131,13 +134,15 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Polar Bear Cub",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Bear",
+            "type": "Creature \u2013 Bear",
             "number": 59,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -152,13 +157,15 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cyclical Chicken",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 14,
             "color_identity": "W",
             "cost": "{W}",
@@ -173,13 +180,15 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Agitated Rabbit",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Rabbit",
+            "type": "Creature \u2013 Rabbit",
             "number": 4,
             "color_identity": "W",
             "cost": "{W}",
@@ -194,13 +203,15 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Guiding Dolphin",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Whale",
+            "type": "Creature \u2013 Whale",
             "number": 52,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -215,13 +226,15 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Loyal Wolf",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Wolf",
+            "type": "Creature \u2013 Wolf",
             "number": 160,
             "color_identity": "G",
             "cost": "{G}{G}",
@@ -236,13 +249,15 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Familiar Parrot",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment Creature \u2014 Bird",
+            "type": "Enchantment Creature \u2013 Bird",
             "number": 151,
             "color_identity": "G",
             "cost": "{G}",
@@ -257,13 +272,15 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Whimsical Llama",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Llama",
+            "type": "Creature \u2013 Llama",
             "number": 38,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -278,13 +295,15 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Murky Squid",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Squid",
+            "type": "Creature \u2013 Squid",
             "number": 55,
             "color_identity": "U",
             "cost": "{U}",
@@ -299,13 +318,15 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Umbra Bat",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Bat",
+            "type": "Creature \u2013 Bat",
             "number": 106,
             "color_identity": "B",
             "cost": "{B}",
@@ -320,13 +341,15 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shrieking Ocelot",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Cat",
+            "type": "Creature \u2013 Cat",
             "number": 29,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
@@ -341,13 +364,15 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Vengeful Polar Bear",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Bear",
+            "type": "Creature \u2013 Bear",
             "number": 73,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -362,13 +387,15 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spurred Horse",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Horse",
+            "type": "Creature \u2013 Horse",
             "number": 33,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -383,13 +410,15 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Richly-Fed Cow",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Ox",
+            "type": "Creature \u2013 Ox",
             "number": 167,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -404,13 +433,15 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mooshroom",
             "color": "WG",
             "rarity": "common",
-            "type": "Creature \u2014 Plant",
+            "type": "Creature \u2013 Plant",
             "number": 192,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
@@ -425,13 +456,15 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Killer Rabbit",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Rabbit",
+            "type": "Creature \u2013 Rabbit",
             "number": 122,
             "color_identity": "R",
             "cost": "{R}",
@@ -446,13 +479,15 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Baby Villager",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Villager",
+            "type": "Creature \u2013 Villager",
             "number": 5,
             "color_identity": "W",
             "cost": "{W}",
@@ -467,13 +502,15 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Nitwit",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Villager",
+            "type": "Creature \u2013 Villager",
             "number": 23,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -488,17 +525,19 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cartographer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Villager",
+            "type": "Creature \u2013 Villager",
             "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "[i]Metalcraft[/i] \u2014 When Cartographer enters, if you control three or more artifacts, draw a card.\n{1}, {T}: Scry 3. Then you may reveal the top card of your library. If a card named Cartographer's Map is revealed this way, put it into your hand.",
+            "rules_text": "[i]Metalcraft[/i] \u2013 When Cartographer enters, if you control three or more artifacts, draw a card.\n{1}, {T}: Scry 3. Then you may reveal the top card of your library. If a card named Cartographer's Map is revealed this way, put it into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -509,13 +548,15 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Adept Butcher",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Villager",
+            "type": "Creature \u2013 Villager",
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -530,13 +571,15 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Passionate Farmer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Villager",
+            "type": "Creature \u2013 Villager",
             "number": 163,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -551,13 +594,15 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blacksmith",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Villager",
+            "type": "Creature \u2013 Villager",
             "number": 7,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -572,13 +617,15 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Librarian",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Villager",
+            "type": "Creature \u2013 Villager",
             "number": 22,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -593,13 +640,15 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Summoned Iron Golem",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 243,
             "color_identity": "C",
             "cost": "{7}",
@@ -614,13 +663,15 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Steve",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 2,
             "color_identity": "WUBRG",
             "cost": "{2}",
@@ -635,13 +686,15 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Alex",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 1,
             "color_identity": "WUBRG",
             "cost": "{X}{2}",
@@ -656,13 +709,15 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Compulsory Zombie",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie",
+            "type": "Creature \u2013 Zombie",
             "number": 81,
             "color_identity": "B",
             "cost": "{B}",
@@ -677,13 +732,15 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Nocked Skeleton",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton",
+            "type": "Creature \u2013 Skeleton",
             "number": 95,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -698,13 +755,15 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Creeper",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Beast Horror",
+            "type": "Creature \u2013 Beast Horror",
             "number": 83,
             "color_identity": "B",
             "cost": "{B}{B}",
@@ -719,13 +778,15 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Zombie Villager",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Villager Zombie",
+            "type": "Creature \u2013 Villager Zombie",
             "number": 109,
             "color_identity": "WB",
             "cost": "{2}{B}",
@@ -740,13 +801,15 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Congealed Slime",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Ooze",
+            "type": "Creature \u2013 Ooze",
             "number": 82,
             "color_identity": "B",
             "cost": "{3}{B}{B}{B}",
@@ -761,13 +824,15 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skittering Spider",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 102,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -782,13 +847,15 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spider Jockey",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton Spider",
+            "type": "Creature \u2013 Skeleton Spider",
             "number": 104,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
@@ -803,13 +870,15 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Enderman",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Nightmare",
+            "type": "Creature \u2013 Nightmare",
             "number": 85,
             "color_identity": "B",
             "cost": "{1}{B}{B}{B}",
@@ -824,13 +893,15 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Outcast Witch",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Villager Shaman",
+            "type": "Creature \u2013 Villager Shaman",
             "number": 96,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -845,13 +916,15 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Endermite",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Nightmare Pest",
+            "type": "Creature \u2013 Nightmare Pest",
             "number": 86,
             "color_identity": "B",
             "cost": "{B}",
@@ -866,13 +939,15 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ghast",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Nightmare",
+            "type": "Creature \u2013 Nightmare",
             "number": 116,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -887,13 +962,15 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blaze",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Elemental",
+            "type": "Creature \u2013 Elemental",
             "number": 112,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -908,13 +985,15 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wither Skeleton",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton",
+            "type": "Creature \u2013 Skeleton",
             "number": 138,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -929,7 +1008,9 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Nether Fortress",
@@ -950,13 +1031,15 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Zombie Piglin",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie Boar",
+            "type": "Creature \u2013 Zombie Boar",
             "number": 140,
             "color_identity": "R",
             "cost": "{R}{R}",
@@ -971,13 +1054,15 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Magma Cube",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elemental",
+            "type": "Creature \u2013 Elemental",
             "number": 124,
             "color_identity": "R",
             "cost": "{3}{R}{R}{R}",
@@ -992,7 +1077,9 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Soul Sand Valley",
@@ -1013,7 +1100,9 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Nether Portal",
@@ -1034,13 +1123,15 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Armored Spawn",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 76,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1055,7 +1146,9 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Rain of Blades",
@@ -1076,7 +1169,9 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Water Trap",
@@ -1086,7 +1181,7 @@
             "number": 74,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Choose one \u2014\n\u2022 Return target creature to its owner's hand.\n\u2022 Destroy target red creature.",
+            "rules_text": "Choose one \u2013\n\u2022 Return target creature to its owner's hand.\n\u2022 Destroy target red creature.",
             "flavor_text": "[i]If one is never presented the opportunity to swim, the only choice is to drown.[/i]",
             "pt": "",
             "special_text": "",
@@ -1097,7 +1192,9 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lightning Bolt",
@@ -1118,7 +1215,9 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Anger the Tribe",
@@ -1139,7 +1238,9 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Village Haven",
@@ -1160,7 +1261,9 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fall Damage",
@@ -1181,7 +1284,9 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spawn Egg",
@@ -1202,7 +1307,9 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Voidrift Stronghold",
@@ -1223,7 +1330,9 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Altar of Myths",
@@ -1244,13 +1353,15 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Herobrine, Soulless",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Avatar",
+            "type": "Legendary Creature \u2013 Avatar",
             "number": 184,
             "color_identity": "WB",
             "cost": "{5}{W}{W}{B}{B}",
@@ -1265,13 +1376,15 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Herobrine, Warmonger",
             "color": "WRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Avatar",
+            "type": "Legendary Creature \u2013 Avatar",
             "number": 185,
             "color_identity": "WRG",
             "cost": "{6}{R}{G}{W}",
@@ -1286,13 +1399,15 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Master of the End",
             "color": "UBR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Dragon",
+            "type": "Legendary Creature \u2013 Dragon",
             "number": 191,
             "color_identity": "UBR",
             "cost": "{9}{U}{U}{U}{B}{R}",
@@ -1307,13 +1422,15 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ender Dragon, Immortal",
             "color": "URG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Dragon",
+            "type": "Legendary Creature \u2013 Dragon",
             "number": 182,
             "color_identity": "URG",
             "cost": "{6}{G}{U}{R}",
@@ -1328,13 +1445,15 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wither, the Corrupter",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Horror",
+            "type": "Legendary Creature \u2013 Horror",
             "number": 107,
             "color_identity": "B",
             "cost": "{4}{B}{B}{B}{B}",
@@ -1349,7 +1468,9 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Weakness",
@@ -1370,7 +1491,9 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Harming",
@@ -1391,7 +1514,9 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Invisibiliy",
@@ -1412,7 +1537,9 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Healing",
@@ -1422,7 +1549,7 @@
             "number": 24,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Target player gains 3 life.\n\u2022 Prevent the next 3 damage that would be dealt to target creature.",
+            "rules_text": "Choose one \u2013\n\u2022 Target player gains 3 life.\n\u2022 Prevent the next 3 damage that would be dealt to target creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1433,7 +1560,9 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Swiftness",
@@ -1443,7 +1572,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Target creature gains haste until end of turn.\n\u2022 Untap target creature.",
+            "rules_text": "Choose one \u2013\n\u2022 Target creature gains haste until end of turn.\n\u2022 Untap target creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1454,7 +1583,9 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Regeneration",
@@ -1475,7 +1606,9 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Leaping",
@@ -1496,7 +1629,9 @@
             "alias": "Jump",
             "position": "70",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Strength",
@@ -1517,7 +1652,9 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Slowness",
@@ -1538,7 +1675,9 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Poison",
@@ -1559,7 +1698,9 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Brewing Stand",
@@ -1569,7 +1710,7 @@
             "number": 218,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Whenever you cast an instant spell, put a +1/+1 counter on target creature.\nSacrifice Brewing Stand: Choose one \u2014\n\u2022 Instant cards with mana value 1 or less in your graveyard gain flashback {2} until end of turn.\n\u2022 Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
+            "rules_text": "Whenever you cast an instant spell, put a +1/+1 counter on target creature.\nSacrifice Brewing Stand: Choose one \u2013\n\u2022 Instant cards with mana value 1 or less in your graveyard gain flashback {2} until end of turn.\n\u2022 Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1580,7 +1721,9 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dragon's Breath",
@@ -1601,13 +1744,15 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "\u00c6therfeed Silverfish",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Insect Pest",
+            "type": "Creature \u2013 Insect Pest",
             "number": 75,
             "color_identity": "B",
             "cost": "{B}",
@@ -1622,13 +1767,15 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shulker",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Nautilus",
+            "type": "Creature \u2013 Nautilus",
             "number": 67,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1643,13 +1790,15 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fitted Gear",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 229,
             "color_identity": "C",
             "cost": "{3}",
@@ -1664,13 +1813,15 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elytra",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 227,
             "color_identity": "R",
             "cost": "{2}",
@@ -1685,7 +1836,9 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bucket of Water",
@@ -1706,7 +1859,9 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bucket of Lava",
@@ -1727,13 +1882,15 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hardy Shield",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 232,
             "color_identity": "C",
             "cost": "{2}",
@@ -1748,7 +1905,9 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mass Explosion",
@@ -1769,7 +1928,9 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mushroom Stew",
@@ -1790,7 +1951,9 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Critical Hit",
@@ -1811,13 +1974,15 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Creaking",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elemental",
+            "type": "Creature \u2013 Elemental",
             "number": 145,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1832,7 +1997,9 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Command Block",
@@ -1853,13 +2020,15 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Snow Golem",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Golem",
+            "type": "Creature \u2013 Golem",
             "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1874,13 +2043,15 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Baby Zombie",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie",
+            "type": "Creature \u2013 Zombie",
             "number": 77,
             "color_identity": "B",
             "cost": "{B}{B}",
@@ -1895,7 +2066,9 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cactus Patch",
@@ -1916,7 +2089,9 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ocean Monument",
@@ -1937,13 +2112,15 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Guardian",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Leviathan",
+            "type": "Creature \u2013 Leviathan",
             "number": 51,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -1958,13 +2135,15 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Elder Guardian",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Leviathan",
+            "type": "Creature \u2013 Leviathan",
             "number": 48,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
@@ -1979,7 +2158,9 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Daybreak",
@@ -2000,13 +2181,15 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Flint and Steel",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 230,
             "color_identity": "R",
             "cost": "{1}",
@@ -2021,7 +2204,9 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Food for the Cause",
@@ -2042,13 +2227,15 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sharpness",
             "color": "R",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 133,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2063,13 +2250,15 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Protection",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 26,
             "color_identity": "W",
             "cost": "{W}",
@@ -2084,13 +2273,15 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Projectile Protection",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 63,
             "color_identity": "U",
             "cost": "{U}",
@@ -2105,13 +2296,15 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unbreaking",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 36,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2126,7 +2319,9 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Enchantment Table",
@@ -2147,13 +2342,15 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Giant's Corpse",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie Giant",
+            "type": "Creature \u2013 Zombie Giant",
             "number": 89,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -2168,7 +2365,9 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sleep Off the Night",
@@ -2189,7 +2388,9 @@
             "alias": "",
             "position": "103",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spawnpoint",
@@ -2210,7 +2411,9 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Chicken Bomb",
@@ -2231,7 +2434,9 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Nightfall",
@@ -2252,7 +2457,9 @@
             "alias": "",
             "position": "106",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Breeding",
@@ -2273,7 +2480,9 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mob Spawner",
@@ -2294,7 +2503,9 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Desert Temple",
@@ -2315,7 +2526,9 @@
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Jungle Temple",
@@ -2325,7 +2538,7 @@
             "number": 157,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land enters under your control, place a +1/+1 counter on target creature.\n{3}, {T}: Reveal the top three cards of your library. Exile one of them, then put the rest into your graveyard.\nYou may play lands and cast spells exiled with Jungle Temple.",
+            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land enters under your control, place a +1/+1 counter on target creature.\n{3}, {T}: Reveal the top three cards of your library. Exile one of them, then put the rest into your graveyard.\nYou may play lands and cast spells exiled with Jungle Temple.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2336,7 +2549,9 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fleeting Durability",
@@ -2357,7 +2572,9 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Explore",
@@ -2378,7 +2595,9 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Soul Torch",
@@ -2399,7 +2618,9 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ender Pearl",
@@ -2420,7 +2641,9 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pitfall",
@@ -2441,17 +2664,19 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Jungle Vines",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 158,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Enchant creature\nEnchanted creature has reach.\n[i]Landfall[/i] \u2014 Whenever a land enters under your control, you may exile Jungle Vines, then return it to the battlefield under its owner's control.",
+            "rules_text": "Enchant creature\nEnchanted creature has reach.\n[i]Landfall[/i] \u2013 Whenever a land enters under your control, you may exile Jungle Vines, then return it to the battlefield under its owner's control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2462,7 +2687,9 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "The First Night",
@@ -2483,13 +2710,15 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skybridge",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 31,
             "color_identity": "W",
             "cost": "{W}",
@@ -2504,7 +2733,9 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Beacon",
@@ -2525,13 +2756,15 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Zombie Siege",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie",
+            "type": "Creature \u2013 Zombie",
             "number": 108,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -2546,13 +2779,15 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Iron Door",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 234,
             "color_identity": "C",
             "cost": "{0}",
@@ -2567,7 +2802,9 @@
             "alias": "Accorder's Shield",
             "position": "121",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cartographer's Map",
@@ -2588,13 +2825,15 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Abandoned Stray",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton",
+            "type": "Creature \u2013 Skeleton",
             "number": 39,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -2609,13 +2848,15 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Husk",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Zombie",
+            "type": "Creature \u2013 Zombie",
             "number": 91,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -2630,7 +2871,9 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Recipe Book",
@@ -2651,7 +2894,9 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skillful Shot",
@@ -2672,13 +2917,15 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cave Spider",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Creature \u2013 Spider",
             "number": 80,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2693,13 +2940,15 @@
             "alias": "",
             "position": "127",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Golden Apple",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 20,
             "color_identity": "W",
             "cost": "{W}{W}",
@@ -2714,7 +2963,9 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crafting Table",
@@ -2735,7 +2986,9 @@
             "alias": "",
             "position": "129",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Treasure Map",
@@ -2756,13 +3009,15 @@
             "alias": "",
             "position": "130",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Drowned",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie",
+            "type": "Creature \u2013 Zombie",
             "number": 47,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2777,13 +3032,15 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Trident",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 245,
             "color_identity": "C",
             "cost": "{3}",
@@ -2798,7 +3055,9 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Conduit",
@@ -2819,13 +3078,15 @@
             "alias": "",
             "position": "133",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Swooping Phantom",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment Creature \u2014 Nightmare",
+            "type": "Enchantment Creature \u2013 Nightmare",
             "number": 105,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -2840,7 +3101,9 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Igloo",
@@ -2861,7 +3124,9 @@
             "alias": "",
             "position": "135",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Coral Reef",
@@ -2882,7 +3147,9 @@
             "alias": "",
             "position": "136",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Woodland Mansion",
@@ -2903,7 +3170,9 @@
             "alias": "",
             "position": "137",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pillager Outpost",
@@ -2924,13 +3193,15 @@
             "alias": "",
             "position": "138",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Vindicator",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Barbarian",
+            "type": "Creature \u2013 Barbarian",
             "number": 171,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -2945,13 +3216,15 @@
             "alias": "",
             "position": "139",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Evoker",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Druid",
+            "type": "Creature \u2013 Druid",
             "number": 148,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -2966,13 +3239,15 @@
             "alias": "",
             "position": "140",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hateful Vex",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Nightmare",
+            "type": "Creature \u2013 Nightmare",
             "number": 90,
             "color_identity": "BG",
             "cost": "{1}{B}",
@@ -2987,13 +3262,15 @@
             "alias": "",
             "position": "141",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ravager",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Beast",
+            "type": "Creature \u2013 Beast",
             "number": 166,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -3008,13 +3285,15 @@
             "alias": "",
             "position": "142",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Illager Patrol",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Ranger",
+            "type": "Creature \u2013 Ranger",
             "number": 186,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
@@ -3029,13 +3308,15 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ravager Jockey",
             "color": "BG",
             "rarity": "rare",
-            "type": "Creature \u2014 Barbarian Beast",
+            "type": "Creature \u2013 Barbarian Beast",
             "number": 196,
             "color_identity": "BG",
             "cost": "{4}{B}{B}{G}{G}",
@@ -3050,13 +3331,15 @@
             "alias": "",
             "position": "144",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Spiteful Pillager",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Ranger",
+            "type": "Creature \u2013 Ranger",
             "number": 168,
             "color_identity": "BG",
             "cost": "{2}{G}",
@@ -3071,13 +3354,15 @@
             "alias": "",
             "position": "145",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pillager Captain",
             "color": "BG",
             "rarity": "rare",
-            "type": "Creature \u2014 Ranger",
+            "type": "Creature \u2013 Ranger",
             "number": 194,
             "color_identity": "BG",
             "cost": "{2}{B}{B}{G}",
@@ -3092,13 +3377,15 @@
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Illusioner",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Wizard",
+            "type": "Creature \u2013 Wizard",
             "number": 54,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -3113,7 +3400,9 @@
             "alias": "",
             "position": "147",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ominous Banner",
@@ -3134,13 +3423,15 @@
             "alias": "",
             "position": "148",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wandering Trader",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Villager",
+            "type": "Creature \u2013 Villager",
             "number": 173,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -3155,7 +3446,9 @@
             "alias": "",
             "position": "149",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Savage Raid",
@@ -3176,7 +3469,9 @@
             "alias": "",
             "position": "150",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fire Charge",
@@ -3197,13 +3492,15 @@
             "alias": "",
             "position": "151",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Giant Bee",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Insect",
+            "type": "Creature \u2013 Insect",
             "number": 153,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -3218,7 +3515,9 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Kick the Hive",
@@ -3239,7 +3538,9 @@
             "alias": "",
             "position": "153",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bee Nest",
@@ -3260,7 +3561,9 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Honey Hive",
@@ -3281,13 +3584,15 @@
             "alias": "",
             "position": "155",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Piglin",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Boar",
+            "type": "Creature \u2013 Boar",
             "number": 127,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3302,13 +3607,15 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Hoglin",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Boar",
+            "type": "Creature \u2013 Boar",
             "number": 119,
             "color_identity": "R",
             "cost": "{R}{R}",
@@ -3323,13 +3630,15 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Piglin Brute",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Boar",
+            "type": "Creature \u2013 Boar",
             "number": 128,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -3344,13 +3653,15 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Zoglin",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie Boar",
+            "type": "Creature \u2013 Zombie Boar",
             "number": 139,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -3365,13 +3676,15 @@
             "alias": "",
             "position": "159",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Slag Strider",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Beast",
+            "type": "Creature \u2013 Beast",
             "number": 135,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3386,13 +3699,15 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Island",
+            "type": "Basic Land \u2013 Island",
             "number": 268,
             "color_identity": "U",
             "cost": "",
@@ -3407,13 +3722,15 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Swamp",
+            "type": "Basic Land \u2013 Swamp",
             "number": 270,
             "color_identity": "B",
             "cost": "",
@@ -3428,13 +3745,15 @@
             "alias": "",
             "position": "162",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Mountain",
+            "type": "Basic Land \u2013 Mountain",
             "number": 271,
             "color_identity": "R",
             "cost": "",
@@ -3449,13 +3768,15 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
+            "type": "Basic Land \u2013 Forest",
             "number": 272,
             "color_identity": "G",
             "cost": "",
@@ -3470,13 +3791,15 @@
             "alias": "",
             "position": "164",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
+            "type": "Basic Land \u2013 Plains",
             "number": 267,
             "color_identity": "W",
             "cost": "",
@@ -3491,7 +3814,9 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wastes",
@@ -3512,13 +3837,15 @@
             "alias": "",
             "position": "166",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Thorns",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 170,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3533,7 +3860,9 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Farlands",
@@ -3554,7 +3883,9 @@
             "alias": "Transguild Promenade",
             "position": "168",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Abandoned Village",
@@ -3575,7 +3906,9 @@
             "alias": "",
             "position": "169",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forbidden Ritual",
@@ -3596,7 +3929,9 @@
             "alias": "",
             "position": "170",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lush Cave",
@@ -3617,7 +3952,9 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Witch Hut",
@@ -3638,13 +3975,15 @@
             "alias": "",
             "position": "172",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wither Skull",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 247,
             "color_identity": "C",
             "cost": "{1}",
@@ -3659,7 +3998,9 @@
             "alias": "",
             "position": "173",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Desolate Library",
@@ -3680,13 +4021,15 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Glow Squid",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Enchantment Creature \u2014 Squid",
+            "type": "Enchantment Creature \u2013 Squid",
             "number": 154,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3701,13 +4044,15 @@
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Braying Goat",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Goat",
+            "type": "Creature \u2013 Goat",
             "number": 144,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3722,7 +4067,9 @@
             "alias": "",
             "position": "176",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lodestone",
@@ -3743,13 +4090,15 @@
             "alias": "",
             "position": "177",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forged in Netherite",
             "color": "W",
             "rarity": "rare",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 18,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -3764,7 +4113,9 @@
             "alias": "Indestuctibility",
             "position": "178",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ruined Portal",
@@ -3785,7 +4136,9 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Eye of Ender",
@@ -3806,13 +4159,15 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Beach-Dwelling Turtle",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Turtle",
+            "type": "Creature \u2013 Turtle",
             "number": 40,
             "color_identity": "U",
             "cost": "{U}",
@@ -3827,7 +4182,9 @@
             "alias": "",
             "position": "181",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Blackened Bastion",
@@ -3848,7 +4205,9 @@
             "alias": "",
             "position": "182",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Escape to Flames",
@@ -3869,13 +4228,15 @@
             "alias": "",
             "position": "183",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Fallen Horn",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 228,
             "color_identity": "C",
             "cost": "{3}",
@@ -3890,13 +4251,15 @@
             "alias": "",
             "position": "184",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Allay",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 142,
             "color_identity": "G",
             "cost": "{G}",
@@ -3911,13 +4274,15 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Peckish Axolotl",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Fish",
+            "type": "Creature \u2013 Fish",
             "number": 58,
             "color_identity": "U",
             "cost": "{U}{U}",
@@ -3932,7 +4297,9 @@
             "alias": "",
             "position": "186",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bad Omen",
@@ -3953,13 +4320,15 @@
             "alias": "",
             "position": "187",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pufferfish",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Fish",
+            "type": "Creature \u2013 Fish",
             "number": 64,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -3974,7 +4343,9 @@
             "alias": "",
             "position": "188",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sound the Horn",
@@ -3995,13 +4366,15 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Amethyst Spyglass",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 215,
             "color_identity": "C",
             "cost": "{2}",
@@ -4016,13 +4389,15 @@
             "alias": "",
             "position": "190",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Nimble Camel",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Camel",
+            "type": "Creature \u2013 Camel",
             "number": 126,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -4037,13 +4412,15 @@
             "alias": "",
             "position": "191",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Glow Frog",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Frog",
+            "type": "Creature \u2013 Frog",
             "number": 117,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -4058,7 +4435,9 @@
             "alias": "",
             "position": "192",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Brave the End",
@@ -4079,13 +4458,15 @@
             "alias": "",
             "position": "193",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Adventuring Time",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 141,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -4100,13 +4481,15 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Name Tag",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 56,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -4121,7 +4504,9 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dinnerbone",
@@ -4142,7 +4527,9 @@
             "alias": "",
             "position": "196",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Here's Johnny!",
@@ -4163,13 +4550,15 @@
             "alias": "",
             "position": "197",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Jeb the Sheep",
             "color": "WUBRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Sheep God",
+            "type": "Legendary Creature \u2013 Sheep God",
             "number": 187,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
@@ -4184,13 +4573,15 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gray Cleric",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Villager Cleric",
+            "type": "Creature \u2013 Villager Cleric",
             "number": 183,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -4205,13 +4596,15 @@
             "alias": "",
             "position": "199",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Weathered Fisherman",
             "color": "WU",
             "rarity": "common",
-            "type": "Creature \u2014 Villager",
+            "type": "Creature \u2013 Villager",
             "number": 203,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
@@ -4226,7 +4619,9 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Respawn Anchor",
@@ -4247,7 +4642,9 @@
             "alias": "",
             "position": "201",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cultivate",
@@ -4268,7 +4665,9 @@
             "alias": "",
             "position": "202",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dispenser",
@@ -4289,13 +4688,15 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bond of the Creaking Heart",
             "color": "RG",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 177,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
@@ -4310,7 +4711,9 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Riches from Dust",
@@ -4320,7 +4723,7 @@
             "number": 132,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "[i]Metalcraft[/i] \u2014 Surveil 1, then you may draw a card. If you do, discard a card unless you control three or more artifacts. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "[i]Metalcraft[/i] \u2013 Surveil 1, then you may draw a card. If you do, discard a card unless you control three or more artifacts. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4331,13 +4734,15 @@
             "alias": "",
             "position": "205",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Totem of Undying",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 199,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -4352,7 +4757,9 @@
             "alias": "",
             "position": "206",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Welcome Travellers",
@@ -4362,7 +4769,7 @@
             "number": 37,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Create three 1/1 white Human creature tokens.\n\u2022 Create two 1/1 white Villager creature tokens. They have \u201c{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.\u201d",
+            "rules_text": "Choose one \u2013\n\u2022 Create three 1/1 white Human creature tokens.\n\u2022 Create two 1/1 white Villager creature tokens. They have \u201c{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4373,7 +4780,9 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Trail Ruins",
@@ -4383,7 +4792,7 @@
             "number": 212,
             "color_identity": "UBR",
             "cost": "{3}{BR}{U}",
-            "rules_text": "[i]Delirium[/i] \u2014 Whenever you surveil, if there are four or more card types among cards in your graveyard, you may pay {1}. If you do, draw a card.\n{T}: Surveil 2. If at least two cards are put into your graveyard this way, untap target creature.",
+            "rules_text": "[i]Delirium[/i] \u2013 Whenever you surveil, if there are four or more card types among cards in your graveyard, you may pay {1}. If you do, draw a card.\n{T}: Surveil 2. If at least two cards are put into your graveyard this way, untap target creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4394,7 +4803,9 @@
             "alias": "",
             "position": "208",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Awkward Potion",
@@ -4415,7 +4826,9 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shulker's Box",
@@ -4436,7 +4849,9 @@
             "alias": "",
             "position": "210",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Farseek",
@@ -4457,7 +4872,9 @@
             "alias": "",
             "position": "211",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Glowstone Infusion",
@@ -4478,7 +4895,9 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cleansing Grindstone",
@@ -4499,7 +4918,9 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dimensional Excursion",
@@ -4520,7 +4941,9 @@
             "alias": "",
             "position": "214",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Infinity Snapshot",
@@ -4541,7 +4964,9 @@
             "alias": "",
             "position": "215",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Potion of Night Vision",
@@ -4562,7 +4987,9 @@
             "alias": "",
             "position": "216",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "End City",
@@ -4583,7 +5010,9 @@
             "alias": "",
             "position": "217",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Recovery Compass",
@@ -4604,7 +5033,9 @@
             "alias": "",
             "position": "218",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ominous Vault",
@@ -4625,13 +5056,15 @@
             "alias": "",
             "position": "219",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Tipped Arrow",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 244,
             "color_identity": "C",
             "cost": "{1}",
@@ -4646,13 +5079,15 @@
             "alias": "",
             "position": "220",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Helm of the Turtle",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 233,
             "color_identity": "C",
             "cost": "{2}",
@@ -4667,13 +5102,15 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dominator's Mace",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 226,
             "color_identity": "C",
             "cost": "{2}",
@@ -4688,13 +5125,15 @@
             "alias": "",
             "position": "222",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Loam Sniffer",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Ox",
+            "type": "Creature \u2013 Ox",
             "number": 189,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -4709,13 +5148,15 @@
             "alias": "",
             "position": "223",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ghastling",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment Creature \u2014 Spirit",
+            "type": "Enchantment Creature \u2013 Spirit",
             "number": 19,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -4730,13 +5171,15 @@
             "alias": "",
             "position": "224",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Warden Enraged",
             "color": "WRG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Fungus Horror",
+            "type": "Legendary Creature \u2013 Fungus Horror",
             "number": 202,
             "color_identity": "WRG",
             "cost": "{3}{R}{G}{W}",
@@ -4751,7 +5194,9 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wilted Soul",
@@ -4772,13 +5217,15 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Skeleton Horseman",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton",
+            "type": "Creature \u2013 Skeleton",
             "number": 134,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -4793,7 +5240,9 @@
             "alias": "",
             "position": "227",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Oozing Demise",
@@ -4814,13 +5263,15 @@
             "alias": "",
             "position": "228",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Jellie of the Homestead",
             "color": "WG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Cat",
+            "type": "Legendary Creature \u2013 Cat",
             "number": 188,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -4835,7 +5286,9 @@
             "alias": "",
             "position": "229",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Abandoned Mineshaft",
@@ -4856,7 +5309,9 @@
             "alias": "",
             "position": "230",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Valley of Bones",
@@ -4877,7 +5332,9 @@
             "alias": "",
             "position": "231",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Warped Forest",
@@ -4898,13 +5355,15 @@
             "alias": "",
             "position": "232",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pale Oak Grotto",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2014 \u00c6therfont",
+            "type": "Land \u2013 \u00c6therfont",
             "number": 259,
             "color_identity": "B",
             "cost": "",
@@ -4919,7 +5378,9 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Irresistible Peddler",
@@ -4940,7 +5401,9 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Chamber's Omen",
@@ -4961,7 +5424,9 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Suspicious Stew",
@@ -4982,7 +5447,9 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Sculk Sensor",
@@ -5003,13 +5470,15 @@
             "alias": "",
             "position": "237",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Bogged",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Skeleton",
+            "type": "Creature \u2013 Skeleton",
             "number": 78,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -5024,7 +5493,9 @@
             "alias": "",
             "position": "238",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Murder",
@@ -5045,13 +5516,15 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Binding and Vanishing",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 6,
             "color_identity": "W",
             "cost": "{W}",
@@ -5066,13 +5539,15 @@
             "alias": "",
             "position": "240",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Island",
+            "type": "Basic Land \u2013 Island",
             "number": 269,
             "color_identity": "U",
             "cost": "",
@@ -5087,7 +5562,9 @@
             "alias": "",
             "position": "241",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Shulker Spire",
@@ -5097,7 +5574,7 @@
             "number": 68,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Creatures you control have flying.\nExile three cards from your graveyard: Choose one \u2014\n\u2022 Draw a card.\n\u2022 Target opponent mills five cards.\n\u2022 Target creature with flying gets +2/+1 until end of turn.",
+            "rules_text": "Creatures you control have flying.\nExile three cards from your graveyard: Choose one \u2013\n\u2022 Draw a card.\n\u2022 Target opponent mills five cards.\n\u2022 Target creature with flying gets +2/+1 until end of turn.",
             "flavor_text": "[i]The stairs are optional. The uncanny chill is not.[/i]",
             "pt": "",
             "special_text": "",
@@ -5108,13 +5585,15 @@
             "alias": "",
             "position": "242",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Aria Math",
             "color": "WU",
             "rarity": "rare",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 175,
             "color_identity": "WU",
             "cost": "{W}{U}",
@@ -5129,7 +5608,9 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Disc: Creator",
@@ -5150,13 +5631,15 @@
             "alias": "",
             "position": "244",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Disc: 13",
             "color": "UB",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 179,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -5171,13 +5654,15 @@
             "alias": "",
             "position": "245",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Disc: 11",
             "color": "BR",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 178,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -5192,17 +5677,19 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Pigstep",
             "color": "RG",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 193,
             "color_identity": "RG",
             "cost": "{R}{G}",
-            "rules_text": "Enchant creature\nEnchanted creature has trample.\n[i]Landfall[/i] \u2014 Whenever a land enters under your control, enchanted creature gets +2/+2 until end of turn.",
+            "rules_text": "Enchant creature\nEnchanted creature has trample.\n[i]Landfall[/i] \u2013 Whenever a land enters under your control, enchanted creature gets +2/+2 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5213,13 +5700,15 @@
             "alias": "",
             "position": "247",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Steel Caravan",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2014 Vehicle",
+            "type": "Artifact \u2013 Vehicle",
             "number": 242,
             "color_identity": "C",
             "cost": "{8}",
@@ -5234,7 +5723,9 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Contagion Cocktail",
@@ -5255,7 +5746,9 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -5276,7 +5769,9 @@
             "alias": "",
             "position": "250",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -5297,7 +5792,9 @@
             "alias": "",
             "position": "251",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -5318,7 +5815,9 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -5339,7 +5838,9 @@
             "alias": "",
             "position": "253",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -5360,7 +5861,9 @@
             "alias": "",
             "position": "254",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Wastes",
@@ -5381,13 +5884,15 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Dreamstealer Phantom",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Nightmare",
+            "type": "Creature \u2013 Nightmare",
             "number": 46,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -5402,13 +5907,15 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Happy Ghast",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 21,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -5423,7 +5930,9 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Decrepit Cage",
@@ -5444,7 +5953,9 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Gardner's Enchanted Shears",
@@ -5465,13 +5976,15 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Copper Golem",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 221,
             "color_identity": "C",
             "cost": "{2}",
@@ -5486,7 +5999,9 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Copper Chest",
@@ -5507,7 +6022,9 @@
             "alias": "",
             "position": "261",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Buried Treasure",
@@ -5528,7 +6045,9 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Desert Well",
@@ -5549,13 +6068,15 @@
             "alias": "",
             "position": "263",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Cavernous Geode",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2014 \u00c6therfont",
+            "type": "Land \u2013 \u00c6therfont",
             "number": 249,
             "color_identity": "C",
             "cost": "",
@@ -5570,13 +6091,15 @@
             "alias": "",
             "position": "264",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Crimson Forest",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2014 \u00c6therfont",
+            "type": "Land \u2013 \u00c6therfont",
             "number": 250,
             "color_identity": "R",
             "cost": "",
@@ -5591,13 +6114,15 @@
             "alias": "",
             "position": "265",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Unreachable Sanctuary",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2014 \u00c6therfont",
+            "type": "Land \u2013 \u00c6therfont",
             "number": 262,
             "color_identity": "U",
             "cost": "",
@@ -5612,13 +6137,15 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Ethereal Blossoms",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2014 \u00c6therfont",
+            "type": "Land \u2013 \u00c6therfont",
             "number": 252,
             "color_identity": "W",
             "cost": "",
@@ -5633,13 +6160,15 @@
             "alias": "",
             "position": "267",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Floral Chantry",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2014 \u00c6therfont",
+            "type": "Land \u2013 \u00c6therfont",
             "number": 254,
             "color_identity": "G",
             "cost": "",
@@ -5654,17 +6183,19 @@
             "alias": "",
             "position": "268",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Lunging Spear",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 236,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "{T}: Choose one \u2014\n\u2022 Equipped creature gets +2/+0 until end of turn.\n\u2022 Equipped creature gains first strike until end of turn.\n\u2022 Equipped creature gains menace until end of turn.\nWhenever a creature with haste enters under your control, you may attach Lunging Spear to it.\nEquip {2}",
+            "rules_text": "{T}: Choose one \u2013\n\u2022 Equipped creature gets +2/+0 until end of turn.\n\u2022 Equipped creature gains first strike until end of turn.\n\u2022 Equipped creature gains menace until end of turn.\nWhenever a creature with haste enters under your control, you may attach Lunging Spear to it.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5675,13 +6206,15 @@
             "alias": "",
             "position": "269",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Parched Bones",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Skeleton",
+            "type": "Creature \u2013 Skeleton",
             "number": 97,
             "color_identity": "B",
             "cost": "{B}{B}",
@@ -5696,13 +6229,15 @@
             "alias": "",
             "position": "270",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         },
         {
             "card_name": "Camel's Husk",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment Creature \u2014 Camel Zombie",
+            "type": "Enchantment Creature \u2013 Camel Zombie",
             "number": 79,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -5717,8 +6252,9 @@
             "alias": "",
             "position": "271",
             "rotated": false,
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg",
+            "v_mana": ""
         }
-    ],
-    "version": 1
+    ]
 }

@@ -1,0 +1,3674 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Timorous Sheep",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Sheep",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Thieving Fox",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Fox",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Wandering Panda",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Scavenger Cat",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Stalwart Pig",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Boar",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "School of Fish",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Fish",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Polar Bear Cub",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bear",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Cyclical Chicken",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Agitated Rabbit",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Rabbit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Guiding Dolphin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Loyal Wolf",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Familiar Parrot",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Whimsical Llama",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Llama",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Murky Squid",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Squid",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Umbra Bat",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Bat",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Shrieking Ocelot",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Vengeful Polar Bear",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Bear",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Spurred Horse",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Horse",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Richly-Fed Cow",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ox",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Mooshroom",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Plant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Killer Rabbit",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Rabbit",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Baby Villager",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Villager",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Nitwit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Villager",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Cartographer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Villager",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Adept Butcher",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Villager",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Passionate Farmer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Villager",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Blacksmith",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Villager",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Librarian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Villager",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Summoned Iron Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Steve",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Creature — Human",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Alex",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{2}",
+			"type": "Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Compulsory Zombie",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Nocked Skeleton",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Creeper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Zombie Villager",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Villager Zombie",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Congealed Slime",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Ooze",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Skittering Spider",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spider",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Spider Jockey",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Skeleton Spider",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Enderman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Outcast Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Villager Shaman",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Endermite",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare Pest",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Ghast",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Nightmare",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Blaze",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Wither Skeleton",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Skeleton",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Nether Fortress",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Artifact",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Zombie Piglin",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Zombie Boar",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Magma Cube",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Soul Sand Valley",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Nether Portal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Armored Spawn",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Rain of Blades",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Water Trap",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Lightning Bolt",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Anger the Tribe",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Village Haven",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Artifact",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Fall Damage",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Spawn Egg",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Voidrift Stronghold",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Altar of Myths",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Herobrine, Soulless",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}{B}{B}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Herobrine, Warmonger",
+			"rarity": "mythic",
+			"mana_cost": "{6}{R}{G}{W}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Master of the End",
+			"rarity": "mythic",
+			"mana_cost": "{9}{U}{U}{U}{B}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Ender Dragon, Immortal",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}{U}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Wither, the Corrupter",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Potion of Weakness",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Potion of Harming",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Potion of Invisibiliy",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Potion of Healing",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Potion of Swiftness",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Potion of Regeneration",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Potion of Leaping",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Potion of Strength",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Potion of Slowness",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Potion of Poison",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Brewing Stand",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Dragon's Breath",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Ætherfeed Silverfish",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect Pest",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Shulker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Nautilus",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Fitted Gear",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Elytra",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/79.jpg"
+			}
+		},
+		{
+			"name": "Bucket of Water",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/80.jpg"
+			}
+		},
+		{
+			"name": "Bucket of Lava",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/81.jpg"
+			}
+		},
+		{
+			"name": "Hardy Shield",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/82.jpg"
+			}
+		},
+		{
+			"name": "Mass Explosion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/83.jpg"
+			}
+		},
+		{
+			"name": "Mushroom Stew",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/84.jpg"
+			}
+		},
+		{
+			"name": "Critical Hit",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/85.jpg"
+			}
+		},
+		{
+			"name": "Creaking",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/86.jpg"
+			}
+		},
+		{
+			"name": "Command Block",
+			"rarity": "common",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/87.jpg"
+			}
+		},
+		{
+			"name": "Snow Golem",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Golem",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/88.jpg"
+			}
+		},
+		{
+			"name": "Baby Zombie",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/89.jpg"
+			}
+		},
+		{
+			"name": "Cactus Patch",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/90.jpg"
+			}
+		},
+		{
+			"name": "Ocean Monument",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/91.jpg"
+			}
+		},
+		{
+			"name": "Guardian",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/92.jpg"
+			}
+		},
+		{
+			"name": "Elder Guardian",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/93.jpg"
+			}
+		},
+		{
+			"name": "Daybreak",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/94.jpg"
+			}
+		},
+		{
+			"name": "Flint and Steel",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/95.jpg"
+			}
+		},
+		{
+			"name": "Food for the Cause",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/96.jpg"
+			}
+		},
+		{
+			"name": "Sharpness",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/97.jpg"
+			}
+		},
+		{
+			"name": "Protection",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "Projectile Protection",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/99.jpg"
+			}
+		},
+		{
+			"name": "Unbreaking",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/100.jpg"
+			}
+		},
+		{
+			"name": "Enchantment Table",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/101.jpg"
+			}
+		},
+		{
+			"name": "Giant's Corpse",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Giant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/102.jpg"
+			}
+		},
+		{
+			"name": "Sleep Off the Night",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}{G/W}",
+			"type": "Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/103.jpg"
+			}
+		},
+		{
+			"name": "Spawnpoint",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/104.jpg"
+			}
+		},
+		{
+			"name": "Chicken Bomb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/105.jpg"
+			}
+		},
+		{
+			"name": "Nightfall",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/106.jpg"
+			}
+		},
+		{
+			"name": "Breeding",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/107.jpg"
+			}
+		},
+		{
+			"name": "Mob Spawner",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/108.jpg"
+			}
+		},
+		{
+			"name": "Desert Temple",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/109.jpg"
+			}
+		},
+		{
+			"name": "Jungle Temple",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/110.jpg"
+			}
+		},
+		{
+			"name": "Fleeting Durability",
+			"rarity": "common",
+			"mana_cost": "{1}{R/W}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/111.jpg"
+			}
+		},
+		{
+			"name": "Explore",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/112.jpg"
+			}
+		},
+		{
+			"name": "Soul Torch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/113.jpg"
+			}
+		},
+		{
+			"name": "Ender Pearl",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/114.jpg"
+			}
+		},
+		{
+			"name": "Pitfall",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/115.jpg"
+			}
+		},
+		{
+			"name": "Jungle Vines",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/116.jpg"
+			}
+		},
+		{
+			"name": "The First Night",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/117.jpg"
+			}
+		},
+		{
+			"name": "Skybridge",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/118.jpg"
+			}
+		},
+		{
+			"name": "Beacon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/119.jpg"
+			}
+		},
+		{
+			"name": "Zombie Siege",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/120.jpg"
+			}
+		},
+		{
+			"name": "Iron Door",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/121.jpg"
+			}
+		},
+		{
+			"name": "Cartographer's Map",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/122.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Stray",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Skeleton",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/123.jpg"
+			}
+		},
+		{
+			"name": "Husk",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/124.jpg"
+			}
+		},
+		{
+			"name": "Recipe Book",
+			"rarity": "common",
+			"mana_cost": "{4}{B/P}{B/P}",
+			"type": "Sorcery",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/125.jpg"
+			}
+		},
+		{
+			"name": "Skillful Shot",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/126.jpg"
+			}
+		},
+		{
+			"name": "Cave Spider",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spider",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/127.jpg"
+			}
+		},
+		{
+			"name": "Golden Apple",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/128.jpg"
+			}
+		},
+		{
+			"name": "Crafting Table",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/129.jpg"
+			}
+		},
+		{
+			"name": "Treasure Map",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/130.jpg"
+			}
+		},
+		{
+			"name": "Drowned",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/131.jpg"
+			}
+		},
+		{
+			"name": "Trident",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/132.jpg"
+			}
+		},
+		{
+			"name": "Conduit",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/133.jpg"
+			}
+		},
+		{
+			"name": "Swooping Phantom",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Nightmare",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/134.jpg"
+			}
+		},
+		{
+			"name": "Igloo",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/135.jpg"
+			}
+		},
+		{
+			"name": "Coral Reef",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/136.jpg"
+			}
+		},
+		{
+			"name": "Woodland Mansion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Artifact",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/137.jpg"
+			}
+		},
+		{
+			"name": "Pillager Outpost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Artifact",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/138.jpg"
+			}
+		},
+		{
+			"name": "Vindicator",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Barbarian",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "Evoker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Druid",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/140.jpg"
+			}
+		},
+		{
+			"name": "Hateful Vex",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/141.jpg"
+			}
+		},
+		{
+			"name": "Ravager",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/142.jpg"
+			}
+		},
+		{
+			"name": "Illager Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Ranger",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/143.jpg"
+			}
+		},
+		{
+			"name": "Ravager Jockey",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{G}{G}",
+			"type": "Creature — Barbarian Beast",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/144.jpg"
+			}
+		},
+		{
+			"name": "Spiteful Pillager",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Ranger",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/145.jpg"
+			}
+		},
+		{
+			"name": "Pillager Captain",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{G}",
+			"type": "Creature — Ranger",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/146.jpg"
+			}
+		},
+		{
+			"name": "Illusioner",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Wizard",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/147.jpg"
+			}
+		},
+		{
+			"name": "Ominous Banner",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/148.jpg"
+			}
+		},
+		{
+			"name": "Wandering Trader",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Villager",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/149.jpg"
+			}
+		},
+		{
+			"name": "Savage Raid",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/150.jpg"
+			}
+		},
+		{
+			"name": "Fire Charge",
+			"rarity": "common",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/151.jpg"
+			}
+		},
+		{
+			"name": "Giant Bee",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "Kick the Hive",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/153.jpg"
+			}
+		},
+		{
+			"name": "Bee Nest",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/154.jpg"
+			}
+		},
+		{
+			"name": "Honey Hive",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/155.jpg"
+			}
+		},
+		{
+			"name": "Piglin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Boar",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/156.jpg"
+			}
+		},
+		{
+			"name": "Hoglin",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Boar",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/157.jpg"
+			}
+		},
+		{
+			"name": "Piglin Brute",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Boar",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/158.jpg"
+			}
+		},
+		{
+			"name": "Zoglin",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Zombie Boar",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/159.jpg"
+			}
+		},
+		{
+			"name": "Slag Strider",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/160.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/161.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/162.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/163.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/164.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/165.jpg"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/166.jpg"
+			}
+		},
+		{
+			"name": "Thorns",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/167.jpg"
+			}
+		},
+		{
+			"name": "Farlands",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/168.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Village",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Artifact",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/169.jpg"
+			}
+		},
+		{
+			"name": "Forbidden Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/P}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/170.jpg"
+			}
+		},
+		{
+			"name": "Lush Cave",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/171.jpg"
+			}
+		},
+		{
+			"name": "Witch Hut",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/172.jpg"
+			}
+		},
+		{
+			"name": "Wither Skull",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/173.jpg"
+			}
+		},
+		{
+			"name": "Desolate Library",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/174.jpg"
+			}
+		},
+		{
+			"name": "Glow Squid",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Squid",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/175.jpg"
+			}
+		},
+		{
+			"name": "Braying Goat",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Goat",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/176.jpg"
+			}
+		},
+		{
+			"name": "Lodestone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/177.jpg"
+			}
+		},
+		{
+			"name": "Forged in Netherite",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/178.jpg"
+			}
+		},
+		{
+			"name": "Ruined Portal",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/179.jpg"
+			}
+		},
+		{
+			"name": "Eye of Ender",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/180.jpg"
+			}
+		},
+		{
+			"name": "Beach-Dwelling Turtle",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/181.jpg"
+			}
+		},
+		{
+			"name": "Blackened Bastion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Artifact",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/182.jpg"
+			}
+		},
+		{
+			"name": "Escape to Flames",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/183.jpg"
+			}
+		},
+		{
+			"name": "Fallen Horn",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/184.jpg"
+			}
+		},
+		{
+			"name": "Allay",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/185.jpg"
+			}
+		},
+		{
+			"name": "Peckish Axolotl",
+			"rarity": "common",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/186.jpg"
+			}
+		},
+		{
+			"name": "Bad Omen",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/187.jpg"
+			}
+		},
+		{
+			"name": "Pufferfish",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/188.jpg"
+			}
+		},
+		{
+			"name": "Sound the Horn",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/189.jpg"
+			}
+		},
+		{
+			"name": "Amethyst Spyglass",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/190.jpg"
+			}
+		},
+		{
+			"name": "Nimble Camel",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Camel",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/191.jpg"
+			}
+		},
+		{
+			"name": "Glow Frog",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Frog",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/192.jpg"
+			}
+		},
+		{
+			"name": "Brave the End",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/193.jpg"
+			}
+		},
+		{
+			"name": "Adventuring Time",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/194.jpg"
+			}
+		},
+		{
+			"name": "Name Tag",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/195.jpg"
+			}
+		},
+		{
+			"name": "Dinnerbone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/196.jpg"
+			}
+		},
+		{
+			"name": "Here's Johnny!",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/197.jpg"
+			}
+		},
+		{
+			"name": "Jeb the Sheep",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Sheep God",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/198.jpg"
+			}
+		},
+		{
+			"name": "Gray Cleric",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Villager Cleric",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/199.jpg"
+			}
+		},
+		{
+			"name": "Weathered Fisherman",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Villager",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/200.jpg"
+			}
+		},
+		{
+			"name": "Respawn Anchor",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/201.jpg"
+			}
+		},
+		{
+			"name": "Cultivate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/202.jpg"
+			}
+		},
+		{
+			"name": "Dispenser",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/203.jpg"
+			}
+		},
+		{
+			"name": "Bond of the Creaking Heart",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/204.jpg"
+			}
+		},
+		{
+			"name": "Riches from Dust",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/205.jpg"
+			}
+		},
+		{
+			"name": "Totem of Undying",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/206.jpg"
+			}
+		},
+		{
+			"name": "Welcome Travellers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/207.jpg"
+			}
+		},
+		{
+			"name": "Trail Ruins",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B/R}{U}",
+			"type": "Artifact",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/208.jpg"
+			}
+		},
+		{
+			"name": "Awkward Potion",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/209.jpg"
+			}
+		},
+		{
+			"name": "Shulker's Box",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U/P}",
+			"type": "Artifact",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/210.jpg"
+			}
+		},
+		{
+			"name": "Farseek",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/211.jpg"
+			}
+		},
+		{
+			"name": "Glowstone Infusion",
+			"rarity": "rare",
+			"mana_cost": "{R/P}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/212.jpg"
+			}
+		},
+		{
+			"name": "Cleansing Grindstone",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Instant",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/213.jpg"
+			}
+		},
+		{
+			"name": "Dimensional Excursion",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/214.jpg"
+			}
+		},
+		{
+			"name": "Infinity Snapshot",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/215.jpg"
+			}
+		},
+		{
+			"name": "Potion of Night Vision",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/216.jpg"
+			}
+		},
+		{
+			"name": "End City",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/217.jpg"
+			}
+		},
+		{
+			"name": "Recovery Compass",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/218.jpg"
+			}
+		},
+		{
+			"name": "Ominous Vault",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/219.jpg"
+			}
+		},
+		{
+			"name": "Tipped Arrow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/220.jpg"
+			}
+		},
+		{
+			"name": "Helm of the Turtle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/221.jpg"
+			}
+		},
+		{
+			"name": "Dominator's Mace",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/222.jpg"
+			}
+		},
+		{
+			"name": "Loam Sniffer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Ox",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/223.jpg"
+			}
+		},
+		{
+			"name": "Ghastling",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/224.jpg"
+			}
+		},
+		{
+			"name": "Warden Enraged",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Legendary Creature — Fungus Horror",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/225.jpg"
+			}
+		},
+		{
+			"name": "Wilted Soul",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/226.jpg"
+			}
+		},
+		{
+			"name": "Skeleton Horseman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Skeleton",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/227.jpg"
+			}
+		},
+		{
+			"name": "Oozing Demise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/228.jpg"
+			}
+		},
+		{
+			"name": "Jellie of the Homestead",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/229.jpg"
+			}
+		},
+		{
+			"name": "Abandoned Mineshaft",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/230.jpg"
+			}
+		},
+		{
+			"name": "Valley of Bones",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/231.jpg"
+			}
+		},
+		{
+			"name": "Warped Forest",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/232.jpg"
+			}
+		},
+		{
+			"name": "Pale Oak Grotto",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Ætherfont",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/233.jpg"
+			}
+		},
+		{
+			"name": "Irresistible Peddler",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/234.jpg"
+			}
+		},
+		{
+			"name": "Chamber's Omen",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/R}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/235.jpg"
+			}
+		},
+		{
+			"name": "Suspicious Stew",
+			"rarity": "uncommon",
+			"mana_cost": "{R/P}{R/P}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/236.jpg"
+			}
+		},
+		{
+			"name": "Sculk Sensor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/237.jpg"
+			}
+		},
+		{
+			"name": "Bogged",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/238.jpg"
+			}
+		},
+		{
+			"name": "Murder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/239.jpg"
+			}
+		},
+		{
+			"name": "Binding and Vanishing",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/240.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/241.jpg"
+			}
+		},
+		{
+			"name": "Shulker Spire",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/242.jpg"
+			}
+		},
+		{
+			"name": "Aria Math",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/243.jpg"
+			}
+		},
+		{
+			"name": "Disc: Creator",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/244.jpg"
+			}
+		},
+		{
+			"name": "Disc: 13",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/245.jpg"
+			}
+		},
+		{
+			"name": "Disc: 11",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/246.jpg"
+			}
+		},
+		{
+			"name": "Pigstep",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/247.jpg"
+			}
+		},
+		{
+			"name": "Steel Caravan",
+			"rarity": "common",
+			"mana_cost": "{8}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/248.jpg"
+			}
+		},
+		{
+			"name": "Contagion Cocktail",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/B}{W/B}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/249.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/250.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/251.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/252.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/253.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/254.jpg"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/255.jpg"
+			}
+		},
+		{
+			"name": "Dreamstealer Phantom",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Nightmare",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/256.jpg"
+			}
+		},
+		{
+			"name": "Happy Ghast",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/257.jpg"
+			}
+		},
+		{
+			"name": "Decrepit Cage",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/258.jpg"
+			}
+		},
+		{
+			"name": "Gardner's Enchanted Shears",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/259.jpg"
+			}
+		},
+		{
+			"name": "Copper Golem",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/260.jpg"
+			}
+		},
+		{
+			"name": "Copper Chest",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/261.jpg"
+			}
+		},
+		{
+			"name": "Buried Treasure",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/262.jpg"
+			}
+		},
+		{
+			"name": "Desert Well",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/263.jpg"
+			}
+		},
+		{
+			"name": "Cavernous Geode",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Ætherfont",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/264.jpg"
+			}
+		},
+		{
+			"name": "Crimson Forest",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Ætherfont",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/265.jpg"
+			}
+		},
+		{
+			"name": "Unreachable Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Ætherfont",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/266.jpg"
+			}
+		},
+		{
+			"name": "Ethereal Blossoms",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Ætherfont",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/267.jpg"
+			}
+		},
+		{
+			"name": "Floral Chantry",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Ætherfont",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/268.jpg"
+			}
+		},
+		{
+			"name": "Lunging Spear",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/269.jpg"
+			}
+		},
+		{
+			"name": "Parched Bones",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/270.jpg"
+			}
+		},
+		{
+			"name": "Camel's Husk",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment Creature — Camel Zombie",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/271.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Village Haven
+	1 Herobrine, Soulless
+	1 Herobrine, Warmonger
+	1 Master of the End
+	1 Ender Dragon, Immortal
+	1 Wither, the Corrupter
+	2 Elder Guardian
+	2 Enchantment Table
+	2 Nightfall
+	2 Ravager Jockey
+	2 Pillager Captain
+	2 Illusioner
+	2 Witch Hut
+	2 Forged in Netherite
+	2 Eye of Ender
+	1 Jeb the Sheep
+	2 Glowstone Infusion
+	2 Dimensional Excursion
+	1 Infinity Snapshot
+	2 Ominous Vault
+	2 Warden Enraged
+	2 Jellie of the Homestead
+	1 Warped Forest
+	2 Pale Oak Grotto
+	2 Irresistible Peddler
+	2 Aria Math
+	2 Copper Golem
+	2 Cavernous Geode
+	2 Crimson Forest
+	2 Unreachable Sanctuary
+	2 Ethereal Blossoms
+	2 Floral Chantry
+[uncommon(3)]
+	4 Guiding Dolphin
+	4 Vengeful Polar Bear
+	4 Richly-Fed Cow
+	4 Killer Rabbit
+	4 Summoned Iron Golem
+	4 Steve
+	4 Alex
+	4 Creeper
+	4 Congealed Slime
+	4 Enderman
+	4 Outcast Witch
+	4 Endermite
+	4 Wither Skeleton
+	4 Nether Fortress
+	4 Magma Cube
+	4 Nether Portal
+	4 Voidrift Stronghold
+	4 Altar of Myths
+	4 Brewing Stand
+	4 Dragon's Breath
+	4 Fitted Gear
+	4 Elytra
+	4 Creaking
+	4 Ocean Monument
+	4 Unbreaking
+	4 Chicken Bomb
+	4 Jungle Temple
+	4 Soul Torch
+	4 Beacon
+	4 Iron Door
+	4 Abandoned Stray
+	4 Husk
+	4 Golden Apple
+	4 Trident
+	4 Igloo
+	4 Woodland Mansion
+	4 Pillager Outpost
+	4 Evoker
+	4 Hateful Vex
+	4 Ravager
+	4 Illager Patrol
+	4 Spiteful Pillager
+	4 Savage Raid
+	4 Thorns
+	4 Farlands
+	4 Abandoned Village
+	4 Forbidden Ritual
+	4 Lush Cave
+	4 Desolate Library
+	4 Glow Squid
+	4 Lodestone
+	4 Blackened Bastion
+	4 Adventuring Time
+	4 Name Tag
+	4 Dinnerbone
+	4 Gray Cleric
+	4 Cultivate
+	4 Totem of Undying
+	4 Welcome Travellers
+	4 Trail Ruins
+	4 Shulker's Box
+	4 Recovery Compass
+	4 Tipped Arrow
+	4 Helm of the Turtle
+	4 Loam Sniffer
+	4 Wilted Soul
+	4 Skeleton Horseman
+	4 Oozing Demise
+	4 Chamber's Omen
+	4 Suspicious Stew
+	4 Sculk Sensor
+	4 Bogged
+	4 Murder
+	4 Binding and Vanishing
+	4 Shulker Spire
+	4 Disc: Creator
+	4 Contagion Cocktail
+	4 Dreamstealer Phantom
+	4 Decrepit Cage
+	4 Gardner's Enchanted Shears
+	4 Copper Chest
+	4 Buried Treasure
+	4 Desert Well
+	4 Lunging Spear
+[common(6)]
+	8 Timorous Sheep
+	8 Thieving Fox
+	8 Wandering Panda
+	8 Scavenger Cat
+	8 Stalwart Pig
+	8 School of Fish
+	8 Polar Bear Cub
+	8 Cyclical Chicken
+	8 Agitated Rabbit
+	8 Loyal Wolf
+	8 Familiar Parrot
+	8 Whimsical Llama
+	8 Murky Squid
+	8 Umbra Bat
+	8 Shrieking Ocelot
+	8 Spurred Horse
+	8 Mooshroom
+	8 Baby Villager
+	8 Nitwit
+	8 Cartographer
+	8 Adept Butcher
+	8 Passionate Farmer
+	8 Blacksmith
+	8 Librarian
+	8 Compulsory Zombie
+	8 Nocked Skeleton
+	8 Zombie Villager
+	8 Skittering Spider
+	8 Spider Jockey
+	8 Ghast
+	8 Blaze
+	8 Zombie Piglin
+	8 Soul Sand Valley
+	8 Armored Spawn
+	8 Rain of Blades
+	8 Water Trap
+	8 Lightning Bolt
+	8 Anger the Tribe
+	8 Fall Damage
+	8 Spawn Egg
+	8 Potion of Weakness
+	8 Potion of Harming
+	8 Potion of Invisibiliy
+	8 Potion of Healing
+	8 Potion of Swiftness
+	8 Potion of Regeneration
+	8 Potion of Leaping
+	8 Potion of Strength
+	8 Potion of Slowness
+	8 Potion of Poison
+	8 Ætherfeed Silverfish
+	8 Shulker
+	8 Bucket of Water
+	8 Bucket of Lava
+	8 Hardy Shield
+	8 Mass Explosion
+	8 Mushroom Stew
+	8 Critical Hit
+	8 Command Block
+	8 Snow Golem
+	8 Baby Zombie
+	8 Cactus Patch
+	8 Guardian
+	8 Daybreak
+	8 Flint and Steel
+	8 Food for the Cause
+	8 Sharpness
+	8 Protection
+	8 Projectile Protection
+	8 Giant's Corpse
+	8 Sleep Off the Night
+	8 Spawnpoint
+	8 Breeding
+	8 Mob Spawner
+	8 Desert Temple
+	8 Fleeting Durability
+	8 Explore
+	8 Ender Pearl
+	8 Pitfall
+	8 Jungle Vines
+	8 The First Night
+	8 Skybridge
+	8 Zombie Siege
+	8 Cartographer's Map
+	8 Recipe Book
+	8 Skillful Shot
+	8 Cave Spider
+	8 Crafting Table
+	8 Treasure Map
+	8 Drowned
+	8 Conduit
+	8 Swooping Phantom
+	8 Coral Reef
+	8 Vindicator
+	8 Ominous Banner
+	8 Wandering Trader
+	8 Fire Charge
+	8 Giant Bee
+	8 Kick the Hive
+	8 Bee Nest
+	8 Honey Hive
+	8 Piglin
+	8 Hoglin
+	8 Piglin Brute
+	8 Zoglin
+	8 Slag Strider
+	8 Wither Skull
+	8 Braying Goat
+	8 Ruined Portal
+	8 Beach-Dwelling Turtle
+	8 Escape to Flames
+	8 Fallen Horn
+	8 Allay
+	8 Peckish Axolotl
+	8 Bad Omen
+	8 Pufferfish
+	8 Sound the Horn
+	8 Amethyst Spyglass
+	8 Nimble Camel
+	8 Glow Frog
+	8 Brave the End
+	8 Here's Johnny!
+	8 Weathered Fisherman
+	8 Respawn Anchor
+	8 Dispenser
+	8 Bond of the Creaking Heart
+	8 Riches from Dust
+	8 Awkward Potion
+	8 Farseek
+	8 Cleansing Grindstone
+	8 Potion of Night Vision
+	8 End City
+	8 Dominator's Mace
+	8 Ghastling
+	8 Abandoned Mineshaft
+	8 Valley of Bones
+	8 Disc: 13
+	8 Disc: 11
+	8 Pigstep
+	8 Steel Caravan
+	8 Forest
+	8 Island
+	8 Mountain
+	8 Plains
+	8 Swamp
+	8 Wastes
+	8 Happy Ghast
+	8 Parched Bones
+	8 Camel's Husk
+[common | masterpiece(1)]
+	8 Timorous Sheep
+	8 Thieving Fox
+	8 Wandering Panda
+	8 Scavenger Cat
+	8 Stalwart Pig
+	8 School of Fish
+	8 Polar Bear Cub
+	8 Cyclical Chicken
+	8 Agitated Rabbit
+	8 Loyal Wolf
+	8 Familiar Parrot
+	8 Whimsical Llama
+	8 Murky Squid
+	8 Umbra Bat
+	8 Shrieking Ocelot
+	8 Spurred Horse
+	8 Mooshroom
+	8 Baby Villager
+	8 Nitwit
+	8 Cartographer
+	8 Adept Butcher
+	8 Passionate Farmer
+	8 Blacksmith
+	8 Librarian
+	8 Compulsory Zombie
+	8 Nocked Skeleton
+	8 Zombie Villager
+	8 Skittering Spider
+	8 Spider Jockey
+	8 Ghast
+	8 Blaze
+	8 Zombie Piglin
+	8 Soul Sand Valley
+	8 Armored Spawn
+	8 Rain of Blades
+	8 Water Trap
+	8 Lightning Bolt
+	8 Anger the Tribe
+	8 Fall Damage
+	8 Spawn Egg
+	8 Potion of Weakness
+	8 Potion of Harming
+	8 Potion of Invisibiliy
+	8 Potion of Healing
+	8 Potion of Swiftness
+	8 Potion of Regeneration
+	8 Potion of Leaping
+	8 Potion of Strength
+	8 Potion of Slowness
+	8 Potion of Poison
+	8 Ætherfeed Silverfish
+	8 Shulker
+	8 Bucket of Water
+	8 Bucket of Lava
+	8 Hardy Shield
+	8 Mass Explosion
+	8 Mushroom Stew
+	8 Critical Hit
+	8 Command Block
+	8 Snow Golem
+	8 Baby Zombie
+	8 Cactus Patch
+	8 Guardian
+	8 Daybreak
+	8 Flint and Steel
+	8 Food for the Cause
+	8 Sharpness
+	8 Protection
+	8 Projectile Protection
+	8 Giant's Corpse
+	8 Sleep Off the Night
+	8 Spawnpoint
+	8 Breeding
+	8 Mob Spawner
+	8 Desert Temple
+	8 Fleeting Durability
+	8 Explore
+	8 Ender Pearl
+	8 Pitfall
+	8 Jungle Vines
+	8 The First Night
+	8 Skybridge
+	8 Zombie Siege
+	8 Cartographer's Map
+	8 Recipe Book
+	8 Skillful Shot
+	8 Cave Spider
+	8 Crafting Table
+	8 Treasure Map
+	8 Drowned
+	8 Conduit
+	8 Swooping Phantom
+	8 Coral Reef
+	8 Vindicator
+	8 Ominous Banner
+	8 Wandering Trader
+	8 Fire Charge
+	8 Giant Bee
+	8 Kick the Hive
+	8 Bee Nest
+	8 Honey Hive
+	8 Piglin
+	8 Hoglin
+	8 Piglin Brute
+	8 Zoglin
+	8 Slag Strider
+	8 Wither Skull
+	8 Braying Goat
+	8 Ruined Portal
+	8 Beach-Dwelling Turtle
+	8 Escape to Flames
+	8 Fallen Horn
+	8 Allay
+	8 Peckish Axolotl
+	8 Bad Omen
+	8 Pufferfish
+	8 Sound the Horn
+	8 Amethyst Spyglass
+	8 Nimble Camel
+	8 Glow Frog
+	8 Brave the End
+	8 Here's Johnny!
+	8 Weathered Fisherman
+	8 Respawn Anchor
+	8 Dispenser
+	8 Bond of the Creaking Heart
+	8 Riches from Dust
+	8 Awkward Potion
+	8 Farseek
+	8 Cleansing Grindstone
+	8 Potion of Night Vision
+	8 End City
+	8 Dominator's Mace
+	8 Ghastling
+	8 Abandoned Mineshaft
+	8 Valley of Bones
+	8 Disc: 13
+	8 Disc: 11
+	8 Pigstep
+	8 Steel Caravan
+	8 Forest
+	8 Island
+	8 Mountain
+	8 Plains
+	8 Swamp
+	8 Wastes
+	8 Happy Ghast
+	8 Parched Bones
+	8 Camel's Husk
+[foil(1)]
+	12 Timorous Sheep
+	12 Thieving Fox
+	12 Wandering Panda
+	12 Scavenger Cat
+	12 Stalwart Pig
+	12 School of Fish
+	12 Polar Bear Cub
+	12 Cyclical Chicken
+	12 Agitated Rabbit
+	6 Guiding Dolphin
+	12 Loyal Wolf
+	12 Familiar Parrot
+	12 Whimsical Llama
+	12 Murky Squid
+	12 Umbra Bat
+	12 Shrieking Ocelot
+	6 Vengeful Polar Bear
+	12 Spurred Horse
+	6 Richly-Fed Cow
+	12 Mooshroom
+	6 Killer Rabbit
+	12 Baby Villager
+	12 Nitwit
+	12 Cartographer
+	12 Adept Butcher
+	12 Passionate Farmer
+	12 Blacksmith
+	12 Librarian
+	6 Summoned Iron Golem
+	6 Steve
+	6 Alex
+	12 Compulsory Zombie
+	12 Nocked Skeleton
+	6 Creeper
+	12 Zombie Villager
+	6 Congealed Slime
+	12 Skittering Spider
+	12 Spider Jockey
+	6 Enderman
+	6 Outcast Witch
+	6 Endermite
+	12 Ghast
+	12 Blaze
+	6 Wither Skeleton
+	6 Nether Fortress
+	12 Zombie Piglin
+	6 Magma Cube
+	12 Soul Sand Valley
+	6 Nether Portal
+	12 Armored Spawn
+	12 Rain of Blades
+	12 Water Trap
+	12 Lightning Bolt
+	12 Anger the Tribe
+	2 Village Haven
+	12 Fall Damage
+	12 Spawn Egg
+	6 Voidrift Stronghold
+	6 Altar of Myths
+	1 Herobrine, Soulless
+	1 Herobrine, Warmonger
+	1 Master of the End
+	1 Ender Dragon, Immortal
+	1 Wither, the Corrupter
+	12 Potion of Weakness
+	12 Potion of Harming
+	12 Potion of Invisibiliy
+	12 Potion of Healing
+	12 Potion of Swiftness
+	12 Potion of Regeneration
+	12 Potion of Leaping
+	12 Potion of Strength
+	12 Potion of Slowness
+	12 Potion of Poison
+	6 Brewing Stand
+	6 Dragon's Breath
+	12 Ætherfeed Silverfish
+	12 Shulker
+	6 Fitted Gear
+	6 Elytra
+	12 Bucket of Water
+	12 Bucket of Lava
+	12 Hardy Shield
+	12 Mass Explosion
+	12 Mushroom Stew
+	12 Critical Hit
+	6 Creaking
+	12 Command Block
+	12 Snow Golem
+	12 Baby Zombie
+	12 Cactus Patch
+	6 Ocean Monument
+	12 Guardian
+	2 Elder Guardian
+	12 Daybreak
+	12 Flint and Steel
+	12 Food for the Cause
+	12 Sharpness
+	12 Protection
+	12 Projectile Protection
+	6 Unbreaking
+	2 Enchantment Table
+	12 Giant's Corpse
+	12 Sleep Off the Night
+	12 Spawnpoint
+	6 Chicken Bomb
+	2 Nightfall
+	12 Breeding
+	12 Mob Spawner
+	12 Desert Temple
+	6 Jungle Temple
+	12 Fleeting Durability
+	12 Explore
+	6 Soul Torch
+	12 Ender Pearl
+	12 Pitfall
+	12 Jungle Vines
+	12 The First Night
+	12 Skybridge
+	6 Beacon
+	12 Zombie Siege
+	6 Iron Door
+	12 Cartographer's Map
+	6 Abandoned Stray
+	6 Husk
+	12 Recipe Book
+	12 Skillful Shot
+	12 Cave Spider
+	6 Golden Apple
+	12 Crafting Table
+	12 Treasure Map
+	12 Drowned
+	6 Trident
+	12 Conduit
+	12 Swooping Phantom
+	6 Igloo
+	12 Coral Reef
+	6 Woodland Mansion
+	6 Pillager Outpost
+	12 Vindicator
+	6 Evoker
+	6 Hateful Vex
+	6 Ravager
+	6 Illager Patrol
+	2 Ravager Jockey
+	6 Spiteful Pillager
+	2 Pillager Captain
+	2 Illusioner
+	12 Ominous Banner
+	12 Wandering Trader
+	6 Savage Raid
+	12 Fire Charge
+	12 Giant Bee
+	12 Kick the Hive
+	12 Bee Nest
+	12 Honey Hive
+	12 Piglin
+	12 Hoglin
+	12 Piglin Brute
+	12 Zoglin
+	12 Slag Strider
+	6 Thorns
+	6 Farlands
+	6 Abandoned Village
+	6 Forbidden Ritual
+	6 Lush Cave
+	2 Witch Hut
+	12 Wither Skull
+	6 Desolate Library
+	6 Glow Squid
+	12 Braying Goat
+	6 Lodestone
+	2 Forged in Netherite
+	12 Ruined Portal
+	2 Eye of Ender
+	12 Beach-Dwelling Turtle
+	6 Blackened Bastion
+	12 Escape to Flames
+	12 Fallen Horn
+	12 Allay
+	12 Peckish Axolotl
+	12 Bad Omen
+	12 Pufferfish
+	12 Sound the Horn
+	12 Amethyst Spyglass
+	12 Nimble Camel
+	12 Glow Frog
+	12 Brave the End
+	6 Adventuring Time
+	6 Name Tag
+	6 Dinnerbone
+	12 Here's Johnny!
+	1 Jeb the Sheep
+	6 Gray Cleric
+	12 Weathered Fisherman
+	12 Respawn Anchor
+	6 Cultivate
+	12 Dispenser
+	12 Bond of the Creaking Heart
+	12 Riches from Dust
+	6 Totem of Undying
+	6 Welcome Travellers
+	6 Trail Ruins
+	12 Awkward Potion
+	6 Shulker's Box
+	12 Farseek
+	2 Glowstone Infusion
+	12 Cleansing Grindstone
+	2 Dimensional Excursion
+	1 Infinity Snapshot
+	12 Potion of Night Vision
+	12 End City
+	6 Recovery Compass
+	2 Ominous Vault
+	6 Tipped Arrow
+	6 Helm of the Turtle
+	12 Dominator's Mace
+	6 Loam Sniffer
+	12 Ghastling
+	2 Warden Enraged
+	6 Wilted Soul
+	6 Skeleton Horseman
+	6 Oozing Demise
+	2 Jellie of the Homestead
+	12 Abandoned Mineshaft
+	12 Valley of Bones
+	1 Warped Forest
+	2 Pale Oak Grotto
+	2 Irresistible Peddler
+	6 Chamber's Omen
+	6 Suspicious Stew
+	6 Sculk Sensor
+	6 Bogged
+	6 Murder
+	6 Binding and Vanishing
+	6 Shulker Spire
+	2 Aria Math
+	6 Disc: Creator
+	12 Disc: 13
+	12 Disc: 11
+	12 Pigstep
+	12 Steel Caravan
+	6 Contagion Cocktail
+	12 Forest
+	12 Island
+	12 Mountain
+	12 Plains
+	12 Swamp
+	12 Wastes
+	6 Dreamstealer Phantom
+	12 Happy Ghast
+	6 Decrepit Cage
+	6 Gardner's Enchanted Shears
+	2 Copper Golem
+	6 Copper Chest
+	6 Buried Treasure
+	6 Desert Well
+	2 Cavernous Geode
+	2 Crimson Forest
+	2 Unreachable Sanctuary
+	2 Ethereal Blossoms
+	2 Floral Chantry
+	6 Lunging Spear
+	12 Parched Bones
+	12 Camel's Husk
+[wildcard(1)]
+	6 Timorous Sheep
+	6 Thieving Fox
+	6 Wandering Panda
+	6 Scavenger Cat
+	6 Stalwart Pig
+	6 School of Fish
+	6 Polar Bear Cub
+	6 Cyclical Chicken
+	6 Agitated Rabbit
+	15 Guiding Dolphin
+	6 Loyal Wolf
+	6 Familiar Parrot
+	6 Whimsical Llama
+	6 Murky Squid
+	6 Umbra Bat
+	6 Shrieking Ocelot
+	15 Vengeful Polar Bear
+	6 Spurred Horse
+	15 Richly-Fed Cow
+	6 Mooshroom
+	15 Killer Rabbit
+	6 Baby Villager
+	6 Nitwit
+	6 Cartographer
+	6 Adept Butcher
+	6 Passionate Farmer
+	6 Blacksmith
+	6 Librarian
+	15 Summoned Iron Golem
+	15 Steve
+	15 Alex
+	6 Compulsory Zombie
+	6 Nocked Skeleton
+	15 Creeper
+	6 Zombie Villager
+	15 Congealed Slime
+	6 Skittering Spider
+	6 Spider Jockey
+	15 Enderman
+	15 Outcast Witch
+	15 Endermite
+	6 Ghast
+	6 Blaze
+	15 Wither Skeleton
+	15 Nether Fortress
+	6 Zombie Piglin
+	15 Magma Cube
+	6 Soul Sand Valley
+	15 Nether Portal
+	6 Armored Spawn
+	6 Rain of Blades
+	6 Water Trap
+	6 Lightning Bolt
+	6 Anger the Tribe
+	7 Village Haven
+	6 Fall Damage
+	6 Spawn Egg
+	15 Voidrift Stronghold
+	15 Altar of Myths
+	4 Herobrine, Soulless
+	4 Herobrine, Warmonger
+	4 Master of the End
+	4 Ender Dragon, Immortal
+	4 Wither, the Corrupter
+	6 Potion of Weakness
+	6 Potion of Harming
+	6 Potion of Invisibiliy
+	6 Potion of Healing
+	6 Potion of Swiftness
+	6 Potion of Regeneration
+	6 Potion of Leaping
+	6 Potion of Strength
+	6 Potion of Slowness
+	6 Potion of Poison
+	15 Brewing Stand
+	15 Dragon's Breath
+	6 Ætherfeed Silverfish
+	6 Shulker
+	15 Fitted Gear
+	15 Elytra
+	6 Bucket of Water
+	6 Bucket of Lava
+	6 Hardy Shield
+	6 Mass Explosion
+	6 Mushroom Stew
+	6 Critical Hit
+	15 Creaking
+	6 Command Block
+	6 Snow Golem
+	6 Baby Zombie
+	6 Cactus Patch
+	15 Ocean Monument
+	6 Guardian
+	7 Elder Guardian
+	6 Daybreak
+	6 Flint and Steel
+	6 Food for the Cause
+	6 Sharpness
+	6 Protection
+	6 Projectile Protection
+	15 Unbreaking
+	7 Enchantment Table
+	6 Giant's Corpse
+	6 Sleep Off the Night
+	6 Spawnpoint
+	15 Chicken Bomb
+	7 Nightfall
+	6 Breeding
+	6 Mob Spawner
+	6 Desert Temple
+	15 Jungle Temple
+	6 Fleeting Durability
+	6 Explore
+	15 Soul Torch
+	6 Ender Pearl
+	6 Pitfall
+	6 Jungle Vines
+	6 The First Night
+	6 Skybridge
+	15 Beacon
+	6 Zombie Siege
+	15 Iron Door
+	6 Cartographer's Map
+	15 Abandoned Stray
+	15 Husk
+	6 Recipe Book
+	6 Skillful Shot
+	6 Cave Spider
+	15 Golden Apple
+	6 Crafting Table
+	6 Treasure Map
+	6 Drowned
+	15 Trident
+	6 Conduit
+	6 Swooping Phantom
+	15 Igloo
+	6 Coral Reef
+	15 Woodland Mansion
+	15 Pillager Outpost
+	6 Vindicator
+	15 Evoker
+	15 Hateful Vex
+	15 Ravager
+	15 Illager Patrol
+	7 Ravager Jockey
+	15 Spiteful Pillager
+	7 Pillager Captain
+	7 Illusioner
+	6 Ominous Banner
+	6 Wandering Trader
+	15 Savage Raid
+	6 Fire Charge
+	6 Giant Bee
+	6 Kick the Hive
+	6 Bee Nest
+	6 Honey Hive
+	6 Piglin
+	6 Hoglin
+	6 Piglin Brute
+	6 Zoglin
+	6 Slag Strider
+	15 Thorns
+	15 Farlands
+	15 Abandoned Village
+	15 Forbidden Ritual
+	15 Lush Cave
+	7 Witch Hut
+	6 Wither Skull
+	15 Desolate Library
+	15 Glow Squid
+	6 Braying Goat
+	15 Lodestone
+	7 Forged in Netherite
+	6 Ruined Portal
+	7 Eye of Ender
+	6 Beach-Dwelling Turtle
+	15 Blackened Bastion
+	6 Escape to Flames
+	6 Fallen Horn
+	6 Allay
+	6 Peckish Axolotl
+	6 Bad Omen
+	6 Pufferfish
+	6 Sound the Horn
+	6 Amethyst Spyglass
+	6 Nimble Camel
+	6 Glow Frog
+	6 Brave the End
+	15 Adventuring Time
+	15 Name Tag
+	15 Dinnerbone
+	6 Here's Johnny!
+	4 Jeb the Sheep
+	15 Gray Cleric
+	6 Weathered Fisherman
+	6 Respawn Anchor
+	15 Cultivate
+	6 Dispenser
+	6 Bond of the Creaking Heart
+	6 Riches from Dust
+	15 Totem of Undying
+	15 Welcome Travellers
+	15 Trail Ruins
+	6 Awkward Potion
+	15 Shulker's Box
+	6 Farseek
+	7 Glowstone Infusion
+	6 Cleansing Grindstone
+	7 Dimensional Excursion
+	4 Infinity Snapshot
+	6 Potion of Night Vision
+	6 End City
+	15 Recovery Compass
+	7 Ominous Vault
+	15 Tipped Arrow
+	15 Helm of the Turtle
+	6 Dominator's Mace
+	15 Loam Sniffer
+	6 Ghastling
+	7 Warden Enraged
+	15 Wilted Soul
+	15 Skeleton Horseman
+	15 Oozing Demise
+	7 Jellie of the Homestead
+	6 Abandoned Mineshaft
+	6 Valley of Bones
+	4 Warped Forest
+	7 Pale Oak Grotto
+	7 Irresistible Peddler
+	15 Chamber's Omen
+	15 Suspicious Stew
+	15 Sculk Sensor
+	15 Bogged
+	15 Murder
+	15 Binding and Vanishing
+	15 Shulker Spire
+	7 Aria Math
+	15 Disc: Creator
+	6 Disc: 13
+	6 Disc: 11
+	6 Pigstep
+	6 Steel Caravan
+	15 Contagion Cocktail
+	6 Forest
+	6 Island
+	6 Mountain
+	6 Plains
+	6 Swamp
+	6 Wastes
+	15 Dreamstealer Phantom
+	6 Happy Ghast
+	15 Decrepit Cage
+	15 Gardner's Enchanted Shears
+	7 Copper Golem
+	15 Copper Chest
+	15 Buried Treasure
+	15 Desert Well
+	7 Cavernous Geode
+	7 Crimson Forest
+	7 Unreachable Sanctuary
+	7 Ethereal Blossoms
+	7 Floral Chantry
+	15 Lunging Spear
+	6 Parched Bones
+	6 Camel's Husk
