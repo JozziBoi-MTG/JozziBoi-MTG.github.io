@@ -1,0 +1,1010 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Giant-Crusher",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Beget Vengeance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Rivers of Blood",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Heolstor, the Nightlord",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Nightmare",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Roundtable Duchess",
+			"rarity": "common",
+			"mana_cost": "{1}{W/P}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Restage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Shrouded City Noklateo",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Limveld's Crater",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Limveld's Ice Spire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Limveld's Rotwood",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Empiric Recluse",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Faerie Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Glory-Seeking Raider",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Barbarian",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Archaic Executor",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Samurai",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Suncatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Ironeye",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Flock's Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Gladius, Beast of Night",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Creature — Dog",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Fulghor, Darkdrift Knight",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Centaur Knight",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Godskin Apostles",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Nihil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Reality Rift",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Glintstone Staff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Radagon Icon",
+			"rarity": "rare",
+			"mana_cost": "{U}{U/R}{R}",
+			"type": "Enchantment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Frenzied Flame",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Finger Seal",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Gnoster, Wisdom of Night",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Animus, Ascendant Light",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B/R}",
+			"type": "Legendary Enchantment Creature — Blinkmoth",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Tibia Mariner",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Crystal Tear",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Soulsworn Skeleton",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Burning Erdtree",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Darksteel Greatsword",
+			"rarity": "uncommon",
+			"mana_cost": "{P}",
+			"type": "Artifact — Equipment",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Libra, Equilibriuous",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{W}{W}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Oracle Envoy",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Fungus",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Wylder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Pickled Fowl-Foot",
+			"rarity": "uncommon",
+			"mana_cost": "{U/P}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Site of Grace",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Duty Beyond Death",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Ceramic Revenant",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit Construct",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Doting Butler",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Skeleton Spirit",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Agile Page",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Warrior",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Burly Cook",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Spirit",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Sorcerer's Rise",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Hut of the Faithful",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Notorious Poison Swamp",
+			"rarity": "uncommon",
+			"mana_cost": "{B/P}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Scarlet Rot",
+			"rarity": "common",
+			"mana_cost": "{R/P}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Maris, Fathom of Night",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}{U}{U}",
+			"type": "Legendary Enchantment Creature — Jellyfish",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Soporific Teardrop",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Runebear",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Bear",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Limveld's Castle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Totem Stela",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Adel, Baron of Night",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Dragon Horror",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Fissure in the Fog",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Caligo, Miasma of Night",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{U}{B}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Spirit Shelter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Legendary Enchantment Artifact",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Bell Bearing Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Creature — Knight",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Tincture Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Cloistered Undertaker",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Balancer Harmonia",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Enchantment Creature — Angel Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Melina, Grace's Guide",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment Creature — Human Shaman",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Wending Grace",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Radahn, Starscourge",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Creature — Demigod Berserker",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Stormveil Warhawk",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Teardrop Scarab",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Insect",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Straghess, Dreglord",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Gnoster, Wisdom of Night",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Crucible Knight",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Erdtree Avatar",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature — Elemental Avatar",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Evergaol",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Deacons of the Deep",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Grafted Scion",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Tree Sentinel",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Knight",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Roundtable Hold",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Abyss Watcher",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/74.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Rivers of Blood
+	1 Heolstor, the Nightlord
+	2 Shrouded City Noklateo
+	2 Limveld's Crater
+	2 Limveld's Ice Spire
+	2 Limveld's Rotwood
+	2 Ironeye
+	2 Gladius, Beast of Night
+	2 Fulghor, Darkdrift Knight
+	2 Godskin Apostles
+	1 Reality Rift
+	2 Radagon Icon
+	2 Gnoster, Wisdom of Night
+	1 Animus, Ascendant Light
+	1 Libra, Equilibriuous
+	2 Ceramic Revenant
+	2 Doting Butler
+	2 Maris, Fathom of Night
+	2 Limveld's Castle
+	1 Adel, Baron of Night
+	1 Caligo, Miasma of Night
+	2 Balancer Harmonia
+	2 Melina, Grace's Guide
+	2 Wending Grace
+	2 Radahn, Starscourge
+	2 Straghess, Dreglord
+	2 Gnoster, Wisdom of Night
+	2 Grafted Scion
+	2 Roundtable Hold
+[uncommon(3)]
+	4 Giant-Crusher
+	4 Beget Vengeance
+	4 Restage
+	4 Suncatcher
+	4 Flock's Guardian
+	4 Nihil
+	4 Glintstone Staff
+	4 Finger Seal
+	4 Crystal Tear
+	4 Darksteel Greatsword
+	4 Wylder
+	4 Pickled Fowl-Foot
+	4 Site of Grace
+	4 Duty Beyond Death
+	4 Sorcerer's Rise
+	4 Hut of the Faithful
+	4 Notorious Poison Swamp
+	4 Fissure in the Fog
+	4 Spirit Shelter
+	4 Bell Bearing Hunter
+	4 Tincture Scholar
+[common(6)]
+	8 Roundtable Duchess
+	8 Evolving Wilds
+	8 Empiric Recluse
+	8 Glory-Seeking Raider
+	8 Archaic Executor
+	8 Frenzied Flame
+	8 Tibia Mariner
+	8 Soulsworn Skeleton
+	8 Burning Erdtree
+	8 Oracle Envoy
+	8 Agile Page
+	8 Burly Cook
+	8 Scarlet Rot
+	8 Soporific Teardrop
+	8 Runebear
+	8 Totem Stela
+	8 Cloistered Undertaker
+	8 Stormveil Warhawk
+	8 Teardrop Scarab
+	8 Crucible Knight
+	8 Erdtree Avatar
+	8 Evergaol
+	8 Deacons of the Deep
+	8 Tree Sentinel
+	8 Abyss Watcher
+[common | masterpiece(1)]
+	8 Roundtable Duchess
+	8 Evolving Wilds
+	8 Empiric Recluse
+	8 Glory-Seeking Raider
+	8 Archaic Executor
+	8 Frenzied Flame
+	8 Tibia Mariner
+	8 Soulsworn Skeleton
+	8 Burning Erdtree
+	8 Oracle Envoy
+	8 Agile Page
+	8 Burly Cook
+	8 Scarlet Rot
+	8 Soporific Teardrop
+	8 Runebear
+	8 Totem Stela
+	8 Cloistered Undertaker
+	8 Stormveil Warhawk
+	8 Teardrop Scarab
+	8 Crucible Knight
+	8 Erdtree Avatar
+	8 Evergaol
+	8 Deacons of the Deep
+	8 Tree Sentinel
+	8 Abyss Watcher
+[foil(1)]
+	6 Giant-Crusher
+	6 Beget Vengeance
+	1 Rivers of Blood
+	1 Heolstor, the Nightlord
+	12 Roundtable Duchess
+	6 Restage
+	12 Evolving Wilds
+	2 Shrouded City Noklateo
+	2 Limveld's Crater
+	2 Limveld's Ice Spire
+	2 Limveld's Rotwood
+	12 Empiric Recluse
+	12 Glory-Seeking Raider
+	12 Archaic Executor
+	6 Suncatcher
+	2 Ironeye
+	6 Flock's Guardian
+	2 Gladius, Beast of Night
+	2 Fulghor, Darkdrift Knight
+	2 Godskin Apostles
+	6 Nihil
+	1 Reality Rift
+	6 Glintstone Staff
+	2 Radagon Icon
+	12 Frenzied Flame
+	6 Finger Seal
+	2 Gnoster, Wisdom of Night
+	1 Animus, Ascendant Light
+	12 Tibia Mariner
+	6 Crystal Tear
+	12 Soulsworn Skeleton
+	12 Burning Erdtree
+	6 Darksteel Greatsword
+	1 Libra, Equilibriuous
+	12 Oracle Envoy
+	6 Wylder
+	6 Pickled Fowl-Foot
+	6 Site of Grace
+	6 Duty Beyond Death
+	2 Ceramic Revenant
+	2 Doting Butler
+	12 Agile Page
+	12 Burly Cook
+	6 Sorcerer's Rise
+	6 Hut of the Faithful
+	6 Notorious Poison Swamp
+	12 Scarlet Rot
+	2 Maris, Fathom of Night
+	12 Soporific Teardrop
+	12 Runebear
+	2 Limveld's Castle
+	12 Totem Stela
+	1 Adel, Baron of Night
+	6 Fissure in the Fog
+	1 Caligo, Miasma of Night
+	6 Spirit Shelter
+	6 Bell Bearing Hunter
+	6 Tincture Scholar
+	12 Cloistered Undertaker
+	2 Balancer Harmonia
+	2 Melina, Grace's Guide
+	2 Wending Grace
+	2 Radahn, Starscourge
+	12 Stormveil Warhawk
+	12 Teardrop Scarab
+	2 Straghess, Dreglord
+	2 Gnoster, Wisdom of Night
+	12 Crucible Knight
+	12 Erdtree Avatar
+	12 Evergaol
+	12 Deacons of the Deep
+	2 Grafted Scion
+	12 Tree Sentinel
+	2 Roundtable Hold
+	12 Abyss Watcher
+[wildcard(1)]
+	15 Giant-Crusher
+	15 Beget Vengeance
+	4 Rivers of Blood
+	4 Heolstor, the Nightlord
+	6 Roundtable Duchess
+	15 Restage
+	6 Evolving Wilds
+	7 Shrouded City Noklateo
+	7 Limveld's Crater
+	7 Limveld's Ice Spire
+	7 Limveld's Rotwood
+	6 Empiric Recluse
+	6 Glory-Seeking Raider
+	6 Archaic Executor
+	15 Suncatcher
+	7 Ironeye
+	15 Flock's Guardian
+	7 Gladius, Beast of Night
+	7 Fulghor, Darkdrift Knight
+	7 Godskin Apostles
+	15 Nihil
+	4 Reality Rift
+	15 Glintstone Staff
+	7 Radagon Icon
+	6 Frenzied Flame
+	15 Finger Seal
+	7 Gnoster, Wisdom of Night
+	4 Animus, Ascendant Light
+	6 Tibia Mariner
+	15 Crystal Tear
+	6 Soulsworn Skeleton
+	6 Burning Erdtree
+	15 Darksteel Greatsword
+	4 Libra, Equilibriuous
+	6 Oracle Envoy
+	15 Wylder
+	15 Pickled Fowl-Foot
+	15 Site of Grace
+	15 Duty Beyond Death
+	7 Ceramic Revenant
+	7 Doting Butler
+	6 Agile Page
+	6 Burly Cook
+	15 Sorcerer's Rise
+	15 Hut of the Faithful
+	15 Notorious Poison Swamp
+	6 Scarlet Rot
+	7 Maris, Fathom of Night
+	6 Soporific Teardrop
+	6 Runebear
+	7 Limveld's Castle
+	6 Totem Stela
+	4 Adel, Baron of Night
+	15 Fissure in the Fog
+	4 Caligo, Miasma of Night
+	15 Spirit Shelter
+	15 Bell Bearing Hunter
+	15 Tincture Scholar
+	6 Cloistered Undertaker
+	7 Balancer Harmonia
+	7 Melina, Grace's Guide
+	7 Wending Grace
+	7 Radahn, Starscourge
+	6 Stormveil Warhawk
+	6 Teardrop Scarab
+	7 Straghess, Dreglord
+	7 Gnoster, Wisdom of Night
+	6 Crucible Knight
+	6 Erdtree Avatar
+	6 Evergaol
+	6 Deacons of the Deep
+	7 Grafted Scion
+	6 Tree Sentinel
+	7 Roundtable Hold
+	6 Abyss Watcher

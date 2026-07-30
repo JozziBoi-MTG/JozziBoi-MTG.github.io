@@ -1,0 +1,1014 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Gommage",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Prosthetic Overcharge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Flicker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Lune, Fueled by Tragedy",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Expedition Journal",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Sciel, Prescient",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}{U}{U}{R}{R}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Monolith Colossus",
+			"rarity": "uncommon",
+			"mana_cost": "{10}",
+			"type": "Artifact Creature — Avatar Construct",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Maelle, Ever Restless",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Human Fighter",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "The Paintress",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Verso, Cursed by Memory",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Aqueous Luster",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Merfolk",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Bloodwhet Cultist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Berserker",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Bourgeon",
+			"rarity": "common",
+			"mana_cost": "{5}{W/U}{G}",
+			"type": "Creature — Plant Giant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Chromatic Coating",
+			"rarity": "rare",
+			"mana_cost": "{W/U}{U/B}{B/R}{R/G}{G/W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Obscur",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Nymph",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Monoco, Trophy Vaunter",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Gestral Arena",
+			"rarity": "common",
+			"mana_cost": "{R/G}{R/G}{R/G}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Lumière, Expeditions' Birth",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Town",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Uncanny Mime",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "For Those Who Come After",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Grandis Orator",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Yeti",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Gustave, Hope's Inventor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Imposing Stalact",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Weird",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Hidden Gestral Village",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Gestral Tournament Warriors",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem Warrior",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Lancelier",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Fracture",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Portier",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Veilleur",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Pardox Danseuse",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Weird",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Lumina Converter",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Paradigm Killer",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Grayscale",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Sacred Gestral River",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Gestral Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Fight the Merchant",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Verso's Despair",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Chaos Canvas",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Barrier Breaker",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Endless Tower",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Ancient Sanctuary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Flying Waters",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Dark Shores",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Indigo Tree",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Battlefield",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Sirene's Dress",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Frozen Hearts",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Endless Night Sanctuary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Esoteric Ruins",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Monoco's Station",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Pugnacious Gestrals",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Golgra, Brawler's Peak",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}{G}{G}",
+			"type": "Legendary Creature — Golem Berserker",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Sprong",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Arena Ringmaster",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Clair",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Nymph",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Esquie's Magic Rock",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Mask of Visages",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Shade",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Enforce Emotion",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Expedition Banner",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Renoir, the Unpainted",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{R}{R}",
+			"type": "Legendary Planeswalker — Renoir",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Esquie, Youth's Bliss",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Aria of the Soul",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/W}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Aria of the Soul",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/W}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Mask Keeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Enchantment Creature — Archon",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Visages",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}{W}",
+			"type": "Legendary Creature — Construct",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Pliant Moissoneusse",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Creature — Nymph",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Sirene",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}{R}",
+			"type": "Legendary Creature — Archon",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Ballet Tempter",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Maelle, sans Alicia",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Alicia",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Renoir's Creation",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{R}",
+			"type": "Creature — Horror",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Those Who Come After",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Shade",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Scieleson",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Clea, Meddling Shadow",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Planeswalker — Clea",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Expedition Sixty",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Bruler",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Berserker",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/74.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Gommage
+	1 Lune, Fueled by Tragedy
+	2 Sciel, Prescient
+	2 Maelle, Ever Restless
+	1 The Paintress
+	2 Verso, Cursed by Memory
+	2 Chromatic Coating
+	1 Monoco, Trophy Vaunter
+	2 Lumière, Expeditions' Birth
+	2 For Those Who Come After
+	2 Fracture
+	2 Lumina Converter
+	2 Barrier Breaker
+	2 Endless Tower
+	1 Golgra, Brawler's Peak
+	2 Sprong
+	2 Expedition Banner
+	1 Renoir, the Unpainted
+	2 Esquie, Youth's Bliss
+	2 Aria of the Soul
+	2 Aria of the Soul
+	2 Mask Keeper
+	2 Visages
+	2 Pliant Moissoneusse
+	1 Sirene
+	1 Maelle, sans Alicia
+	2 Renoir's Creation
+	1 Clea, Meddling Shadow
+[uncommon(3)]
+	4 Prosthetic Overcharge
+	4 Flicker
+	4 Monolith Colossus
+	4 Uncanny Mime
+	4 Gustave, Hope's Inventor
+	4 Hidden Gestral Village
+	4 Pardox Danseuse
+	4 Paradigm Killer
+	4 Sacred Gestral River
+	4 Gestral Merchant
+	4 Verso's Despair
+	4 Chaos Canvas
+	4 Mask of Visages
+	4 Ballet Tempter
+	4 Those Who Come After
+	4 Scieleson
+	4 Expedition Sixty
+	4 Bruler
+[common(6)]
+	8 Expedition Journal
+	8 Aqueous Luster
+	8 Bloodwhet Cultist
+	8 Bourgeon
+	8 Obscur
+	8 Gestral Arena
+	8 Grandis Orator
+	8 Imposing Stalact
+	8 Gestral Tournament Warriors
+	8 Lancelier
+	8 Portier
+	8 Veilleur
+	8 Grayscale
+	8 Fight the Merchant
+	8 Ancient Sanctuary
+	8 Flying Waters
+	8 Dark Shores
+	8 Indigo Tree
+	8 Forgotten Battlefield
+	8 Sirene's Dress
+	8 Frozen Hearts
+	8 Endless Night Sanctuary
+	8 Esoteric Ruins
+	8 Monoco's Station
+	8 Pugnacious Gestrals
+	8 Arena Ringmaster
+	8 Clair
+	8 Esquie's Magic Rock
+	8 Enforce Emotion
+[common | masterpiece(1)]
+	8 Expedition Journal
+	8 Aqueous Luster
+	8 Bloodwhet Cultist
+	8 Bourgeon
+	8 Obscur
+	8 Gestral Arena
+	8 Grandis Orator
+	8 Imposing Stalact
+	8 Gestral Tournament Warriors
+	8 Lancelier
+	8 Portier
+	8 Veilleur
+	8 Grayscale
+	8 Fight the Merchant
+	8 Ancient Sanctuary
+	8 Flying Waters
+	8 Dark Shores
+	8 Indigo Tree
+	8 Forgotten Battlefield
+	8 Sirene's Dress
+	8 Frozen Hearts
+	8 Endless Night Sanctuary
+	8 Esoteric Ruins
+	8 Monoco's Station
+	8 Pugnacious Gestrals
+	8 Arena Ringmaster
+	8 Clair
+	8 Esquie's Magic Rock
+	8 Enforce Emotion
+[foil(1)]
+	2 Gommage
+	6 Prosthetic Overcharge
+	6 Flicker
+	1 Lune, Fueled by Tragedy
+	12 Expedition Journal
+	2 Sciel, Prescient
+	6 Monolith Colossus
+	2 Maelle, Ever Restless
+	1 The Paintress
+	2 Verso, Cursed by Memory
+	12 Aqueous Luster
+	12 Bloodwhet Cultist
+	12 Bourgeon
+	2 Chromatic Coating
+	12 Obscur
+	1 Monoco, Trophy Vaunter
+	12 Gestral Arena
+	2 Lumière, Expeditions' Birth
+	6 Uncanny Mime
+	2 For Those Who Come After
+	12 Grandis Orator
+	6 Gustave, Hope's Inventor
+	12 Imposing Stalact
+	6 Hidden Gestral Village
+	12 Gestral Tournament Warriors
+	12 Lancelier
+	2 Fracture
+	12 Portier
+	12 Veilleur
+	6 Pardox Danseuse
+	2 Lumina Converter
+	6 Paradigm Killer
+	12 Grayscale
+	6 Sacred Gestral River
+	6 Gestral Merchant
+	12 Fight the Merchant
+	6 Verso's Despair
+	6 Chaos Canvas
+	2 Barrier Breaker
+	2 Endless Tower
+	12 Ancient Sanctuary
+	12 Flying Waters
+	12 Dark Shores
+	12 Indigo Tree
+	12 Forgotten Battlefield
+	12 Sirene's Dress
+	12 Frozen Hearts
+	12 Endless Night Sanctuary
+	12 Esoteric Ruins
+	12 Monoco's Station
+	12 Pugnacious Gestrals
+	1 Golgra, Brawler's Peak
+	2 Sprong
+	12 Arena Ringmaster
+	12 Clair
+	12 Esquie's Magic Rock
+	6 Mask of Visages
+	12 Enforce Emotion
+	2 Expedition Banner
+	1 Renoir, the Unpainted
+	2 Esquie, Youth's Bliss
+	2 Aria of the Soul
+	2 Aria of the Soul
+	2 Mask Keeper
+	2 Visages
+	2 Pliant Moissoneusse
+	1 Sirene
+	6 Ballet Tempter
+	1 Maelle, sans Alicia
+	2 Renoir's Creation
+	6 Those Who Come After
+	6 Scieleson
+	1 Clea, Meddling Shadow
+	6 Expedition Sixty
+	6 Bruler
+[wildcard(1)]
+	7 Gommage
+	15 Prosthetic Overcharge
+	15 Flicker
+	4 Lune, Fueled by Tragedy
+	6 Expedition Journal
+	7 Sciel, Prescient
+	15 Monolith Colossus
+	7 Maelle, Ever Restless
+	4 The Paintress
+	7 Verso, Cursed by Memory
+	6 Aqueous Luster
+	6 Bloodwhet Cultist
+	6 Bourgeon
+	7 Chromatic Coating
+	6 Obscur
+	4 Monoco, Trophy Vaunter
+	6 Gestral Arena
+	7 Lumière, Expeditions' Birth
+	15 Uncanny Mime
+	7 For Those Who Come After
+	6 Grandis Orator
+	15 Gustave, Hope's Inventor
+	6 Imposing Stalact
+	15 Hidden Gestral Village
+	6 Gestral Tournament Warriors
+	6 Lancelier
+	7 Fracture
+	6 Portier
+	6 Veilleur
+	15 Pardox Danseuse
+	7 Lumina Converter
+	15 Paradigm Killer
+	6 Grayscale
+	15 Sacred Gestral River
+	15 Gestral Merchant
+	6 Fight the Merchant
+	15 Verso's Despair
+	15 Chaos Canvas
+	7 Barrier Breaker
+	7 Endless Tower
+	6 Ancient Sanctuary
+	6 Flying Waters
+	6 Dark Shores
+	6 Indigo Tree
+	6 Forgotten Battlefield
+	6 Sirene's Dress
+	6 Frozen Hearts
+	6 Endless Night Sanctuary
+	6 Esoteric Ruins
+	6 Monoco's Station
+	6 Pugnacious Gestrals
+	4 Golgra, Brawler's Peak
+	7 Sprong
+	6 Arena Ringmaster
+	6 Clair
+	6 Esquie's Magic Rock
+	15 Mask of Visages
+	6 Enforce Emotion
+	7 Expedition Banner
+	4 Renoir, the Unpainted
+	7 Esquie, Youth's Bliss
+	7 Aria of the Soul
+	7 Aria of the Soul
+	7 Mask Keeper
+	7 Visages
+	7 Pliant Moissoneusse
+	4 Sirene
+	15 Ballet Tempter
+	4 Maelle, sans Alicia
+	7 Renoir's Creation
+	15 Those Who Come After
+	15 Scieleson
+	4 Clea, Meddling Shadow
+	15 Expedition Sixty
+	15 Bruler

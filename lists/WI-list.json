@@ -1,0 +1,778 @@
+﻿[
+    {
+        "card_name": "Weaver's Crest",
+        "number": 10,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Needolin Song",
+        "number": 15,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Hallownest's First Knight",
+        "number": 22,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Eternal Ordeal",
+        "number": 28,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Sister Splinter",
+        "number": 40,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Lace, Fatewoven",
+        "number": 5,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Uumuu",
+        "number": 18,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Black Egg",
+        "number": 19,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Nightmare King Grimm",
+        "number": 31,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Moss Mother",
+        "number": 39,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "The Radiance",
+        "number": 7,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Delusions of Grandeur",
+        "number": 11,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Hallownest's Last Knight",
+        "number": 23,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "The Widow of Bellheart",
+        "number": 36,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "God Tamer Fool",
+        "number": 37,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Blaspheme",
+        "number": 1,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Dreams of Futures Passed",
+        "number": 12,
+        "shape": "saga",
+        "set": "WI",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Lost Kin",
+        "number": 24,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Grimm Troupe",
+        "number": 29,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Maskfly",
+        "number": 38,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Divine, Troupe Artisan",
+        "number": 2,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Dung Defender",
+        "number": 13,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Morbid Manufacturing",
+        "number": 25,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Pharloom's Ire",
+        "number": 32,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dream no More",
+        "number": 3,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Mistwraith",
+        "number": 14,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Nosk",
+        "number": 26,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Grimmkin",
+        "number": 30,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Warrior Dreams",
+        "number": 9,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Sanctum's Vice",
+        "number": 16,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Zote the Unremitting",
+        "number": 27,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "Primal Aspid",
+        "number": 33,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dreamer's Plight",
+        "number": 4,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Seer of Souls",
+        "number": 17,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Corrode",
+        "number": 20,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Sting Shard",
+        "number": 34,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Oblobble",
+        "number": 6,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fell Sibling",
+        "number": 21,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Traitor Lord",
+        "number": 35,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Stagway Beast",
+        "number": 8,
+        "shape": "adventure",
+        "set": "WI",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Paintmaster Disciple",
+        "number": 50,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Soul Master",
+        "number": 56,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Hornet's Wake",
+        "number": 44,
+        "shape": "saga",
+        "set": "WI",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Phylum Collector",
+        "number": 51,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Lifeblood",
+        "number": 58,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mantis Lord",
+        "number": 46,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Of Void and Silken Threads",
+        "number": 59,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Nailmaster Disciples",
+        "number": 48,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Rite of the Pollip",
+        "number": 52,
+        "shape": "saga",
+        "set": "WI",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Massive Moss Charger",
+        "number": 47,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Sherma, Pilgrim Most Devout",
+        "number": 55,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Obsessive Mappings",
+        "number": 49,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Watcher Knight",
+        "number": 60,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Enter Hallownest",
+        "number": 57,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Lace's Resolve",
+        "number": 45,
+        "shape": "saga",
+        "set": "WI",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Savage Beastfly",
+        "number": 53,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Hornet, Apocalypse Witness",
+        "number": 43,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Shakra, Extant Wanderer",
+        "number": 54,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Absolute Radiance",
+        "number": 41,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Grand Mother Silk",
+        "number": 42,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Diving Bell",
+        "number": 63,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "False Knight's Armor",
+        "number": 64,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Magnetite Dice",
+        "number": 67,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Peace Strider",
+        "number": 68,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Pierce Strider",
+        "number": 69,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Pure Nail",
+        "number": 70,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Scuttlebrace",
+        "number": 72,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Smog and Spirits",
+        "number": 74,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "White Palace",
+        "number": 76,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Cogfly",
+        "number": 61,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Cogwork Dancers",
+        "number": 62,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Fourth Chorus",
+        "number": 65,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Godseeker",
+        "number": 66,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Rosary Cannon",
+        "number": 71,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Shakram",
+        "number": 73,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Soul Vessel",
+        "number": 75,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Passage of Higher Beings",
+        "number": 78,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Bellheart",
+        "number": 77,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

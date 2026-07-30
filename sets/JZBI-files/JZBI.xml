@@ -1,0 +1,3132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>JZBI</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>End Buster</name>
+			<text>Flying
+When End Buster enters, place a +1/+1 counter and a flying counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/0.png" num="12">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Original, Worldshaper</name>
+			<text>Trample
+Whenever you draw a card, put a +1/+1 counter on Original.
+{T}: You may remove a +1/+1 counter from target creature you control. If a counter is removed this way, add one mana of any color. Then repeat this process.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/1.png" num="128">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Finale, Griefbringer</name>
+			<text>Trample, ward {3}
+Finale, Griefbringer can&apos;t block.
+Whenever Finale attacks, sacrifice it at end of combat.
+Whenever you are attacked, create a 1/1 black Pest creature token.
+Whenever another permanent leaves the battlefield, put a +1/+1 counter on Finale.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/2.png" num="117">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1BBRR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Bargainer&apos;s Cache</name>
+			<text>Islandwalk
+Whenever The Bargainer&apos;s Cache attacks, scry 4.
+Whenever The Bargainer&apos;s Cache deals combat damage to a player, draw two cards.
+Crew 2</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/3.png" num="150">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ekrimaniac</name>
+			<text>When Ekrimaniac enters, destroy target artifact.
+Whenever an artifact is put into a graveyard from the battlefield, put a +1/+1 counter on Ekrimaniac.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/4.png" num="74">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2R/PR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Callous Strip Miner</name>
+			<text>Whenever Callous Strip Miner attacks or blocks, you may sacrifice a land. If you do, distribute three +1/+1 counters among any number of target creatures you control.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/5.png" num="50">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brewbooster</name>
+			<text>Deathtouch, unleash (You may have this creature enter with a +1/+1 counter on it. It can&apos;t block as long as it has a +1/+1 counter on it.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/6.png" num="49">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B/PB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brewer Benevolent</name>
+			<text>Lifelink
+Whenever you cast an instant spell, place a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/7.png" num="8">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voidsoarer</name>
+			<text>Flying
+Whenever Voidsoarer attacks, you may exile target creature you control. You may instead exile target permanent you control if your devotion to blue is eight or greater. Then return the exiled card to the battlefield under its owner&apos;s control</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/8.png" num="44">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hero of the Village</name>
+			<text>Whenever Hero of the Village enters or a creature dealt damage by Hero of the Village this turn dies, create a 1/1 white Villager creature token. It has &quot;{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.&quot;
+Hero of the Village gets +1/+1 for each Villager you control.
+{4}: Hero of the Village gains menace and can block an additional creature until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/9.png" num="16">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3WWW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Canopy Guerilla</name>
+			<text>Reach
+Landfall — Whenever a land enters under your control, you may pay {2}{G}{G}. If you do, creatures you control get +3/+3 and gain trample until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/10.png" num="92">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rageful Broadcast</name>
+			<text>Target creature you control fights target creature you don&apos;t control. Then another target creature you control fights another target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/11.png" num="143">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R/GR/G</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hellbound Oracle</name>
+			<text>As long as your devotion to red is eight or more, creatures you control have haste and menace. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)
+Whenever another creature you control dies, surveil X, where X is that creature&apos;s mana value. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/12.png" num="78">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4RRR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loveable Upstart</name>
+			<text>Flying
+Metalcraft — When Loveable Upstart enters, if you control three or more artifacts, draw a card.
+Whenever you draw your second card each turn, put a +1/+1 counter on Loveable Upstart.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/13.png" num="38">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pandora</name>
+			<text>When Pandora enters, sacrifice it unless you pay {2}. Then you may pay {1}. If you do, Pandora becomes a Plains Island Swamp Mountain Forest in addition to its other types.
+{T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/14.png" num="169">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Godless Shrine</name>
+			<text>As Godless Shrine enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/15.png" num="162">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Steam Vents</name>
+			<text>As Steam Vents enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/16.png" num="173">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Overgrown Tomb</name>
+			<text>As Overgrown Tomb enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/17.png" num="168">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Breeding Pool</name>
+			<text>As Breeding Pool enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/18.png" num="158">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Watery Grave</name>
+			<text>As Watery Grave enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/19.png" num="180">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple Garden</name>
+			<text>As Temple Garden enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/20.png" num="177">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blood Crypt</name>
+			<text>As Blood Crypt enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/21.png" num="157">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hallowed Fountain</name>
+			<text>As Hallowed Fountain enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/22.png" num="163">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Stomping Ground</name>
+			<text>As Stomping Ground enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/23.png" num="174">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sacred Foundry</name>
+			<text>As Sacred Foundry enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/24.png" num="172">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Cauldron</name>
+			<text>Defender
+When Corrupted Cauldron enters, create two 2/2 black Ooze creature tokens, then place a +1/+1 counter on each creature you control.
+Whenever a creature you control dies, place up to one -1/-1 counter on target creature.
+{T}, Sacrifice a creature: Proliferate.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/25.png" num="139">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Ooze Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5B/GB/G</manacost>
+				<cmc>7</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Esoteric Lotus</name>
+			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Esoteric Lotus enters tapped with two stun counters on it unless it was kicked.
+{T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/26.png" num="153">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eight F--king Bears</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/27.png" num="95">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>GGGG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bequeath to Slag</name>
+			<text>Destroy target artifact. Bequeath to Slag deals damage to target player equal to that artifact&apos;s mana value.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/28.png" num="72">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bequeath to Ruins</name>
+			<text>Destroy target artifact. Target creature gets +X/+X until end of turn, where X is that artifact&apos;s mana value.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/29.png" num="89">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disdain</name>
+			<text>Devoid (This card has no color.)
+Enchant creature
+As Disdain enters, choose a color.
+Enchanted creature has protection from the chosen color. (This permanent can&apos;t be targeted, dealt damage, enchanted, or equipped by anything with that color.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/30.png" num="11">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W/PW</manacost>
+				<cmc>3</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amber Mortis</name>
+			<text>{T}: Add {C}.
+{P}, {T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/31.png" num="148">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Coagulate</name>
+			<text>Target creature gets +3/-3 and gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/32.png" num="52">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adriel, Bloodcrag Tyrant</name>
+			<text>Other creatures get -1/-1.
+Whenever a creature dies, its controller loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/33.png" num="138">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/RB/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bane of the Impossible</name>
+			<text>Living weapon
+Indestructible
+Equipped creature gets +2/+2 and has &quot;Whenever this creature deals damage to a player, exile target artifact or enchantment that player controls.&quot;
+Equip {2}</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/34.png" num="149">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evergreen Evensong</name>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Search your library for up to two basic land cards, put them onto the battlefield, then shuffle. They enter tapped unless {R} was spent to cast Evergreen Evensong.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/35.png" num="97">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Serotiny</name>
+			<text>Landfall — Whenever a land enters under your control, creatures you control get +1/+1 until end of turn.
+Whenever a land is put into your graveyard from the battlefield, put a +1/+1 counter on each creature you control.
+Creatures you control have trample as long as there are nine or more total land cards under your control and in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/36.png" num="133">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hinterland Devotee</name>
+			<text>Landfall — Whenever a land enters under your control, Hinterland Devotee gains +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/37.png" num="100">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stairway to Heaven</name>
+			<text>Look at the top three cards of your library. You may reveal any number of land cards from among them and put the revealed cards onto the battlefield. Put the rest on top of your library in any order.
+Draw three cards.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/38.png" num="135">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GUR</manacost>
+				<cmc>5</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>False Phoenix</name>
+			<text>Flying
+Whenever the third creature dies each turn, return False Phoenix from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/39.png" num="59">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wraith Appraiser</name>
+			<text>Prowess
+{2}{B}, Sacrifice Wraith Appraiser: Destroy target artifact.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/40.png" num="71">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Isa, the Founder</name>
+			<text>Double strike, prowess
+Whenever an opponent casts their first spell each turn, they may pay {2}. If they don&apos;t, tap target creature that player controls.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/41.png" num="141">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W/UW/U</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mevia, Essence of Conflict</name>
+			<text>Haste, soulbond
+As long as Mevia, Essence of Conflict is paired with another creature, each of those creatures has haste, double strike, and &quot;This creature attacks each turn if able. Whenever this creature attacks, return it to its owner&apos;s hand at end of combat.&quot;</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/42.png" num="125">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nypmh Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miloni, Esfonmeri&apos;s Matron</name>
+			<text>Landfall — Whenever a land enters under your control, create a 1/1 white Human creature token.
+{T}, add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/43.png" num="126">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skeptical Suppliant</name>
+			<text>{T}: Scry 2, then you may reveal the top card of your library. If a legendary card is revealed this way, place a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/44.png" num="41">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ego Death</name>
+			<text>Destroy target nontoken creature. Its controller creates a token that&apos;s a copy of the destroyed creature, except it&apos;s colorless and loses all abilities. It enters with an additional +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/45.png" num="56">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ætherflight Mage</name>
+			<text>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/46.png" num="26">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U/PU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cyril, Soul Chauffeur</name>
+			<text>Delirium — At the beginning of your upkeep, reveal the top four cards of your library. If there are four or more card types among cards in your graveyard, put up to one land card revealed this way onto the battlefield. Then put the rest into your graveyard.
+{2}, {T}: You may cast target creature card from your graveyard until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/47.png" num="115">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nymph Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1BBGG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Call to Alms</name>
+			<text>(You may cast a legendary instant only if you control a legendary creature or planeswalker.)
+Create three 1/1 white Human creature tokens.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/48.png" num="9">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Eversource</name>
+			<text>Haste
+{T}: Add two mana of any color. Each opponent creates a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/49.png" num="116">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Told Tales</name>
+			<text>Exile target instant or sorcery card from a graveyard then cast a copy of it without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/50.png" num="136">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lefre, Forge Bulwark</name>
+			<text>Lifelink
+Creatures you control can block an additional creature.
+Metalcraft — Whenever Lefre, Forge Bulwark is dealt damage, distribute two +1/+1 counters among up to two other target creatures. Then repeat this process if you control three or more artifacts.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/51.png" num="123">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4GW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Penitentiary Cell</name>
+			<text>Defender
+When Penitentiary Cell dies, create a 1/1 white Villager creature token. It has &quot;{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.&quot;</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/52.png" num="155">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Redstone Monstrosity</name>
+			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Whenever Redstone Monstrosity attacks, choose up to two target creatures defending player controls. Those creatures must block it this turn if able.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/53.png" num="80">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Psychophage</name>
+			<text>Flying
+Whenever another creature you control dies, each opponent mills three cards.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/54.png" num="40">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thaumaturge Eclectic</name>
+			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+{BP}{B}, Sacrifice another creature: Draw a card.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/55.png" num="69">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bitter Struggle</name>
+			<text>Target creature you control fights target creature you don&apos;t control. When the creature you control wins the fight, put two +1/+1 counters on it.
+You gain 3 life.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/56.png" num="90">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Destitution</name>
+			<text>When Destitution enters, exile target creature you control and target creature you don&apos;t control until Destitution leaves the battlefield.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/57.png" num="10">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W/PW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Adriel&apos;s Omen</name>
+			<text>For each creature, that creature&apos;s controller chooses one —
+• Pay 2 life.
+• Put a -1/-1 counter on that creature.
+Draw a card.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/58.png" num="45">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peat Nekojins</name>
+			<text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/59.png" num="20">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/PW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Esfonmeri Tenant</name>
+			<text>Tapped creatures you control get +0/+1.
+{T}, Tap another untapped creature you control: Add {G}{G}.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/60.png" num="96">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Æther Sap</name>
+			<text>Add two mana in any combination of colors.
+Draw a card.
+Flashback—Sacrifice an untapped land. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/61.png" num="46">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Impaler Titan</name>
+			<text>Metalcraft — When Impaler Titan enters, if you control three or more artifacts, destroy target creature with flying.
+As long as Impaler Titan is equipped, it has reach.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/62.png" num="62">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>False Leviathan</name>
+			<text>Vigilance
+Whenever the second land enters each turn, return False Leviathan from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/63.png" num="98">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ash Keeper</name>
+			<text>Landfall — Whenever a land enters under your control, Ash Keeper gains menace until end of turn.
+{T}, Sacrifice three other creatures: Search your library for a land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/64.png" num="87">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grovebound Envoy</name>
+			<text>Landfall — Whenever a land enters under your control, each opponent loses 1 life.
+Whenever a land card is put into your graveyard from the battlefield, target opponent loses 3 life.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/65.png" num="120">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Culona, the Ætherken</name>
+			<text>Battle cry
+Whenever a permanent you control becomes the target of a spell, put a charge counter on Culona, the Ætherken.
+Remove two charge counter from Culona: Creatures you control get +2/+2 and gain flying until end of turn. Draw a card.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/66.png" num="114">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nymph Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enthroned Soulcarver</name>
+			<text>Delirium — As long as there are four or more card types among cards in your graveyard, Enthroned Soulcarver gets +2/+2.
+Sacrifice another creature: Each player discards a card. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/67.png" num="58">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Xathregos, Forgotten</name>
+			<text>Flying, menace, battle cry
+When Xathregos, Forgotten enters, you may sacrifice any number of other creatures. For each creature sacrificed this way, create a 2/2 black Zombie creature token and put a +1/+1 counter on Xathregos.
+Whenever a creature dies, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/68.png" num="137">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4WWBB</manacost>
+				<cmc>8</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rosewitch</name>
+			<text>When Rosewitch dies, you may discard a card. If you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/69.png" num="81">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/PR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wastebearer</name>
+			<text>When Wastebearer dies, you may exile two cards from your graveyard. If you do, return Wastebearer to your hand.
+Cycling {W} ({W}, Discard this card: Draw a card.)
+When you cycle Wastebearer, exile up to three target cards from target graveyard.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/70.png" num="22">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Construct Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scar-Evoked</name>
+			<text>Flying, menace
+When Scar-Evoked enters, target land you control becomes a 4/4 Elemental creature with indestructible and trample until Scar-Evoked leaves the battlefield. It&apos;s still a land.
+At the beginning of combat on your turn, untap target land creature you control.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/71.png" num="132">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4RRGG</manacost>
+				<cmc>8</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ætherweft Wandering</name>
+			<text>Choose land or nonland, then reveal the top three cards of your library. Put each card of the chosen kind in your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/72.png" num="108">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Razed Reflection</name>
+			<text>Discard up to two cards, then draw cards equal to the number of cards discarded this way plus one.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/73.png" num="129">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bereft Gouger</name>
+			<text>Flying
+When Bereft Gouger enters, you may sacrifice another permanent. If you do, target player sacrifices a permanent that shares a type with the sacrificed permanent.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/74.png" num="48">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guardian Shadow</name>
+			<text>Flash
+Bestow {3}{W} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/75.png" num="14">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Timeless Dream</name>
+			<text>Each player draws a card.
+Draw a card.
+Flashback {U}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/76.png" num="42">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stoneshapen Wyrm</name>
+			<text>Flying
+Stoneshapen Wyrm gets +1/+1 for each basic land type you control.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/77.png" num="85">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feywhisper Guide</name>
+			<text>Whenever you draw a card, Feywhisper Guide gets +1/+1 until end of turn.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/78.png" num="31">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nidoform</name>
+			<text>Islandwalk (This creature can&apos;t be blocked as long as defending player controls an Island.)
+Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)
+When you cycle Nidoform, return target land card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/79.png" num="102">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lakeside Nekojin</name>
+			<text>Prowess
+When Lakeside Nekojin enters, reveal the top three cards of your library. Put a nonland, noncreature card revealed this way into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/80.png" num="36">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harpy Aspirant</name>
+			<text>Flying, soulbond
+As long as Harpy Aspirant is paired with another creature, each of those creatures has lifelink.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/81.png" num="15">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smithy Nekojin</name>
+			<text>Metalcraft — At the beginning of your upkeep, if you control three or more artifacts, put a first strike counter on target equipped creature you control.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/82.png" num="84">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ecotone</name>
+			<text>As an additional cost to cast this spell, sacrifice an untapped land.
+Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/83.png" num="94">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G/P</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Runic Rearguard</name>
+			<text>Runic Rearguard can block an additional creature.
+Sacrifice another creature: Gain 2 life. Runic Rearguard gets +1/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/84.png" num="131">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corpserot Drake</name>
+			<text>Corpserot Drake enters with an additional three -1/-1 counters on it.
+Flying
+Whenever the second creature dies each turn, remove a -1/-1 counter from Corpserot Drake.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/85.png" num="53">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Foray Frontliner</name>
+			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
+Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/86.png" num="77">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flammeum Mortia</name>
+			<text>Flammeum Mortia deals 3 damage to target creature. If a creature dealt damage this way would die this turn, exile it instead. At the beginning of your next upkeep, return each creature card exiled this way to the battlefield under your control. They gain haste until end of turn. Sacrifice those creatures at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/87.png" num="76">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Condemmed Routmaker</name>
+			<text>Dash {BP}{RP} (You may cast this spell for its dash cost. If you do, it gains haste, and it&apos;s returned from the battlefield to its owner&apos;s hand at the beginning of the next end step.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/88.png" num="113">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Temple Arbiter</name>
+			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
+Cycling {GW}{GW} ({GW}{GW}, Discard this card: Draw a card.)
+When you cycle Temple Arbiter, exile two target cards from a graveyard.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/89.png" num="145">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/WG/W</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Xathregos&apos;s Ichor</name>
+			<text>Enchant creature
+Enchanted creature has flying and is an Angel in addition to its other types.
+Whenever enchanted creature attacks, its controller may exile four target cards from a graveyard. If at least four cards are exiled this way, enchanted creature gets +2/+2 until end of turn. Untap enchanted creature.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/90.png" num="24">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Acolyte&apos;s Page</name>
+			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+When Acolyte&apos;s Page enters, put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/91.png" num="4">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icon of Hope</name>
+			<text>Enchant permanent
+Whenever enchanted permanent becomes tapped, gain 2 life.
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Icon of Hope, gain 3 life.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/92.png" num="17">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Assimilated Royal</name>
+			<text>Lands you control have exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/93.png" num="88">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assigned Martyr</name>
+			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Sacrifice Assigned Martyr: Creatures you control get +1/+1 and gain vigilance and haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/94.png" num="109">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lifeblade</name>
+			<text>If you gained six or more life this turn, you may cast Lifeblade as though it had flash and without paying its mana cost.
+If you lost six or more life this turn, you may cast Lifeblade as though it had flash and without paying its mana cost.
+Lifelink, protection from white and from black.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/95.png" num="124">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>WWBB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slag Spewer</name>
+			<text>Flying
+Metalcraft — Slag Spewer gets +2/+0 as long as you control three or more artifacts.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/96.png" num="83">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deiscape</name>
+			<text>Shroud (This land can&apos;t be the target of spells or abilities.)
+{T}: Add {C}.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/97.png" num="159">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Reclaimant Nekojin</name>
+			<text>Forestwalk (This creature can&apos;t be blocked as long as defending player controls a Forest.)
+When Reclaimant Nekojin enters, you may destroy target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/98.png" num="103">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Murdered Crow</name>
+			<text>Flying
+Constellation — Whenever Murdered Crow or another enchantment enters under your control, each opponent mills one card. Then mill cards equal to the total number of cards milled this way.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/99.png" num="63">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Zombie Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Patrician Nekojin</name>
+			<text>When Patrician Nekojin enters, you may exile target creature card from a graveyard. If at least one card is exiled this way, create a 2/2 black Zombie creature token.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/100.png" num="65">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Window of the Soul</name>
+			<text>Proliferate (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Scry X, where X is the number of counters on target permanent or player. (To scry X, look at the top X cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/101.png" num="147">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U/B</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thrall Liege</name>
+			<text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)
+Skeletons and Zombies you control get +1/+1.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/102.png" num="70">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Actuality</name>
+			<text>Creature tokens you control have &quot;Whenever this creature attacks or blocks, it gets +2/+0 until end of turn. Sacrifice it at the end of combat.&quot;
+Cycling {2}{W}
+When you cycle Actuality, populate. (Create a token that&apos;s a copy of a creature token you control.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/103.png" num="5">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zephyrrhicism</name>
+			<text>As an additional cost to cast Zephyrrhicism, sacrifice any number of creatures. Zephyrrhicism costs {1} less to cast for each creature sacrificed this way.
+Create a 1/1 green Dryad creature token with &quot;{T}: Add {G}.&quot; for each Forest you control.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/104.png" num="107">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>7G</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dzoavits</name>
+			<text>When Dzoavits dies, each player chooses a nontoken permanent they control. Exile the chosen permanents.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/105.png" num="55">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kanatowa, Ascendant</name>
+			<text>Flying, vigilance
+Other creatures with flying you control get +1/+1 and have vigilance.
+Whenever a creature with flying you control attacks or blocks, gain 1 life.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/106.png" num="122">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1WWUU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deadeye Oni</name>
+			<text>Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)
+Deadeye Oni enters with an additional +1/+1 counter and an additional first strike counter on it if it was kicked.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/107.png" num="140">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grovebound Consul</name>
+			<text>{T}, Exile target creature card and target land card from your graveyard: Create a 1/1 green Dryad creature token with &quot;{T}: Add {G}.&quot;</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/108.png" num="119">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Razed Defiance</name>
+			<text>Destroy target land. Its controller creates two 1/1 green Dryad creature tokens with &quot;{T}: Add {G}.&quot;</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/109.png" num="79">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shelter from the Rain</name>
+			<text>Counter target spell. If a spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard. Gain life equal to that spell&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/110.png" num="134">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Band of Misfits</name>
+			<text>Band of Misfits&apos;s power and toughness are each equal to the number of nonlegendary creatures you control.
+Protection from legendary creatures.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/111.png" num="7">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Endspark</name>
+			<text>{T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/112.png" num="152">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>CC</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leach Titan</name>
+			<text>Colorless permanents you control have shroud.
+Colorless spells you cast can&apos;t be the target of spells or abilities.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/113.png" num="3">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/114.png" num="166">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/115.png" num="176">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/116.png" num="160">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/117.png" num="171">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/118.png" num="164">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/119.png" num="161">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/120.png" num="167">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/121.png" num="165">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/122.png" num="170">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/123.png" num="175">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wyrmbann</name>
+			<text>Enchant creature
+Enchanted creature has soulbond and &quot;As long as this creature is paired with another creature, each of those creatures gets +3/+3, has flying, and is a Dragon in addition to its other types.&quot; (You may pair that creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/124.png" num="86">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fish Upon a Star</name>
+			<text>Create a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;
+Draw a card.
+Flashback {2}{U}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/125.png" num="33">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>False Spider</name>
+			<text>Reach
+Whenever a player draws their third card each turn, return False Spider from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/126.png" num="30">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chromas Criomag</name>
+			<text>Chromas Criomag is all colors.
+Bestow {5} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
+When you cast Chromas Criomag, counter it unless three or more colors were spent to cast it.
+Whenever Chromas Criomag or enchanted creature deals combat damage to a player, draw three cards.
+Enchanted creature gets +3/+3.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/127.png" num="1">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Avatar Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chromas Ultimatum</name>
+			<text>Exile target nonland permanent.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/128.png" num="112">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chromas Geata</name>
+			<text>{T}, Sacrifice Chromas Geata: Choose one —
+• Exile target nonland permanent, then return it to the battlefield under its owner&apos;s control.
+• Return target nonland permanent to its owner&apos;s hand.
+• Add two mana in any combination of colors.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/129.png" num="151">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Psyche Æthercruth</name>
+			<text>Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Flying
+Whenever Psyche Æthercruth deals combat damage to a player, that player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/130.png" num="142">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/BU/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanguinary Stature</name>
+			<text>Target blocked creature with power 1 or less gains first strike and deathtouch until end of turn.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/131.png" num="67">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Assimilated Shepherd</name>
+			<text>Creature tokens you control have lifelink.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/132.png" num="6">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bole Wrecker</name>
+			<text>Sacrifice a land: Until end of turn, Bole Wrecker can&apos;t be blocked if defending player controls a permanent that shares a land type with the sacrificed land.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/133.png" num="91">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hydra Transgression</name>
+			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Sacrifice another permanent: Put a +1/+1 counter on Hydra Transgression and regenerate it. (The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/134.png" num="121">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flesh Mantis</name>
+			<text>Sacrifice two other creatures: Return target land card from your graveyard to the battlefield. Untap Flesh Mantis.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/135.png" num="118">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4G/PB</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grodadh, Rot&apos;s End</name>
+			<text>Flying
+Whenever a land is put into a graveyard from anywhere, create a 2/2 green Insect creature token with flying.
+Whenever an Insect, Pest, or Spider you control deals combat damage to a player, that player discards a card at random, then loses life equal to that card&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/136.png" num="61">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ætherbloat Guardian</name>
+			<text>Suspend 4—{U}{U}
+When Ætherbloat Guardian enters, you may reveal a card from your hand. If you do, each opponent mills {X}, where X is the mana value of the revealed card. X is three times the mana value of the revealed card instead if there are seven or more Islands on the battlefield.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/137.png" num="25">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Territorial Atrocities</name>
+			<text>Target creature with power 4 or greater fights another target creature with power 4 or greater. For each of those creatures, that creature&apos;s controller may draw a card.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/138.png" num="106">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cavalry Conscript</name>
+			<text>As an additional cost to cast Cavalry Conscript, sacrifice a creature.
+Cavalry Conscript enters tapped.
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/139.png" num="51">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruinic Cerberus</name>
+			<text>When Ruinic Cerberus enters, you may reveal the top card of your library. If a creature card with power 4 or greater is revealed this way, draw two cards.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/140.png" num="104">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duslach, Rot&apos;s Origin</name>
+			<text>Menace
+Landfall — Whenever a land enters the battlefield under your control, create a 1/1 black Pest creature token.
+Whenever an Insect, Pest, or Spider you control deals combat damage to a player, untap target land you control.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/141.png" num="93">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Pest Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4GGG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sky&apos;s Scream</name>
+			<text>Whenever a source you control deals noncombat damage to an opponent, surveil 1.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle Sky&apos;s Scream, it deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/142.png" num="82">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Moss&apos;s Tears</name>
+			<text>Landfall — Whenever a land enters under your control, surveil 1.
+Cycling {3}{G}
+When you cycle Moss&apos;s Tears, search your library for a land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/143.png" num="101">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Portentious Lense</name>
+			<text>Whenever equipped creature attacks and isn&apos;t blocked, you may reveal the top card of your library. If you do, equipped creature gets +X/+X until end of turn, where X is that card&apos;s mana value.
+Equip {2}</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/144.png" num="156">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wayside Feast</name>
+			<text>Gain 3 life.
+Untap target creature.
+Flashback {2}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+When this card is put into exile from anywhere, gain 1 life for each creature you control.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/145.png" num="23">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grey Castaway</name>
+			<text>Kicker—Sacrifice an artifact or enchantment. (You may sacrifice an artifact or enchantment in addition to any other costs as you cast this spell.)
+Grey Castaway costs {2} less to cast if it was kicked.
+Lifelink</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/146.png" num="60">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enervating Crowkeep</name>
+			<text>Flying
+When Enervating Crowkeep enters, target player reveals a card at random from their hand. That player chooses one —
+• That player discards the revealed card.
+• That player loses life equal to the revealed card&apos;s mana value.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/147.png" num="57">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Retired Journeyman</name>
+			<text>Shroud (This creature can&apos;t be the target of spells or abilities.)
+Whenever Retired Journeyman blocks, you gain life equal to its toughness.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/148.png" num="21">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kusi, Leyline Cartographer</name>
+			<text>Landfall — Whenever a land enters under your control, scry 3. Then you may reveal the top card of your library. If a land card is revealed this way, put it into your hand.
+{T}, Discard a land card: Target creature can&apos;t be blocked until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/149.png" num="35">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1UUU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irastus</name>
+			<text>When Irastus enters, create a colorless Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot;
+Metalcraft — Sacrifice an artifact: Tap target creature. Activate only if you control three or more artifacts.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/150.png" num="18">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uma</name>
+			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Horses you control get +1/+1 and have haste.
+Attacking Humans you control get +1/+0.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/151.png" num="146">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horse Human</type>
+				<maintype>Creature</maintype>
+				<manacost>R/WR/WR/WR/W</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chromas Seeker</name>
+			<text>Flying
+When Chromas Seeker enters, choose two colors other than blue. Chromas seeker enters with a number of additional +1/+1 counters on it equal to your devotion to the chosen colors.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/152.png" num="28">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Okina Matara, Chromas</name>
+			<text>Indestructible
+For each color, as long as your devotion to that color is less than two, Okina Matara, Chromas isn&apos;t a creature.
+As long as its a creature, Okina has hexproof.
+{T}, Add {W}{U}{B}{R}{G}. Then, shuffle Okina into your library if it isn&apos;t a creature.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/153.png" num="127">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Currents</name>
+			<text>When Divine Currents enters, target land becomes an Island in addition to its other types until Divine Currents leaves the battlefield.
+When Divine Currents enters, create a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;
+Fish you control are enchantments in addition to their other types.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/154.png" num="29">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Uncanny Artistry</name>
+			<text>Flash
+Uncanny Artistry enters as a copy of another permanent on the battlefield, except it isn&apos;t legendary and is an enchantment in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/155.png" num="43">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lochstealer</name>
+			<text>When Lochstealer enters, exile target land until Lochstealer leaves the battlefield.
+Lochstealer can&apos;t be blocked as long as defending player controls a permanent that shares a name with the exiled card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/156.png" num="37">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hoarfrost Lynx</name>
+			<text>Landfall — Whenever a land enters under your control, draw a card. Then return Hoarfrost Lynx to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/157.png" num="34">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thanatic Bull</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Menace, trample</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/158.png" num="68">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ox Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>7BBB</manacost>
+				<cmc>10</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Canyon Vivifer</name>
+			<text>Constellation — Whenever Canyon Vivifer or another enchantment enters under your control, up to one target land you control becomes a 3/3 Elemental creature with haste until end of turn. It&apos;s still a land.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/159.png" num="73">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Wolf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Amalgamaw</name>
+			<text>Madness—Pay half your starting life total, rounded up. (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Whenever a card is put into an opponent&apos;s graveyard from anywhere, that player loses 1 life.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/160.png" num="47">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BBBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sanguine Script</name>
+			<text>Whenever you lose life, put that many charge counters on Sanguine Script.
+{T}, Remove three charge counters from Sanguine Script: Draw a card.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/161.png" num="144">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>False Cherub</name>
+			<text>{T}, Sacrifice False Cherub: Exile target card from a graveyard.
+Whenever a player gains life for the third time each turn, return False Cherub from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/162.png" num="13">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shillehrig</name>
+			<text>Landfall — Whenever a land enters under your control, put a +1/+1 counter on Shillehrig.
+When Shillehrig dies, gain 1 life for each counter on it.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/163.png" num="105">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nymph Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bangle Finch</name>
+			<text>Flying
+Metalcraft — Bangle Finch gets +2/+2 as long as you control three or more artifacts.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/164.png" num="27">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravager Raven</name>
+			<text>Flying
+When Ravager Raven enters, you may sacrifice a land. If you do, draw two cards.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/165.png" num="66">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Festerspot Toad</name>
+			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+When Festerspot Toad enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/166.png" num="99">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>False Serpent</name>
+			<text>Haste
+Whenever a player loses life for the third time each turn, return False Serpent from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/167.png" num="75">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Salamander</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bhainn Wardens</name>
+			<text>Flying
+When Bhainn Wardens enters, create two 0/1 blue Fish creature tokens with &quot;Sacrifice this creature: Add {1}.&quot; Then draw a card.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/168.png" num="110">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Finding Familiar</name>
+			<text>Flying
+Whenever Finding Familiar or enchanted creature attacks, scry 1.
+Whenever enchanted creature attacks, draw a card.
+Bestow {1}{U}{U}{U}
+Enchanted creature gets +2/+1 and has flying.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/169.png" num="32">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caustic Hydra</name>
+			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Caustic Hydra enters with X +1/+1 counters on it.
+Whenever a creature with one or more -1/-1 counters on it dies, put that many +1/+1 counters on Caustic Hydra.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/170.png" num="111">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XBG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mindwrack Conceit</name>
+			<text>Tap target creature. Target player mills X cards, where X is that creature&apos;s total power and toughness.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/171.png" num="39">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hollowed Dryss</name>
+			<text>Landfall — Whenever a land enters under your control, Hollowed Dryss gains all activated abilities of that card until end of turn.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/172.png" num="154">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1P</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kingly Poltergeist</name>
+			<text>Equipped creatures you control gain +2/+2.
+Whenever you cast a noncreature spell, you may attach target equipment you control to target creature you control.
+Metalcraft — {T}, Sacrifice an artifact: Search your library for an Equipment card, put it onto the battlefield, then shuffle. Activate only if you control three or more artifacts.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/173.png" num="19">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hello to a World</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You may put a card you own from outside the game named Wastes into your hand.
+II — Draw a card.
+III — Add {C}.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/174.png" num="2">JZBI</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>C</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wastes</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/175.png" num="178">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wastes</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/176.png" num="179">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Demonic Divination</name>
+			<text>Each player mills five cards. Then, each player returns a card from their graveyard to their hand.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/177.png" num="54">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rot Wench</name>
+			<text>{T}, Sacrifice Rot Wench: Return target card from your graveyard that was put there this turn to your hand.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/178.png" num="130">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necromaniac</name>
+			<text>Zombies you control have haste.
+Whenever a Zombie enters under your control, untap Necromaniac.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/JZBI-files/img/179.png" num="64">JZBI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/PB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

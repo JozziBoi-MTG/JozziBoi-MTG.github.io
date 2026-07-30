@@ -1,0 +1,1339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>TLB</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Giant-Crusher</name>
+			<text>Equipped creature gets +3/+1 and has trample and &quot;Whenever this creature becomes tapped, put a stun counter on it.&quot;
+Equip {1}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/0.jpg" num="63">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beget Vengeance</name>
+			<text>Destroy target creature. Its controller creates a 1/1 colorless Spirit creature token with deathtouch.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/1.jpg" num="22">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rivers of Blood</name>
+			<text>Equipped creature gets +2/+0 and has first strike.
+Whenever equipped creature deals damage to a creature, choose one —
+• Put a -1/-1 counter on that creature.
+• Remove all counters from that creature. Rivers of Blood deals damage to that creature equal to twice the number of counters removed this way.
+Equip {2}</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/2.jpg" num="66">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heolstor, the Nightlord</name>
+			<text>Creatures you control get +1/+0 for each legendary creature you control and have haste.
+When Heolstor, the Nightlord enters, reveal cards from the top of your library until you reveal a legendary creature. Put that card into your hand and the rest on the bottom of your library in a random order.
+Whenever another legendary creature enters the battlefield under your control, Heolstor deals damage equal to that card&apos;s mana value to target player.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/3.jpg" num="55">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roundtable Duchess</name>
+			<text>Double strike (This creature deals both first-strike and regular combat damage.)
+Roundtable Duchess gets +1/+1 for each Aura and Equipment attached to it.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/4.jpg" num="11">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/PW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Restage</name>
+			<text>Enchant creature
+When Restage enters, surveil 1.
+If enchanted creature would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/5.jpg" num="38">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/6.jpg" num="70">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shrouded City Noklateo</name>
+			<text>{T}: Add {W}.
+{1}{W}, {T}: Shrouded City Noklateo becomes a copy of target Equipment you control until end of turn except it is is named Shrouded City Noklateo and is a legendary land in addition to its other types. Attach it to target creature you control.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/7.jpg" num="75">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Limveld&apos;s Crater</name>
+			<text>{T}: Add {R}.
+{1}{R}, {T}: Put a +1/+1 counter on target creature. It gets +1/+0 and gains menace until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/8.jpg" num="72">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Limveld&apos;s Ice Spire</name>
+			<text>{T}: Add {U}.
+{1}{U}, {T}: Untap target nonland, noncreature permanent.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/9.jpg" num="73">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Limveld&apos;s Rotwood</name>
+			<text>{T}: Add {B}
+{1}{B}, {T}: Put a -1/-1 counter on target creature.
+{1}{B}, {T}: Remove a counter from target creature.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/10.jpg" num="74">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Empiric Recluse</name>
+			<text>When Empiric Recluse enters, return an instant or sorcery card at random from your graveyard to your hand.
+When you cast your second instant or sorcery spell each turn, Empiric Recluse deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/11.jpg" num="33">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glory-Seeking Raider</name>
+			<text>Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
+As long as Glory-Seeking Raider is paired with another creature, each of those creatures gets +1/+1 and has trample.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/12.jpg" num="46">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Archaic Executor</name>
+			<text>First strike (This creature deals combat damage before creatures without first strike.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/13.jpg" num="3">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suncatcher</name>
+			<text>Prevent all combat damage that would be dealt to and dealt by target creature until end of turn. That creature&apos;s controller draws a card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/14.jpg" num="13">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ironeye</name>
+			<text>Reach
+{T}: The next time one or more counters would be put on target creature this turn, that many plus one counters are put on it instead.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/15.jpg" num="16">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flock&apos;s Guardian</name>
+			<text>Flock&apos;s Guardian can block an additional creature.
+When Flock&apos;s Guardian enters, you may attach target Equipment you control to it.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/16.jpg" num="8">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gladius, Beast of Night</name>
+			<text>Menace
+Whenever Gladius, Beast of Night attacks, you may exile it. If you do, create three 4/3 red Wolf creature tokens tapped and attacking. Sacrifice those tokens at the beginning of the next end step. If at least one creature is sacrificed this way, return Gladius to the battlefield tapped under its owner&apos;s control. Otherwise, put Gladius into its owner&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/17.jpg" num="52">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>3UBR</manacost>
+				<cmc>6</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fulghor, Darkdrift Knight</name>
+			<text>Trample, haste
+Whenever Fulghor, Darkdrift Knight attacks, put a +1/+1 counter on each creature you control. Then, you may have target creature you control fight target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/18.jpg" num="51">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Godskin Apostles</name>
+			<text>Ward {2}
+Whenever another creature you control dies, choose one —
+• Put a +1/+1 counter on Godskin Apostles.
+• Godskin Apostles gains menace until end of turn.
+• Untap Godskin Apostles.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/19.jpg" num="28">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nihil</name>
+			<text>Suspend 3—{RP}
+Nihil deals 3 damage to each creature with a counter on it. It deals 5 damage to those creatures instead if Nihil was cast from exile.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/20.jpg" num="36">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reality Rift</name>
+			<text>Exile all permanents you control, then return those cards to the battlefield under your control. Reality Rift deals damage equal to the number of permanents exiled this way divided as you choose among any number of targets. Exile Reality Rift. Until end of turn, you can&apos;t cast spells named Reality Rift.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/21.jpg" num="57">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5UURR</manacost>
+				<cmc>9</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glintstone Staff</name>
+			<text>Equipped creature has prowess. (Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)
+Whenever you cast an instant or sorcery spell, equipped creature deals 1 damage to target player.
+Equip {1}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/22.jpg" num="64">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Radagon Icon</name>
+			<text>Instant and sorcery spells you control cost {1} less to cast.
+{UR}, {T}: The next sorcery spell you cast this turn can be cast as though it had flash.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/23.jpg" num="61">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UU/RR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frenzied Flame</name>
+			<text>Enchanted creature gets +5/+0.
+Whenever enchanted creature deals combat damage, tap it and put a stun counter on it.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/24.jpg" num="34">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Finger Seal</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+When Finger Seal enters, you may counter target enchantment spell.
+Enchanted creature gets +1/+1.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/25.jpg" num="7">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gnoster, Wisdom of Night</name>
+			<text>Creatures with flying you control have vigilance.
+Creatures without flying you control have trample.
+{0}: Gnoster, Wisdom of Night gets -1/-1 and gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/26.jpg" num="53">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Animus, Ascendant Light</name>
+			<text>Bestow {BR}{BR}{BR}{BR}
+Flying
+Whenever Animus, Ascendant Light or enchanted creature dies, discard a card at random from your hand.
+When you cast Animus for its bestow cost, you may return target creature card from your graveyard to the battlefield. If you do, attach Animus to it. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+Enchanted creature gets +5/+3.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/27.jpg" num="60">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Blinkmoth</type>
+				<maintype>Creature</maintype>
+				<manacost>3B/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tibia Mariner</name>
+			<text>Swampwalk (This creature can&apos;t be blocked as long as defending player controls a Swamp.)
+Whenever you return a creature card from your graveyard to your hand and whenever a creature enters the battlefield under your control from a graveyard, put a +1/+1 counter on Tibia Mariner.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/28.jpg" num="31">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal Tear</name>
+			<text>Crystal Tear is all colors.
+For each color of mana spent to cast Crystal Tear, choose one —
+• Scry 3.
+• Gain 5 life.
+• Populate.
+• Proliferate.
+• Draw a card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/29.jpg" num="1">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soulsworn Skeleton</name>
+			<text>{1}{B}: Return Soulsworn Skeleton from your graveyard to the battlefield tapped.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/30.jpg" num="30">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burning Erdtree</name>
+			<text>Destroy target enchantment. Each player draws cards equal to half the mana value of the destroyed enchantment, rounded up.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/31.jpg" num="5">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Darksteel Greatsword</name>
+			<text>Darksteel Greatsword is indestructible.
+Equipped creature gets +3/+0.
+Equip {2}{P}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/32.jpg" num="62">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>P</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Libra, Equilibriuous</name>
+			<text>At the beginning of each player&apos;s upkeep, exile cards from the top of your library until you exile a nonland card. Then you may cast that card from exile as though it had flash and without paying its mana cost.
+Whenever you cast a spell from exile during an opponent&apos;s turn, that player chooses two —
+• That player gains X life.
+• Deal X damage to Libra, Equilibrious&apos;s controller.
+• Target creature gains +X/+X until end of turn.
+• Target creature gains -X/-0 until end of turn.
+Where X is the spell&apos;s mana value.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/33.jpg" num="56">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RRWW</manacost>
+				<cmc>7</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oracle Envoy</name>
+			<text>When Oracle Envoy enters, you gain 2 life.
+{T}: Add {C}. Spend this mana only to cast historic spells or activate abilities of historic permanents you control. (Artifacts, legendaries, and Sagas are historic.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/34.jpg" num="10">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wylder</name>
+			<text>Metalcraft — When Wylder enters, if you control three or more artifacts, it deals 3 damage to target creature or player.
+When Wylder dies, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/35.jpg" num="32">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pickled Fowl-Foot</name>
+			<text>The next time you would draw one or more cards this turn except the first one you draw in your draw step, draw that many plus two cards instead, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/36.jpg" num="18">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U/P</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Site of Grace</name>
+			<text>Exile target creature, then return it to the battlefield under its owner&apos;s control. It enters with an additional +1/+1 counter on it.
+Draw cards equal to the greatest power among creatures you control.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/37.jpg" num="58">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Duty Beyond Death</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Creatures you control gain indestructible until end of turn. Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/38.jpg" num="6">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ceramic Revenant</name>
+			<text>{3}{B}{B}: Return Ceramic Revenant from your graveyard to the battlefield, then return another target Spirit creature card from your graveyard to the battlefield with a finality counter on it.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/39.jpg" num="25">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doting Butler</name>
+			<text>When Doting Butler enters, return another target creature you control to its owner&apos;s hand, then destroy target creature or enchantment.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/40.jpg" num="27">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Agile Page</name>
+			<text>Haste
+Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/41.jpg" num="2">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burly Cook</name>
+			<text>Trample
+Whenever Burly Cook attacks, discard a card.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/42.jpg" num="24">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sorcerer&apos;s Rise</name>
+			<text>Whenever you cast a spell, put a charge counter on Sorcerer&apos;s Rise.
+Whenever you cast an instant or sorcery spell, put a charge counter on Sorcerer&apos;s Rise.
+{T}, Remove four charge counters from Sorcerer&apos;s Rise: Draw a card.
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/43.jpg" num="67">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hut of the Faithful</name>
+			<text>Whenever you cast a spell, put a charge counter on Hut of the Faithful.
+Whenever you cast an enchantment spell, put a charge counter on Hut of the Faithful.
+{T}, Remove four charge counters from Hut of the Faithful: Return target enchantment card from your graveyard to your hand.
+{T}: Add {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/44.jpg" num="65">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Notorious Poison Swamp</name>
+			<text>Enchant land
+Enchanted land is a Swamp in addition to its other types.
+Whenever enchanted land&apos;s controller attacks you, put a -1/-1 counter on target attacking creature.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/45.jpg" num="29">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B/PBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scarlet Rot</name>
+			<text>Enchant creature
+Enchanted creature has &quot;At the beginning of your upkeep, put a -1/-1 counter on this creature.&quot;
+When enchanted creature dies, you may destroy target enchantment.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/46.jpg" num="39">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R/PRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maris, Fathom of Night</name>
+			<text>Flying
+Ward—Maris, Fathom of Night&apos;s controller draws a card.
+Whenever you draw a card, each opponent loses 2 life.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/47.jpg" num="17">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>UUUUU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soporific Teardrop</name>
+			<text>Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)
+Tap target creature, then draw a card. Repeat this process for each time Soporific Teardrop was kicked.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/48.jpg" num="19">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Runebear</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/49.jpg" num="47">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Limveld&apos;s Castle</name>
+			<text>{T}: Add {G}
+{1}{G}, {T}: Put a +1/+1 counter on target creature. Until end of turn, it gains &quot;Whenever this creature becomes the target of a spell or ability, put a +1/+1 counter on it. This ability triggers only twice each turn.&quot;</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/50.jpg" num="71">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Totem Stela</name>
+			<text>Totem Stela deals 4 damage to target creature or player.
+Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/51.jpg" num="41">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adel, Baron of Night</name>
+			<text>Adel, Baron of Night attacks each turn if able.
+Landfall — Whenever a land enters under your control, Adel, Baron of Night and another target creature you control each get +3/+1 and gain menace until end of turn.
+Sacrifice two other nonland permanents: Surveil 2, draw a card, then you may put a land card from your graveyard onto the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/52.jpg" num="48">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BRG</manacost>
+				<cmc>6</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>6/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fissure in the Fog</name>
+			<text>Each player chooses a creature they control. Tap each creature that wasn&apos;t chosen. At the beginning of the next untap step, untap all creatures.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/53.jpg" num="15">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Caligo, Miasma of Night</name>
+			<text>Flying
+Whenever Caligo, Miasma of Night enters and at the beginning of your upkeep, for each opponent, choose target nonland permanent that player controls without a stun counter on it and put a stun counter on it.
+At the beginning of each player&apos;s end step, that player mills cards equal to the number of tapped permanents they control.
+Whenever Caligo attacks, you may cast target nonland, noncreature card from your graveyard without paying its mana cost and as though it had flash.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/54.jpg" num="49">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5WUB</manacost>
+				<cmc>8</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit Shelter</name>
+			<text>{P}, {T}: Draw a card. Activate only if you control at least two other legendary permanents.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/55.jpg" num="68">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bell Bearing Hunter</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/56.jpg" num="23">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tincture Scholar</name>
+			<text>{4}, {T}: Proliferate. Draw a card. This ability costs {2} less to activate if you cast an instant or sorcery spell this turn. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/57.jpg" num="20">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloistered Undertaker</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Landfall — Whenever a land enters under your control, Cloistered Undertaker fights another target creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/58.jpg" num="50">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Balancer Harmonia</name>
+			<text>Battle cry, undying
+When Balancer Harmonia dies, return another target Angel card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/59.jpg" num="4">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Angel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WWW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Melina, Grace&apos;s Guide</name>
+			<text>Bestow {2}{W}{W}
+When Melina, Grace&apos;s Guide enters, search your library for an enchantment card, reveal it, and put it into your hand. Then shuffle.
+Melina&apos;s power and toughness are each equal to the number of enchantments you control.
+Enchantment spells you cast cost {1} less to cast.
+Enchanted creature gets +X/+X, where X is the number of enchantments you control.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/60.jpg" num="9">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wending Grace</name>
+			<text>Enchant creature
+Enchanted creature has hexproof and indestructible as long as its owner controls exactly one creature.
+Cycling {2}{W}
+When you cycle Wending Grace, target creature gains undying until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/61.jpg" num="14">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Radahn, Starscourge</name>
+			<text>Suspend 3—{R}{R}
+Menace
+When Radahn, Starscourge enters, it deals 2 damage to each other creature.
+When Radahn, Starscourge leaves the battlefield, each opponent discards a card at random. Then draw a card.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/62.jpg" num="37">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2RRR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormveil Warhawk</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/63.jpg" num="40">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Teardrop Scarab</name>
+			<text>When Teardrop Scarab enters, draw a card.
+When Teardrop Scarab dies, add {C}.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/64.jpg" num="69">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Straghess, Dreglord</name>
+			<text>Trample
+Straghess, Dreglord&apos;s power and toughness are each equal to the number of creature cards in exile.
+Whenever Straghess enters or attacks, for each player, exile target creature card from that player&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/65.jpg" num="59">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gnoster, Wisdom of Night</name>
+			<text>Creatures with flying you control have vigilance.
+Creatures without flying you control have trample.
+{0}: Gnoster, Wisdom of Night gets -1/-1 and gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/66.jpg" num="54">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crucible Knight</name>
+			<text>{3}{G}{G}: Monstrosity 3 (If this creature isn&apos;t monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Crucible Knight becomes monstrous, it gains flying and trample until end of turn.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/67.jpg" num="43">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Erdtree Avatar</name>
+			<text>Landfall — Whenever a land enters under your control, target creature gets +X/+X until end of turn, where X is the number of enchantments you control.
+Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/68.jpg" num="44">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elemental Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evergaol</name>
+			<text>Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/69.jpg" num="45">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deacons of the Deep</name>
+			<text>As an additional cost to cast Deacons of the Deep, discard a card.
+When Deacons of the Deep dies, manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/70.jpg" num="26">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grafted Scion</name>
+			<text>Double strike
+When Grafted Scion enters, create two colorless Equipment artifact tokens with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot; attached to Grafted Scion.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/71.jpg" num="35">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tree Sentinel</name>
+			<text>Landfall — Whenever a land enters under your control, Tree Sentinel gets +2/+1 until end of turn.
+Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/72.jpg" num="42">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roundtable Hold</name>
+			<text>Creatures you control get +1/+1.
+{W}, {T}: Target creature you control phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/73.jpg" num="12">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WWW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Abyss Watcher</name>
+			<text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)
+When Abyss Watcher dies, put a menace counter on target creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/TLB-files/img/74.jpg" num="21">TLB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

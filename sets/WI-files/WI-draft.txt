@@ -1,0 +1,1051 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Hornet, Apocalypse Witness",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Spider Warrior",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Lost Kin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "White Palace",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Enchantment Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "The Radiance",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Legendary Enchantment Creature — Angel",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Blaspheme",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Fell Sibling",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Shade",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Primal Aspid",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Insect",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Dreamer's Plight",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Black Egg",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Delusions of Grandeur",
+			"rarity": "common",
+			"mana_cost": "{U/P}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Hallownest's Last Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/P}",
+			"type": "Legendary Creature — Shade Knight",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Obsessive Mappings",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Soul Vessel",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Enchantment Artifact",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Seer of Souls",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Shaman",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Hornet's Wake",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Pharloom's Ire",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Dream no More",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Lifeblood",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Sting Shard",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Rite of the Pollip",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Lace, Fatewoven",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Construct Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Lace's Resolve",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Dreams of Futures Passed",
+			"rarity": "common",
+			"mana_cost": "{2}{U/P}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Bellheart",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Town",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Passage of Higher Beings",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Massive Moss Charger",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Plant Construct",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Maskfly",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Diving Bell",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Grand Mother Silk",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Scuttlebrace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Magnetite Dice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Rosary Cannon",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Cogfly",
+			"rarity": "common",
+			"mana_cost": "{P}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Mantis Lord",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Hallownest's First Knight",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Creature — Horror Knight",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Mistwraith",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Fourth Chorus",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Corrode",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Peace Strider",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Pierce Strider",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Morbid Manufacturing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Sister Splinter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}{G}{G}",
+			"type": "Legendary Creature — Plant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Cogwork Dancers",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Insect Golem",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Sherma, Pilgrim Most Devout",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Insect Cleric",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Savage Beastfly",
+			"rarity": "common",
+			"mana_cost": "{G}{G}{U}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "The Widow of Bellheart",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Enchantment Creature — Spider Shaman",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Moss Mother",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Of Void and Silken Threads",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Shakra, Extant Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Enter Hallownest",
+			"rarity": "common",
+			"mana_cost": "{B/G}{B/G}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Absolute Radiance",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — God Horror",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Nosk",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B/P}{B/P}",
+			"type": "Creature — Horror",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Nailmaster Disciples",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Paintmaster Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Insect Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "Godseeker",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Soul Master",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Creature — Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Sanctum's Vice",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Uumuu",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Watcher Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/B}",
+			"type": "Creature — Insect Spirit Knight",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Needolin Song",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Phylum Collector",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Shade",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Oblobble",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Insect",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Dung Defender",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Insect Knight",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "False Knight's Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Traitor Lord",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Insect Horror Warrior",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Grimm Troupe",
+			"rarity": "rare",
+			"mana_cost": "{R/P}{R/P}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Grimmkin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "God Tamer Fool",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Insect Barbarian",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Pure Nail",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Warrior Dreams",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect Spirit Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Nightmare King Grimm",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Devil",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Divine, Troupe Artisan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Insect Artificer",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/71.jpg"
+			}
+		},
+		{
+			"name": "Eternal Ordeal",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Zote the Unremitting",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Stagway Beast",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Insect",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Weaver's Crest",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Smog and Spirits",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Enchantment Artifact",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Shakram",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/77.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Hornet, Apocalypse Witness
+	2 The Radiance
+	2 Pharloom's Ire
+	2 Rite of the Pollip
+	2 Lace, Fatewoven
+	2 Bellheart
+	1 Passage of Higher Beings
+	2 Massive Moss Charger
+	1 Grand Mother Silk
+	1 Hallownest's First Knight
+	2 Sister Splinter
+	2 Sherma, Pilgrim Most Devout
+	1 The Widow of Bellheart
+	1 Absolute Radiance
+	2 Soul Master
+	1 Phylum Collector
+	2 Grimm Troupe
+	1 Nightmare King Grimm
+	1 Eternal Ordeal
+	1 Weaver's Crest
+[uncommon(3)]
+	4 Lost Kin
+	4 White Palace
+	4 Blaspheme
+	4 Black Egg
+	4 Hallownest's Last Knight
+	4 Hornet's Wake
+	4 Dream no More
+	4 Lace's Resolve
+	4 Diving Bell
+	4 Scuttlebrace
+	4 Magnetite Dice
+	4 Mantis Lord
+	4 Peace Strider
+	4 Pierce Strider
+	4 Morbid Manufacturing
+	4 Moss Mother
+	4 Of Void and Silken Threads
+	4 Shakra, Extant Wanderer
+	4 Nosk
+	4 Nailmaster Disciples
+	4 Paintmaster Disciple
+	4 Uumuu
+	4 Watcher Knight
+	4 Needolin Song
+	4 False Knight's Armor
+	4 Grimmkin
+	4 Pure Nail
+	4 Warrior Dreams
+	4 Divine, Troupe Artisan
+	4 Zote the Unremitting
+	4 Smog and Spirits
+[common(6)]
+	8 Fell Sibling
+	8 Primal Aspid
+	8 Dreamer's Plight
+	8 Delusions of Grandeur
+	8 Obsessive Mappings
+	8 Soul Vessel
+	8 Seer of Souls
+	8 Lifeblood
+	8 Sting Shard
+	8 Dreams of Futures Passed
+	8 Maskfly
+	8 Rosary Cannon
+	8 Cogfly
+	8 Mistwraith
+	8 Fourth Chorus
+	8 Corrode
+	8 Cogwork Dancers
+	8 Savage Beastfly
+	8 Enter Hallownest
+	8 Godseeker
+	8 Sanctum's Vice
+	8 Oblobble
+	8 Dung Defender
+	8 Traitor Lord
+	8 God Tamer Fool
+	8 Stagway Beast
+	8 Shakram
+[common | masterpiece(1)]
+	8 Fell Sibling
+	8 Primal Aspid
+	8 Dreamer's Plight
+	8 Delusions of Grandeur
+	8 Obsessive Mappings
+	8 Soul Vessel
+	8 Seer of Souls
+	8 Lifeblood
+	8 Sting Shard
+	8 Dreams of Futures Passed
+	8 Maskfly
+	8 Rosary Cannon
+	8 Cogfly
+	8 Mistwraith
+	8 Fourth Chorus
+	8 Corrode
+	8 Cogwork Dancers
+	8 Savage Beastfly
+	8 Enter Hallownest
+	8 Godseeker
+	8 Sanctum's Vice
+	8 Oblobble
+	8 Dung Defender
+	8 Traitor Lord
+	8 God Tamer Fool
+	8 Stagway Beast
+	8 Shakram
+[foil(1)]
+	1 Hornet, Apocalypse Witness
+	6 Lost Kin
+	6 White Palace
+	2 The Radiance
+	6 Blaspheme
+	12 Fell Sibling
+	12 Primal Aspid
+	12 Dreamer's Plight
+	6 Black Egg
+	12 Delusions of Grandeur
+	6 Hallownest's Last Knight
+	12 Obsessive Mappings
+	12 Soul Vessel
+	12 Seer of Souls
+	6 Hornet's Wake
+	2 Pharloom's Ire
+	6 Dream no More
+	12 Lifeblood
+	12 Sting Shard
+	2 Rite of the Pollip
+	2 Lace, Fatewoven
+	6 Lace's Resolve
+	12 Dreams of Futures Passed
+	2 Bellheart
+	1 Passage of Higher Beings
+	2 Massive Moss Charger
+	12 Maskfly
+	6 Diving Bell
+	1 Grand Mother Silk
+	6 Scuttlebrace
+	6 Magnetite Dice
+	12 Rosary Cannon
+	12 Cogfly
+	6 Mantis Lord
+	1 Hallownest's First Knight
+	12 Mistwraith
+	12 Fourth Chorus
+	12 Corrode
+	6 Peace Strider
+	6 Pierce Strider
+	6 Morbid Manufacturing
+	2 Sister Splinter
+	12 Cogwork Dancers
+	2 Sherma, Pilgrim Most Devout
+	12 Savage Beastfly
+	1 The Widow of Bellheart
+	6 Moss Mother
+	6 Of Void and Silken Threads
+	6 Shakra, Extant Wanderer
+	12 Enter Hallownest
+	1 Absolute Radiance
+	6 Nosk
+	6 Nailmaster Disciples
+	6 Paintmaster Disciple
+	12 Godseeker
+	2 Soul Master
+	12 Sanctum's Vice
+	6 Uumuu
+	6 Watcher Knight
+	6 Needolin Song
+	1 Phylum Collector
+	12 Oblobble
+	12 Dung Defender
+	6 False Knight's Armor
+	12 Traitor Lord
+	2 Grimm Troupe
+	6 Grimmkin
+	12 God Tamer Fool
+	6 Pure Nail
+	6 Warrior Dreams
+	1 Nightmare King Grimm
+	6 Divine, Troupe Artisan
+	1 Eternal Ordeal
+	6 Zote the Unremitting
+	12 Stagway Beast
+	1 Weaver's Crest
+	6 Smog and Spirits
+	12 Shakram
+[wildcard(1)]
+	4 Hornet, Apocalypse Witness
+	15 Lost Kin
+	15 White Palace
+	7 The Radiance
+	15 Blaspheme
+	6 Fell Sibling
+	6 Primal Aspid
+	6 Dreamer's Plight
+	15 Black Egg
+	6 Delusions of Grandeur
+	15 Hallownest's Last Knight
+	6 Obsessive Mappings
+	6 Soul Vessel
+	6 Seer of Souls
+	15 Hornet's Wake
+	7 Pharloom's Ire
+	15 Dream no More
+	6 Lifeblood
+	6 Sting Shard
+	7 Rite of the Pollip
+	7 Lace, Fatewoven
+	15 Lace's Resolve
+	6 Dreams of Futures Passed
+	7 Bellheart
+	4 Passage of Higher Beings
+	7 Massive Moss Charger
+	6 Maskfly
+	15 Diving Bell
+	4 Grand Mother Silk
+	15 Scuttlebrace
+	15 Magnetite Dice
+	6 Rosary Cannon
+	6 Cogfly
+	15 Mantis Lord
+	4 Hallownest's First Knight
+	6 Mistwraith
+	6 Fourth Chorus
+	6 Corrode
+	15 Peace Strider
+	15 Pierce Strider
+	15 Morbid Manufacturing
+	7 Sister Splinter
+	6 Cogwork Dancers
+	7 Sherma, Pilgrim Most Devout
+	6 Savage Beastfly
+	4 The Widow of Bellheart
+	15 Moss Mother
+	15 Of Void and Silken Threads
+	15 Shakra, Extant Wanderer
+	6 Enter Hallownest
+	4 Absolute Radiance
+	15 Nosk
+	15 Nailmaster Disciples
+	15 Paintmaster Disciple
+	6 Godseeker
+	7 Soul Master
+	6 Sanctum's Vice
+	15 Uumuu
+	15 Watcher Knight
+	15 Needolin Song
+	4 Phylum Collector
+	6 Oblobble
+	6 Dung Defender
+	15 False Knight's Armor
+	6 Traitor Lord
+	7 Grimm Troupe
+	15 Grimmkin
+	6 God Tamer Fool
+	15 Pure Nail
+	15 Warrior Dreams
+	4 Nightmare King Grimm
+	15 Divine, Troupe Artisan
+	4 Eternal Ordeal
+	15 Zote the Unremitting
+	6 Stagway Beast
+	4 Weaver's Crest
+	15 Smog and Spirits
+	6 Shakram

@@ -1,0 +1,1279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DV</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Hairdash</name>
+			<text>Target creature gains flying until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/0.jpg" num="4">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Faultless Defense</name>
+			<text>Target creature gains hexproof and indestructible until end of turn. If that creature was blocking, draw a card.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/1.jpg" num="33">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glue Eaters</name>
+			<text>Target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. Then target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.
+Flashback {1}{G}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/2.jpg" num="46">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>A.B.A, Raving Creation</name>
+			<text>Undying
+Delirium — A.B.A, Raving Creation has double strike as long as there are four or more card types among cards in your graveyard.
+When A.B.A, Raving Creation dies, reveal cards from the top of your library until you reveal a land card. Deal damage to any target equal to twice the number of cards revealed this way, then put those cards into your graveyard.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/3.jpg" num="37">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Homunculus Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>BBRR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sol Badguy</name>
+			<text>Trample
+Heroic—Whenever you cast a spell that targets Sol Badguy, untap Sol Badguy and regenerate it. It gets +2+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/4.jpg" num="28">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volcanic Viper</name>
+			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. It deals double that damage to that creature instead if the creature you don&apos;t control has flying.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/5.jpg" num="30">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Totsugeki</name>
+			<text>Suspend 3—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
+If Totsugeki was cast from anywhere other than exile, deal 2 damage to any target.
+If Totsugeki was cast from exile, deal 4 damage to target player. Draw a card.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/6.jpg" num="29">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>One-Armed Catch</name>
+			<text>Counter target spell. Its controller reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. If {R} was spent to cast One-Armed Catch, it deals damage to that spell&apos;s controller equal to the number of cards revealed this way.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/7.jpg" num="16">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragon Install</name>
+			<text>Flash
+Enchant creature you control
+At the beginning of your end step, you lose the game.
+Enchanted creature gets +6/+6.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/8.jpg" num="23">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RRRR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hair Trigger</name>
+			<text>Flash
+Enchant creature
+When Hair Trigger enters, it deals 1 damage to target creature or player.
+Enchanted creature gets +2+0.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/9.jpg" num="24">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Millia Rage</name>
+			<text>Flying, first strike, vigilance
+ Whenever Millia Rage deals combat damage to a player, that player reveals cards from the top of their library until they reveal two land cards, then puts those cards into their graveyard. Then draw a card.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/10.jpg" num="51">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sixth Forbidden Spell</name>
+			<text>Enchant creature
+Enchanted creature has double strike.
+Totem armor (If enchanted enchantment would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/11.jpg" num="9">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W/PW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heaven or Hell</name>
+			<text>Target creature you control gains lifelink until end of turn. Then that creature fights target creature you don&apos;t control. For each creature that dies this way, Heaven or Hell deals damage to target player equal to that creature&apos;s toughness.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/12.jpg" num="48">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Happy Chaos</name>
+			<text>Reach, deathtouch
+Whenever you cast a spell, Happy Chaos deals 2 damage to each opponent. Each of those players reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.
+Exile thirteen target cards from a graveyard: Regenerate Happy Chaos. Return up to two target cards from your graveyard to your hand.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/13.jpg" num="47">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Concentrate on Lunacy</name>
+			<text>Draw a card.
+If a graveyard has thirteen or more cards in it, draw a card.
+If there are thirteen or more total cards in exile, draw a card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/14.jpg" num="12">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U/PU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ky Kiske</name>
+			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Other creatures you control get +1/+1.
+Whenever you cast a spell, untap target creature you control.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/15.jpg" num="8">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faust, Vibrant Revenant</name>
+			<text>Faust, Vibrant Revenant can&apos;t be blocked as long as there are thirteen or more cards in a graveyard.
+If Faust, Vibrant Revenant would deal damage to a player, prevent that damage. That player reveals cards from the top of their library until they reveal a number of land cards equal to the amount of damage prevented this way, then puts those cards into their graveyard.
+{T}: Faust deals 1 damage to each player. Then each player draws a card.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/16.jpg" num="44">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Potemkin</name>
+			<text>Delirium — Potemkin costs {3} less to cast as long as there are four or more card types among cards in your graveyard.
+Reach, haste
+When Potemkin enters, if it was cast from your hand, destroy target creature. Otherwise exile target creature an opponent controls until Potemkin leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/17.jpg" num="54">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBGG</manacost>
+				<cmc>7</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heavenly Potemkin Buster</name>
+			<text>Destroy target creature. Its controller loses life equal to its power plus its toughness.
+Suspend 5—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/18.jpg" num="19">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BBBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>May, Infatuated First Mate</name>
+			<text>Whenever you cast an instant or sorcery spell, create a 1/1 blue Whale creature token. It has &quot;At the beginning of your end step, if this creature is untapped, put a +1/+1 counter on it.&quot;
+{T}: Untap target Kraken, Leviathan, Nautilus, Octopus, Serpent, or Whale.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/19.jpg" num="15">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jellyfish Pirate&apos;s Anchor</name>
+			<text>Equipped creature gets +3/+1.
+Equip creature with power 1 or less {1}
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/20.jpg" num="66">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nagoriyuki</name>
+			<text>Lifelink, undying
+Nagoriyuki gets +3/-2 for each Equipment attached to it.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/21.jpg" num="53">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2WWBB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exanguinate</name>
+			<text>Each opponent loses X life. You gain life equal to the life lost this way.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/22.jpg" num="18">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Death-Reflective Daishō</name>
+			<text>Equipped creature gets +5/-2.
+Whenever equipped creature dies, gain 2 life.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/23.jpg" num="64">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Testament, Cynical Hermit</name>
+			<text>Whenever another creature you control dies, you may pay {1}. If you do, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+{B}, Sacrifice an artifact: Target opponent loses 2 life.
+{B}, Sacrifice four artifacts: Destroy target nonland permanent.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/24.jpg" num="21">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Druid Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Framework: Protector</name>
+			<text>Indestructible
+At the beginning of each end step, sacrifice Framework: Protector unless you control at least one other nonartifact creature.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/25.jpg" num="65">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Axl Low</name>
+			<text>Flash
+Reach
+When Axl Low enters, it gains indestructible until end of turn.
+{4}: Draw a card. Then return Axl Low to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/26.jpg" num="58">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>G/WG/W</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beguiling Familiar</name>
+			<text>Bestow {3}{U} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
+Flying
+Enchanted creature gets +1/+1 and has flying and can&apos;t be blocked.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/27.jpg" num="11">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blame the Beasts</name>
+			<text>Choose one —
+• Create a 3/3 green Beast token.
+• Target creature you control fights target creature you don&apos;t control.
+• Populate (Create a token that&apos;s a copy of a creature token you control.)
+Then choose an additional mode not yet chosen if you control a legendary creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/28.jpg" num="31">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Goldlewis Dickinson</name>
+			<text>Goldlewis Dickinson can block an additional creature.
+Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
+As long as Goldlewis Dickinson is paired with another creature, each of those creatures have vigilance and trample.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/29.jpg" num="35">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryptid&apos;s Coffin</name>
+			<text>Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature gets +2/+2 and has &quot;Whenever this creature attacks or blocks, draw a card.&quot;
+Discard a card: Equipped creature gets +2/+0 until end of turn.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/30.jpg" num="63">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daisuke&apos;s Vision</name>
+			<text>Counter target spell. If a spell is countered this way, its controller draws two cards.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/31.jpg" num="13">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U/PU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Greed Sever</name>
+			<text>Return target nonland permanent to its owner&apos;s hand unless its controller pays {1}.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/32.jpg" num="14">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Illyrian Crownsguard</name>
+			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Illyrian Crownsguard has vigilance as long as you control a legendary creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/33.jpg" num="5">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Johnny&apos;s Jellyfish Pirates</name>
+			<text>Johnny&apos;s Jellyfish Pirates gets +1/+1 and has flying as long as you control a legendary creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/34.jpg" num="7">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mist Finer</name>
+			<text>Choose one —
+• Target creature gains reach and first strike until end of turn.
+• Mist Finer deals 3 damage to target creature or player.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/35.jpg" num="52">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Zato-ONE</name>
+			<text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)
+{B}{B}, Remove a +1/+1 counter from Zato-ONE: Create a 3/1 black Shade creature token.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/36.jpg" num="22">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pocket Ghost House</name>
+			<text>Affinity for token creatures (This spell costs {1} less to cast for each token creature you control.)
+Pocket Ghost House enters with your choice of an additional haste counter, flying counter, or +1/+1 counter.
+Defender
+At the beginning of your upkeep, create a 1/1 colorless Minion creature token. For each type of counter on Pocket Ghost House, that creature enters with an additional counter of that type on it.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/37.jpg" num="70">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Minion</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jack-O&apos; Valentine</name>
+			<text>Creature tokens you control get +1/+1.
+Creature tokens you control enter with your choice of an additional haste counter, flying counter, or trample counter.
+{3}: Create a 1/1 colorless Minion creature token. Jack-O&apos; Valentine gets +1/+1 and gains flying until end of turn.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/38.jpg" num="49">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Organ of Command</name>
+			<text>{W}{W}, Sacrifice a creature token: Gain 3 life.
+{U}{U}, Sacrifice a creature token: Draw a card.
+{B}{B}, Sacrifice a creature token: Surveil 2.
+{R}{R}, Sacrifice a creature token: Deal 1 damage to target creature and 1 damage to target player.
+{G}{G}, Sacrifice a creature token: Target creature gets +2/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/39.jpg" num="69">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Full-Order Bookmark</name>
+			<text>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Search your library for up to three cards with different types not named Full-Order Bookmark, reveal them, and put them into your hand. Then shuffle.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/40.jpg" num="45">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Asuka R Kreutz</name>
+			<text>Play with your hand revealed.
+You have no maximum hand size.
+Ward {2}
+At the beginning of your upkeep, draw a card. Then Asuka R Kreutz deals damage to each opponent equal to twice the number of unique card types among cards in your hand.
+Asuka R Kreutz has all activated abilities of all cards in your hand.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/41.jpg" num="39">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elphelt Valentine</name>
+			<text>When Elphelt Valentine enters, search your library for an Aura card that could enchant it and an Equipment card, reveal them, and put them onto the battlefield attached to Elphelt. Then shuffle.
+When Elphelt Valentine leaves the battlefield, each opponent loses 2 life for each Aura and Equipment attached to it.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/42.jpg" num="43">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>3RRWW</manacost>
+				<cmc>7</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ramlethal Valentine</name>
+			<text>Flying
+Landfall—Whenever a land enters under your control, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Sacrifice an artifact: Target creature gets +2/+2 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/43.jpg" num="55">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>RRGG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ariels, False Pontiff</name>
+			<text>Indestructible
+As long as your devotion red, green, and white is less than eight, Ariels isn&apos;t a creature.
+As long as Ariels, False Pontiff is a creature, Nymphs you control get +2/+0 and have hexproof and indestructible.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/44.jpg" num="38">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>5/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Justice, Balance of Juno</name>
+			<text>Flying
+Cycling {4}{W}{W} ({4}{W}{W}, Discard this card: Draw a card.)
+When you cycle Justice, Balance of Juno, destroy all creatures.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/45.jpg" num="67">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<coloridentity>W</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slayer, Master of Dandyism</name>
+			<text>When Slayer, Master of Dandyism enters, choose one —
+• Slayer, Master of Dandyism fights target creature.
+• Target creature gets +2/+0 and gains trample until end of turn.
+{G}{G}{G}: Until end of turn, when Slayer, Master of Dandyism dies, return it to its owner&apos;s hand.
+Dash {1}{G}{G}{G}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/46.jpg" num="36">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>I-No, Annihilation Pariah</name>
+			<text>Flying, menace
+Whenever you draw a card or discard a card, I-No, Annihilation Pariah deals 1 damage to any target.
+Whenever I-No deals combat damage to a player, you may discard a card. If you do, return another target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/47.jpg" num="25">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Megalomania</name>
+			<text>At the beginning of your upkeep, you may discard a card. If you do, Megalomania deals 3 damage to target opponent. Then draw a card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/48.jpg" num="27">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lucy, Visitant Anomaly</name>
+			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever another creature dies, if that creature had a counter on it, surveil 2.
+{4}, Remove a -1/-1 counter from any number of creatures you don&apos;t control: Draw a card for each counter removed this way.
+{T}: Lucy, Visitant Anomaly deals 1 damage to target creature.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/49.jpg" num="1">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monowire</name>
+			<text>Whenever equipped creature deals damage to a creature, put a -1/-1 counter on that creature. Monowire deals 1 damage to that creature&apos;s controller.
+Equip {1}</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/50.jpg" num="68">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Baiken, Vengeful Survivor</name>
+			<text>Flash
+First strike
+When Baiken, Vengeful Survivor enters, choose two —
+• Counter target activated ability or triggered ability.
+• Exile target enchantment.
+• Baiken deals 3 damage to any target.
+• Gain 5 life.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/51.jpg" num="40">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Giovanna, Lazing Facade</name>
+			<text>Whenever another creature you control with power 4 or greater enters, choose two —
+• Creatures you control get +1/+1 until end of turn.
+• Creatures you control gain menace until end of turn.
+• Draw a card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/52.jpg" num="34">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zappa, Maligned Medium</name>
+			<text>At the beginning of your upkeep, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+At the beginning of each combat, each noncreature artifact you control becomes a 2/2 Spirit creature in addition to its other types until end of combat.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/53.jpg" num="2">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>S-Ko&apos;s Affection</name>
+			<text>Enchant creature
+Enchanted creature has &quot;Whenever this creature attacks, target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. This creature gets +X/+0 until end of turn, where X is the number cards put into a graveyard this way.&quot;</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/54.jpg" num="20">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Leo Whitefang</name>
+			<text>Defender
+Effects that alter Leo Whitefang&apos;s power alter its toughness instead, and vice versa.
+Whenever Leo Whitefang assigns lethal combat damage to each creature it is blocking, it may assign up to 3 excess damage to target attacking player.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/55.jpg" num="60">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>4G/W</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brynhildr</name>
+			<text>Enchant creature
+Enchanted creature loses defender and can&apos;t gain defender.
+Enchanted creature has trample and &quot;Effects that alter this creature&apos;s power alter its toughness instead, and vice versa.&quot;</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg" num="32">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anji Mito</name>
+			<text>Hexproof
+Whenever Anji Mito deals combat damage to an opponent, draw a card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/57.jpg" num="10">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suigetsu no Hakobi</name>
+			<text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Counter target spell that targets a permanent you control. If Suigetsu no Hakobi was kicked, draw cards equal to that spell&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/58.jpg" num="17">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chipp Zanuff</name>
+			<text>Haste
+Ninjutsu {UR}
+When Chipp Zanuff enters, creatures you control get +1/+0 until end of turn.
+Discard a card: Return Chipp Zanuff to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/59.jpg" num="42">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ninja</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jam Kuradoberi</name>
+			<text>This spell can&apos;t be countered.
+Haste, prowess
+When Jam Kuradoberi enters, you may exile any number of instant, sorcery, and enchantment cards from your graveyard. Jam Kuradoberi enters with an additional +1/+1 counter on it for each card exiled this way.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/60.jpg" num="50">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WOTCHAAA!</name>
+			<text>Choose one —
+• Target creature gains haste until end of turn.
+• Target creature gains trample until end of turn.
+• Target creature gains menace until end of turn.
+Flashback {R}{G}
+When WOTCHAAA! is put into exile from anywhere, cast a copy of it without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/61.jpg" num="62">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R/G</manacost>
+				<cmc>1</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bridget, Bubbly Bounty Hunter</name>
+			<text>Whenever Bridget, Bubbly Bounty Hunter attacks or blocks, create an Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot;
+Partner (You can have two commanders if both have partner.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/62.jpg" num="3">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roger, Tailored Trinket</name>
+			<text>Equipped creatures you control have haste.
+Phyrexian Germs you control get +0/+1.
+Equipments you control have living weapon.
+Partner</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/63.jpg" num="56">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Spirit Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kickstart My Heart</name>
+			<text>Target creature gains haste until end of turn. Create an Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot; You may attach it to the target creature.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/64.jpg" num="26">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R/P</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Delilah, Revenant&apos;s Delight</name>
+			<text>Soulbond
+As long as Delilah, Revenant&apos;s Delight is paired with another creature, Delilah has hexproof.
+{T}: Untap target creature Delilah, Revenant&apos;s Delight is paired with.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/65.jpg" num="59">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U/BU/B</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bedman&apos;s Absolute World</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Whenever a nontoken creature you control dies, create a token that&apos;s a copy of it except it&apos;s a 1/1 blue Illusion.
+{T}, Exile target creature card from a graveyard: Create a token that&apos;s a copy of the exiled card except it&apos;s a 1/1 blue Illusion.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/66.jpg" num="41">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>8WUB</manacost>
+				<cmc>11</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Venom, Genteel Hustler</name>
+			<text>Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+When Venom enters, create an Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}&quot; for each time it was kicked.
+Metalcraft — As long as you control three or more artifacts, Venom, Genteel Hustler can&apos;t be blocked.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/67.jpg" num="57">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>QV</name>
+			<text>Create an Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot;
+When QV is put into exile from anywhere, draw a card.
+Flashback {1}{WU}</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/68.jpg" num="61">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W/U</manacost>
+				<cmc>1</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Johnny, Bravado Wielder</name>
+			<text>First strike
+Whenever Johnny, Bravado Wielder attacks alone, it gets +2/+1 for each creature you control.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/69.jpg" num="6">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

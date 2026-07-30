@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/JZBI-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>JZBI visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/JZBI-files/logo.png" />
+	<img class="preload-hidden" src="../sets/DPG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/DV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/JZBI-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MCTG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SP-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TLB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WI-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/JZBI"><img src="../sets/JZBI-files/icon.png"></a>
+	
+		<a class="set-bar inactive" href="../previews/DPG"><img src="../sets/DPG-files/icon.png"></a>
+	
+		<a class="set-bar inactive" href="../previews/DV"><img src="../sets/DV-files/icon.png"></a>
+	
+		<a class="set-bar inactive" href="../previews/MCTG"><img src="../sets/MCTG-files/icon.png">Minecraft: The Gathering</a>
+	
+		<a class="set-bar inactive" href="../previews/SP"><img src="../sets/SP-files/icon.png"></a>
+	
+		<a class="set-bar inactive" href="../previews/TLB"><img src="../sets/TLB-files/icon.png"></a>
+	
+		<a class="set-bar inactive" href="../previews/WI"><img src="../sets/WI-files/icon.png"></a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/JZBI-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\9.png" id="JZBI_9" data-flag="@X" onclick="openSidebar('JZBI_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\169.png" id="JZBI_169" data-flag="@X" onclick="openSidebar('JZBI_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\160.png" id="JZBI_160" data-flag="@X" onclick="openSidebar('JZBI_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\124.png" id="JZBI_124" data-flag="@X" onclick="openSidebar('JZBI_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\93.png" id="JZBI_93" data-flag="@X" onclick="openSidebar('JZBI_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\173.png" id="JZBI_173" data-flag="@X" onclick="openSidebar('JZBI_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\149.png" id="JZBI_149" data-flag="@X" onclick="openSidebar('JZBI_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\136.png" id="JZBI_136" data-flag="@X" onclick="openSidebar('JZBI_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\4.png" id="JZBI_4" data-flag="@X" onclick="openSidebar('JZBI_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\10.png" id="JZBI_10" data-flag="@X" onclick="openSidebar('JZBI_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\132.png" id="JZBI_132" data-flag="@X" onclick="openSidebar('JZBI_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\126.png" id="JZBI_126" data-flag="@X" onclick="openSidebar('JZBI_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\5.png" id="JZBI_5" data-flag="@X" onclick="openSidebar('JZBI_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\167.png" id="JZBI_167" data-flag="@X" onclick="openSidebar('JZBI_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\141.png" id="JZBI_141" data-flag="@X" onclick="openSidebar('JZBI_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\111.png" id="JZBI_111" data-flag="@X" onclick="openSidebar('JZBI_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\125.png" id="JZBI_125" data-flag="@X" onclick="openSidebar('JZBI_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\32.png" id="JZBI_32" data-flag="@X" onclick="openSidebar('JZBI_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\87.png" id="JZBI_87" data-flag="@X" onclick="openSidebar('JZBI_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\104.png" id="JZBI_104" data-flag="@X" onclick="openSidebar('JZBI_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\48.png" id="JZBI_48" data-flag="@X" onclick="openSidebar('JZBI_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\157.png" id="JZBI_157" data-flag="@X" onclick="openSidebar('JZBI_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\85.png" id="JZBI_85" data-flag="@X" onclick="openSidebar('JZBI_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\12.png" id="JZBI_12" data-flag="@X" onclick="openSidebar('JZBI_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\133.png" id="JZBI_133" data-flag="@X" onclick="openSidebar('JZBI_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\0.png" id="JZBI_0" data-flag="@X" onclick="openSidebar('JZBI_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\156.png" id="JZBI_156" data-flag="@X" onclick="openSidebar('JZBI_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\45.png" id="JZBI_45" data-flag="@X" onclick="openSidebar('JZBI_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\109.png" id="JZBI_109" data-flag="@X" onclick="openSidebar('JZBI_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\27.png" id="JZBI_27" data-flag="@X" onclick="openSidebar('JZBI_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\162.png" id="JZBI_162" data-flag="@X" onclick="openSidebar('JZBI_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\155.png" id="JZBI_155" data-flag="@X" onclick="openSidebar('JZBI_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\39.png" id="JZBI_39" data-flag="@X" onclick="openSidebar('JZBI_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\53.png" id="JZBI_53" data-flag="@X" onclick="openSidebar('JZBI_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\35.png" id="JZBI_35" data-flag="@X" onclick="openSidebar('JZBI_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\145.png" id="JZBI_145" data-flag="@X" onclick="openSidebar('JZBI_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\8.png" id="JZBI_8" data-flag="@X" onclick="openSidebar('JZBI_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\99.png" id="JZBI_99" data-flag="@X" onclick="openSidebar('JZBI_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\69.png" id="JZBI_69" data-flag="@X" onclick="openSidebar('JZBI_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\63.png" id="JZBI_63" data-flag="@X" onclick="openSidebar('JZBI_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\90.png" id="JZBI_90" data-flag="@X" onclick="openSidebar('JZBI_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\137.png" id="JZBI_137" data-flag="@X" onclick="openSidebar('JZBI_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\100.png" id="JZBI_100" data-flag="@X" onclick="openSidebar('JZBI_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\28.png" id="JZBI_28" data-flag="@X" onclick="openSidebar('JZBI_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\79.png" id="JZBI_79" data-flag="@X" onclick="openSidebar('JZBI_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\91.png" id="JZBI_91" data-flag="@X" onclick="openSidebar('JZBI_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\46.png" id="JZBI_46" data-flag="@X" onclick="openSidebar('JZBI_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\58.png" id="JZBI_58" data-flag="@X" onclick="openSidebar('JZBI_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\159.png" id="JZBI_159" data-flag="@X" onclick="openSidebar('JZBI_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\98.png" id="JZBI_98" data-flag="@X" onclick="openSidebar('JZBI_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\103.png" id="JZBI_103" data-flag="@X" onclick="openSidebar('JZBI_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\164.png" id="JZBI_164" data-flag="@X" onclick="openSidebar('JZBI_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\61.png" id="JZBI_61" data-flag="@X" onclick="openSidebar('JZBI_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\86.png" id="JZBI_86" data-flag="@X" onclick="openSidebar('JZBI_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\163.png" id="JZBI_163" data-flag="@X" onclick="openSidebar('JZBI_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\7.png" id="JZBI_7" data-flag="@X" onclick="openSidebar('JZBI_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\152.png" id="JZBI_152" data-flag="@X" onclick="openSidebar('JZBI_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\74.png" id="JZBI_74" data-flag="@X" onclick="openSidebar('JZBI_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\142.png" id="JZBI_142" data-flag="@X" onclick="openSidebar('JZBI_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\64.png" id="JZBI_64" data-flag="@X" onclick="openSidebar('JZBI_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\57.png" id="JZBI_57" data-flag="@X" onclick="openSidebar('JZBI_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\154.png" id="JZBI_154" data-flag="@X" onclick="openSidebar('JZBI_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\6.png" id="JZBI_6" data-flag="@X" onclick="openSidebar('JZBI_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\96.png" id="JZBI_96" data-flag="@X" onclick="openSidebar('JZBI_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\29.png" id="JZBI_29" data-flag="@X" onclick="openSidebar('JZBI_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\30.png" id="JZBI_30" data-flag="@X" onclick="openSidebar('JZBI_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\78.png" id="JZBI_78" data-flag="@X" onclick="openSidebar('JZBI_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\139.png" id="JZBI_139" data-flag="@X" onclick="openSidebar('JZBI_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\82.png" id="JZBI_82" data-flag="@X" onclick="openSidebar('JZBI_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\56.png" id="JZBI_56" data-flag="@X" onclick="openSidebar('JZBI_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\75.png" id="JZBI_75" data-flag="@X" onclick="openSidebar('JZBI_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\80.png" id="JZBI_80" data-flag="@X" onclick="openSidebar('JZBI_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\177.png" id="JZBI_177" data-flag="@X" onclick="openSidebar('JZBI_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\77.png" id="JZBI_77" data-flag="@X" onclick="openSidebar('JZBI_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\83.png" id="JZBI_83" data-flag="@X" onclick="openSidebar('JZBI_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\81.png" id="JZBI_81" data-flag="@X" onclick="openSidebar('JZBI_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\13.png" id="JZBI_13" data-flag="@X" onclick="openSidebar('JZBI_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\105.png" id="JZBI_105" data-flag="@X" onclick="openSidebar('JZBI_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\60.png" id="JZBI_60" data-flag="@X" onclick="openSidebar('JZBI_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\92.png" id="JZBI_92" data-flag="@X" onclick="openSidebar('JZBI_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\171.png" id="JZBI_171" data-flag="@X" onclick="openSidebar('JZBI_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\147.png" id="JZBI_147" data-flag="@X" onclick="openSidebar('JZBI_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\166.png" id="JZBI_166" data-flag="@X" onclick="openSidebar('JZBI_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\150.png" id="JZBI_150" data-flag="@X" onclick="openSidebar('JZBI_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\54.png" id="JZBI_54" data-flag="@X" onclick="openSidebar('JZBI_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\67.png" id="JZBI_67" data-flag="@X" onclick="openSidebar('JZBI_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\37.png" id="JZBI_37" data-flag="@X" onclick="openSidebar('JZBI_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\59.png" id="JZBI_59" data-flag="@X" onclick="openSidebar('JZBI_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\44.png" id="JZBI_44" data-flag="@X" onclick="openSidebar('JZBI_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\146.png" id="JZBI_146" data-flag="@X" onclick="openSidebar('JZBI_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\143.png" id="JZBI_143" data-flag="@X" onclick="openSidebar('JZBI_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\148.png" id="JZBI_148" data-flag="@X" onclick="openSidebar('JZBI_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\76.png" id="JZBI_76" data-flag="@X" onclick="openSidebar('JZBI_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\62.png" id="JZBI_62" data-flag="@X" onclick="openSidebar('JZBI_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\140.png" id="JZBI_140" data-flag="@X" onclick="openSidebar('JZBI_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\70.png" id="JZBI_70" data-flag="@X" onclick="openSidebar('JZBI_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\179.png" id="JZBI_179" data-flag="@X" onclick="openSidebar('JZBI_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\138.png" id="JZBI_138" data-flag="@X" onclick="openSidebar('JZBI_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\165.png" id="JZBI_165" data-flag="@X" onclick="openSidebar('JZBI_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\131.png" id="JZBI_131" data-flag="@X" onclick="openSidebar('JZBI_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\158.png" id="JZBI_158" data-flag="@X" onclick="openSidebar('JZBI_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\55.png" id="JZBI_55" data-flag="@X" onclick="openSidebar('JZBI_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\102.png" id="JZBI_102" data-flag="@X" onclick="openSidebar('JZBI_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\40.png" id="JZBI_40" data-flag="@X" onclick="openSidebar('JZBI_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\106.png" id="JZBI_106" data-flag="@X" onclick="openSidebar('JZBI_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\130.png" id="JZBI_130" data-flag="@X" onclick="openSidebar('JZBI_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\2.png" id="JZBI_2" data-flag="@X" onclick="openSidebar('JZBI_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\71.png" id="JZBI_71" data-flag="@X" onclick="openSidebar('JZBI_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\51.png" id="JZBI_51" data-flag="@X" onclick="openSidebar('JZBI_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\110.png" id="JZBI_110" data-flag="@X" onclick="openSidebar('JZBI_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\101.png" id="JZBI_101" data-flag="@X" onclick="openSidebar('JZBI_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\88.png" id="JZBI_88" data-flag="@X" onclick="openSidebar('JZBI_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\43.png" id="JZBI_43" data-flag="@X" onclick="openSidebar('JZBI_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\89.png" id="JZBI_89" data-flag="@X" onclick="openSidebar('JZBI_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\41.png" id="JZBI_41" data-flag="@X" onclick="openSidebar('JZBI_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\73.png" id="JZBI_73" data-flag="@X" onclick="openSidebar('JZBI_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\36.png" id="JZBI_36" data-flag="@X" onclick="openSidebar('JZBI_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\33.png" id="JZBI_33" data-flag="@X" onclick="openSidebar('JZBI_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\11.png" id="JZBI_11" data-flag="@X" onclick="openSidebar('JZBI_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\107.png" id="JZBI_107" data-flag="@X" onclick="openSidebar('JZBI_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\161.png" id="JZBI_161" data-flag="@X" onclick="openSidebar('JZBI_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\95.png" id="JZBI_95" data-flag="@X" onclick="openSidebar('JZBI_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\50.png" id="JZBI_50" data-flag="@X" onclick="openSidebar('JZBI_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\170.png" id="JZBI_170" data-flag="@X" onclick="openSidebar('JZBI_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\42.png" id="JZBI_42" data-flag="@X" onclick="openSidebar('JZBI_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\66.png" id="JZBI_66" data-flag="@X" onclick="openSidebar('JZBI_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\68.png" id="JZBI_68" data-flag="@X" onclick="openSidebar('JZBI_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\47.png" id="JZBI_47" data-flag="@X" onclick="openSidebar('JZBI_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\151.png" id="JZBI_151" data-flag="@X" onclick="openSidebar('JZBI_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\72.png" id="JZBI_72" data-flag="@X" onclick="openSidebar('JZBI_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\84.png" id="JZBI_84" data-flag="@X" onclick="openSidebar('JZBI_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\108.png" id="JZBI_108" data-flag="@X" onclick="openSidebar('JZBI_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\94.png" id="JZBI_94" data-flag="@X" onclick="openSidebar('JZBI_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\168.png" id="JZBI_168" data-flag="@X" onclick="openSidebar('JZBI_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\65.png" id="JZBI_65" data-flag="@X" onclick="openSidebar('JZBI_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\25.png" id="JZBI_25" data-flag="@X" onclick="openSidebar('JZBI_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\135.png" id="JZBI_135" data-flag="@X" onclick="openSidebar('JZBI_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\134.png" id="JZBI_134" data-flag="@X" onclick="openSidebar('JZBI_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\178.png" id="JZBI_178" data-flag="@X" onclick="openSidebar('JZBI_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\49.png" id="JZBI_49" data-flag="@X" onclick="openSidebar('JZBI_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\1.png" id="JZBI_1" data-flag="@X" onclick="openSidebar('JZBI_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\38.png" id="JZBI_38" data-flag="@X" onclick="openSidebar('JZBI_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\153.png" id="JZBI_153" data-flag="@X" onclick="openSidebar('JZBI_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\128.png" id="JZBI_128" data-flag="@X" onclick="openSidebar('JZBI_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\113.png" id="JZBI_113" data-flag="@X" onclick="openSidebar('JZBI_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\34.png" id="JZBI_34" data-flag="@X" onclick="openSidebar('JZBI_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\3.png" id="JZBI_3" data-flag="@X" onclick="openSidebar('JZBI_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\112.png" id="JZBI_112" data-flag="@X" onclick="openSidebar('JZBI_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\26.png" id="JZBI_26" data-flag="@X" onclick="openSidebar('JZBI_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\172.png" id="JZBI_172" data-flag="@X" onclick="openSidebar('JZBI_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\127.png" id="JZBI_127" data-flag="@X" onclick="openSidebar('JZBI_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\31.png" id="JZBI_31" data-flag="@X" onclick="openSidebar('JZBI_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\129.png" id="JZBI_129" data-flag="@X" onclick="openSidebar('JZBI_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\174.png" id="JZBI_174" data-flag="@X" onclick="openSidebar('JZBI_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\52.png" id="JZBI_52" data-flag="@X" onclick="openSidebar('JZBI_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\144.png" id="JZBI_144" data-flag="@X" onclick="openSidebar('JZBI_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\22.png" id="JZBI_22" data-flag="@X" onclick="openSidebar('JZBI_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\19.png" id="JZBI_19" data-flag="@X" onclick="openSidebar('JZBI_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\21.png" id="JZBI_21" data-flag="@X" onclick="openSidebar('JZBI_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\23.png" id="JZBI_23" data-flag="@X" onclick="openSidebar('JZBI_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\20.png" id="JZBI_20" data-flag="@X" onclick="openSidebar('JZBI_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\15.png" id="JZBI_15" data-flag="@X" onclick="openSidebar('JZBI_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\16.png" id="JZBI_16" data-flag="@X" onclick="openSidebar('JZBI_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\17.png" id="JZBI_17" data-flag="@X" onclick="openSidebar('JZBI_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\24.png" id="JZBI_24" data-flag="@X" onclick="openSidebar('JZBI_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\18.png" id="JZBI_18" data-flag="@X" onclick="openSidebar('JZBI_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\14.png" id="JZBI_14" data-flag="@X" onclick="openSidebar('JZBI_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\97.png" id="JZBI_97" data-flag="@X" onclick="openSidebar('JZBI_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\114.png" id="JZBI_114" data-flag="@X" onclick="openSidebar('JZBI_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\115.png" id="JZBI_115" data-flag="@X" onclick="openSidebar('JZBI_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\116.png" id="JZBI_116" data-flag="@X" onclick="openSidebar('JZBI_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\117.png" id="JZBI_117" data-flag="@X" onclick="openSidebar('JZBI_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\118.png" id="JZBI_118" data-flag="@X" onclick="openSidebar('JZBI_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\119.png" id="JZBI_119" data-flag="@X" onclick="openSidebar('JZBI_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\120.png" id="JZBI_120" data-flag="@X" onclick="openSidebar('JZBI_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\121.png" id="JZBI_121" data-flag="@X" onclick="openSidebar('JZBI_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\122.png" id="JZBI_122" data-flag="@X" onclick="openSidebar('JZBI_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\123.png" id="JZBI_123" data-flag="@X" onclick="openSidebar('JZBI_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\175.png" id="JZBI_175" data-flag="@X" onclick="openSidebar('JZBI_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\JZBI-files\img\176.png" id="JZBI_176" data-flag="@X" onclick="openSidebar('JZBI_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="JZBI_e" data-flag="@E" onclick="openSidebar('JZBI_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="JZBI_er" data-flag="@E" onclick="openSidebar('JZBI_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

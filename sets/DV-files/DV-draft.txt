@@ -1,0 +1,936 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Hairdash",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Faultless Defense",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Glue Eaters",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "A.B.A, Raving Creation",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{R}{R}",
+			"type": "Legendary Creature — Homunculus Berserker",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Sol Badguy",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Mutant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Volcanic Viper",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Totsugeki",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "One-Armed Catch",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Dragon Install",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Hair Trigger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Millia Rage",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Sixth Forbidden Spell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/P}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Heaven or Hell",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Happy Chaos",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Horror Wizard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Concentrate on Lunacy",
+			"rarity": "uncommon",
+			"mana_cost": "{U/P}{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Ky Kiske",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Faust, Vibrant Revenant",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Horror Cleric",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Potemkin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{G}{G}",
+			"type": "Legendary Creature — Giant Soldier",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Heavenly Potemkin Buster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "May, Infatuated First Mate",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Jellyfish Pirate's Anchor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Nagoriyuki",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}{B}{B}",
+			"type": "Legendary Creature — Vampire Samurai",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Exanguinate",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Death-Reflective Daishō",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Testament, Cynical Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Druid Mutant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Framework: Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Axl Low",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Legendary Creature — Warlock",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Beguiling Familiar",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Demon",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Blame the Beasts",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Goldlewis Dickinson",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Cryptid's Coffin",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Daisuke's Vision",
+			"rarity": "uncommon",
+			"mana_cost": "{U/P}{U}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Greed Sever",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Illyrian Crownsguard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Johnny's Jellyfish Pirates",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Pirate",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Mist Finer",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Zato-ONE",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Pocket Ghost House",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct Minion",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Jack-O' Valentine",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Nymph",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Organ of Command",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Enchantment Artifact",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Full-Order Bookmark",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Asuka R Kreutz",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Elphelt Valentine",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}{W}{W}",
+			"type": "Legendary Creature — Nymph",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Ramlethal Valentine",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}{G}{G}",
+			"type": "Legendary Creature — Nymph",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Ariels, False Pontiff",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Justice, Balance of Juno",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact Creature — Construct Mutant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Slayer, Master of Dandyism",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Vampire Warrior",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "I-No, Annihilation Pariah",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Megalomania",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Lucy, Visitant Anomaly",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Monowire",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Baiken, Vengeful Survivor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Giovanna, Lazing Facade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/52.jpg"
+			}
+		},
+		{
+			"name": "Zappa, Maligned Medium",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/53.jpg"
+			}
+		},
+		{
+			"name": "S-Ko's Affection",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Leo Whitefang",
+			"rarity": "rare",
+			"mana_cost": "{4}{G/W}",
+			"type": "Legendary Creature — Human Barbarian",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "Brynhildr",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Anji Mito",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Suigetsu no Hakobi",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Chipp Zanuff",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Ninja",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Jam Kuradoberi",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "WOTCHAAA!",
+			"rarity": "uncommon",
+			"mana_cost": "{R/G}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Bridget, Bubbly Bounty Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Roger, Tailored Trinket",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Artifact Creature — Spirit Construct",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Kickstart My Heart",
+			"rarity": "uncommon",
+			"mana_cost": "{R/P}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Delilah, Revenant's Delight",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Bedman's Absolute World",
+			"rarity": "mythic",
+			"mana_cost": "{8}{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Venom, Genteel Hustler",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "QV",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Johnny, Bravado Wielder",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/69.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 A.B.A, Raving Creation
+	2 Sol Badguy
+	1 Millia Rage
+	1 Happy Chaos
+	1 Ky Kiske
+	2 Faust, Vibrant Revenant
+	2 May, Infatuated First Mate
+	1 Jack-O' Valentine
+	1 Full-Order Bookmark
+	1 Asuka R Kreutz
+	1 Elphelt Valentine
+	2 Ariels, False Pontiff
+	2 Lucy, Visitant Anomaly
+	2 Baiken, Vengeful Survivor
+	2 Leo Whitefang
+	2 Jam Kuradoberi
+	2 Roger, Tailored Trinket
+	1 Bedman's Absolute World
+	2 Venom, Genteel Hustler
+	2 Johnny, Bravado Wielder
+[uncommon(3)]
+	4 Dragon Install
+	4 Sixth Forbidden Spell
+	4 Heaven or Hell
+	4 Concentrate on Lunacy
+	4 Potemkin
+	4 Heavenly Potemkin Buster
+	4 Jellyfish Pirate's Anchor
+	4 Nagoriyuki
+	4 Exanguinate
+	4 Death-Reflective Daishō
+	4 Testament, Cynical Hermit
+	4 Framework: Protector
+	4 Axl Low
+	4 Goldlewis Dickinson
+	4 Cryptid's Coffin
+	4 Daisuke's Vision
+	4 Zato-ONE
+	4 Pocket Ghost House
+	4 Organ of Command
+	4 Ramlethal Valentine
+	4 Justice, Balance of Juno
+	4 Slayer, Master of Dandyism
+	4 I-No, Annihilation Pariah
+	4 Megalomania
+	4 Giovanna, Lazing Facade
+	4 Zappa, Maligned Medium
+	4 Brynhildr
+	4 Anji Mito
+	4 Suigetsu no Hakobi
+	4 Chipp Zanuff
+	4 WOTCHAAA!
+	4 Bridget, Bubbly Bounty Hunter
+	4 Kickstart My Heart
+	4 Delilah, Revenant's Delight
+[common(6)]
+	8 Hairdash
+	8 Faultless Defense
+	8 Glue Eaters
+	8 Volcanic Viper
+	8 Totsugeki
+	8 One-Armed Catch
+	8 Hair Trigger
+	8 Beguiling Familiar
+	8 Blame the Beasts
+	8 Greed Sever
+	8 Illyrian Crownsguard
+	8 Johnny's Jellyfish Pirates
+	8 Mist Finer
+	8 Monowire
+	8 S-Ko's Affection
+	8 QV
+[common | masterpiece(1)]
+	8 Hairdash
+	8 Faultless Defense
+	8 Glue Eaters
+	8 Volcanic Viper
+	8 Totsugeki
+	8 One-Armed Catch
+	8 Hair Trigger
+	8 Beguiling Familiar
+	8 Blame the Beasts
+	8 Greed Sever
+	8 Illyrian Crownsguard
+	8 Johnny's Jellyfish Pirates
+	8 Mist Finer
+	8 Monowire
+	8 S-Ko's Affection
+	8 QV
+[foil(1)]
+	12 Hairdash
+	12 Faultless Defense
+	12 Glue Eaters
+	2 A.B.A, Raving Creation
+	2 Sol Badguy
+	12 Volcanic Viper
+	12 Totsugeki
+	12 One-Armed Catch
+	6 Dragon Install
+	12 Hair Trigger
+	1 Millia Rage
+	6 Sixth Forbidden Spell
+	6 Heaven or Hell
+	1 Happy Chaos
+	6 Concentrate on Lunacy
+	1 Ky Kiske
+	2 Faust, Vibrant Revenant
+	6 Potemkin
+	6 Heavenly Potemkin Buster
+	2 May, Infatuated First Mate
+	6 Jellyfish Pirate's Anchor
+	6 Nagoriyuki
+	6 Exanguinate
+	6 Death-Reflective Daishō
+	6 Testament, Cynical Hermit
+	6 Framework: Protector
+	6 Axl Low
+	12 Beguiling Familiar
+	12 Blame the Beasts
+	6 Goldlewis Dickinson
+	6 Cryptid's Coffin
+	6 Daisuke's Vision
+	12 Greed Sever
+	12 Illyrian Crownsguard
+	12 Johnny's Jellyfish Pirates
+	12 Mist Finer
+	6 Zato-ONE
+	6 Pocket Ghost House
+	1 Jack-O' Valentine
+	6 Organ of Command
+	1 Full-Order Bookmark
+	1 Asuka R Kreutz
+	1 Elphelt Valentine
+	6 Ramlethal Valentine
+	2 Ariels, False Pontiff
+	6 Justice, Balance of Juno
+	6 Slayer, Master of Dandyism
+	6 I-No, Annihilation Pariah
+	6 Megalomania
+	2 Lucy, Visitant Anomaly
+	12 Monowire
+	2 Baiken, Vengeful Survivor
+	6 Giovanna, Lazing Facade
+	6 Zappa, Maligned Medium
+	12 S-Ko's Affection
+	2 Leo Whitefang
+	6 Brynhildr
+	6 Anji Mito
+	6 Suigetsu no Hakobi
+	6 Chipp Zanuff
+	2 Jam Kuradoberi
+	6 WOTCHAAA!
+	6 Bridget, Bubbly Bounty Hunter
+	2 Roger, Tailored Trinket
+	6 Kickstart My Heart
+	6 Delilah, Revenant's Delight
+	1 Bedman's Absolute World
+	2 Venom, Genteel Hustler
+	12 QV
+	2 Johnny, Bravado Wielder
+[wildcard(1)]
+	6 Hairdash
+	6 Faultless Defense
+	6 Glue Eaters
+	7 A.B.A, Raving Creation
+	7 Sol Badguy
+	6 Volcanic Viper
+	6 Totsugeki
+	6 One-Armed Catch
+	15 Dragon Install
+	6 Hair Trigger
+	4 Millia Rage
+	15 Sixth Forbidden Spell
+	15 Heaven or Hell
+	4 Happy Chaos
+	15 Concentrate on Lunacy
+	4 Ky Kiske
+	7 Faust, Vibrant Revenant
+	15 Potemkin
+	15 Heavenly Potemkin Buster
+	7 May, Infatuated First Mate
+	15 Jellyfish Pirate's Anchor
+	15 Nagoriyuki
+	15 Exanguinate
+	15 Death-Reflective Daishō
+	15 Testament, Cynical Hermit
+	15 Framework: Protector
+	15 Axl Low
+	6 Beguiling Familiar
+	6 Blame the Beasts
+	15 Goldlewis Dickinson
+	15 Cryptid's Coffin
+	15 Daisuke's Vision
+	6 Greed Sever
+	6 Illyrian Crownsguard
+	6 Johnny's Jellyfish Pirates
+	6 Mist Finer
+	15 Zato-ONE
+	15 Pocket Ghost House
+	4 Jack-O' Valentine
+	15 Organ of Command
+	4 Full-Order Bookmark
+	4 Asuka R Kreutz
+	4 Elphelt Valentine
+	15 Ramlethal Valentine
+	7 Ariels, False Pontiff
+	15 Justice, Balance of Juno
+	15 Slayer, Master of Dandyism
+	15 I-No, Annihilation Pariah
+	15 Megalomania
+	7 Lucy, Visitant Anomaly
+	6 Monowire
+	7 Baiken, Vengeful Survivor
+	15 Giovanna, Lazing Facade
+	15 Zappa, Maligned Medium
+	6 S-Ko's Affection
+	7 Leo Whitefang
+	15 Brynhildr
+	15 Anji Mito
+	15 Suigetsu no Hakobi
+	15 Chipp Zanuff
+	7 Jam Kuradoberi
+	15 WOTCHAAA!
+	15 Bridget, Bubbly Bounty Hunter
+	7 Roger, Tailored Trinket
+	15 Kickstart My Heart
+	15 Delilah, Revenant's Delight
+	4 Bedman's Absolute World
+	7 Venom, Genteel Hustler
+	6 QV
+	7 Johnny, Bravado Wielder

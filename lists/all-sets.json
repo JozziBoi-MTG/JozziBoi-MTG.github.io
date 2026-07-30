@@ -1,8 +1,38 @@
 ﻿{
     "sets": [
         {
+            "set_code": "DPG",
+            "set_name": "",
+            "formats": ""
+        },
+        {
+            "set_code": "DV",
+            "set_name": "",
+            "formats": ""
+        },
+        {
+            "set_code": "JZBI",
+            "set_name": "",
+            "formats": ""
+        },
+        {
             "set_code": "MCTG",
             "set_name": "Minecraft: The Gathering",
+            "formats": ""
+        },
+        {
+            "set_code": "SP",
+            "set_name": "",
+            "formats": ""
+        },
+        {
+            "set_code": "TLB",
+            "set_name": "",
+            "formats": ""
+        },
+        {
+            "set_code": "WI",
+            "set_name": "",
             "formats": ""
         }
     ]

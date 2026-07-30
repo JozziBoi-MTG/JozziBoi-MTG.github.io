@@ -1,0 +1,1385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>WI</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-07-29</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Hornet, Apocalypse Witness</name>
+			<text>At the beginning of each combat, if Hornet, Apocalypse Witness is modified, choose first strike, flying, or vigilance. Hornet gains the chosen ability until end of turn. (Equipment, Auras you control, and counters are modifications.)
+Whenever an enchantment leaves the battlefield, create a colorless Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot;
+Sacrifice three artifacts: Search your library for an Equipment card, reveal it, and put it onto the battlefield attached to Hornet, Apocalypse Witness. Then shuffle. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/0.jpg" num="43">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spider Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Kin</name>
+			<text>Phyrexian Germs you control get +0/+1.
+The first time you surveil each turn, create a 0/0 black Phyrexian Germ creature token.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/1.jpg" num="24">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>White Palace</name>
+			<text>{T}: Scry X, where X is the total number of enchantment cards in all graveyards.
+{T}, Sacrifice White Palace: Add {C}. Spend this mana only to cast historic spells or activate abilities of historic permanents you control. (Artifacts, legendaries, and Sagas are historic.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/2.jpg" num="76">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Radiance</name>
+			<text>You may sacrifice a creature and an enchantment rather than pay The Radiance&apos;s mana cost.
+Flying
+{WP}, {T}: Tap target creature.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/3.jpg" num="7">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>WWW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blaspheme</name>
+			<text>Exile target creature that dealt damage to you this turn.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/4.jpg" num="1">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fell Sibling</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+When Fell Sibling dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/5.jpg" num="21">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Aspid</name>
+			<text>Flying
+When Primal Aspid dies, you may have it deal 1 damage to any target.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/6.jpg" num="33">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreamer&apos;s Plight</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+If enchanted creature would die, exile it instead.
+{1}{W}, {T}: Target creature you control fights enchanted creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/7.jpg" num="4">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Black Egg</name>
+			<text>When Black Egg enters, put a -1/-1 counter on target creature.
+{T}, Sacrifice Black Egg: Each player loses life equal to the number of permanents that have a counter on them.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/8.jpg" num="19">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BBB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Delusions of Grandeur</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+3 as long as it&apos;s not blocking or being blocked.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/9.jpg" num="11">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U/PU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hallownest&apos;s Last Knight</name>
+			<text>Whenever an enchantment leaves the battlefield, return Hallownest&apos;s Last Knight from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/10.jpg" num="23">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shade Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/P</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Obsessive Mappings</name>
+			<text>Landfall — Whenever a land enters under your control, scry 2.
+Sacrifice Obsessive Mappings: Untap target land.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/11.jpg" num="49">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soul Vessel</name>
+			<text>When Soul Vessel enters, you gain 1 life.
+Sacrifice Soul Vessel: Choose one —
+• Scry 1 (Look at the top card of your library. You may put that card on the bottom of your library.)
+• Surveil 1 (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/12.jpg" num="75">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seer of Souls</name>
+			<text>When Seer of Souls enters, if you scryed one or more cards this turn, draw two cards. Otherwise, scry 3.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/13.jpg" num="17">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hornet&apos;s Wake</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Put three -1/-1 counters on target creature.
+II — Destroy target creature. If a legendary creature would be destroyed this way, exile it instead.
+III — Creatures you control gain double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/14.jpg" num="44">WI</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BBR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pharloom&apos;s Ire</name>
+			<text>If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/15.jpg" num="32">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RRR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dream no More</name>
+			<text>Exile target enchantment.
+Exile target enchantment creature.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/16.jpg" num="3">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lifeblood</name>
+			<text>Enchant Creature
+Enchanted creature gets +0/+1.
+Totem armor (If enchanted enchantment would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/17.jpg" num="58">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sting Shard</name>
+			<text>Sting Shard deals 1 damage to target creature or player.
+Create a colorless Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot;</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/18.jpg" num="34">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rite of the Pollip</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each opponent sacrifices a creature.
+II — Exile up to two target creatures, then return them to the battlefield under their owners&apos; control.
+III — Put a lifelink counter on each creature you control without a counter on it.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/19.jpg" num="52">WI</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WBB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lace, Fatewoven</name>
+			<text>First strike
+When Lace, Fatewoven enters or dies, proliferate.
+Sagas you control have hexproof.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/20.jpg" num="5">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Construct Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lace&apos;s Resolve</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Target creature you control fights target creature you don&apos;t control. If a creature would die this way, exile it instead.
+III — Creatures you control get +X/+X until end of turn, where X is the total number of cards in exile.
+​</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/21.jpg" num="45">WI</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RRW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreams of Futures Passed</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — You may tap an untapped creature you control. If you do, scry X, where X is that creature&apos;s toughness, then draw a card.
+​
+​</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/22.jpg" num="12">WI</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U/PU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bellheart</name>
+			<text>Bellheart enters tapped.
+{T}: Add {C}.
+{T}: Create a 1/1 white Villager creature token with &quot;{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.&quot; Activate only if a historic permanent entered under your control this turn. (Artifacts, legendaries, and Sagas are historic.)</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/23.jpg" num="77">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Town</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Passage of Higher Beings</name>
+			<text>{T}: Add {C}.
+{T}: Add one mana of any color. Only spend this mana to cast historic spells or activate abilities of historic permanents you control.
+{T}, Sacrifice Passage of Higher Beings: Draw two cards. Activate only if you control five or more historic permanents. (Artifacts, legendaries, and Sagas are historic.)</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/24.jpg" num="78">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Massive Moss Charger</name>
+			<text>Trample
+When Massive Moss Charger enters, exile up to two target creature cards with mana value 1 or less from your graveyard.
+When Massive Moss Charger dies, put each creature card exiled with it onto the battlefield.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/25.jpg" num="47">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>5/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maskfly</name>
+			<text>Flying
+When Maskfly dies, add {G}.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/26.jpg" num="38">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diving Bell</name>
+			<text>Whenever Diving Bell becomes a creature, choose a color. Diving Bell gains protection from the chosen color until end of turn. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything with that color until end of turn.)
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/27.jpg" num="63">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grand Mother Silk</name>
+			<text>Vigilance, reach
+Noncreature enchantments you control have &quot;{T}: Target creature gets +1/+1 until end of turn. Put a +1/+1 counter on that creature for each counter on this enchantment.&quot;
+Tap three untapped enchantments you control: Untap target permanent.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/28.jpg" num="42">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scuttlebrace</name>
+			<text>Equipped creature has haste.
+Sacrifice Scuttlebrace: Untap equipped creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Equip {0}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/29.jpg" num="72">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magnetite Dice</name>
+			<text>If you would scry a number of cards, scry that many cards plus one instead.
+If you would surveil a number of cards, surveil that many cards plus one instead.
+{2}, Sacrifice Magnetite Dice: Exile a card at random from your graveyard, then return a card at random from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/30.jpg" num="67">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rosary Cannon</name>
+			<text>{1}: Put a charge counter on Rosary Cannon.
+{T}, Remove ten charge counters from Rosary Cannon: Rosary Cannon deals 5 damage to any target.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/31.jpg" num="71">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cogfly</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/32.jpg" num="61">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>P</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mantis Lord</name>
+			<text>Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+When Mantis Lord enters, you may attach target Equipment you control to it.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/33.jpg" num="46">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hallownest&apos;s First Knight</name>
+			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Put a -1/-1 counter on Hallownest&apos;s First Knight: Attach target Aura attached to a permanent you control to a different permanent you control. Activate only as a sorcery.
+Sacrifice an enchantment: Remove all counters from Hallownest&apos;s First Knight.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/34.jpg" num="22">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mistwraith</name>
+			<text>Flying
+Constellation—Whenever Mistwraith or another enchantment enters under your control, target player mills three cards.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/35.jpg" num="14">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fourth Chorus</name>
+			<text>Kicker—Sacrifice an enchantment. (You may sacrifice an enchantment in addition to any other costs as you cast this spell.)
+When Fourth Chorus enters, if it was kicked, it fights target creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/36.jpg" num="65">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corrode</name>
+			<text>Choose one —
+• Target player sacrifices an artifact.
+• Target player sacrifices a creature.
+Surveil 1 (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/37.jpg" num="20">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peace Strider</name>
+			<text>When Peace Strider enters, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/38.jpg" num="68">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pierce Strider</name>
+			<text>When Pierce Strider enters, target opponent loses 3 life.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/39.jpg" num="69">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morbid Manufacturing</name>
+			<text>Enchant creature
+When enchanted creature dies, return target artifact card with mana value X or less from your graveyard to the battlefield, where X is enchanted creature&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/40.jpg" num="25">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sister Splinter</name>
+			<text>Landfall — Whenever a land enters under you control, create a 1/1 green Dryad creature token with &quot;{T}: Add {G}.&quot;
+Constellation — Whenever an enchantment enters under your control, add {G}.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/41.jpg" num="40">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1GGGG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cogwork Dancers</name>
+			<text>Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
+As long as Cogwork Dancers is paired with another creature, each of those creatures gets +1/+1 and has haste and &quot;Whenever a creature paired with this creature dies, sacrifice this creature.&quot;</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/42.jpg" num="62">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sherma, Pilgrim Most Devout</name>
+			<text>Lifelink, battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Constellation — Whenever an enchantment enters under your control, you gain 2 life.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/43.jpg" num="55">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Savage Beastfly</name>
+			<text>Flying, trample</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/44.jpg" num="53">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>GGUU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Widow of Bellheart</name>
+			<text>Constellation — Whenever The Widow of Bellheart or another enchantment enters under you control, you may pay {R}{R}. If you do, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/45.jpg" num="36">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Spider Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moss Mother</name>
+			<text>Flying
+Landfall — Whenever a land enters under your control, you may pay {G}{G}. If you do, create a 2/2 green Insect creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/46.jpg" num="39">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Of Void and Silken Threads</name>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +2/+0 and attacks each turn if able.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/47.jpg" num="59">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shakra, Extant Wanderer</name>
+			<text>Landfall — Whenever a land enters under your control, create a colorless Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot;
+Dash {R}{GW}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/48.jpg" num="54">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enter Hallownest</name>
+			<text>Insects, Pests, and Spiders you control get +1/+1.
+Whenever a creature you control dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/49.jpg" num="57">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B/GB/G</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Absolute Radiance</name>
+			<text>Flying, shroud
+When Absolute Radiance enters, if you cast it from your hand, destroy all other creatures. For each legendary creature destroyed this way, you gain 5 life.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/50.jpg" num="41">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4WUBRG</manacost>
+				<cmc>9</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>9/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nosk</name>
+			<text>Reach
+Whenever Nosk attacks, you may exile target creature card from your graveyard. If you do, target creature must block Nosk this turn if able.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/51.jpg" num="26">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B/PB/P</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nailmaster Disciples</name>
+			<text>Ninjutsu {1}{R}{R}{G}{G} ({1}{R}{R}{G}{G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Attacking Warriors you control get +2/+0.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/52.jpg" num="48">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paintmaster Disciple</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Blocking creatures you control get +0/+1 for each of their colors.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/53.jpg" num="50">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4WU</manacost>
+				<cmc>6</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Godseeker</name>
+			<text>Whenever a historic permanent leaves the battlefield, put a charge counter on Godseeker.
+{T}, Remove four charge counters from Godseeker: Return target historic card from your graveyard to your hand.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast historic spells or activate abilities of historic permanents you control. (Artifacts, legendaries, and Sagas are historic.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/54.jpg" num="66">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soul Master</name>
+			<text>Flying
+Phyrexian Germs you control get +1/+1.
+Whenever you draw a card, create a 0/0 black Phyrexian Germ creature token.
+Whenever a nontoken creature you control enters, scry 2.
+Whenever a nontoken creature you control dies, surveil 2.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/55.jpg" num="56">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>5UB</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanctum&apos;s Vice</name>
+			<text>Kicker {B}
+Target player mills three cards. Then if Sanctum&apos;s Vice was kicked, that player discards a card.
+Create a 0/0 black Phyrexian Germ creature token. It enters with an additional +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/56.jpg" num="16">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Uumuu</name>
+			<text>Defender, flying
+Whenever you cast an instant or sorcery spell, if {R} was spent to cast that spell, Uumuu deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/57.jpg" num="18">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>UUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>0/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Watcher Knight</name>
+			<text>Kicker—Exile target creature card from your graveyard. (You may exile target creature card from your graveyard in addition to any other costs as you cast this spell.)
+Watcher Knight enters with an additional two +1/+1 counters on it if it was kicked.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/58.jpg" num="60">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Spirit Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W/B</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Needolin Song</name>
+			<text>Choose two —
+• Return target creature you control to its owner&apos;s hand.
+• Tap target creature.
+• Scry 2.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/59.jpg" num="15">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Phylum Collector</name>
+			<text>Haste
+Whenever Phylum Collector enters or attacks, reveal cards from the top of your library until you reveal a creature card. Put that card into exile and put all other cards revealed this way into your graveyard.
+When Phylum Collector leaves the battlefield, put all cards exiled with it into their owners&apos; hands.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/60.jpg" num="51">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oblobble</name>
+			<text>Flying, soulbond
+As long as Oblobble is paired with another creature, each of those creatures has &quot;Whenever a creature paired with this creature dies, put two +1/+1 counters on this creature and untap it.&quot;</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/61.jpg" num="6">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dung Defender</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+When Dung Defender enters, each player mills X cards, where X is the greatest power among creatures you control.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/62.jpg" num="13">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>False Knight&apos;s Armor</name>
+			<text>Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
+Equipped creature has base power and toughness 4/4.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/63.jpg" num="64">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Traitor Lord</name>
+			<text>First strike
+Constellation — Whenever an enchantment enters under your control, put a +1/+1 counter on Traitor Lord and a -1/-1 counter on target creature.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/64.jpg" num="35">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Horror Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grimm Troupe</name>
+			<text>Creatures you control have unleash. (You may have that creature enter with a +1/+1 counter on it. It can&apos;t block as long as it has a +1/+1 counter on it.)
+Whenever a creature you control with a counter on it attacks, put a quest counter on Grimm Troupe.
+{T}, Sacrifice Grimm Troupe: Surveil X, where X is the number of quest counters on Grimm Troupe. Then you may return target creature card from your graveyard to your hand. You may return that card to the battlefield instead if X is 10 or greater. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/65.jpg" num="29">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R/PR/P</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grimmkin</name>
+			<text>Kicker—Discard a card at random.
+Flying
+Grimmkin enters with an additional two +1/+1 counters on it if it was kicked.
+When Grimmkin dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/66.jpg" num="30">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>God Tamer Fool</name>
+			<text>Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
+As long as God Tamer Fool is paired with another creature, each of those creatures has trample and battle cry. (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/67.jpg" num="37">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pure Nail</name>
+			<text>Whenever an enchantment leaves the battlefield, put a charge counter on Pure Nail.
+Equipped creature gets +1/+0. It gets +3/+3 and has vigilance instead as long as there are three or more charge counters on Pure Nail.
+Equip {1}</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/68.jpg" num="70">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warrior Dreams</name>
+			<text>Flying
+When Warrior Dreams enters, add {W}. Spend this mana only to cast Aura or Equipment spells or activate equip abilities.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/69.jpg" num="9">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Spirit Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightmare King Grimm</name>
+			<text>Menace, haste
+When Nightmare King Grimm dies, you may put three of its counters on target creature. If you do, exile Nightmare King Grimm instead. Return it to the battlefield under its owner&apos;s control at the beginning of your next upkeep.
+{R}{R}, Sacrifice another creature: Put X +1/+1 counters on Nightmare King Grimm, where X is the sacrificed creature&apos;s power.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/70.jpg" num="31">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine, Troupe Artisan</name>
+			<text>Modified creatures you control have vigilance. (Equipment, Auras you control, and counters are modifications.)
+{W}{W}, {T}: Exile target Equipment you control, then return it to the battlefield under your control with an additional indestructible counter on it. Attach it to a creature you control.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/71.jpg" num="2">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eternal Ordeal</name>
+			<text>Whenever a creature you control with power 1 or less attacks and isn&apos;t blocked, defending player loses 2 life.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/72.jpg" num="28">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zote the Unremitting</name>
+			<text>Zote the Unremitting can&apos;t be the target of spells or abilities you control.
+Whenever Zote attacks, creatures with power 0 or less must be blocked this turn if able.
+{B}: Return Zote from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/73.jpg" num="27">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stagway Beast // Station&apos;s Bell</name>
+			<text>Flash
+
+---
+
+Target creature gets +1/+3 and gains vigilance until end of turn. (Then exile this card. You may cast the creature later from exile.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/74.jpg" num="8">WI</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Insect // Instant — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>2W // W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weaver&apos;s Crest</name>
+			<text>Target Aura attached to a creature becomes an Equipment enchantment artifact with equip {2}.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/75.jpg" num="10">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Smog and Spirits</name>
+			<text>Smog and Spirits enters with three charge counters on it.
+Whenever a source would deal damage to a permanent you control, you may remove a charge counter from Smog and Spirits. If you do, prevent that damage.
+At the beginning of each end step, if Smog and Spirits has no charge counters on it, exile it. Manifest dread. (Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/76.jpg" num="74">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shakram</name>
+			<text>When Shakram enters, create a colorless Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot;
+Equipped creature gets +1/+0.
+Whenever equipped creature deals combat damage to a player, you may return Shakram to its owner&apos;s hand.
+Equip {1}</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/77.jpg" num="73">WI</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

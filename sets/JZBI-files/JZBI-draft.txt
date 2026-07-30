@@ -1,0 +1,2385 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "End Buster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/0.png"
+			}
+		},
+		{
+			"name": "Original, Worldshaper",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/1.png"
+			}
+		},
+		{
+			"name": "Finale, Griefbringer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/2.png"
+			}
+		},
+		{
+			"name": "The Bargainer's Cache",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/3.png"
+			}
+		},
+		{
+			"name": "Ekrimaniac",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/P}{R}",
+			"type": "Creature — Human",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/4.png"
+			}
+		},
+		{
+			"name": "Callous Strip Miner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Human",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/5.png"
+			}
+		},
+		{
+			"name": "Brewbooster",
+			"rarity": "common",
+			"mana_cost": "{B/P}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/6.png"
+			}
+		},
+		{
+			"name": "Brewer Benevolent",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/7.png"
+			}
+		},
+		{
+			"name": "Voidsoarer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/8.png"
+			}
+		},
+		{
+			"name": "Hero of the Village",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/9.png"
+			}
+		},
+		{
+			"name": "Canopy Guerilla",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/10.png"
+			}
+		},
+		{
+			"name": "Rageful Broadcast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R/G}{R/G}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/11.png"
+			}
+		},
+		{
+			"name": "Hellbound Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/12.png"
+			}
+		},
+		{
+			"name": "Loveable Upstart",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/13.png"
+			}
+		},
+		{
+			"name": "Pandora",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/14.png"
+			}
+		},
+		{
+			"name": "Godless Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/15.png"
+			}
+		},
+		{
+			"name": "Steam Vents",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/16.png"
+			}
+		},
+		{
+			"name": "Overgrown Tomb",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/17.png"
+			}
+		},
+		{
+			"name": "Breeding Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/18.png"
+			}
+		},
+		{
+			"name": "Watery Grave",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/19.png"
+			}
+		},
+		{
+			"name": "Temple Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/20.png"
+			}
+		},
+		{
+			"name": "Blood Crypt",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Swamp",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/21.png"
+			}
+		},
+		{
+			"name": "Hallowed Fountain",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/22.png"
+			}
+		},
+		{
+			"name": "Stomping Ground",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/23.png"
+			}
+		},
+		{
+			"name": "Sacred Foundry",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/24.png"
+			}
+		},
+		{
+			"name": "Corrupted Cauldron",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B/G}{B/G}",
+			"type": "Legendary Creature — Ooze Construct",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/25.png"
+			}
+		},
+		{
+			"name": "Esoteric Lotus",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/26.png"
+			}
+		},
+		{
+			"name": "Eight F--king Bears",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}{G}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/27.png"
+			}
+		},
+		{
+			"name": "Bequeath to Slag",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/28.png"
+			}
+		},
+		{
+			"name": "Bequeath to Ruins",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/29.png"
+			}
+		},
+		{
+			"name": "Disdain",
+			"rarity": "common",
+			"mana_cost": "{1}{W/P}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/30.png"
+			}
+		},
+		{
+			"name": "Amber Mortis",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/31.png"
+			}
+		},
+		{
+			"name": "Coagulate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/32.png"
+			}
+		},
+		{
+			"name": "Adriel, Bloodcrag Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/33.png"
+			}
+		},
+		{
+			"name": "Bane of the Impossible",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/34.png"
+			}
+		},
+		{
+			"name": "Evergreen Evensong",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/35.png"
+			}
+		},
+		{
+			"name": "Serotiny",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/36.png"
+			}
+		},
+		{
+			"name": "Hinterland Devotee",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/37.png"
+			}
+		},
+		{
+			"name": "Stairway to Heaven",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/38.png"
+			}
+		},
+		{
+			"name": "False Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Nightmare Harpy",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/39.png"
+			}
+		},
+		{
+			"name": "Wraith Appraiser",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Goblin Spirit",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/40.png"
+			}
+		},
+		{
+			"name": "Isa, the Founder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W/U}{W/U}",
+			"type": "Legendary Creature — Cat Cleric",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/41.png"
+			}
+		},
+		{
+			"name": "Mevia, Essence of Conflict",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Nypmh Warrior",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/42.png"
+			}
+		},
+		{
+			"name": "Miloni, Esfonmeri's Matron",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/43.png"
+			}
+		},
+		{
+			"name": "Skeptical Suppliant",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/44.png"
+			}
+		},
+		{
+			"name": "Ego Death",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/45.png"
+			}
+		},
+		{
+			"name": "Ætherflight Mage",
+			"rarity": "common",
+			"mana_cost": "{U/P}{U}",
+			"type": "Creature — Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/46.png"
+			}
+		},
+		{
+			"name": "Cyril, Soul Chauffeur",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{G}{G}",
+			"type": "Legendary Creature — Nymph Cleric",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/47.png"
+			}
+		},
+		{
+			"name": "Call to Alms",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/48.png"
+			}
+		},
+		{
+			"name": "The Eversource",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/49.png"
+			}
+		},
+		{
+			"name": "Told Tales",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/50.png"
+			}
+		},
+		{
+			"name": "Lefre, Forge Bulwark",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/51.png"
+			}
+		},
+		{
+			"name": "Penitentiary Cell",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/52.png"
+			}
+		},
+		{
+			"name": "Redstone Monstrosity",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/53.png"
+			}
+		},
+		{
+			"name": "Psychophage",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Skeleton Leviathan",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/54.png"
+			}
+		},
+		{
+			"name": "Thaumaturge Eclectic",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/55.png"
+			}
+		},
+		{
+			"name": "Bitter Struggle",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/56.png"
+			}
+		},
+		{
+			"name": "Destitution",
+			"rarity": "common",
+			"mana_cost": "{W/P}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/57.png"
+			}
+		},
+		{
+			"name": "Adriel's Omen",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/58.png"
+			}
+		},
+		{
+			"name": "Peat Nekojins",
+			"rarity": "common",
+			"mana_cost": "{1}{W/P}{W}",
+			"type": "Creature — Cat Ranger",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/59.png"
+			}
+		},
+		{
+			"name": "Esfonmeri Tenant",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Druid",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/60.png"
+			}
+		},
+		{
+			"name": "Æther Sap",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/61.png"
+			}
+		},
+		{
+			"name": "Impaler Titan",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Giant Berserker",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/62.png"
+			}
+		},
+		{
+			"name": "False Leviathan",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/63.png"
+			}
+		},
+		{
+			"name": "Ash Keeper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Demon Cleric",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/64.png"
+			}
+		},
+		{
+			"name": "Grovebound Envoy",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Demon",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/65.png"
+			}
+		},
+		{
+			"name": "Culona, the Ætherken",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Nymph Wizard",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/66.png"
+			}
+		},
+		{
+			"name": "Enthroned Soulcarver",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/67.png"
+			}
+		},
+		{
+			"name": "Xathregos, Forgotten",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}{B}{B}",
+			"type": "Legendary Creature — Angel Demon",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/68.png"
+			}
+		},
+		{
+			"name": "Rosewitch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R/P}{R}",
+			"type": "Creature — Plant Wizard",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/69.png"
+			}
+		},
+		{
+			"name": "Wastebearer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Construct Berserker",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/70.png"
+			}
+		},
+		{
+			"name": "Scar-Evoked",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}{G}{G}",
+			"type": "Creature — Dragon Elemental",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/71.png"
+			}
+		},
+		{
+			"name": "Ætherweft Wandering",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/72.png"
+			}
+		},
+		{
+			"name": "Razed Reflection",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/73.png"
+			}
+		},
+		{
+			"name": "Bereft Gouger",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Harpy Demon",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/74.png"
+			}
+		},
+		{
+			"name": "Guardian Shadow",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Vampire",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/75.png"
+			}
+		},
+		{
+			"name": "Timeless Dream",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/76.png"
+			}
+		},
+		{
+			"name": "Stoneshapen Wyrm",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/77.png"
+			}
+		},
+		{
+			"name": "Feywhisper Guide",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fox Rogue",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/78.png"
+			}
+		},
+		{
+			"name": "Nidoform",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus Fish",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/79.png"
+			}
+		},
+		{
+			"name": "Lakeside Nekojin",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/80.png"
+			}
+		},
+		{
+			"name": "Harpy Aspirant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Harpy",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/81.png"
+			}
+		},
+		{
+			"name": "Smithy Nekojin",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cat Artificer",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/82.png"
+			}
+		},
+		{
+			"name": "Ecotone",
+			"rarity": "common",
+			"mana_cost": "{G/P}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/83.png"
+			}
+		},
+		{
+			"name": "Runic Rearguard",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Demon Knight",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/84.png"
+			}
+		},
+		{
+			"name": "Corpserot Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Drake",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/85.png"
+			}
+		},
+		{
+			"name": "Foray Frontliner",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/86.png"
+			}
+		},
+		{
+			"name": "Flammeum Mortia",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/87.png"
+			}
+		},
+		{
+			"name": "Condemmed Routmaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Knight",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/88.png"
+			}
+		},
+		{
+			"name": "Temple Arbiter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G/W}{G/W}",
+			"type": "Creature — Knight",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/89.png"
+			}
+		},
+		{
+			"name": "Xathregos's Ichor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/90.png"
+			}
+		},
+		{
+			"name": "Acolyte's Page",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/91.png"
+			}
+		},
+		{
+			"name": "Icon of Hope",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/92.png"
+			}
+		},
+		{
+			"name": "Assimilated Royal",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Plant Shaman",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/93.png"
+			}
+		},
+		{
+			"name": "Assigned Martyr",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Knight",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/94.png"
+			}
+		},
+		{
+			"name": "Lifeblade",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{B}{B}",
+			"type": "Creature — Avatar Knight",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/95.png"
+			}
+		},
+		{
+			"name": "Slag Spewer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/96.png"
+			}
+		},
+		{
+			"name": "Deiscape",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/97.png"
+			}
+		},
+		{
+			"name": "Reclaimant Nekojin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Cat Cleric",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/98.png"
+			}
+		},
+		{
+			"name": "Murdered Crow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Zombie Bird",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/99.png"
+			}
+		},
+		{
+			"name": "Patrician Nekojin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire Cat",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/100.png"
+			}
+		},
+		{
+			"name": "Window of the Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/101.png"
+			}
+		},
+		{
+			"name": "Thrall Liege",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/102.png"
+			}
+		},
+		{
+			"name": "Actuality",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/103.png"
+			}
+		},
+		{
+			"name": "Zephyrrhicism",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/104.png"
+			}
+		},
+		{
+			"name": "Dzoavits",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Demon Giant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/105.png"
+			}
+		},
+		{
+			"name": "Kanatowa, Ascendant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}{U}{U}",
+			"type": "Legendary Creature — Dragon Angel",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/106.png"
+			}
+		},
+		{
+			"name": "Deadeye Oni",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Creature — Demon Samurai",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/107.png"
+			}
+		},
+		{
+			"name": "Grovebound Consul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Dryad Demon",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/108.png"
+			}
+		},
+		{
+			"name": "Razed Defiance",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/109.png"
+			}
+		},
+		{
+			"name": "Shelter from the Rain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/110.png"
+			}
+		},
+		{
+			"name": "Band of Misfits",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Warrior",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/111.png"
+			}
+		},
+		{
+			"name": "Endspark",
+			"rarity": "rare",
+			"mana_cost": "{C}{C}",
+			"type": "Artifact",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/112.png"
+			}
+		},
+		{
+			"name": "Leach Titan",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Creature — Giant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/113.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/114.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/115.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/116.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/117.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/118.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/119.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/120.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/121.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/122.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/123.png"
+			}
+		},
+		{
+			"name": "Wyrmbann",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/124.png"
+			}
+		},
+		{
+			"name": "Fish Upon a Star",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/125.png"
+			}
+		},
+		{
+			"name": "False Spider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/126.png"
+			}
+		},
+		{
+			"name": "Chromas Criomag",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Enchantment Creature — Avatar Wizard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/127.png"
+			}
+		},
+		{
+			"name": "Chromas Ultimatum",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/128.png"
+			}
+		},
+		{
+			"name": "Chromas Geata",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Enchantment Artifact",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/129.png"
+			}
+		},
+		{
+			"name": "Psyche Æthercruth",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — Wizard",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/130.png"
+			}
+		},
+		{
+			"name": "Sanguinary Stature",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/131.png"
+			}
+		},
+		{
+			"name": "Assimilated Shepherd",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Spirit Shaman",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/132.png"
+			}
+		},
+		{
+			"name": "Bole Wrecker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/133.png"
+			}
+		},
+		{
+			"name": "Hydra Transgression",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Hydra Horror",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/134.png"
+			}
+		},
+		{
+			"name": "Flesh Mantis",
+			"rarity": "common",
+			"mana_cost": "{4}{G/P}{B}",
+			"type": "Creature — Insect Demon",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/135.png"
+			}
+		},
+		{
+			"name": "Grodadh, Rot's End",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Insect Nightmare",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/136.png"
+			}
+		},
+		{
+			"name": "Ætherbloat Guardian",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Leviathan Horror",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/137.png"
+			}
+		},
+		{
+			"name": "Territorial Atrocities",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/138.png"
+			}
+		},
+		{
+			"name": "Cavalry Conscript",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Nightmare Knight",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/139.png"
+			}
+		},
+		{
+			"name": "Ruinic Cerberus",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/140.png"
+			}
+		},
+		{
+			"name": "Duslach, Rot's Origin",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Legendary Creature — Pest Horror",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/141.png"
+			}
+		},
+		{
+			"name": "Sky's Scream",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/142.png"
+			}
+		},
+		{
+			"name": "Moss's Tears",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/143.png"
+			}
+		},
+		{
+			"name": "Portentious Lense",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/144.png"
+			}
+		},
+		{
+			"name": "Wayside Feast",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/145.png"
+			}
+		},
+		{
+			"name": "Grey Castaway",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/146.png"
+			}
+		},
+		{
+			"name": "Enervating Crowkeep",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/147.png"
+			}
+		},
+		{
+			"name": "Retired Journeyman",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Knight",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/148.png"
+			}
+		},
+		{
+			"name": "Kusi, Leyline Cartographer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/149.png"
+			}
+		},
+		{
+			"name": "Irastus",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/150.png"
+			}
+		},
+		{
+			"name": "Uma",
+			"rarity": "rare",
+			"mana_cost": "{R/W}{R/W}{R/W}{R/W}",
+			"type": "Creature — Horse Human",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/151.png"
+			}
+		},
+		{
+			"name": "Chromas Seeker",
+			"rarity": "common",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Wizard",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/152.png"
+			}
+		},
+		{
+			"name": "Okina Matara, Chromas",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Enchantment Creature — God",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/153.png"
+			}
+		},
+		{
+			"name": "Divine Currents",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/154.png"
+			}
+		},
+		{
+			"name": "Uncanny Artistry",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/155.png"
+			}
+		},
+		{
+			"name": "Lochstealer",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/156.png"
+			}
+		},
+		{
+			"name": "Hoarfrost Lynx",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Cat",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/157.png"
+			}
+		},
+		{
+			"name": "Thanatic Bull",
+			"rarity": "common",
+			"mana_cost": "{7}{B}{B}{B}",
+			"type": "Creature — Ox Shade",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/158.png"
+			}
+		},
+		{
+			"name": "Canyon Vivifer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment Creature — Wolf Spirit",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/159.png"
+			}
+		},
+		{
+			"name": "Amalgamaw",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/160.png"
+			}
+		},
+		{
+			"name": "Sanguine Script",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Enchantment",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/161.png"
+			}
+		},
+		{
+			"name": "False Cherub",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/162.png"
+			}
+		},
+		{
+			"name": "Shillehrig",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Nymph Wizard",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/163.png"
+			}
+		},
+		{
+			"name": "Bangle Finch",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/164.png"
+			}
+		},
+		{
+			"name": "Ravager Raven",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird Demon",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/165.png"
+			}
+		},
+		{
+			"name": "Festerspot Toad",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Frog Horror",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/166.png"
+			}
+		},
+		{
+			"name": "False Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Salamander",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/167.png"
+			}
+		},
+		{
+			"name": "Bhainn Wardens",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/168.png"
+			}
+		},
+		{
+			"name": "Finding Familiar",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Faerie",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/169.png"
+			}
+		},
+		{
+			"name": "Caustic Hydra",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/170.png"
+			}
+		},
+		{
+			"name": "Mindwrack Conceit",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/171.png"
+			}
+		},
+		{
+			"name": "Hollowed Dryss",
+			"rarity": "rare",
+			"mana_cost": "{1}{P}",
+			"type": "Artifact",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/172.png"
+			}
+		},
+		{
+			"name": "Kingly Poltergeist",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Spirit Knight",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/173.png"
+			}
+		},
+		{
+			"name": "Hello to a World",
+			"rarity": "common",
+			"mana_cost": "{C}",
+			"type": "Enchantment — Saga",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/174.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/175.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/176.png"
+			}
+		},
+		{
+			"name": "Demonic Divination",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/177.png"
+			}
+		},
+		{
+			"name": "Rot Wench",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Shaman",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/178.png"
+			}
+		},
+		{
+			"name": "Necromaniac",
+			"rarity": "common",
+			"mana_cost": "{1}{B/P}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/179.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Original, Worldshaper
+	2 Finale, Griefbringer
+	2 The Bargainer's Cache
+	2 Hero of the Village
+	2 Canopy Guerilla
+	2 Pandora
+	2 Godless Shrine
+	2 Steam Vents
+	2 Overgrown Tomb
+	2 Breeding Pool
+	2 Watery Grave
+	2 Temple Garden
+	2 Blood Crypt
+	2 Hallowed Fountain
+	2 Stomping Ground
+	2 Sacred Foundry
+	2 Esoteric Lotus
+	1 Bane of the Impossible
+	1 Mevia, Essence of Conflict
+	2 Cyril, Soul Chauffeur
+	2 The Eversource
+	2 Culona, the Ætherken
+	1 Xathregos, Forgotten
+	2 Scar-Evoked
+	2 Assimilated Royal
+	1 Lifeblade
+	2 Zephyrrhicism
+	2 Kanatowa, Ascendant
+	2 Endspark
+	1 Leach Titan
+	2 Wyrmbann
+	2 Grodadh, Rot's End
+	2 Duslach, Rot's Origin
+	2 Kusi, Leyline Cartographer
+	2 Uma
+	1 Okina Matara, Chromas
+	1 Amalgamaw
+	2 Finding Familiar
+	2 Caustic Hydra
+	2 Hollowed Dryss
+	2 Kingly Poltergeist
+[uncommon(3)]
+	4 End Buster
+	4 Ekrimaniac
+	4 Callous Strip Miner
+	4 Voidsoarer
+	4 Rageful Broadcast
+	4 Hellbound Oracle
+	4 Corrupted Cauldron
+	4 Eight F--king Bears
+	4 Amber Mortis
+	4 Coagulate
+	4 Adriel, Bloodcrag Tyrant
+	4 Evergreen Evensong
+	4 Serotiny
+	4 Stairway to Heaven
+	4 False Phoenix
+	4 Isa, the Founder
+	4 Miloni, Esfonmeri's Matron
+	4 Ego Death
+	4 Call to Alms
+	4 Told Tales
+	4 Lefre, Forge Bulwark
+	4 Redstone Monstrosity
+	4 False Leviathan
+	4 Grovebound Envoy
+	4 Rosewitch
+	4 Ætherweft Wandering
+	4 Razed Reflection
+	4 Nidoform
+	4 Corpserot Drake
+	4 Flammeum Mortia
+	4 Condemmed Routmaker
+	4 Temple Arbiter
+	4 Xathregos's Ichor
+	4 Assigned Martyr
+	4 Deiscape
+	4 Reclaimant Nekojin
+	4 Murdered Crow
+	4 Patrician Nekojin
+	4 Grovebound Consul
+	4 Razed Defiance
+	4 Shelter from the Rain
+	4 Band of Misfits
+	4 Fish Upon a Star
+	4 False Spider
+	4 Chromas Criomag
+	4 Chromas Ultimatum
+	4 Chromas Geata
+	4 Assimilated Shepherd
+	4 Bole Wrecker
+	4 Wayside Feast
+	4 Uncanny Artistry
+	4 Lochstealer
+	4 Hoarfrost Lynx
+	4 False Cherub
+	4 Shillehrig
+	4 False Serpent
+[common(6)]
+	8 Brewbooster
+	8 Brewer Benevolent
+	8 Loveable Upstart
+	8 Bequeath to Slag
+	8 Bequeath to Ruins
+	8 Disdain
+	8 Hinterland Devotee
+	8 Wraith Appraiser
+	8 Skeptical Suppliant
+	8 Ætherflight Mage
+	8 Penitentiary Cell
+	8 Psychophage
+	8 Thaumaturge Eclectic
+	8 Bitter Struggle
+	8 Destitution
+	8 Adriel's Omen
+	8 Peat Nekojins
+	8 Esfonmeri Tenant
+	8 Æther Sap
+	8 Impaler Titan
+	8 Ash Keeper
+	8 Enthroned Soulcarver
+	8 Wastebearer
+	8 Bereft Gouger
+	8 Guardian Shadow
+	8 Timeless Dream
+	8 Stoneshapen Wyrm
+	8 Feywhisper Guide
+	8 Lakeside Nekojin
+	8 Harpy Aspirant
+	8 Smithy Nekojin
+	8 Ecotone
+	8 Runic Rearguard
+	8 Foray Frontliner
+	8 Acolyte's Page
+	8 Icon of Hope
+	8 Slag Spewer
+	8 Window of the Soul
+	8 Thrall Liege
+	8 Actuality
+	8 Dzoavits
+	8 Deadeye Oni
+	8 Psyche Æthercruth
+	8 Sanguinary Stature
+	8 Hydra Transgression
+	8 Flesh Mantis
+	8 Ætherbloat Guardian
+	8 Territorial Atrocities
+	8 Cavalry Conscript
+	8 Ruinic Cerberus
+	8 Sky's Scream
+	8 Moss's Tears
+	8 Portentious Lense
+	8 Grey Castaway
+	8 Enervating Crowkeep
+	8 Retired Journeyman
+	8 Irastus
+	8 Chromas Seeker
+	8 Divine Currents
+	8 Thanatic Bull
+	8 Canyon Vivifer
+	8 Sanguine Script
+	8 Bangle Finch
+	8 Ravager Raven
+	8 Festerspot Toad
+	8 Bhainn Wardens
+	8 Mindwrack Conceit
+	8 Hello to a World
+	8 Demonic Divination
+	8 Rot Wench
+	8 Necromaniac
+[common | masterpiece(1)]
+	8 Brewbooster
+	8 Brewer Benevolent
+	8 Loveable Upstart
+	8 Bequeath to Slag
+	8 Bequeath to Ruins
+	8 Disdain
+	8 Hinterland Devotee
+	8 Wraith Appraiser
+	8 Skeptical Suppliant
+	8 Ætherflight Mage
+	8 Penitentiary Cell
+	8 Psychophage
+	8 Thaumaturge Eclectic
+	8 Bitter Struggle
+	8 Destitution
+	8 Adriel's Omen
+	8 Peat Nekojins
+	8 Esfonmeri Tenant
+	8 Æther Sap
+	8 Impaler Titan
+	8 Ash Keeper
+	8 Enthroned Soulcarver
+	8 Wastebearer
+	8 Bereft Gouger
+	8 Guardian Shadow
+	8 Timeless Dream
+	8 Stoneshapen Wyrm
+	8 Feywhisper Guide
+	8 Lakeside Nekojin
+	8 Harpy Aspirant
+	8 Smithy Nekojin
+	8 Ecotone
+	8 Runic Rearguard
+	8 Foray Frontliner
+	8 Acolyte's Page
+	8 Icon of Hope
+	8 Slag Spewer
+	8 Window of the Soul
+	8 Thrall Liege
+	8 Actuality
+	8 Dzoavits
+	8 Deadeye Oni
+	8 Psyche Æthercruth
+	8 Sanguinary Stature
+	8 Hydra Transgression
+	8 Flesh Mantis
+	8 Ætherbloat Guardian
+	8 Territorial Atrocities
+	8 Cavalry Conscript
+	8 Ruinic Cerberus
+	8 Sky's Scream
+	8 Moss's Tears
+	8 Portentious Lense
+	8 Grey Castaway
+	8 Enervating Crowkeep
+	8 Retired Journeyman
+	8 Irastus
+	8 Chromas Seeker
+	8 Divine Currents
+	8 Thanatic Bull
+	8 Canyon Vivifer
+	8 Sanguine Script
+	8 Bangle Finch
+	8 Ravager Raven
+	8 Festerspot Toad
+	8 Bhainn Wardens
+	8 Mindwrack Conceit
+	8 Hello to a World
+	8 Demonic Divination
+	8 Rot Wench
+	8 Necromaniac
+[foil(1)]
+	6 End Buster
+	2 Original, Worldshaper
+	2 Finale, Griefbringer
+	2 The Bargainer's Cache
+	6 Ekrimaniac
+	6 Callous Strip Miner
+	12 Brewbooster
+	12 Brewer Benevolent
+	6 Voidsoarer
+	2 Hero of the Village
+	2 Canopy Guerilla
+	6 Rageful Broadcast
+	6 Hellbound Oracle
+	12 Loveable Upstart
+	2 Pandora
+	2 Godless Shrine
+	2 Steam Vents
+	2 Overgrown Tomb
+	2 Breeding Pool
+	2 Watery Grave
+	2 Temple Garden
+	2 Blood Crypt
+	2 Hallowed Fountain
+	2 Stomping Ground
+	2 Sacred Foundry
+	6 Corrupted Cauldron
+	2 Esoteric Lotus
+	6 Eight F--king Bears
+	12 Bequeath to Slag
+	12 Bequeath to Ruins
+	12 Disdain
+	6 Amber Mortis
+	6 Coagulate
+	6 Adriel, Bloodcrag Tyrant
+	1 Bane of the Impossible
+	6 Evergreen Evensong
+	6 Serotiny
+	12 Hinterland Devotee
+	6 Stairway to Heaven
+	6 False Phoenix
+	12 Wraith Appraiser
+	6 Isa, the Founder
+	1 Mevia, Essence of Conflict
+	6 Miloni, Esfonmeri's Matron
+	12 Skeptical Suppliant
+	6 Ego Death
+	12 Ætherflight Mage
+	2 Cyril, Soul Chauffeur
+	6 Call to Alms
+	2 The Eversource
+	6 Told Tales
+	6 Lefre, Forge Bulwark
+	12 Penitentiary Cell
+	6 Redstone Monstrosity
+	12 Psychophage
+	12 Thaumaturge Eclectic
+	12 Bitter Struggle
+	12 Destitution
+	12 Adriel's Omen
+	12 Peat Nekojins
+	12 Esfonmeri Tenant
+	12 Æther Sap
+	12 Impaler Titan
+	6 False Leviathan
+	12 Ash Keeper
+	6 Grovebound Envoy
+	2 Culona, the Ætherken
+	12 Enthroned Soulcarver
+	1 Xathregos, Forgotten
+	6 Rosewitch
+	12 Wastebearer
+	2 Scar-Evoked
+	6 Ætherweft Wandering
+	6 Razed Reflection
+	12 Bereft Gouger
+	12 Guardian Shadow
+	12 Timeless Dream
+	12 Stoneshapen Wyrm
+	12 Feywhisper Guide
+	6 Nidoform
+	12 Lakeside Nekojin
+	12 Harpy Aspirant
+	12 Smithy Nekojin
+	12 Ecotone
+	12 Runic Rearguard
+	6 Corpserot Drake
+	12 Foray Frontliner
+	6 Flammeum Mortia
+	6 Condemmed Routmaker
+	6 Temple Arbiter
+	6 Xathregos's Ichor
+	12 Acolyte's Page
+	12 Icon of Hope
+	2 Assimilated Royal
+	6 Assigned Martyr
+	1 Lifeblade
+	12 Slag Spewer
+	6 Deiscape
+	6 Reclaimant Nekojin
+	6 Murdered Crow
+	6 Patrician Nekojin
+	12 Window of the Soul
+	12 Thrall Liege
+	12 Actuality
+	2 Zephyrrhicism
+	12 Dzoavits
+	2 Kanatowa, Ascendant
+	12 Deadeye Oni
+	6 Grovebound Consul
+	6 Razed Defiance
+	6 Shelter from the Rain
+	6 Band of Misfits
+	2 Endspark
+	1 Leach Titan
+	2 Wyrmbann
+	6 Fish Upon a Star
+	6 False Spider
+	6 Chromas Criomag
+	6 Chromas Ultimatum
+	6 Chromas Geata
+	12 Psyche Æthercruth
+	12 Sanguinary Stature
+	6 Assimilated Shepherd
+	6 Bole Wrecker
+	12 Hydra Transgression
+	12 Flesh Mantis
+	2 Grodadh, Rot's End
+	12 Ætherbloat Guardian
+	12 Territorial Atrocities
+	12 Cavalry Conscript
+	12 Ruinic Cerberus
+	2 Duslach, Rot's Origin
+	12 Sky's Scream
+	12 Moss's Tears
+	12 Portentious Lense
+	6 Wayside Feast
+	12 Grey Castaway
+	12 Enervating Crowkeep
+	12 Retired Journeyman
+	2 Kusi, Leyline Cartographer
+	12 Irastus
+	2 Uma
+	12 Chromas Seeker
+	1 Okina Matara, Chromas
+	12 Divine Currents
+	6 Uncanny Artistry
+	6 Lochstealer
+	6 Hoarfrost Lynx
+	12 Thanatic Bull
+	12 Canyon Vivifer
+	1 Amalgamaw
+	12 Sanguine Script
+	6 False Cherub
+	6 Shillehrig
+	12 Bangle Finch
+	12 Ravager Raven
+	12 Festerspot Toad
+	6 False Serpent
+	12 Bhainn Wardens
+	2 Finding Familiar
+	2 Caustic Hydra
+	12 Mindwrack Conceit
+	2 Hollowed Dryss
+	2 Kingly Poltergeist
+	12 Hello to a World
+	12 Demonic Divination
+	12 Rot Wench
+	12 Necromaniac
+[wildcard(1)]
+	15 End Buster
+	7 Original, Worldshaper
+	7 Finale, Griefbringer
+	7 The Bargainer's Cache
+	15 Ekrimaniac
+	15 Callous Strip Miner
+	6 Brewbooster
+	6 Brewer Benevolent
+	15 Voidsoarer
+	7 Hero of the Village
+	7 Canopy Guerilla
+	15 Rageful Broadcast
+	15 Hellbound Oracle
+	6 Loveable Upstart
+	7 Pandora
+	7 Godless Shrine
+	7 Steam Vents
+	7 Overgrown Tomb
+	7 Breeding Pool
+	7 Watery Grave
+	7 Temple Garden
+	7 Blood Crypt
+	7 Hallowed Fountain
+	7 Stomping Ground
+	7 Sacred Foundry
+	15 Corrupted Cauldron
+	7 Esoteric Lotus
+	15 Eight F--king Bears
+	6 Bequeath to Slag
+	6 Bequeath to Ruins
+	6 Disdain
+	15 Amber Mortis
+	15 Coagulate
+	15 Adriel, Bloodcrag Tyrant
+	4 Bane of the Impossible
+	15 Evergreen Evensong
+	15 Serotiny
+	6 Hinterland Devotee
+	15 Stairway to Heaven
+	15 False Phoenix
+	6 Wraith Appraiser
+	15 Isa, the Founder
+	4 Mevia, Essence of Conflict
+	15 Miloni, Esfonmeri's Matron
+	6 Skeptical Suppliant
+	15 Ego Death
+	6 Ætherflight Mage
+	7 Cyril, Soul Chauffeur
+	15 Call to Alms
+	7 The Eversource
+	15 Told Tales
+	15 Lefre, Forge Bulwark
+	6 Penitentiary Cell
+	15 Redstone Monstrosity
+	6 Psychophage
+	6 Thaumaturge Eclectic
+	6 Bitter Struggle
+	6 Destitution
+	6 Adriel's Omen
+	6 Peat Nekojins
+	6 Esfonmeri Tenant
+	6 Æther Sap
+	6 Impaler Titan
+	15 False Leviathan
+	6 Ash Keeper
+	15 Grovebound Envoy
+	7 Culona, the Ætherken
+	6 Enthroned Soulcarver
+	4 Xathregos, Forgotten
+	15 Rosewitch
+	6 Wastebearer
+	7 Scar-Evoked
+	15 Ætherweft Wandering
+	15 Razed Reflection
+	6 Bereft Gouger
+	6 Guardian Shadow
+	6 Timeless Dream
+	6 Stoneshapen Wyrm
+	6 Feywhisper Guide
+	15 Nidoform
+	6 Lakeside Nekojin
+	6 Harpy Aspirant
+	6 Smithy Nekojin
+	6 Ecotone
+	6 Runic Rearguard
+	15 Corpserot Drake
+	6 Foray Frontliner
+	15 Flammeum Mortia
+	15 Condemmed Routmaker
+	15 Temple Arbiter
+	15 Xathregos's Ichor
+	6 Acolyte's Page
+	6 Icon of Hope
+	7 Assimilated Royal
+	15 Assigned Martyr
+	4 Lifeblade
+	6 Slag Spewer
+	15 Deiscape
+	15 Reclaimant Nekojin
+	15 Murdered Crow
+	15 Patrician Nekojin
+	6 Window of the Soul
+	6 Thrall Liege
+	6 Actuality
+	7 Zephyrrhicism
+	6 Dzoavits
+	7 Kanatowa, Ascendant
+	6 Deadeye Oni
+	15 Grovebound Consul
+	15 Razed Defiance
+	15 Shelter from the Rain
+	15 Band of Misfits
+	7 Endspark
+	4 Leach Titan
+	7 Wyrmbann
+	15 Fish Upon a Star
+	15 False Spider
+	15 Chromas Criomag
+	15 Chromas Ultimatum
+	15 Chromas Geata
+	6 Psyche Æthercruth
+	6 Sanguinary Stature
+	15 Assimilated Shepherd
+	15 Bole Wrecker
+	6 Hydra Transgression
+	6 Flesh Mantis
+	7 Grodadh, Rot's End
+	6 Ætherbloat Guardian
+	6 Territorial Atrocities
+	6 Cavalry Conscript
+	6 Ruinic Cerberus
+	7 Duslach, Rot's Origin
+	6 Sky's Scream
+	6 Moss's Tears
+	6 Portentious Lense
+	15 Wayside Feast
+	6 Grey Castaway
+	6 Enervating Crowkeep
+	6 Retired Journeyman
+	7 Kusi, Leyline Cartographer
+	6 Irastus
+	7 Uma
+	6 Chromas Seeker
+	4 Okina Matara, Chromas
+	6 Divine Currents
+	15 Uncanny Artistry
+	15 Lochstealer
+	15 Hoarfrost Lynx
+	6 Thanatic Bull
+	6 Canyon Vivifer
+	4 Amalgamaw
+	6 Sanguine Script
+	15 False Cherub
+	15 Shillehrig
+	6 Bangle Finch
+	6 Ravager Raven
+	6 Festerspot Toad
+	15 False Serpent
+	6 Bhainn Wardens
+	7 Finding Familiar
+	7 Caustic Hydra
+	6 Mindwrack Conceit
+	7 Hollowed Dryss
+	7 Kingly Poltergeist
+	6 Hello to a World
+	6 Demonic Divination
+	6 Rot Wench
+	6 Necromaniac

@@ -1,0 +1,356 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Badeline, Part of You",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Madeline, Complete",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Paralyzing Doubt",
+			"rarity": "common",
+			"mana_cost": "{B/P}{B}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Madeline, Troubled Climber",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Glistening Feather",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Crystal Heart",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Theo, Adventurous Sightseer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Wavebounce",
+			"rarity": "uncommon",
+			"mana_cost": "{R/P}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Lucid Dreams",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Summit's Release",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Miasmic Seeker",
+			"rarity": "common",
+			"mana_cost": "{1}{B/P}{B/P}",
+			"type": "Creature — Nightmare",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Soulbird",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Bird Avatar",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Old Woman of the Mount",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B/P}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Unnerving Reflection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Star Jam",
+			"rarity": "uncommon",
+			"mana_cost": "{U/R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Jolting Idol",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Belligerent Idol",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Three Thousand Meters",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Walking on Clouds",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Blissful Return",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/W}{G/W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Prison of Crystal",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Malicious Sludge Bunny",
+			"rarity": "common",
+			"mana_cost": "{1}{B/P}{B}",
+			"type": "Creature — Nightmare",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Celeste Mountain",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Self-Worthlessness",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Mr. Oshiro",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Jellyfish Glider",
+			"rarity": "uncommon",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/25.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Badeline, Part of You
+	1 Madeline, Complete
+	2 Madeline, Troubled Climber
+	1 Crystal Heart
+	2 Theo, Adventurous Sightseer
+	2 Three Thousand Meters
+	1 Celeste Mountain
+[uncommon(3)]
+	4 Wavebounce
+	4 Lucid Dreams
+	4 Summit's Release
+	4 Old Woman of the Mount
+	4 Unnerving Reflection
+	4 Star Jam
+	4 Walking on Clouds
+	4 Blissful Return
+	4 Self-Worthlessness
+	4 Mr. Oshiro
+	4 Jellyfish Glider
+[common(6)]
+	8 Paralyzing Doubt
+	8 Glistening Feather
+	8 Miasmic Seeker
+	8 Soulbird
+	8 Jolting Idol
+	8 Belligerent Idol
+	8 Prison of Crystal
+	8 Malicious Sludge Bunny
+[common | masterpiece(1)]
+	8 Paralyzing Doubt
+	8 Glistening Feather
+	8 Miasmic Seeker
+	8 Soulbird
+	8 Jolting Idol
+	8 Belligerent Idol
+	8 Prison of Crystal
+	8 Malicious Sludge Bunny
+[foil(1)]
+	2 Badeline, Part of You
+	1 Madeline, Complete
+	12 Paralyzing Doubt
+	2 Madeline, Troubled Climber
+	12 Glistening Feather
+	1 Crystal Heart
+	2 Theo, Adventurous Sightseer
+	6 Wavebounce
+	6 Lucid Dreams
+	6 Summit's Release
+	12 Miasmic Seeker
+	12 Soulbird
+	6 Old Woman of the Mount
+	6 Unnerving Reflection
+	6 Star Jam
+	12 Jolting Idol
+	12 Belligerent Idol
+	2 Three Thousand Meters
+	6 Walking on Clouds
+	6 Blissful Return
+	12 Prison of Crystal
+	12 Malicious Sludge Bunny
+	1 Celeste Mountain
+	6 Self-Worthlessness
+	6 Mr. Oshiro
+	6 Jellyfish Glider
+[wildcard(1)]
+	7 Badeline, Part of You
+	4 Madeline, Complete
+	6 Paralyzing Doubt
+	7 Madeline, Troubled Climber
+	6 Glistening Feather
+	4 Crystal Heart
+	7 Theo, Adventurous Sightseer
+	15 Wavebounce
+	15 Lucid Dreams
+	15 Summit's Release
+	6 Miasmic Seeker
+	6 Soulbird
+	15 Old Woman of the Mount
+	15 Unnerving Reflection
+	15 Star Jam
+	6 Jolting Idol
+	6 Belligerent Idol
+	7 Three Thousand Meters
+	15 Walking on Clouds
+	15 Blissful Return
+	6 Prison of Crystal
+	6 Malicious Sludge Bunny
+	4 Celeste Mountain
+	15 Self-Worthlessness
+	15 Mr. Oshiro
+	15 Jellyfish Glider
