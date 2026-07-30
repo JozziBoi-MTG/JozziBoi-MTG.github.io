@@ -2,17 +2,17 @@
     "sets": [
         {
             "set_code": "DPG",
-            "set_name": "",
+            "set_name": "Dans la Peur de Gommage",
             "formats": ""
         },
         {
             "set_code": "DV",
-            "set_name": "",
+            "set_name": "Daisuke\u2019s Vision",
             "formats": ""
         },
         {
             "set_code": "JZBI",
-            "set_name": "",
+            "set_name": "Incursion",
             "formats": ""
         },
         {
@@ -22,17 +22,17 @@
         },
         {
             "set_code": "SP",
-            "set_name": "",
+            "set_name": "Strawberry Pie",
             "formats": ""
         },
         {
             "set_code": "TLB",
-            "set_name": "",
+            "set_name": "The Lands Between",
             "formats": ""
         },
         {
             "set_code": "WI",
-            "set_name": "",
+            "set_name": "Weaver\u2019s Intrigue",
             "formats": ""
         }
     ]
