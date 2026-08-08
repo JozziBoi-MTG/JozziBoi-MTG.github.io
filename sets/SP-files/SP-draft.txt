@@ -43,7 +43,7 @@
 		{
 			"name": "Glistening Feather",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}{W}",
 			"type": "Instant",
 			"collector_number": "1",
 			"image_uris": {
@@ -65,7 +65,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/6.jpg"
 			}
@@ -73,9 +73,9 @@
 		{
 			"name": "Wavebounce",
 			"rarity": "uncommon",
-			"mana_cost": "{R/P}{W}",
+			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/7.jpg"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/9.jpg"
 			}
@@ -143,9 +143,9 @@
 		{
 			"name": "Star Jam",
 			"rarity": "uncommon",
-			"mana_cost": "{U/R}{R}",
+			"mana_cost": "{U}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "22",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/14.jpg"
 			}
@@ -173,9 +173,9 @@
 		{
 			"name": "Three Thousand Meters",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{W}",
+			"mana_cost": "{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/17.jpg"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/W}{G/W}",
 			"type": "Instant",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/SP-files/img/19.jpg"
 			}
@@ -203,7 +203,7 @@
 		{
 			"name": "Prison of Crystal",
 			"rarity": "common",
-			"mana_cost": "{W}{W}",
+			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "2",
 			"image_uris": {
@@ -232,7 +232,7 @@
 		},
 		{
 			"name": "Self-Worthlessness",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "11",
@@ -242,8 +242,8 @@
 		},
 		{
 			"name": "Mr. Oshiro",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "15",
 			"image_uris": {
@@ -270,6 +270,8 @@
 	2 Theo, Adventurous Sightseer
 	2 Three Thousand Meters
 	1 Celeste Mountain
+	2 Self-Worthlessness
+	2 Mr. Oshiro
 [uncommon(3)]
 	4 Wavebounce
 	4 Lucid Dreams
@@ -279,8 +281,6 @@
 	4 Star Jam
 	4 Walking on Clouds
 	4 Blissful Return
-	4 Self-Worthlessness
-	4 Mr. Oshiro
 	4 Jellyfish Glider
 [common(6)]
 	8 Paralyzing Doubt
@@ -324,8 +324,8 @@
 	12 Prison of Crystal
 	12 Malicious Sludge Bunny
 	1 Celeste Mountain
-	6 Self-Worthlessness
-	6 Mr. Oshiro
+	2 Self-Worthlessness
+	2 Mr. Oshiro
 	6 Jellyfish Glider
 [wildcard(1)]
 	7 Badeline, Part of You
@@ -351,6 +351,6 @@
 	6 Prison of Crystal
 	6 Malicious Sludge Bunny
 	4 Celeste Mountain
-	15 Self-Worthlessness
-	15 Mr. Oshiro
+	7 Self-Worthlessness
+	7 Mr. Oshiro
 	15 Jellyfish Glider

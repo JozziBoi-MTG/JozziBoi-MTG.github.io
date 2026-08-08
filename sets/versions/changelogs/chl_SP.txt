@@ -1,4 +1,85 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Badeline, Part of You
+rules_text: First strike
+Whenever Badeline, Part of You attacks or crews a Vehicle, other creatures you control gain +2/+0 until end of turn.
+Partner [i](You can have two commanders if both have partner.)[/i] => First strike
+Whenever Badeline, Part of You attacks or crews a Vehicle, other creatures you control get +2/+0 until end of turn.
+Partner [i](You can have two commanders if both have partner.)[/i]
+
+Madeline, Complete
+rules_text: Vigilance, double strike
+Whenever Madeline, Complete deals combat damage, draw a card.
+{BG}: Surveil 1. Madeline gains haste until end of turn. => Vigilance, double strike
+Whenever Madeline, Complete attacks or blocks, draw a card.
+{BG}: Surveil 1. Madeline gains haste until end of turn.
+
+Madeline, Troubled Climber
+rules_text: Haste, vigilance
+Whenever Madeline, Troubled Climber attacks or crews a vehicle, create a 3/2 black Avatar creature token with haste and vigilance. If Madeline is attacking, it enters attacking. Sacrifice it at the beginning of the next end step.
+Partner => Haste, vigilance
+Whenever Madeline, Troubled Climber attacks or crews a vehicle, create a 2/1 colorless Avatar creature token with haste and vigilance. If Madeline is attacking, it enters attacking. Exile that token at the beginning of the next end step.
+Partner
+
+Glistening Feather
+cost: {1}{W} => {W}{W}
+rules_text: Target creature gets +2/+2 and gains flying until end of turn. => Target creature gets +2/+2 and gains flying until end of turn.
+Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+
+Theo, Adventurous Sightseer
+rules_text: Whenever a creature enters under your control, if it does not share at least one creature type with other creatures you control, it enters with an additional two +1/+1 counters on it.
+Whenever a permanent enters under your control, if it does not share at least one card type with other permanents you control, proliferate, then proliferate again. => Whenever a creature enters under your control, if it does not share one or more creature types with other creatures you control, it enters with an additional two +1/+1 counters on it.
+Whenever a permanent enters under your control, if it does not share one or more card types with other permanents you control, proliferate, then proliferate again.
+
+Wavebounce
+cost: {RP}{W} => {R}{W}
+rules_text: Target creature gains vigilance and haste until end of turn. => Target creature gains vigilance and haste until end of turn.
+Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+
+Star Jam
+cost: {UR}{R} => {U}{R}
+rules_text: Enchant creature
+Enchanted creature gets +2/+0 and has haste.
+Whenever enchanted creature attacks, scry 2. => Enchant creature
+Enchanted creature gets +2/+0 and has haste.
+Whenever enchanted creature attacks, scry 3.
+
+Three Thousand Meters
+cost: {2}{R}{W} => {R}{W}
+rules_text: Whenever a creature you control attacks or deals combat damage to a player, put a flag counter on Three Thousand Meters. Then if there are 30 or more flag counters on Three Thousand Meters, you win the game. => Whenever you attack, put a flag counter on Three Thousand Meters for each attacking creature you control, each attacking creature with haste you control, and each attacking creature with vigilance you control. Then if there are 30 or more flag counters on Three Thousand Meters, you win the game.
+Cycling {1}{R}{W} [i]({1}{R}{W}, Discard this card: Draw a card.)[/i]
+When you cycle Three Thousand Meters, create a 2/1 colorless Avatar creature token with haste and vigilance.
+
+Prison of Crystal
+cost: {W}{W} => {W}
+rules_text: Enchant creature
+Enchanted creature can't attack and loses all abilities.
+As a sorcery, enchanted creature's controller may tap four untapped creatures they control. If they do, sacrifice Prison of Crystal. => Enchant creature
+Enchanted creature can't attack and loses all abilities.
+Whenever a creature controlled by enchanted creature's controller deals combat damage to you, sacrifice Prison of Crystal.
+
+Self-Worthlessness
+rules_text: Flying, first strike
+At the beginning of your upkeep, return target permanent you control to its owner's hand.
+At the beginning of your end step, if you control an even number of permanents, transform Self-Worthlessness. => Flying, first strike
+Whenever Self-Worthlessness attacks, each opponent loses 3 life.
+At the beginning of your end step, if you did not lose life this turn, transform Self-Worthlessness.
+pt: 5/3 => 5/4
+
+Mr. Oshiro
+cost: {1}{W}{U} => {1}{W}{B}
+rules_text: Flying, prowess
+At the beginning of your upkeep, exile target permanent, then return it to the battlefield under its owner's control.
+At the beginning of your end step, if you control an odd number of permanents, transform Mr. Oshiro. => Flying
+Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]
+At the beginning of your end step, if you lost life this turn, transform Mr. Oshiro.
+pt: 1/3 => 0/3
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

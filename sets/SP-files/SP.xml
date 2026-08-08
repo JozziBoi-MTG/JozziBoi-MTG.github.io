@@ -3,16 +3,16 @@
 	<sets>
 		<set>
 			<name>SP</name>
-			<longname>Strawberry Pie</longname>
+			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-30</releasedate>
+			<releasedate>2026-08-07</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Badeline, Part of You</name>
 			<text>First strike
-Whenever Badeline, Part of You attacks or crews a Vehicle, other creatures you control gain +2/+0 until end of turn.
+Whenever Badeline, Part of You attacks or crews a Vehicle, other creatures you control get +2/+0 until end of turn.
 Partner (You can have two commanders if both have partner.)</text>
 			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/0.jpg" num="7">SP</set>
 			<prop>
@@ -31,7 +31,7 @@ Partner (You can have two commanders if both have partner.)</text>
 		<card>
 			<name>Madeline, Complete</name>
 			<text>Vigilance, double strike
-Whenever Madeline, Complete deals combat damage, draw a card.
+Whenever Madeline, Complete attacks or blocks, draw a card.
 {BG}: Surveil 1. Madeline gains haste until end of turn.</text>
 			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/1.jpg" num="13">SP</set>
 			<prop>
@@ -66,7 +66,7 @@ Whenever Madeline, Complete deals combat damage, draw a card.
 		<card>
 			<name>Madeline, Troubled Climber</name>
 			<text>Haste, vigilance
-Whenever Madeline, Troubled Climber attacks or crews a vehicle, create a 3/2 black Avatar creature token with haste and vigilance. If Madeline is attacking, it enters attacking. Sacrifice it at the beginning of the next end step.
+Whenever Madeline, Troubled Climber attacks or crews a vehicle, create a 2/1 colorless Avatar creature token with haste and vigilance. If Madeline is attacking, it enters attacking. Exile that token at the beginning of the next end step.
 Partner</text>
 			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/3.jpg" num="14">SP</set>
 			<prop>
@@ -84,14 +84,15 @@ Partner</text>
 		</card>
 		<card>
 			<name>Glistening Feather</name>
-			<text>Target creature gets +2/+2 and gains flying until end of turn.</text>
+			<text>Target creature gets +2/+2 and gains flying until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/4.jpg" num="1">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1W</manacost>
+				<manacost>WW</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -116,9 +117,9 @@ Partner</text>
 		</card>
 		<card>
 			<name>Theo, Adventurous Sightseer</name>
-			<text>Whenever a creature enters under your control, if it does not share at least one creature type with other creatures you control, it enters with an additional two +1/+1 counters on it.
-Whenever a permanent enters under your control, if it does not share at least one card type with other permanents you control, proliferate, then proliferate again.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/6.jpg" num="18">SP</set>
+			<text>Whenever a creature enters under your control, if it does not share one or more creature types with other creatures you control, it enters with an additional two +1/+1 counters on it.
+Whenever a permanent enters under your control, if it does not share one or more card types with other permanents you control, proliferate, then proliferate again.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/6.jpg" num="19">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -134,14 +135,15 @@ Whenever a permanent enters under your control, if it does not share at least on
 		</card>
 		<card>
 			<name>Wavebounce</name>
-			<text>Target creature gains vigilance and haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/7.jpg" num="20">SP</set>
+			<text>Target creature gains vigilance and haste until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/7.jpg" num="21">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>R/PW</manacost>
+				<manacost>RW</manacost>
 				<cmc>2</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
@@ -169,7 +171,7 @@ Whenever a permanent enters under your control, if it does not share at least on
 			<text>Gain 7 life.
 Untap target creature. Put a +1/+1 counter on it.
 Destroy up to one target enchantment.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/9.jpg" num="17">SP</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/9.jpg" num="18">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -260,14 +262,14 @@ Delirium — Then if there are four or more card types among cards in your grave
 			<name>Star Jam</name>
 			<text>Enchant creature
 Enchanted creature gets +2/+0 and has haste.
-Whenever enchanted creature attacks, scry 2.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/14.jpg" num="22">SP</set>
+Whenever enchanted creature attacks, scry 3.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/14.jpg" num="17">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>U/RR</manacost>
+				<manacost>UR</manacost>
 				<cmc>2</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
@@ -309,15 +311,17 @@ Crew 1</text>
 		</card>
 		<card>
 			<name>Three Thousand Meters</name>
-			<text>Whenever a creature you control attacks or deals combat damage to a player, put a flag counter on Three Thousand Meters. Then if there are 30 or more flag counters on Three Thousand Meters, you win the game.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/17.jpg" num="19">SP</set>
+			<text>Whenever you attack, put a flag counter on Three Thousand Meters for each attacking creature you control, each attacking creature with haste you control, and each attacking creature with vigilance you control. Then if there are 30 or more flag counters on Three Thousand Meters, you win the game.
+Cycling {1}{R}{W} ({1}{R}{W}, Discard this card: Draw a card.)
+When you cycle Three Thousand Meters, create a 2/1 colorless Avatar creature token with haste and vigilance.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/17.jpg" num="20">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2RW</manacost>
-				<cmc>4</cmc>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 			</prop>
@@ -343,7 +347,7 @@ At the beginning of combat on your turn, target creature you control gains flyin
 		<card>
 			<name>Blissful Return</name>
 			<text>Put a +1/+1 counter on each of up to two target creatures. Those creatures gain lifelink until end of turn.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/19.jpg" num="21">SP</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/19.jpg" num="22">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -360,15 +364,15 @@ At the beginning of combat on your turn, target creature you control gains flyin
 			<name>Prison of Crystal</name>
 			<text>Enchant creature
 Enchanted creature can&apos;t attack and loses all abilities.
-As a sorcery, enchanted creature&apos;s controller may tap four untapped creatures they control. If they do, sacrifice Prison of Crystal.</text>
+Whenever a creature controlled by enchanted creature&apos;s controller deals combat damage to you, sacrifice Prison of Crystal.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/20.jpg" num="2">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>WW</manacost>
-				<cmc>2</cmc>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -412,9 +416,9 @@ Whenever Malicious Sludge Bunny deals combat damage, create a 1/1 black Pest cre
 		<card>
 			<name>Self-Worthlessness</name>
 			<text>Flying, first strike
-At the beginning of your upkeep, return target permanent you control to its owner&apos;s hand.
-At the beginning of your end step, if you control an even number of permanents, transform Self-Worthlessness.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/23.jpg" num="11">SP</set>
+Whenever Self-Worthlessness attacks, each opponent loses 3 life.
+At the beginning of your end step, if you did not lose life this turn, transform Self-Worthlessness.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/23.jpg" num="11">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -424,26 +428,26 @@ At the beginning of your end step, if you control an even number of permanents, 
 				<cmc>0</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>5/3</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Mr. Oshiro</name>
-			<text>Flying, prowess
-At the beginning of your upkeep, exile target permanent, then return it to the battlefield under its owner&apos;s control.
-At the beginning of your end step, if you control an odd number of permanents, transform Mr. Oshiro.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/24.jpg" num="15">SP</set>
+			<text>Flying
+Extort (Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)
+At the beginning of your end step, if you lost life this turn, transform Mr. Oshiro.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/SP-files/img/24.jpg" num="15">SP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Spirit</type>
 				<maintype>Creature</maintype>
-				<manacost>1WU</manacost>
+				<manacost>1WB</manacost>
 				<cmc>3</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-				<pt>1/3</pt>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

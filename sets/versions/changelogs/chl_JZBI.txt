@@ -1,4 +1,66 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Periosteulent Wyrm added.
+Estuic Blast added.
+Stained Ascension added.
+
+
+Impaler Titan
+rules_text: [i]Metalcraft[/i] — When Impaler Titan enters, if you control three or more artifacts, destroy target creature with flying.
+As long as Impaler Titan is equipped, it has reach. => [i]Metalcraft[/i] — When Impaler Titan enters, if you control three or more artifacts, destroy target creature with flying.
+As long as Impaler Titan is modified, it has reach. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Murdered Crow
+rules_text: Flying
+[i]Constellation[/i] — Whenever Murdered Crow or another enchantment enters under your control, each opponent mills one card. Then mill cards equal to the total number of cards milled this way. => Flying
+[i]Constellation[/i] — Whenever Murdered Crow or another enchantment enters under your control, each player mills one card.
+{1}{B}, Exile Murdered Crow from your graveyard: Return target creature card from your graveyard to your hand.
+
+Grodadh, Rot's End
+rules_text: Flying
+Whenever a land is put into a graveyard from anywhere, create a 2/2 green Insect creature token with flying.
+Whenever an Insect, Pest, or Spider you control deals combat damage to a player, that player discards a card at random, then loses life equal to that card's mana value. => Flying
+When Grodadh, Rot's End enters, create a 2/2 green Insect creature token with flying for each land card in your graveyard.
+Whenever an Insect, Pest, or Spider you control deals combat damage to a player, return a card at random from your graveyard to your hand.
+pt: 7/5 => 6/5
+
+Ætherbloat Guardian
+rules_text: Suspend 4—{U}{U}
+When Ætherbloat Guardian enters, you may reveal a card from your hand. If you do, each opponent mills {X}, where X is the mana value of the revealed card. X is three times the mana value of the revealed card instead if there are seven or more Islands on the battlefield. => Suspend 4—{U}{U}
+When Ætherbloat Guardian enters, you may reveal a card from your hand. If you do, each opponent mills X, where X is the mana value of the revealed card. X is three times the mana value of the revealed card instead if there are seven or more Islands on the battlefield.
+
+Duslach, Rot's Origin
+rules_text: Menace
+[i]Landfall[/i] — Whenever a land enters the battlefield under your control, create a 1/1 black Pest creature token.
+Whenever an Insect, Pest, or Spider you control deals combat damage to a player, untap target land you control. => Menace
+When Duslach, Rot's Origin enters, create a 1/1 black Pest creature token for each land you control.
+Whenever an Insect, Pest, or Spider you control deals combat damage to a player, untap target land you control.
+pt: 5/7 => 5/6
+
+Wayside Feast
+rules_text: Gain 3 life.
+Untap target creature.
+Flashback {2}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+When this card is put into exile from anywhere, gain 1 life for each creature you control. => You gain 3 life.
+Untap target creature.
+Flashback {2}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+When this card is put into exile from anywhere, you gain 1 life for each creature you control.
+
+False Cherub
+rules_text: {T}, Sacrifice False Cherub: Exile target card from a graveyard.
+Whenever a player gains life for the third time each turn, return False Cherub from your graveyard to the battlefield. => {T}, Sacrifice False Cherub: Exile target card from a graveyard.
+When you gain life for the second time each turn, return False Cherub from your graveyard to the battlefield.
+
+Kingly Poltergeist
+rules_text: Equipped creatures you control gain +2/+2.
+Whenever you cast a noncreature spell, you may attach target equipment you control to target creature you control.
+[i]Metalcraft[/i] — {T}, Sacrifice an artifact: Search your library for an Equipment card, put it onto the battlefield, then shuffle. Activate only if you control three or more artifacts. => Equipped creatures you control gain +2/+2.
+Whenever you cast a noncreature spell, you may attach target Equipment you control to target creature you control.
+[i]Metalcraft[/i] — {T}, Sacrifice an artifact: Search your library for an Equipment card, put it onto the battlefield, then shuffle. Activate only if you control three or more artifacts.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

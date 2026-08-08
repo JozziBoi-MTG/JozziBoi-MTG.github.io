@@ -143,12 +143,7 @@
     },
     "a->gold",
     {
-        "card_name": "Mr. Oshiro",
-        "number": 15,
-        "shape": "normal",
-        "set": "SP",
-        "rotated": false,
-        "position": "24"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -161,7 +156,7 @@
     },
     {
         "card_name": "Theo, Adventurous Sightseer",
-        "number": 18,
+        "number": 19,
         "shape": "normal",
         "set": "SP",
         "rotated": false,
@@ -181,7 +176,7 @@
     },
     {
         "card_name": "Summit's Release",
-        "number": 17,
+        "number": 18,
         "shape": "normal",
         "set": "SP",
         "rotated": false,
@@ -201,7 +196,7 @@
     },
     {
         "card_name": "Blissful Return",
-        "number": 21,
+        "number": 22,
         "shape": "normal",
         "set": "SP",
         "rotated": false,
@@ -223,11 +218,16 @@
         "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "Mr. Oshiro",
+        "number": 15,
+        "shape": "normal",
+        "set": "SP",
+        "rotated": false,
+        "position": "24"
     },
     {
         "card_name": "Star Jam",
-        "number": 22,
+        "number": 17,
         "shape": "normal",
         "set": "SP",
         "rotated": false,
@@ -263,7 +263,7 @@
     },
     {
         "card_name": "Three Thousand Meters",
-        "number": 19,
+        "number": 20,
         "shape": "normal",
         "set": "SP",
         "rotated": false,
@@ -283,7 +283,7 @@
     },
     {
         "card_name": "Wavebounce",
-        "number": 20,
+        "number": 21,
         "shape": "normal",
         "set": "SP",
         "rotated": false,

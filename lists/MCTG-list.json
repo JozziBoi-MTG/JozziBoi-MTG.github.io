@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Wither, the Corrupter",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Infinity Snapshot",
-        "number": 120,
+        "number": 122,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Adventuring Time",
-        "number": 141,
+        "number": 143,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Nightfall",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Glowstone Infusion",
-        "number": 118,
+        "number": 120,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Creaking",
-        "number": 145,
+        "number": 147,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -96,16 +96,16 @@
         "position": "180"
     },
     {
-        "card_name": "Bogged",
-        "number": 78,
+        "card_name": "Spider Jockey",
+        "number": 105,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "238"
+        "position": "37"
     },
     {
         "card_name": "Irresistible Peddler",
-        "number": 121,
+        "number": 123,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Cultivate",
-        "number": 146,
+        "number": 148,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -136,16 +136,16 @@
         "position": "147"
     },
     {
-        "card_name": "Congealed Slime",
-        "number": 82,
+        "card_name": "Abandoned Village",
+        "number": 75,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "35"
+        "position": "169"
     },
     {
         "card_name": "Blackened Bastion",
-        "number": 111,
+        "number": 112,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Dinnerbone",
-        "number": 147,
+        "number": 149,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -176,16 +176,16 @@
         "position": "123"
     },
     {
-        "card_name": "Creeper",
-        "number": 83,
+        "card_name": "Bogged",
+        "number": 79,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "33"
+        "position": "238"
     },
     {
         "card_name": "Killer Rabbit",
-        "number": 122,
+        "number": 124,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -193,7 +193,7 @@
     },
     {
         "card_name": "Evoker",
-        "number": 148,
+        "number": 150,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -216,16 +216,16 @@
         "position": "174"
     },
     {
-        "card_name": "Enderman",
-        "number": 85,
+        "card_name": "Congealed Slime",
+        "number": 83,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "38"
+        "position": "35"
     },
     {
         "card_name": "Magma Cube",
-        "number": 124,
+        "number": 126,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -233,7 +233,7 @@
     },
     {
         "card_name": "Glow Squid",
-        "number": 154,
+        "number": 156,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -256,16 +256,16 @@
         "position": "256"
     },
     {
-        "card_name": "Endermite",
-        "number": 86,
+        "card_name": "Creeper",
+        "number": 84,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "40"
+        "position": "33"
     },
     {
         "card_name": "Nether Fortress",
-        "number": 125,
+        "number": 127,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -273,7 +273,7 @@
     },
     {
         "card_name": "Jungle Temple",
-        "number": 157,
+        "number": 159,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -296,24 +296,24 @@
         "position": "9"
     },
     {
-        "card_name": "Forbidden Ritual",
-        "number": 88,
+        "card_name": "Enderman",
+        "number": 86,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "170"
+        "position": "38"
     },
     {
-        "card_name": "Skeleton Horseman",
-        "number": 134,
+        "card_name": "Respawn Anchor",
+        "number": 133,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "227"
+        "position": "201"
     },
     {
         "card_name": "Oozing Demise",
-        "number": 162,
+        "number": 164,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -336,24 +336,24 @@
         "position": "135"
     },
     {
-        "card_name": "Hateful Vex",
-        "number": 90,
+        "card_name": "Endermite",
+        "number": 87,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "141"
+        "position": "40"
     },
     {
-        "card_name": "Suspicious Stew",
-        "number": 137,
+        "card_name": "Skeleton Horseman",
+        "number": 136,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "236"
+        "position": "227"
     },
     {
         "card_name": "Ravager",
-        "number": 166,
+        "number": 168,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -376,24 +376,24 @@
         "position": "195"
     },
     {
-        "card_name": "Husk",
-        "number": 91,
+        "card_name": "Forbidden Ritual",
+        "number": 89,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "124"
+        "position": "170"
     },
     {
-        "card_name": "Wither Skeleton",
-        "number": 138,
+        "card_name": "Suspicious Stew",
+        "number": 139,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "43"
+        "position": "236"
     },
     {
         "card_name": "Richly-Fed Cow",
-        "number": 167,
+        "number": 169,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -416,24 +416,24 @@
         "position": "91"
     },
     {
-        "card_name": "Murder",
-        "number": 93,
+        "card_name": "Hateful Vex",
+        "number": 91,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "239"
+        "position": "141"
     },
     {
-        "card_name": "Anger the Tribe",
-        "number": 110,
+        "card_name": "Wither Skeleton",
+        "number": 140,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "53"
+        "position": "43"
     },
     {
         "card_name": "Spiteful Pillager",
-        "number": 168,
+        "number": 170,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -456,24 +456,24 @@
         "position": "237"
     },
     {
-        "card_name": "Outcast Witch",
-        "number": 96,
+        "card_name": "Husk",
+        "number": 92,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "39"
+        "position": "124"
     },
     {
-        "card_name": "Blaze",
-        "number": 112,
+        "card_name": "Anger the Tribe",
+        "number": 111,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "42"
+        "position": "53"
     },
     {
         "card_name": "Thorns",
-        "number": 170,
+        "number": 172,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -496,24 +496,24 @@
         "position": "242"
     },
     {
-        "card_name": "\u00c6therfeed Silverfish",
-        "number": 75,
+        "card_name": "Murder",
+        "number": 94,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "76"
+        "position": "239"
     },
     {
-        "card_name": "Bucket of Lava",
+        "card_name": "Blaze",
         "number": 113,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "81"
+        "position": "42"
     },
     {
         "card_name": "Woodland Mansion",
-        "number": 174,
+        "number": 176,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -536,24 +536,24 @@
         "position": "210"
     },
     {
-        "card_name": "Armored Spawn",
-        "number": 76,
+        "card_name": "Outcast Witch",
+        "number": 97,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "49"
+        "position": "39"
     },
     {
-        "card_name": "Escape to Flames",
+        "card_name": "Bucket of Lava",
         "number": 114,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "183"
+        "position": "81"
     },
     {
         "card_name": "Allay",
-        "number": 142,
+        "number": 144,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -576,24 +576,24 @@
         "position": "113"
     },
     {
-        "card_name": "Baby Zombie",
-        "number": 77,
+        "card_name": "\u00c6therfeed Silverfish",
+        "number": 76,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "89"
+        "position": "76"
     },
     {
-        "card_name": "Fire Charge",
+        "card_name": "Escape to Flames",
         "number": 115,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "151"
+        "position": "183"
     },
     {
         "card_name": "Bee Nest",
-        "number": 143,
+        "number": 145,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -616,24 +616,24 @@
         "position": "16"
     },
     {
-        "card_name": "Camel's Husk",
-        "number": 79,
+        "card_name": "Armored Spawn",
+        "number": 77,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "271"
+        "position": "49"
     },
     {
-        "card_name": "Ghast",
+        "card_name": "Fire Charge",
         "number": 116,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "41"
+        "position": "151"
     },
     {
         "card_name": "Braying Goat",
-        "number": 144,
+        "number": 146,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -656,24 +656,24 @@
         "position": "181"
     },
     {
-        "card_name": "Cave Spider",
-        "number": 80,
+        "card_name": "Baby Zombie",
+        "number": 78,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "127"
+        "position": "89"
     },
     {
-        "card_name": "Glow Frog",
+        "card_name": "Flint and Steel",
         "number": 117,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "192"
+        "position": "95"
     },
     {
         "card_name": "Explore",
-        "number": 149,
+        "number": 151,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -696,24 +696,24 @@
         "position": "80"
     },
     {
-        "card_name": "Compulsory Zombie",
-        "number": 81,
+        "card_name": "Camel's Husk",
+        "number": 80,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "31"
+        "position": "271"
     },
     {
-        "card_name": "Hoglin",
-        "number": 119,
+        "card_name": "Ghast",
+        "number": 118,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "157"
+        "position": "41"
     },
     {
         "card_name": "Fall Damage",
-        "number": 150,
+        "number": 152,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -736,24 +736,24 @@
         "position": "133"
     },
     {
-        "card_name": "Desert Temple",
-        "number": 84,
+        "card_name": "Cave Spider",
+        "number": 81,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "109"
+        "position": "127"
     },
     {
-        "card_name": "Lightning Bolt",
-        "number": 123,
+        "card_name": "Glow Frog",
+        "number": 119,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "52"
+        "position": "192"
     },
     {
         "card_name": "Familiar Parrot",
-        "number": 151,
+        "number": 153,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -776,24 +776,24 @@
         "position": "136"
     },
     {
-        "card_name": "The First Night",
-        "number": 87,
+        "card_name": "Compulsory Zombie",
+        "number": 82,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "117"
+        "position": "31"
     },
     {
-        "card_name": "Nimble Camel",
-        "number": 126,
+        "card_name": "Hoglin",
+        "number": 121,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "191"
+        "position": "157"
     },
     {
         "card_name": "Farseek",
-        "number": 152,
+        "number": 154,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -816,24 +816,24 @@
         "position": "131"
     },
     {
-        "card_name": "Giant's Corpse",
-        "number": 89,
+        "card_name": "Desert Temple",
+        "number": 85,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "102"
+        "position": "109"
     },
     {
-        "card_name": "Piglin",
-        "number": 127,
+        "card_name": "Lightning Bolt",
+        "number": 125,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "156"
+        "position": "52"
     },
     {
         "card_name": "Giant Bee",
-        "number": 153,
+        "number": 155,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -856,24 +856,24 @@
         "position": "114"
     },
     {
-        "card_name": "Mob Spawner",
-        "number": 92,
+        "card_name": "The First Night",
+        "number": 88,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "108"
+        "position": "117"
     },
     {
-        "card_name": "Piglin Brute",
+        "card_name": "Nimble Camel",
         "number": 128,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "158"
+        "position": "191"
     },
     {
         "card_name": "Here's Johnny!",
-        "number": 155,
+        "number": 157,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -896,24 +896,24 @@
         "position": "92"
     },
     {
-        "card_name": "Nocked Skeleton",
-        "number": 95,
+        "card_name": "Giant's Corpse",
+        "number": 90,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "32"
+        "position": "102"
     },
     {
-        "card_name": "Potion of Harming",
+        "card_name": "Piglin",
         "number": 129,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "65"
+        "position": "156"
     },
     {
         "card_name": "Honey Hive",
-        "number": 156,
+        "number": 158,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -936,24 +936,24 @@
         "position": "13"
     },
     {
-        "card_name": "Parched Bones",
-        "number": 97,
+        "card_name": "Mob Spawner",
+        "number": 93,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "270"
+        "position": "108"
     },
     {
-        "card_name": "Potion of Strength",
+        "card_name": "Piglin Brute",
         "number": 130,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "71"
+        "position": "158"
     },
     {
         "card_name": "Jungle Vines",
-        "number": 158,
+        "number": 160,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -976,24 +976,24 @@
         "position": "186"
     },
     {
-        "card_name": "Pitfall",
-        "number": 98,
+        "card_name": "Nocked Skeleton",
+        "number": 96,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "115"
+        "position": "32"
     },
     {
-        "card_name": "Respawn Anchor",
+        "card_name": "Potion of Harming",
         "number": 131,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "201"
+        "position": "65"
     },
     {
         "card_name": "Kick the Hive",
-        "number": 159,
+        "number": 161,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1016,24 +1016,24 @@
         "position": "6"
     },
     {
-        "card_name": "Potion of Poison",
-        "number": 99,
+        "card_name": "Parched Bones",
+        "number": 98,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "73"
+        "position": "270"
     },
     {
-        "card_name": "Riches from Dust",
+        "card_name": "Potion of Strength",
         "number": 132,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "205"
+        "position": "71"
     },
     {
         "card_name": "Loyal Wolf",
-        "number": 160,
+        "number": 162,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1056,24 +1056,24 @@
         "position": "66"
     },
     {
-        "card_name": "Potion of Weakness",
-        "number": 100,
+        "card_name": "Pitfall",
+        "number": 99,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "64"
+        "position": "115"
     },
     {
-        "card_name": "Sharpness",
-        "number": 133,
+        "card_name": "Riches from Dust",
+        "number": 134,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "97"
+        "position": "205"
     },
     {
         "card_name": "Mushroom Stew",
-        "number": 161,
+        "number": 163,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1096,24 +1096,24 @@
         "position": "70"
     },
     {
-        "card_name": "Recipe Book",
-        "number": 101,
+        "card_name": "Potion of Poison",
+        "number": 100,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "125"
+        "position": "73"
     },
     {
-        "card_name": "Slag Strider",
+        "card_name": "Sharpness",
         "number": 135,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "160"
+        "position": "97"
     },
     {
         "card_name": "Passionate Farmer",
-        "number": 163,
+        "number": 165,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1136,24 +1136,24 @@
         "position": "72"
     },
     {
-        "card_name": "Skittering Spider",
-        "number": 102,
+        "card_name": "Potion of Weakness",
+        "number": 101,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "36"
+        "position": "64"
     },
     {
-        "card_name": "Soul Sand Valley",
-        "number": 136,
+        "card_name": "Slag Strider",
+        "number": 137,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "47"
+        "position": "160"
     },
     {
         "card_name": "Potion of Night Vision",
-        "number": 164,
+        "number": 166,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1176,24 +1176,24 @@
         "position": "99"
     },
     {
-        "card_name": "Spawn Egg",
-        "number": 103,
+        "card_name": "Recipe Book",
+        "number": 102,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "56"
+        "position": "125"
     },
     {
-        "card_name": "Zoglin",
-        "number": 139,
+        "card_name": "Soul Sand Valley",
+        "number": 138,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "159"
+        "position": "47"
     },
     {
         "card_name": "Potion of Regeneration",
-        "number": 165,
+        "number": 167,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1216,24 +1216,24 @@
         "position": "188"
     },
     {
-        "card_name": "Spider Jockey",
-        "number": 104,
+        "card_name": "Skittering Spider",
+        "number": 103,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "37"
+        "position": "36"
     },
     {
-        "card_name": "Zombie Piglin",
-        "number": 140,
+        "card_name": "Zoglin",
+        "number": 141,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "45"
+        "position": "159"
     },
     {
         "card_name": "Thieving Fox",
-        "number": 169,
+        "number": 171,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1256,24 +1256,24 @@
         "position": "5"
     },
     {
-        "card_name": "Swooping Phantom",
-        "number": 105,
+        "card_name": "Spawn Egg",
+        "number": 104,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "134"
+        "position": "56"
     },
     {
-        "card_name": "Mountain",
-        "number": 258,
+        "card_name": "Zombie Piglin",
+        "number": 142,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "252"
+        "position": "45"
     },
     {
         "card_name": "Vindicator",
-        "number": 171,
+        "number": 173,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1296,26 +1296,31 @@
         "position": "77"
     },
     {
-        "card_name": "Umbra Bat",
+        "card_name": "Swooping Phantom",
         "number": 106,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "14"
+        "position": "134"
     },
     {
-        "card_name": "e"
+        "card_name": "Mountain",
+        "number": 258,
+        "shape": "normal",
+        "set": "MCTG",
+        "rotated": false,
+        "position": "252"
     },
     {
         "card_name": "Wandering Panda",
-        "number": 172,
+        "number": 174,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
         "position": "2"
     },
     {
-        "card_name": "Stalwart Pig",
+        "card_name": "Stalwart Swine",
         "number": 34,
         "shape": "normal",
         "set": "MCTG",
@@ -1331,19 +1336,19 @@
         "position": "88"
     },
     {
-        "card_name": "Zombie Siege",
-        "number": 108,
+        "card_name": "Umbra Bat",
+        "number": 107,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "120"
+        "position": "14"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Wandering Trader",
-        "number": 173,
+        "number": 175,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1366,12 +1371,12 @@
         "position": "130"
     },
     {
-        "card_name": "Zombie Villager",
+        "card_name": "Zombie Siege",
         "number": 109,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "34"
+        "position": "120"
     },
     {
         "card_name": "e"
@@ -1401,12 +1406,12 @@
         "position": "51"
     },
     {
-        "card_name": "Swamp",
-        "number": 261,
+        "card_name": "Zombie Villager",
+        "number": 110,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
-        "position": "254"
+        "position": "34"
     },
     {
         "card_name": "e"
@@ -1431,7 +1436,12 @@
         "position": "251"
     },
     {
-        "card_name": "e"
+        "card_name": "Swamp",
+        "number": 261,
+        "shape": "normal",
+        "set": "MCTG",
+        "rotated": false,
+        "position": "254"
     },
     {
         "card_name": "e"
@@ -1454,7 +1464,7 @@
     "a->gold",
     {
         "card_name": "Aria Math",
-        "number": 175,
+        "number": 177,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1462,7 +1472,7 @@
     },
     {
         "card_name": "Recovery Compass",
-        "number": 197,
+        "number": 199,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1470,7 +1480,7 @@
     },
     {
         "card_name": "Chamber's Omen",
-        "number": 206,
+        "number": 208,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1478,7 +1488,7 @@
     },
     {
         "card_name": "Loam Sniffer",
-        "number": 189,
+        "number": 191,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1486,7 +1496,7 @@
     },
     {
         "card_name": "Jellie of the Homestead",
-        "number": 188,
+        "number": 190,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1494,7 +1504,7 @@
     },
     {
         "card_name": "Weathered Fisherman",
-        "number": 203,
+        "number": 205,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1502,7 +1512,7 @@
     },
     {
         "card_name": "Disc: 13",
-        "number": 179,
+        "number": 181,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1510,7 +1520,7 @@
     },
     {
         "card_name": "Disc: 11",
-        "number": 178,
+        "number": 180,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1518,7 +1528,7 @@
     },
     {
         "card_name": "Bond of the Creaking Heart",
-        "number": 177,
+        "number": 179,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1526,7 +1536,7 @@
     },
     {
         "card_name": "Village Haven",
-        "number": 200,
+        "number": 202,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1540,7 +1550,7 @@
     },
     {
         "card_name": "Mass Explosion",
-        "number": 190,
+        "number": 192,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1548,7 +1558,7 @@
     },
     {
         "card_name": "Pigstep",
-        "number": 193,
+        "number": 195,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1556,7 +1566,7 @@
     },
     {
         "card_name": "Disc: Creator",
-        "number": 180,
+        "number": 182,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1576,7 +1586,7 @@
     },
     {
         "card_name": "Totem of Undying",
-        "number": 199,
+        "number": 201,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1596,7 +1606,7 @@
     },
     {
         "card_name": "Mooshroom",
-        "number": 192,
+        "number": 194,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1616,7 +1626,7 @@
     },
     {
         "card_name": "Cartographer's Map",
-        "number": 205,
+        "number": 207,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1636,7 +1646,7 @@
     },
     {
         "card_name": "Cleansing Grindstone",
-        "number": 207,
+        "number": 209,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1656,7 +1666,7 @@
     },
     {
         "card_name": "Sleep Off the Night",
-        "number": 211,
+        "number": 213,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1679,7 +1689,7 @@
     },
     {
         "card_name": "Herobrine, Soulless",
-        "number": 184,
+        "number": 186,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1687,7 +1697,7 @@
     },
     {
         "card_name": "Voidrift Stronghold",
-        "number": 201,
+        "number": 203,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1695,15 +1705,50 @@
     },
     {
         "card_name": "Pillager Captain",
-        "number": 194,
+        "number": 196,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
         "position": "146"
     },
     {
-        "card_name": "Fleeting Durability",
+        "card_name": "Warden Enraged",
+        "number": 204,
+        "shape": "normal",
+        "set": "MCTG",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Witch Hut",
+        "number": 206,
+        "shape": "normal",
+        "set": "MCTG",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "Command Block",
         "number": 210,
+        "shape": "normal",
+        "set": "MCTG",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Ravager Jockey",
+        "number": 198,
+        "shape": "normal",
+        "set": "MCTG",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "Fleeting Durability",
+        "number": 212,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1713,38 +1758,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Witch Hut",
-        "number": 213,
-        "shape": "normal",
-        "set": "MCTG",
-        "rotated": false,
-        "position": "172"
-    },
-    {
-        "card_name": "Command Block",
-        "number": 208,
-        "shape": "normal",
-        "set": "MCTG",
-        "rotated": false,
-        "position": "87"
-    },
-    {
-        "card_name": "Ravager Jockey",
-        "number": 196,
-        "shape": "normal",
-        "set": "MCTG",
-        "rotated": false,
-        "position": "144"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Gray Cleric",
-        "number": 183,
+        "number": 185,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1755,7 +1770,7 @@
     },
     {
         "card_name": "Illager Patrol",
-        "number": 186,
+        "number": 188,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1769,7 +1784,7 @@
     },
     {
         "card_name": "Contagion Cocktail",
-        "number": 209,
+        "number": 211,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1780,7 +1795,7 @@
     },
     {
         "card_name": "Pillager Outpost",
-        "number": 195,
+        "number": 197,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1800,7 +1815,7 @@
     },
     {
         "card_name": "Savage Raid",
-        "number": 198,
+        "number": 200,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1819,28 +1834,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Abandoned Village",
-        "number": 204,
-        "shape": "normal",
-        "set": "MCTG",
-        "rotated": false,
-        "position": "169"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Bad Omen",
-        "number": 176,
+        "number": 178,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1869,7 +1864,7 @@
     },
     {
         "card_name": "Ender Dragon, Immortal",
-        "number": 182,
+        "number": 184,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1877,7 +1872,7 @@
     },
     {
         "card_name": "Herobrine, Warmonger",
-        "number": 185,
+        "number": 187,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1885,23 +1880,15 @@
     },
     {
         "card_name": "Master of the End",
-        "number": 191,
+        "number": 193,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
         "position": "61"
     },
     {
-        "card_name": "Warden Enraged",
-        "number": 202,
-        "shape": "normal",
-        "set": "MCTG",
-        "rotated": false,
-        "position": "225"
-    },
-    {
         "card_name": "Dragon's Breath",
-        "number": 181,
+        "number": 183,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1909,7 +1896,7 @@
     },
     {
         "card_name": "Trail Ruins",
-        "number": 212,
+        "number": 214,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1917,11 +1904,14 @@
     },
     {
         "card_name": "Jeb the Sheep",
-        "number": 187,
+        "number": 189,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
         "position": "198"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1947,7 +1937,7 @@
     "a->colorless",
     {
         "card_name": "Copper Golem",
-        "number": 221,
+        "number": 222,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1979,7 +1969,7 @@
     },
     {
         "card_name": "Altar of Myths",
-        "number": 214,
+        "number": 215,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1987,7 +1977,7 @@
     },
     {
         "card_name": "Beacon",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -1995,7 +1985,7 @@
     },
     {
         "card_name": "Brewing Stand",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2003,7 +1993,7 @@
     },
     {
         "card_name": "Buried Treasure",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2011,7 +2001,7 @@
     },
     {
         "card_name": "Copper Chest",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2019,7 +2009,7 @@
     },
     {
         "card_name": "Decrepit Cage",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2027,7 +2017,7 @@
     },
     {
         "card_name": "Desert Well",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2035,7 +2025,7 @@
     },
     {
         "card_name": "Elytra",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2043,7 +2033,7 @@
     },
     {
         "card_name": "Fitted Gear",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2131,7 +2121,7 @@
     },
     {
         "card_name": "Amethyst Spyglass",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2139,7 +2129,7 @@
     },
     {
         "card_name": "Awkward Potion",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2147,7 +2137,7 @@
     },
     {
         "card_name": "Crafting Table",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2155,7 +2145,7 @@
     },
     {
         "card_name": "Dispenser",
-        "number": 225,
+        "number": 226,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2163,7 +2153,7 @@
     },
     {
         "card_name": "Dominator's Mace",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
@@ -2171,19 +2161,11 @@
     },
     {
         "card_name": "Fallen Horn",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "MCTG",
         "rotated": false,
         "position": "184"
-    },
-    {
-        "card_name": "Flint and Steel",
-        "number": 230,
-        "shape": "normal",
-        "set": "MCTG",
-        "rotated": false,
-        "position": "95"
     },
     {
         "card_name": "Hardy Shield",
@@ -2240,6 +2222,9 @@
         "set": "MCTG",
         "rotated": false,
         "position": "255"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

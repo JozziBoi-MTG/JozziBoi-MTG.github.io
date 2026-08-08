@@ -1,4 +1,224 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Stalwart Swine added.
+
+Stalwart Pig removed.
+
+Richly-Fed Cow
+rules_text: Protection from instants. [i](This creature can't be blocked, targeted or dealt damage by instants.)[/i] => Richly-Fed Cow can't be the target of instant spells your opponents control.
+
+Adept Butcher
+rules_text: First strike
+{3}, {T}: Gain 3 life. The next creature that enters under your control this turn enters with an additional +1/+1 counter. => First strike
+{3}, {T}: You gain 3 life. The next creature that enters under your control this turn enters with an additional +1/+1 counter on it.
+
+Spider Jockey
+cost: {4}{B}{B} => {3}{B}{B}{B}
+rules_text: Haste, reach, vigilance => Reach
+When Spider Jockey dies, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Nether Fortress
+rules_text: {T}: Draw a card, then discard a card.
+{3}, {T}: Draw two cards, then discard a card.
+{1}{R}, {T}: Return target red creature card from your graveyard to your hand. Activate only if your devotion to red is eight or greater. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i] => {T}: Draw a card, then discard a card.
+{3}, {T}: Draw two cards, then discard a card.
+{1}{R}, {T}: Return target creature card from your graveyard to your hand. Activate only if your devotion to red is eight or greater. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i]
+
+Master of the End
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Flying
+Whenever this creature enters or attacks, each opponent mills seven cards. Surveil 3.
+Whenever you cast a spell, target opponent mills three cards. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Flying
+Whenever this creature enters or attacks, each opponent mills seven cards. Surveil 3.
+Whenever you cast a spell, target opponent mills five cards.
+
+Potion of Invisibiliy
+rules_text: Target creature can't be blocked until end of turn. => Target creature can't be blocked until end of turn.
+Scry 2. [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+
+Potion of Healing
+rules_text: Choose one —
+• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to target creature. => Choose one —
+• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to any target this turn.
+
+Shulker
+rules_text: Defender
+When Shulker enters, tap target creature and put a stun counter on it.
+{T}: Regenerate Shulker. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i] => Defender
+When Shulker enters, tap target creature and put a stun counter on it.
+{U}, {T}: Regenerate Shulker. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i]
+
+Mushroom Stew
+rules_text: Target player gains 3 life.
+Place a +1/+1 counter on target creature. => Target player gains 3 life.
+Put a +1/+1 counter on target creature.
+
+Critical Hit
+cost: {2}{W} => {1}{W}
+
+Command Block
+rules_text: Draw three cards.
+You may pay 3 life. If you don't, each other player draws a card. => Draw three cards. Then, you may discard a card at random. If you don't, each other player draws a card.
+
+Flint and Steel
+type: Artifact — Equipment => Enchantment — Aura
+cost: {1} => {1}{R}
+rules_text: Equipped creature gets +1/+0.
+{1}{R}: Equipped creature gets +1/+0 until end of turn.
+Equip {1} => Enchant Equipment
+Enchanted Equipment has “{R}: Equipped creature gets +1/+0 until end of turn.”
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Food for the Cause
+cost: {3}{W} => {2}{W}
+
+Unbreaking
+rules_text: Enchant artifact
+Enchanted artifact has indestructible as long as it is not a creature. => Enchant artifact
+Enchanted artifact has indestructible as long as it's not a creature.
+
+Jungle Temple
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control, place a +1/+1 counter on target creature.
+{3}, {T}: Reveal the top three cards of your library. Exile one of them, then put the rest into your graveyard.
+You may play lands and cast spells exiled with Jungle Temple. => [i]Landfall[/i] — Whenever a land enters under your control, place a +1/+1 counter on target creature.
+{3}, {T}: Reveal the top three cards of your library. Exile one of them, then put the rest into your graveyard.
+You may play cards exiled with Jungle Temple.
+
+Fleeting Durability
+rules_text: Destroy target artifact. => Destroy target artifact.
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i]
+
+Ender Pearl
+cost: {1}{U}{U} => {U}{U}{U}
+rules_text: Ender Pearl can't be countered.
+Target creature can't be blocked and gains hexproof until end of turn. => Split second [i](As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)[/i]
+Target creature can't be blocked and gains hexproof until end of turn.
+
+Cartographer's Map
+rules_text: Search your library for an artifact or land card, reveal it, and put it into your hand. Then, shuffle your library. => Search your library for an artifact card with a mana ability or land card, reveal it, and put it into your hand. Then shuffle.
+
+Woodland Mansion
+rules_text: Whenever you cast a spell, place a +1/+1 counter on target creature.
+{G}, {T}: Choose creature, land, or other, then reveal the top card of your library. If the revealed card is of the chosen kind, put it into your hand. Otherwise, you may put it on the top or bottom of your library. => Whenever you cast a spell, put a +1/+1 counter on target creature.
+{G}, {T}: Choose creature, land, or other, then reveal the top card of your library. If the revealed card is of the chosen kind, put it into your hand. Otherwise, you may put it on the top or bottom of your library.
+
+Illusioner
+rules_text: Reach, vigilance
+{2}{U}: Tap target creature.
+Whenever Illusioner attacks, create two 2/1 blue Illusion creature tokens tapped and attacking. Exile those tokens at end of combat. => Reach, vigilance
+Whenever Illusioner attacks, create two 2/1 blue Illusion creature tokens tapped and attacking. Exile those tokens at end of combat.
+
+Bee Nest
+cost: {2}{G}{G} => {2}{G}
+rules_text: Bee Nest enters with three charge counters on it.
+{T}, Remove a charge counter from Bee Nest: Create a 2/2 green Insect creature token with flying.
+{T}: Creature tokens you control get +1/+1 until end of turn. => {G}, {T}: Creature tokens you control get +1/+1 until end of turn.
+{2}{G}, {T}: Create a 2/2 green Insect creature token with flying.
+
+Zoglin
+cost: {2}{R} => {1}{R}
+rules_text: {R}: Regenerate Zoglin. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i] => Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+When Zoglin dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 2/3 => 1/1
+
+Slag Strider
+pt: 1/2 => 2/2
+
+Abandoned Village
+type: Artifact => Enchantment
+cost: {2}{BG}{BG} => {3}{B}
+rules_text: Whenever a nontoken creature you control dies, you may pay {2}. If you do, create a 2/2 black Zombie creature token. You may pay {1} instead if that creature was a Villager. => [i]Delirium[/i] — Whenever a nontoken creature you control dies, you may pay {2}. You may pay {1} instead if there are four or more card types among cards in your graveyard. If you do, create a 2/2 black Zombie creature token.
+
+Witch Hut
+cost: {1}{WB}{WB} => {1}{W}{B}
+rules_text: Whenever a counter is placed on a creature you control, you may pay {1}{WB}. If you do, gain 2 life and draw a card. => Whenever a counter is placed on a creature you control, you may pay {1}{WB}. If you do, each opponent loses 1 life and you gain 1 life. Then, draw a card.
+
+Escape to Flames
+rules_text: As an additional cost to cast Escape to Flames, sacrifice a creature.
+Escape to Flames deals damage to target creature or player equal to the sacrificed creature's power. => As an additional cost to cast Escape to Flames, sacrifice a creature.
+Escape to Flames deals damage to any target equal to the sacrificed creature's power.
+
+Brave the End
+cost: {1}{W} => {W}
+
+Respawn Anchor
+cost: {3}{R}{R} => {2}{R}{R}{R}
+rules_text: Up to three target creatures get +2/+0 until end of turn. Regenerate those creatures. => Creatures you control get +2/+0 until end of turn. Regenerate those creatures.
+
+Infinity Snapshot
+cost: {4}{R}{R}{R} => {5}{R}{R}
+
+Dominator's Mace
+rules_text: Whenever equipped creature becomes blocked, it gets +4/+0 until end of turn.
+Equip {2} => When Dominator's Mace enters, attach it to target creature you control.
+Whenever equipped creature becomes blocked, it gets +4/+0 until end of turn.
+Equip {2}
+
+Loam Sniffer
+rules_text: Whenever you surveil or discard a card, put a +1/+1 counter on Loam Sniffer. This ability triggers only once each turn.
+{T}: Add {G}. Then, you may discard a card. If you do, surveil 1, then add {R}. => Whenever you discard a card, put a +1/+1 counter on Loam Sniffer.
+{T}, Discard a card: Add {R}{G}.
+Cycling {RG} [i]({RG}, Discard this card: Draw a card.)[/i]
+
+Warden Enraged
+type: Legendary Creature — Fungus Horror => Creature — Fungus Horror
+cost: {3}{R}{G}{W} => {5}{R}{W}
+rules_text: Vigilance, menace, reach
+Whenever a creature attacks you or a planeswalker you control, Warden Enraged deals 2 damage to that creature unless its controller pays {1}. => Suspend 3—{1}{R}{W}
+Vigilance, reach
+Whenever you are attacked, Warden Enraged deals 3 damage to target attacking creature creature unless that creature's controller pays {3}.
+pt: 6/4 => 6/6
+
+Oozing Demise
+rules_text: Kicker {BR}
+Creatures gain “When this creature dies, create a 2/2 black Ooze creature token.” until end of turn.
+If Oozing Demise was kicked, destroy target creature. => Kicker {B}
+Creatures gain “When this creature dies, create a 2/2 black Ooze creature token.” until end of turn.
+If Oozing Demise was kicked, destroy target creature.
+
+Suspicious Stew
+cost: {RP}{RP}{R} => {R}
+rules_text: Exile the top card of your library. Suspicious Stew deals damage to you equal to that card's mana value. Until your next end step, you may play that card from exile.
+Add {R}{R}{R}. Spend this mana only to cast spells from exile. => As an additional cost to cast Suspicious Stew, pay 3 life.
+Exile the top card of your library. Until your next end step, you may play that card from exile by paying life equal to its mana value in addition to its other costs.
+Add {R}{R}{R}. Spend this mana only to cast spells from exile.
+
+Shulker Spire
+rules_text: Creatures you control have flying.
+Exile three cards from your graveyard: Choose one —
+• Draw a card.
+• Target opponent mills five cards.
+• Target creature with flying gets +2/+1 until end of turn. => Creatures you control have flying.
+Exile three cards from your graveyard: Choose one —
+• Draw a card.
+• Target opponent mills five cards.
+• Target creature with flying gets +2/+1 until end of turn.
+Activate only as a sorcery.
+
+Contagion Cocktail
+cost: {2}{WB}{WB} => {1}{WB}{WB}{WB}
+rules_text: Proliferate. Contagion Cocktail deals damage to target creature equal to the total number of counters on all permanents. [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Proliferate. Target creature gets -X/-X until end of turn, where X is the total number of counters on all permanents. [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Dreamstealer Phantom
+rules_text: Flying
+Dreamstealer Phantom gets +1/+0 for each tapped creature your opponents control.
+Whenever Dreamstealer Phantom attacks, defending player may mill three cards. If they don't, tap target creature defending player controls. => Flying
+Dreamstealer Phantom gets +1/+0 for each tapped creature your opponents control.
+Whenever Dreamstealer Phantom attacks, defending player may mill four cards. If they don't, tap target creature defending player controls.
+
+Camel's Husk
+rules_text: Bestow {3}{B}{B}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+Enchanted creature gets +2/+3 and has undying. => Bestow {5}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+Enchanted creature gets +2/+3 and has undying.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
