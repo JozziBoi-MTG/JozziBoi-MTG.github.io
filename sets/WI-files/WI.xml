@@ -5,7 +5,7 @@
 			<name>WI</name>
 			<longname>Weaver&apos;s Intrigue</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-30</releasedate>
+			<releasedate>2026-08-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -310,7 +310,7 @@ Exile target enchantment creature.</text>
 			<text>Enchant Creature
 Enchanted creature gets +0/+1.
 Totem armor (If enchanted enchantment would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/17.jpg" num="58">WI</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/17.jpg" num="57">WI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -603,8 +603,8 @@ When Mantis Lord enters, you may attach target Equipment you control to it.</tex
 		<card>
 			<name>Hallownest&apos;s First Knight</name>
 			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
-Put a -1/-1 counter on Hallownest&apos;s First Knight: Attach target Aura attached to a permanent you control to a different permanent you control. Activate only as a sorcery.
-Sacrifice an enchantment: Remove all counters from Hallownest&apos;s First Knight.</text>
+If an Aura attached to another creature you control would be put into the graveyard from the battlefield, attach it to Hallownest&apos;s First Knight instead.
+When Hallownest&apos;s First Knight dies, exile each Aura attached to it. Then each opponent loses life equal to the total number of enchantments in exile.</text>
 			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/34.jpg" num="22">WI</set>
 			<prop>
 				<layout>normal</layout>
@@ -828,7 +828,7 @@ Landfall — Whenever a land enters under your control, you may pay {G}{G}. If y
 			<text>Flash
 Enchant creature
 Enchanted creature gets +2/+0 and attacks each turn if able.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/47.jpg" num="59">WI</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/47.jpg" num="58">WI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -863,7 +863,7 @@ Dash {R}{GW}</text>
 			<name>Enter Hallownest</name>
 			<text>Insects, Pests, and Spiders you control get +1/+1.
 Whenever a creature you control dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/49.jpg" num="57">WI</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/49.jpg" num="56">WI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -969,21 +969,20 @@ Blocking creatures you control get +0/+1 for each of their colors.</text>
 		<card>
 			<name>Soul Master</name>
 			<text>Flying
-Phyrexian Germs you control get +1/+1.
-Whenever you draw a card, create a 0/0 black Phyrexian Germ creature token.
-Whenever a nontoken creature you control enters, scry 2.
-Whenever a nontoken creature you control dies, surveil 2.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/55.jpg" num="56">WI</set>
+Constellation — Whenever Soul Master or another enchantment enters under your control, choose one —
+• Draw a card.
+• Manifest dread. (Look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it&apos;s a creature card.)</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/55.jpg" num="59">WI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Wizard</type>
+				<type>Enchantment Creature — Horror Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>5UB</manacost>
-				<cmc>7</cmc>
+				<manacost>4U/BU/B</manacost>
+				<cmc>6</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>5/6</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

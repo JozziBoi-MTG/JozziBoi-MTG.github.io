@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>DPG</name>
-			<longname>Dans la Peur de Gommage</longname>
+			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-30</releasedate>
+			<releasedate>2026-08-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -283,8 +283,7 @@ As long as Obscur is paired with another creature, each of those creatures has f
 		</card>
 		<card>
 			<name>Monoco, Trophy Vaunter</name>
-			<text>When Monoco, Trophy Vaunter enters, target opponent mills one card.
-At the beginning of combat on your turn, you may exile Monoco, Trophy Vaunter. If you do, put target creature card from an opponent&apos;s graveyard onto the battlefield under your control tapped and attacking. Sacrifice it at the end of combat. At end of combat, if Monoco was exiled using this ability, return it to the battlefield under its owner&apos;s control.</text>
+			<text>{T}, Exile target creature card from an opponent&apos;s graveyard: Exile Monoco, Trophy Vaunter, then return it to the battlefield under its owners control. It enters as a copy of the exiled card until end of turn except it&apos;s name is Monoco, Trophy Vaunter and it&apos;s legendary in addition to its other types. It gains haste until end of turn. Activate only as a sorcery.</text>
 			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/15.jpg" num="34">DPG</set>
 			<prop>
 				<layout>normal</layout>
@@ -499,7 +498,7 @@ Whenever Gestral Tournament Warriors fights, put a +1/+1 counter on it.</text>
 		<card>
 			<name>Veilleur</name>
 			<text>Deathtouch
-When Veilleur enters, destroy target enchantment.</text>
+When Veilleur enters, destroy up to one target enchantment.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/28.jpg" num="13">DPG</set>
 			<prop>
 				<layout>normal</layout>
@@ -551,7 +550,7 @@ Remove two charge counters from Lumina Converter: Target creature gets +1/+1 and
 			<name>Paradigm Killer</name>
 			<text>Target legendary creature gets -5/-5 until end of turn.
 Cycling {2}{B}{B} ({2}{B}{B}, Discard this card: Draw a card.)
-When you cycle Paradigm Killer, target creature gets -5/-5 until end of turn. (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)</text>
+When you cycle Paradigm Killer, target creature gets -5/-5 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/31.jpg" num="11">DPG</set>
 			<prop>
 				<layout>normal</layout>
@@ -703,7 +702,7 @@ At the beginning of your upkeep, if the top card of your library is a creature c
 		<card>
 			<name>Ancient Sanctuary</name>
 			<text>Ancient Sanctuary enters tapped.
-When Ancient Sanctuary enters, you may pay {5}. If you do, create a 3/3 colorless Golem artifact creature token. It enters with an additional +1/+1 counter on it.
+When Ancient Sanctuary enters, you may pay {4}. If you do, create a 3/3 colorless Golem artifact creature token.
 {T}: Add {R} or {G}.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/40.jpg" num="64">DPG</set>
 			<prop>
@@ -720,7 +719,7 @@ When Ancient Sanctuary enters, you may pay {5}. If you do, create a 3/3 colorles
 		<card>
 			<name>Flying Waters</name>
 			<text>Flying Waters enters tapped.
-When Flying Waters enters, you may pay {3}. If you do, create a 1/1 white Human creature token. It enters with an additional +1/+1 counter on it.
+When Flying Waters enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
 {T}: Add {W} or {U}.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/41.jpg" num="69">DPG</set>
 			<prop>
@@ -737,7 +736,7 @@ When Flying Waters enters, you may pay {3}. If you do, create a 1/1 white Human 
 		<card>
 			<name>Dark Shores</name>
 			<text>Dark Shores enters tapped.
-When Dark Shores enters, you may pay {5}. If you do, create a 2/2 black Zombie creature token. It enters with an additional two +1/+1 counters on it.
+When Dark Shores enters, you may pay {3}. If you do, create a 2/2 black Zombie creature token.
 {T}: Add {U} or {B}.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/42.jpg" num="66">DPG</set>
 			<prop>
@@ -771,7 +770,7 @@ When Indigo Tree enters, you may pay {2}. If you do, create a 1/1 white Human cr
 		<card>
 			<name>Forgotten Battlefield</name>
 			<text>Forgotten Battlefield enters tapped.
-When Forgotten Waters enters, you may pay {4}. If you do, create a 2/2 black Zombie creature token. It enters with an additional +1/+1 counter on it.
+When Forgotten Waters enters, you may pay {3}. If you do, create a 2/2 black Zombie creature token.
 {T}: Add {B} or {R}.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/44.jpg" num="70">DPG</set>
 			<prop>
@@ -788,7 +787,7 @@ When Forgotten Waters enters, you may pay {4}. If you do, create a 2/2 black Zom
 		<card>
 			<name>Sirene&apos;s Dress</name>
 			<text>Sirene&apos;s Dress enters tapped.
-When Sirene&apos;s Dress enters, you may pay {5}. If you do, create two 1/1 white Spirit creature tokens with flying.
+When Sirene&apos;s Dress enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
 {T}: Add {R} or {W}.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/45.jpg" num="75">DPG</set>
 			<prop>
@@ -805,7 +804,7 @@ When Sirene&apos;s Dress enters, you may pay {5}. If you do, create two 1/1 whit
 		<card>
 			<name>Frozen Hearts</name>
 			<text>Frozen Hearts enters tapped.
-When Frozen Hearts enters, you may pay {5}. If you do, create two 2/1 blue Illusion creature tokens.
+When Frozen Hearts enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
 {T}: Add {U} or {R}.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/46.jpg" num="71">DPG</set>
 			<prop>
@@ -822,7 +821,7 @@ When Frozen Hearts enters, you may pay {5}. If you do, create two 2/1 blue Illus
 		<card>
 			<name>Endless Night Sanctuary</name>
 			<text>Endless Night Sanctuary enters tapped.
-When Endless Night Sanctuary enters, you may pay {3}. If you do, create a 3/3 colorless Golem artifact creature token. It enters with an additional -1/-1 counter on it.
+When Endless Night Sanctuary enters, you may pay {4}. If you do, create a 3/3 colorless Golem artifact creature token.
 {T}: Add {B} or {G}.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/47.jpg" num="67">DPG</set>
 			<prop>
@@ -839,7 +838,7 @@ When Endless Night Sanctuary enters, you may pay {3}. If you do, create a 3/3 co
 		<card>
 			<name>Esoteric Ruins</name>
 			<text>Esoteric Ruins enters tapped.
-When Esoteric Ruins enters, you may pay {3}. If you do, create a 2/1 black Nightmare creature token with flying.
+When Esoteric Ruins enters, you may pay {3}. If you do, create a 2/2 black Zombie creature token.
 {T}: Add {W} or {B}.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/48.jpg" num="68">DPG</set>
 			<prop>
@@ -855,8 +854,8 @@ When Esoteric Ruins enters, you may pay {3}. If you do, create a 2/1 black Night
 		</card>
 		<card>
 			<name>Monoco&apos;s Station</name>
-			<text>Monoco&apos;s Station enters tapped. (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)
-When Monoco&apos;s Station enters, you may pay {6}. If you do, create a 3/3 colorless Golem artifact creature token. It enters with an additional two +1/+1 counters on it. (Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)
+			<text>Monoco&apos;s Station enters tapped.
+When Monoco&apos;s Station enters, you may pay {4}. If you do, create a 3/3 colorless Golem artifact creature token.
 {T}: Add {G} or {W}.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/49.jpg" num="74">DPG</set>
 			<prop>
@@ -975,7 +974,7 @@ When Esquie&apos;s Magic Rock enters, choose a color.
 		</card>
 		<card>
 			<name>Mask of Visages</name>
-			<text>Bestow 4{B} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
+			<text>Bestow {4}{B} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
 When Mask of Visages enters or enchanted creature dies, put a -1/-1 counter on target creature.
 Whenever a creature with a counter on it dies, surveil 2.
 Enchanted creature gets +3/-1.</text>

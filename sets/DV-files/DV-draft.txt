@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/1.jpg"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/2.jpg"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{R}{R}",
 			"type": "Legendary Creature — Homunculus Berserker",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/3.jpg"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Mutant",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/4.jpg"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}{R}",
 			"type": "Instant",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/5.jpg"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/6.jpg"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Assassin",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/10.jpg"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/12.jpg"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Horror Wizard",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/13.jpg"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Horror Cleric",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/16.jpg"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}{G}{G}",
 			"type": "Legendary Creature — Giant Soldier",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/17.jpg"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}{B}{B}",
 			"type": "Legendary Creature — Vampire Samurai",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/21.jpg"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/28.jpg"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/29.jpg"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/35.jpg"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Nymph",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/38.jpg"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Sorcery",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/40.jpg"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/41.jpg"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}{W}{W}",
 			"type": "Legendary Creature — Nymph",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/42.jpg"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R}{G}{G}",
 			"type": "Legendary Creature — Nymph",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/43.jpg"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Enchantment Creature — God",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/44.jpg"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Vampire Warrior",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/46.jpg"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Creature — Human Samurai",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/51.jpg"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Human Shaman",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/52.jpg"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Human Ninja",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/59.jpg"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/60.jpg"
 			}
@@ -633,9 +633,9 @@
 		{
 			"name": "Roger, Tailored Trinket",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Artifact Creature — Spirit Construct",
-			"collector_number": "56",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/63.jpg"
 			}
@@ -653,7 +653,7 @@
 		{
 			"name": "Delilah, Revenant's Delight",
 			"rarity": "uncommon",
-			"mana_cost": "{U/B}{U/B}",
+			"mana_cost": "{W/U}{W/U}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "59",
 			"image_uris": {
@@ -665,7 +665,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{8}{W}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/66.jpg"
 			}

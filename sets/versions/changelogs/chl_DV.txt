@@ -1,4 +1,48 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Hair Trigger
+rules_text: Flash
+Enchant creature
+When Hair Trigger enters, it deals 1 damage to target creature or player.
+Enchanted creature gets +2+0. => Flash
+Enchant creature
+When Hair Trigger enters, it deals 1 damage to any target.
+Enchanted creature gets +2+0.
+
+Organ of Command
+rules_text: {W}{W}, Sacrifice a creature token: Gain 3 life.
+{U}{U}, Sacrifice a creature token: Draw a card.
+{B}{B}, Sacrifice a creature token: Surveil 2.
+{R}{R}, Sacrifice a creature token: Deal 1 damage to target creature and 1 damage to target player.
+{G}{G}, Sacrifice a creature token: Target creature gets +2/+2 until end of turn. => {W}{W}, Sacrifice a creature token: Gain 3 life.
+{U}{U}, Sacrifice a creature token: Draw a card.
+{B}{B}, Sacrifice a creature token: Surveil 3.
+{R}{R}, Sacrifice a creature token: Deal 1 damage to target creature and 1 damage to target player.
+{G}{G}, Sacrifice a creature token: Target creature gets +2/+2 until end of turn.
+
+Roger, Tailored Trinket
+cost: {2}{B}{R} => {2}{R}{R}
+rules_text: Equipped creatures you control have haste.
+Phyrexian Germs you control get +0/+1.
+Equipments you control have living weapon.
+Partner => Equipped creatures you control have haste.
+Phyrexian Germs you control get +0/+1.
+Equipments you control have living weapon. [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Partner
+
+Delilah, Revenant's Delight
+cost: {UB}{UB} => {WU}{WU}
+rules_text: Soulbond
+As long as Delilah, Revenant's Delight is paired with another creature, Delilah has hexproof.
+{T}: Untap target creature Delilah, Revenant's Delight is paired with. => Soulbond
+As long as Delilah, Revenant's Delight is paired with another creature, Delilah has shroud.
+{T}: Untap target creature Delilah, Revenant's Delight is paired with. That creature gets +1/+1 until end of turn.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

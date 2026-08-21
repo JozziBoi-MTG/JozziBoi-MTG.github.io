@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>DV</name>
-			<longname>Daisuke&apos;s Vision</longname>
+			<longname></longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-30</releasedate>
+			<releasedate>2026-08-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -29,7 +29,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 		<card>
 			<name>Faultless Defense</name>
 			<text>Target creature gains hexproof and indestructible until end of turn. If that creature was blocking, draw a card.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/1.jpg" num="33">DV</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/1.jpg" num="34">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -46,7 +46,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 			<name>Glue Eaters</name>
 			<text>Target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. Then target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.
 Flashback {1}{G}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/2.jpg" num="46">DV</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/2.jpg" num="47">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -64,7 +64,7 @@ Flashback {1}{G}{U} (You may cast this card from your graveyard for its flashbac
 			<text>Undying
 Delirium — A.B.A, Raving Creation has double strike as long as there are four or more card types among cards in your graveyard.
 When A.B.A, Raving Creation dies, reveal cards from the top of your library until you reveal a land card. Deal damage to any target equal to twice the number of cards revealed this way, then put those cards into your graveyard.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/3.jpg" num="37">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/3.jpg" num="38">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -82,7 +82,7 @@ When A.B.A, Raving Creation dies, reveal cards from the top of your library unti
 			<name>Sol Badguy</name>
 			<text>Trample
 Heroic—Whenever you cast a spell that targets Sol Badguy, untap Sol Badguy and regenerate it. It gets +2+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/4.jpg" num="28">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/4.jpg" num="29">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -99,7 +99,7 @@ Heroic—Whenever you cast a spell that targets Sol Badguy, untap Sol Badguy and
 		<card>
 			<name>Volcanic Viper</name>
 			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control. It deals double that damage to that creature instead if the creature you don&apos;t control has flying.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/5.jpg" num="30">DV</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/5.jpg" num="31">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -117,7 +117,7 @@ Heroic—Whenever you cast a spell that targets Sol Badguy, untap Sol Badguy and
 			<text>Suspend 3—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)
 If Totsugeki was cast from anywhere other than exile, deal 2 damage to any target.
 If Totsugeki was cast from exile, deal 4 damage to target player. Draw a card.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/6.jpg" num="29">DV</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/6.jpg" num="30">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -169,7 +169,7 @@ Enchanted creature gets +6/+6.</text>
 			<name>Hair Trigger</name>
 			<text>Flash
 Enchant creature
-When Hair Trigger enters, it deals 1 damage to target creature or player.
+When Hair Trigger enters, it deals 1 damage to any target.
 Enchanted creature gets +2+0.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/9.jpg" num="24">DV</set>
 			<prop>
@@ -188,7 +188,7 @@ Enchanted creature gets +2+0.</text>
 			<name>Millia Rage</name>
 			<text>Flying, first strike, vigilance
  Whenever Millia Rage deals combat damage to a player, that player reveals cards from the top of their library until they reveal two land cards, then puts those cards into their graveyard. Then draw a card.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/10.jpg" num="51">DV</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/10.jpg" num="52">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -223,7 +223,7 @@ Totem armor (If enchanted enchantment would be destroyed, instead remove all dam
 		<card>
 			<name>Heaven or Hell</name>
 			<text>Target creature you control gains lifelink until end of turn. Then that creature fights target creature you don&apos;t control. For each creature that dies this way, Heaven or Hell deals damage to target player equal to that creature&apos;s toughness.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/12.jpg" num="48">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/12.jpg" num="49">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -241,7 +241,7 @@ Totem armor (If enchanted enchantment would be destroyed, instead remove all dam
 			<text>Reach, deathtouch
 Whenever you cast a spell, Happy Chaos deals 2 damage to each opponent. Each of those players reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.
 Exile thirteen target cards from a graveyard: Regenerate Happy Chaos. Return up to two target cards from your graveyard to your hand.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/13.jpg" num="47">DV</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/13.jpg" num="48">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -297,7 +297,7 @@ Whenever you cast a spell, untap target creature you control.</text>
 			<text>Faust, Vibrant Revenant can&apos;t be blocked as long as there are thirteen or more cards in a graveyard.
 If Faust, Vibrant Revenant would deal damage to a player, prevent that damage. That player reveals cards from the top of their library until they reveal a number of land cards equal to the amount of damage prevented this way, then puts those cards into their graveyard.
 {T}: Faust deals 1 damage to each player. Then each player draws a card.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/16.jpg" num="44">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/16.jpg" num="45">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -316,7 +316,7 @@ If Faust, Vibrant Revenant would deal damage to a player, prevent that damage. T
 			<text>Delirium — Potemkin costs {3} less to cast as long as there are four or more card types among cards in your graveyard.
 Reach, haste
 When Potemkin enters, if it was cast from your hand, destroy target creature. Otherwise exile target creature an opponent controls until Potemkin leaves the battlefield.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/17.jpg" num="54">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/17.jpg" num="55">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -385,7 +385,7 @@ Equip {3}</text>
 			<name>Nagoriyuki</name>
 			<text>Lifelink, undying
 Nagoriyuki gets +3/-2 for each Equipment attached to it.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/21.jpg" num="53">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/21.jpg" num="54">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -512,7 +512,7 @@ Enchanted creature gets +1/+1 and has flying and can&apos;t be blocked.</text>
 • Target creature you control fights target creature you don&apos;t control.
 • Populate (Create a token that&apos;s a copy of a creature token you control.)
 Then choose an additional mode not yet chosen if you control a legendary creature.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/28.jpg" num="31">DV</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/28.jpg" num="32">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -530,7 +530,7 @@ Then choose an additional mode not yet chosen if you control a legendary creatur
 			<text>Goldlewis Dickinson can block an additional creature.
 Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
 As long as Goldlewis Dickinson is paired with another creature, each of those creatures have vigilance and trample.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/29.jpg" num="35">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/29.jpg" num="36">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -633,7 +633,7 @@ Illyrian Crownsguard has vigilance as long as you control a legendary creature.<
 			<text>Choose one —
 • Target creature gains reach and first strike until end of turn.
 • Mist Finer deals 3 damage to target creature or player.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/35.jpg" num="52">DV</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/35.jpg" num="53">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -687,7 +687,7 @@ At the beginning of your upkeep, create a 1/1 colorless Minion creature token. F
 			<text>Creature tokens you control get +1/+1.
 Creature tokens you control enter with your choice of an additional haste counter, flying counter, or trample counter.
 {3}: Create a 1/1 colorless Minion creature token. Jack-O&apos; Valentine gets +1/+1 and gains flying until end of turn.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/38.jpg" num="49">DV</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/38.jpg" num="50">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -705,7 +705,7 @@ Creature tokens you control enter with your choice of an additional haste counte
 			<name>Organ of Command</name>
 			<text>{W}{W}, Sacrifice a creature token: Gain 3 life.
 {U}{U}, Sacrifice a creature token: Draw a card.
-{B}{B}, Sacrifice a creature token: Surveil 2.
+{B}{B}, Sacrifice a creature token: Surveil 3.
 {R}{R}, Sacrifice a creature token: Deal 1 damage to target creature and 1 damage to target player.
 {G}{G}, Sacrifice a creature token: Target creature gets +2/+2 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/39.jpg" num="69">DV</set>
@@ -724,7 +724,7 @@ Creature tokens you control enter with your choice of an additional haste counte
 			<name>Full-Order Bookmark</name>
 			<text>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
 Search your library for up to three cards with different types not named Full-Order Bookmark, reveal them, and put them into your hand. Then shuffle.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/40.jpg" num="45">DV</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/40.jpg" num="46">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -744,7 +744,7 @@ You have no maximum hand size.
 Ward {2}
 At the beginning of your upkeep, draw a card. Then Asuka R Kreutz deals damage to each opponent equal to twice the number of unique card types among cards in your hand.
 Asuka R Kreutz has all activated abilities of all cards in your hand.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/41.jpg" num="39">DV</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/41.jpg" num="40">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -762,7 +762,7 @@ Asuka R Kreutz has all activated abilities of all cards in your hand.</text>
 			<name>Elphelt Valentine</name>
 			<text>When Elphelt Valentine enters, search your library for an Aura card that could enchant it and an Equipment card, reveal them, and put them onto the battlefield attached to Elphelt. Then shuffle.
 When Elphelt Valentine leaves the battlefield, each opponent loses 2 life for each Aura and Equipment attached to it.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/42.jpg" num="43">DV</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/42.jpg" num="44">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -781,7 +781,7 @@ When Elphelt Valentine leaves the battlefield, each opponent loses 2 life for ea
 			<text>Flying
 Landfall—Whenever a land enters under your control, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Sacrifice an artifact: Target creature gets +2/+2 and gains trample until end of turn.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/43.jpg" num="55">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/43.jpg" num="56">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -800,7 +800,7 @@ Sacrifice an artifact: Target creature gets +2/+2 and gains trample until end of
 			<text>Indestructible
 As long as your devotion red, green, and white is less than eight, Ariels isn&apos;t a creature.
 As long as Ariels, False Pontiff is a creature, Nymphs you control get +2/+0 and have hexproof and indestructible.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/44.jpg" num="38">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/44.jpg" num="39">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -839,7 +839,7 @@ When you cycle Justice, Balance of Juno, destroy all creatures.</text>
 • Target creature gets +2/+0 and gains trample until end of turn.
 {G}{G}{G}: Until end of turn, when Slayer, Master of Dandyism dies, return it to its owner&apos;s hand.
 Dash {1}{G}{G}{G}</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/46.jpg" num="36">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/46.jpg" num="37">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -930,7 +930,7 @@ When Baiken, Vengeful Survivor enters, choose two —
 • Exile target enchantment.
 • Baiken deals 3 damage to any target.
 • Gain 5 life.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/51.jpg" num="40">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/51.jpg" num="41">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -950,7 +950,7 @@ When Baiken, Vengeful Survivor enters, choose two —
 • Creatures you control get +1/+1 until end of turn.
 • Creatures you control gain menace until end of turn.
 • Draw a card.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/52.jpg" num="34">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/52.jpg" num="35">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1021,7 +1021,7 @@ Whenever Leo Whitefang assigns lethal combat damage to each creature it is block
 			<text>Enchant creature
 Enchanted creature loses defender and can&apos;t gain defender.
 Enchanted creature has trample and &quot;Effects that alter this creature&apos;s power alter its toughness instead, and vice versa.&quot;</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg" num="32">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg" num="33">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1075,7 +1075,7 @@ Counter target spell that targets a permanent you control. If Suigetsu no Hakobi
 Ninjutsu {UR}
 When Chipp Zanuff enters, creatures you control get +1/+0 until end of turn.
 Discard a card: Return Chipp Zanuff to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/59.jpg" num="42">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/59.jpg" num="43">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1094,7 +1094,7 @@ Discard a card: Return Chipp Zanuff to its owner&apos;s hand.</text>
 			<text>This spell can&apos;t be countered.
 Haste, prowess
 When Jam Kuradoberi enters, you may exile any number of instant, sorcery, and enchantment cards from your graveyard. Jam Kuradoberi enters with an additional +1/+1 counter on it for each card exiled this way.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/60.jpg" num="50">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/60.jpg" num="51">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1151,18 +1151,18 @@ Partner (You can have two commanders if both have partner.)</text>
 			<name>Roger, Tailored Trinket</name>
 			<text>Equipped creatures you control have haste.
 Phyrexian Germs you control get +0/+1.
-Equipments you control have living weapon.
+Equipments you control have living weapon. (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 Partner</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/63.jpg" num="56">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/63.jpg" num="28">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Artifact Creature — Spirit Construct</type>
 				<maintype>Creature</maintype>
-				<manacost>2BR</manacost>
+				<manacost>2RR</manacost>
 				<cmc>4</cmc>
-				<colors>BR</colors>
-				<coloridentity>BR</coloridentity>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -1186,18 +1186,18 @@ Partner</text>
 		<card>
 			<name>Delilah, Revenant&apos;s Delight</name>
 			<text>Soulbond
-As long as Delilah, Revenant&apos;s Delight is paired with another creature, Delilah has hexproof.
-{T}: Untap target creature Delilah, Revenant&apos;s Delight is paired with.</text>
+As long as Delilah, Revenant&apos;s Delight is paired with another creature, Delilah has shroud.
+{T}: Untap target creature Delilah, Revenant&apos;s Delight is paired with. That creature gets +1/+1 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/65.jpg" num="59">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>U/BU/B</manacost>
+				<manacost>W/UW/U</manacost>
 				<cmc>2</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -1207,7 +1207,7 @@ As long as Delilah, Revenant&apos;s Delight is paired with another creature, Del
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Whenever a nontoken creature you control dies, create a token that&apos;s a copy of it except it&apos;s a 1/1 blue Illusion.
 {T}, Exile target creature card from a graveyard: Create a token that&apos;s a copy of the exiled card except it&apos;s a 1/1 blue Illusion.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/66.jpg" num="41">DV</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/66.jpg" num="42">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

@@ -1,4 +1,96 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Libra, Equilibrious added.
+Frenzy Balance added.
+
+Libra, Equilibriuous removed.
+
+Heolstor, the Nightlord
+rules_text: Creatures you control get +1/+0 for each legendary creature you control and have haste.
+When Heolstor, the Nightlord enters, reveal cards from the top of your library until you reveal a legendary creature. Put that card into your hand and the rest on the bottom of your library in a random order.
+Whenever another legendary creature enters the battlefield under your control, Heolstor deals damage equal to that card's mana value to target player. => Creatures you control get +1/+0 for each legendary creature you control and have haste.
+When Heolstor, the Nightlord enters, reveal cards from the top of your library until you reveal a legendary creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+Whenever another legendary creature enters the battlefield under your control, Heolstor deals damage equal to that card's mana value to target player.
+
+Limveld's Rotwood
+rules_text: {T}: Add {B}
+{1}{B}, {T}: Put a -1/-1 counter on target creature.
+{1}{B}, {T}: Remove a counter from target creature. => {T}: Add {B}.
+{1}{B}, {T}: Put a -1/-1 counter on target creature.
+{1}{B}, {T}: Remove a counter from target creature.
+
+Ironeye
+
+Wylder
+rules_text: [i]Metalcraft[/i] — When Wylder enters, if you control three or more artifacts, it deals 3 damage to target creature or player.
+When Wylder dies, surveil 3. [i](Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => [i]Delirium[/i] — When Wylder enters, if there are four or more card types among cards in your graveyard, it deals 3 damage to target creature or player.
+When Wylder dies, surveil 3. [i](Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Ceramic Revenant
+
+Agile Page
+cost: {3}{W} => {1}{W}
+rules_text: Haste
+Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i] => First strike
+Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+pt: 3/2 => 2/1
+
+Burly Cook
+type: Creature — Skeleton Spirit => Creature — Spirit Barbarian
+
+Limveld's Castle
+rules_text: {T}: Add {G}
+{1}{G}, {T}: Put a +1/+1 counter on target creature. Until end of turn, it gains “Whenever this creature becomes the target of a spell or ability, put a +1/+1 counter on it. This ability triggers only twice each turn.” => {T}: Add {G}.
+{1}{G}, {T}: Put a +1/+1 counter on target creature. Until end of turn, it gains “Whenever this creature becomes the target of a spell or ability, put a +1/+1 counter on it. This ability triggers only twice each turn.”
+
+Totem Stela
+rules_text: Totem Stela deals 4 damage to target creature or player.
+Creatures you control get +1/+1 until end of turn. => Madness {1}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+Totem Stela deals 4 damage to any target.
+Creatures you control get +1/+1 until end of turn.
+
+Caligo, Miasma of Night
+rules_text: Flying
+Whenever Caligo, Miasma of Night enters and at the beginning of your upkeep, for each opponent, choose target nonland permanent that player controls without a stun counter on it and put a stun counter on it.
+At the beginning of each player's end step, that player mills cards equal to the number of tapped permanents they control.
+Whenever Caligo attacks, you may cast target nonland, noncreature card from your graveyard without paying its mana cost and as though it had flash. => Flying
+At the beginning of each opponent's end step, that player mills cards equal to the number of tapped permanents they control.
+Whenever Caligo, Miasma of Night attacks, for each graveyard, you may cast target nonland, noncreature card from that graveyard without paying its mana cost.
+
+Spirit Shelter
+rules_text: {P}, {T}: Draw a card. Activate only if you control at least two other legendary permanents. => {P}, {T}: Draw a card. Activate only if you control at least two other legendary permanents.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Melina, Grace's Guide
+rules_text: Bestow {2}{W}{W}
+When Melina, Grace's Guide enters, search your library for an enchantment card, reveal it, and put it into your hand. Then shuffle.
+Melina's power and toughness are each equal to the number of enchantments you control.
+Enchantment spells you cast cost {1} less to cast.
+Enchanted creature gets +X/+X, where X is the number of enchantments you control. => Bestow {2}{W}{W}
+Melina's power and toughness are each equal to the number of enchantments you control.
+When Melina, Grace's Guide enters, you may search your library for an enchantment card, reveal it, then shuffle your library and put that card on top of it.
+Enchantment spells you cast cost {1} less to cast.
+Enchanted creature gets +X/+X, where X is the number of enchantments you control.
+
+Straghess, Dreglord
+cost: {4}{B}{G} => {3}{B}{G}
+rules_text: Trample
+Straghess, Dreglord's power and toughness are each equal to the number of creature cards in exile.
+Whenever Straghess enters or attacks, for each player, exile target creature card from that player's graveyard. => Trample
+Straghess, Dreglord's power and toughness are each equal to the number of creature cards in exile.
+Whenever Straghess enters or attacks, for each graveyard, exile target creature card from that graveyard.
+
+Evergaol
+rules_text: Manifest dread. [i](Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i] => Manifest dread. [i](Look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+Deacons of the Deep
+rules_text: As an additional cost to cast Deacons of the Deep, discard a card.
+When Deacons of the Deep dies, manifest dread. [i](Look at the top two cards of your library. Put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i] => As an additional cost to cast Deacons of the Deep, discard a card.
+When Deacons of the Deep dies, manifest dread. [i](Look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

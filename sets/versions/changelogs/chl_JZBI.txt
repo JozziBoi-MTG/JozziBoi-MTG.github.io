@@ -1,4 +1,29 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Edge of Fantasy added.
+Dustborn Dragon added.
+Cthonic Freeze added.
+Under a Dark Flare added.
+Venation Mystic added.
+
+
+Amalgamaw
+rules_text: Madness—Pay half your starting life total, rounded up. [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+Whenever a card is put into an opponent's graveyard from anywhere, that player loses 1 life. => Whenever a card is put into an opponent's graveyard from anywhere, that player loses 1 life.
+Madness—Pay half your starting life total, rounded up. [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Estuic Blast
+
+Stained Ascension
+
+Periosteulent Wyrm
+rules_text: Whenever Periosteulent Wyrm attacks, defending player mills fifteen cards.
+Cycling {3}{U}{U} [i]({3}{U}{U}, Discard this card: Draw a card.)[/i]
+When you cycle Periosteulent Wyrm, target player mills ten cards. Draw a card for each land card put into a graveyard this way. => Whenever Periosteulent Wyrm attacks, defending player mills fifteen cards.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Periosteulent Wyrm added.

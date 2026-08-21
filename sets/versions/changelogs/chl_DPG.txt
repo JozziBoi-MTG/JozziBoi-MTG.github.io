@@ -1,4 +1,98 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Monoco, Trophy Vaunter
+rules_text: When Monoco, Trophy Vaunter enters, target opponent mills one card.
+At the beginning of combat on your turn, you may exile Monoco, Trophy Vaunter. If you do, put target creature card from an opponent's graveyard onto the battlefield under your control tapped and attacking. Sacrifice it at the end of combat. At end of combat, if Monoco was exiled using this ability, return it to the battlefield under its owner's control. => {T}, Exile target creature card from an opponent's graveyard: Exile Monoco, Trophy Vaunter, then return it to the battlefield under its owners control. It enters as a copy of the exiled card until end of turn except it's name is Monoco, Trophy Vaunter and it's legendary in addition to its other types. It gains haste until end of turn. Activate only as a sorcery.
+
+Veilleur
+rules_text: Deathtouch
+When Veilleur enters, destroy target enchantment. => Deathtouch
+When Veilleur enters, destroy up to one target enchantment.
+
+Paradigm Killer
+rules_text: Target legendary creature gets -5/-5 until end of turn.
+Cycling {2}{B}{B} [i]({2}{B}{B}, Discard this card: Draw a card.)[/i]
+When you cycle Paradigm Killer, target creature gets -5/-5 until end of turn. [i](Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)[/i] => Target legendary creature gets -5/-5 until end of turn.
+Cycling {2}{B}{B} [i]({2}{B}{B}, Discard this card: Draw a card.)[/i]
+When you cycle Paradigm Killer, target creature gets -5/-5 until end of turn.
+
+Ancient Sanctuary
+rules_text: Ancient Sanctuary enters tapped.
+When Ancient Sanctuary enters, you may pay {5}. If you do, create a 3/3 colorless Golem artifact creature token. It enters with an additional +1/+1 counter on it.
+{T}: Add {R} or {G}. => Ancient Sanctuary enters tapped.
+When Ancient Sanctuary enters, you may pay {4}. If you do, create a 3/3 colorless Golem artifact creature token.
+{T}: Add {R} or {G}.
+
+Flying Waters
+rules_text: Flying Waters enters tapped.
+When Flying Waters enters, you may pay {3}. If you do, create a 1/1 white Human creature token. It enters with an additional +1/+1 counter on it.
+{T}: Add {W} or {U}. => Flying Waters enters tapped.
+When Flying Waters enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
+{T}: Add {W} or {U}.
+
+Dark Shores
+rules_text: Dark Shores enters tapped.
+When Dark Shores enters, you may pay {5}. If you do, create a 2/2 black Zombie creature token. It enters with an additional two +1/+1 counters on it.
+{T}: Add {U} or {B}. => Dark Shores enters tapped.
+When Dark Shores enters, you may pay {3}. If you do, create a 2/2 black Zombie creature token.
+{T}: Add {U} or {B}.
+
+Forgotten Battlefield
+rules_text: Forgotten Battlefield enters tapped.
+When Forgotten Waters enters, you may pay {4}. If you do, create a 2/2 black Zombie creature token. It enters with an additional +1/+1 counter on it.
+{T}: Add {B} or {R}. => Forgotten Battlefield enters tapped.
+When Forgotten Waters enters, you may pay {3}. If you do, create a 2/2 black Zombie creature token.
+{T}: Add {B} or {R}.
+
+Sirene's Dress
+rules_text: Sirene's Dress enters tapped.
+When Sirene's Dress enters, you may pay {5}. If you do, create two 1/1 white Spirit creature tokens with flying.
+{T}: Add {R} or {W}. => Sirene's Dress enters tapped.
+When Sirene's Dress enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
+{T}: Add {R} or {W}.
+
+Frozen Hearts
+rules_text: Frozen Hearts enters tapped.
+When Frozen Hearts enters, you may pay {5}. If you do, create two 2/1 blue Illusion creature tokens.
+{T}: Add {U} or {R}. => Frozen Hearts enters tapped.
+When Frozen Hearts enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
+{T}: Add {U} or {R}.
+
+Endless Night Sanctuary
+rules_text: Endless Night Sanctuary enters tapped.
+When Endless Night Sanctuary enters, you may pay {3}. If you do, create a 3/3 colorless Golem artifact creature token. It enters with an additional -1/-1 counter on it.
+{T}: Add {B} or {G}. => Endless Night Sanctuary enters tapped.
+When Endless Night Sanctuary enters, you may pay {4}. If you do, create a 3/3 colorless Golem artifact creature token.
+{T}: Add {B} or {G}.
+
+Esoteric Ruins
+rules_text: Esoteric Ruins enters tapped.
+When Esoteric Ruins enters, you may pay {3}. If you do, create a 2/1 black Nightmare creature token with flying.
+{T}: Add {W} or {B}. => Esoteric Ruins enters tapped.
+When Esoteric Ruins enters, you may pay {3}. If you do, create a 2/2 black Zombie creature token.
+{T}: Add {W} or {B}.
+
+Monoco's Station
+rules_text: Monoco's Station enters tapped. [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+When Monoco's Station enters, you may pay {6}. If you do, create a 3/3 colorless Golem artifact creature token. It enters with an additional two +1/+1 counters on it. [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+{T}: Add {G} or {W}. => Monoco's Station enters tapped.
+When Monoco's Station enters, you may pay {4}. If you do, create a 3/3 colorless Golem artifact creature token.
+{T}: Add {G} or {W}.
+
+Mask of Visages
+rules_text: Bestow 4{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+When Mask of Visages enters or enchanted creature dies, put a -1/-1 counter on target creature.
+Whenever a creature with a counter on it dies, surveil 2.
+Enchanted creature gets +3/-1. => Bestow {4}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+When Mask of Visages enters or enchanted creature dies, put a -1/-1 counter on target creature.
+Whenever a creature with a counter on it dies, surveil 2.
+Enchanted creature gets +3/-1.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

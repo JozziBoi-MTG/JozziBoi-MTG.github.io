@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/0.jpg"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/2.jpg"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Nightmare",
-			"collector_number": "55",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/3.jpg"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "38",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/5.jpg"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/6.jpg"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/7.jpg"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/8.jpg"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/9.jpg"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/10.jpg"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Faerie Wizard",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/11.jpg"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Human Barbarian",
-			"collector_number": "46",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/12.jpg"
 			}
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "Ironeye",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Ranger",
 			"collector_number": "16",
@@ -175,7 +175,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Legendary Creature — Dog",
-			"collector_number": "52",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/17.jpg"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Creature — Centaur Knight",
-			"collector_number": "51",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/18.jpg"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Noble",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/19.jpg"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/20.jpg"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{U}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/21.jpg"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/22.jpg"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U/R}{R}",
 			"type": "Enchantment",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/23.jpg"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/24.jpg"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Insect",
-			"collector_number": "53",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/26.jpg"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B/R}",
 			"type": "Legendary Enchantment Creature — Blinkmoth",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/27.jpg"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/28.jpg"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/30.jpg"
 			}
@@ -325,17 +325,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{P}",
 			"type": "Artifact — Equipment",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/32.jpg"
 			}
 		},
 		{
-			"name": "Libra, Equilibriuous",
+			"name": "Libra, Equilibrious",
 			"rarity": "mythic",
-			"mana_cost": "{3}{R}{R}{W}{W}",
+			"mana_cost": "{5}{R}{R}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "56",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/33.jpg"
 			}
@@ -352,10 +352,10 @@
 		},
 		{
 			"name": "Wylder",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/35.jpg"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Instant",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/37.jpg"
 			}
@@ -392,7 +392,7 @@
 		},
 		{
 			"name": "Ceramic Revenant",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Spirit Construct",
 			"collector_number": "25",
@@ -413,7 +413,7 @@
 		{
 			"name": "Agile Page",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Spirit Warrior",
 			"collector_number": "2",
 			"image_uris": {
@@ -424,7 +424,7 @@
 			"name": "Burly Cook",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Skeleton Spirit",
+			"type": "Creature — Spirit Barbarian",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/42.jpg"
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/43.jpg"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/44.jpg"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/P}{B}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/45.jpg"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/P}{R}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "39",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/46.jpg"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment Creature — Bear",
-			"collector_number": "47",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/49.jpg"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/50.jpg"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/51.jpg"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Legendary Creature — Dragon Horror",
-			"collector_number": "48",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/52.jpg"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{U}{B}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "49",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/54.jpg"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Legendary Enchantment Artifact",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/55.jpg"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "50",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/58.jpg"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}{R}",
 			"type": "Legendary Creature — Demigod Berserker",
-			"collector_number": "37",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/62.jpg"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Bird",
-			"collector_number": "40",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/63.jpg"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Insect",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/64.jpg"
 			}
@@ -653,9 +653,9 @@
 		{
 			"name": "Straghess, Dreglord",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}{G}",
+			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Horror",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/65.jpg"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Insect",
-			"collector_number": "54",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/66.jpg"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Spirit Knight",
-			"collector_number": "43",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/67.jpg"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment Creature — Elemental Avatar",
-			"collector_number": "44",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/68.jpg"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "45",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/69.jpg"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Horror",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/71.jpg"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Knight",
-			"collector_number": "42",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/72.jpg"
 			}
@@ -749,6 +749,16 @@
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/74.jpg"
 			}
+		},
+		{
+			"name": "Frenzy Balance",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/TLB-files/img/75.jpg"
+			}
 		}
 	]
 
@@ -759,7 +769,6 @@
 	2 Limveld's Crater
 	2 Limveld's Ice Spire
 	2 Limveld's Rotwood
-	2 Ironeye
 	2 Gladius, Beast of Night
 	2 Fulghor, Darkdrift Knight
 	2 Godskin Apostles
@@ -767,8 +776,7 @@
 	2 Radagon Icon
 	2 Gnoster, Wisdom of Night
 	1 Animus, Ascendant Light
-	1 Libra, Equilibriuous
-	2 Ceramic Revenant
+	1 Libra, Equilibrious
 	2 Doting Butler
 	2 Maris, Fathom of Night
 	2 Limveld's Castle
@@ -787,16 +795,17 @@
 	4 Beget Vengeance
 	4 Restage
 	4 Suncatcher
+	4 Ironeye
 	4 Flock's Guardian
 	4 Nihil
 	4 Glintstone Staff
 	4 Finger Seal
 	4 Crystal Tear
 	4 Darksteel Greatsword
-	4 Wylder
 	4 Pickled Fowl-Foot
 	4 Site of Grace
 	4 Duty Beyond Death
+	4 Ceramic Revenant
 	4 Sorcerer's Rise
 	4 Hut of the Faithful
 	4 Notorious Poison Swamp
@@ -804,6 +813,7 @@
 	4 Spirit Shelter
 	4 Bell Bearing Hunter
 	4 Tincture Scholar
+	4 Frenzy Balance
 [common(6)]
 	8 Roundtable Duchess
 	8 Evolving Wilds
@@ -815,6 +825,7 @@
 	8 Soulsworn Skeleton
 	8 Burning Erdtree
 	8 Oracle Envoy
+	8 Wylder
 	8 Agile Page
 	8 Burly Cook
 	8 Scarlet Rot
@@ -841,6 +852,7 @@
 	8 Soulsworn Skeleton
 	8 Burning Erdtree
 	8 Oracle Envoy
+	8 Wylder
 	8 Agile Page
 	8 Burly Cook
 	8 Scarlet Rot
@@ -872,7 +884,7 @@
 	12 Glory-Seeking Raider
 	12 Archaic Executor
 	6 Suncatcher
-	2 Ironeye
+	6 Ironeye
 	6 Flock's Guardian
 	2 Gladius, Beast of Night
 	2 Fulghor, Darkdrift Knight
@@ -890,13 +902,13 @@
 	12 Soulsworn Skeleton
 	12 Burning Erdtree
 	6 Darksteel Greatsword
-	1 Libra, Equilibriuous
+	1 Libra, Equilibrious
 	12 Oracle Envoy
-	6 Wylder
+	12 Wylder
 	6 Pickled Fowl-Foot
 	6 Site of Grace
 	6 Duty Beyond Death
-	2 Ceramic Revenant
+	6 Ceramic Revenant
 	2 Doting Butler
 	12 Agile Page
 	12 Burly Cook
@@ -932,6 +944,7 @@
 	12 Tree Sentinel
 	2 Roundtable Hold
 	12 Abyss Watcher
+	6 Frenzy Balance
 [wildcard(1)]
 	15 Giant-Crusher
 	15 Beget Vengeance
@@ -948,7 +961,7 @@
 	6 Glory-Seeking Raider
 	6 Archaic Executor
 	15 Suncatcher
-	7 Ironeye
+	15 Ironeye
 	15 Flock's Guardian
 	7 Gladius, Beast of Night
 	7 Fulghor, Darkdrift Knight
@@ -966,13 +979,13 @@
 	6 Soulsworn Skeleton
 	6 Burning Erdtree
 	15 Darksteel Greatsword
-	4 Libra, Equilibriuous
+	4 Libra, Equilibrious
 	6 Oracle Envoy
-	15 Wylder
+	6 Wylder
 	15 Pickled Fowl-Foot
 	15 Site of Grace
 	15 Duty Beyond Death
-	7 Ceramic Revenant
+	15 Ceramic Revenant
 	7 Doting Butler
 	6 Agile Page
 	6 Burly Cook
@@ -1008,3 +1021,4 @@
 	6 Tree Sentinel
 	7 Roundtable Hold
 	6 Abyss Watcher
+	15 Frenzy Balance

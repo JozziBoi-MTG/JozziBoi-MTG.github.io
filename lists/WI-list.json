@@ -372,7 +372,7 @@
     },
     {
         "card_name": "Soul Master",
-        "number": 56,
+        "number": 59,
         "shape": "normal",
         "set": "WI",
         "rotated": false,
@@ -396,7 +396,7 @@
     },
     {
         "card_name": "Lifeblood",
-        "number": 58,
+        "number": 57,
         "shape": "normal",
         "set": "WI",
         "rotated": false,
@@ -415,7 +415,7 @@
     },
     {
         "card_name": "Of Void and Silken Threads",
-        "number": 59,
+        "number": 58,
         "shape": "normal",
         "set": "WI",
         "rotated": false,
@@ -495,7 +495,7 @@
     },
     {
         "card_name": "Enter Hallownest",
-        "number": 57,
+        "number": 56,
         "shape": "normal",
         "set": "WI",
         "rotated": false,

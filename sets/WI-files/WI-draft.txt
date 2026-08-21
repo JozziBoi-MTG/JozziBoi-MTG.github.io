@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "{G/W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/17.jpg"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/47.jpg"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{B/G}{B/G}",
 			"type": "Enchantment",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/49.jpg"
 			}
@@ -553,9 +553,9 @@
 		{
 			"name": "Soul Master",
 			"rarity": "rare",
-			"mana_cost": "{5}{U}{B}",
-			"type": "Creature — Wizard",
-			"collector_number": "56",
+			"mana_cost": "{4}{U/B}{U/B}",
+			"type": "Enchantment Creature — Horror Wizard",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/WI-files/img/55.jpg"
 			}
