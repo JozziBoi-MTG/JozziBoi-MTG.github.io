@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>DPG</name>
-			<longname></longname>
+			<longname>Dans la Peur de Gommage</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-21</releasedate>
+			<releasedate>2026-09-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -283,7 +283,7 @@ As long as Obscur is paired with another creature, each of those creatures has f
 		</card>
 		<card>
 			<name>Monoco, Trophy Vaunter</name>
-			<text>{T}, Exile target creature card from an opponent&apos;s graveyard: Exile Monoco, Trophy Vaunter, then return it to the battlefield under its owners control. It enters as a copy of the exiled card until end of turn except it&apos;s name is Monoco, Trophy Vaunter and it&apos;s legendary in addition to its other types. It gains haste until end of turn. Activate only as a sorcery.</text>
+			<text>{T}, Exile target creature card from an opponent&apos;s graveyard: Exile Monoco, Trophy Vaunter, then return it to the battlefield under its owners control. It enters as a copy of the exiled card until end of turn except its name is Monoco, Trophy Vaunter and it&apos;s legendary in addition to its other types. It gains haste until end of turn. Activate only as a sorcery.</text>
 			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/15.jpg" num="34">DPG</set>
 			<prop>
 				<layout>normal</layout>
@@ -681,30 +681,11 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Endless Tower</name>
-			<text>Play with the top card of your library revealed.
-You may cast the top card of your library if it&apos;s a creature card.
-At the beginning of your upkeep, if the top card of your library is a creature card, you may put it onto the battlefield.
-{T}: Surveil 2.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/39.jpg" num="20">DPG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>5GGG</manacost>
-				<cmc>8</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Ancient Sanctuary</name>
 			<text>Ancient Sanctuary enters tapped.
 When Ancient Sanctuary enters, you may pay {4}. If you do, create a 3/3 colorless Golem artifact creature token.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/40.jpg" num="64">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/39.jpg" num="64">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -721,7 +702,7 @@ When Ancient Sanctuary enters, you may pay {4}. If you do, create a 3/3 colorles
 			<text>Flying Waters enters tapped.
 When Flying Waters enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
 {T}: Add {W} or {U}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/41.jpg" num="69">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/40.jpg" num="69">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -738,7 +719,7 @@ When Flying Waters enters, you may pay {2}. If you do, create a 1/1 white Human 
 			<text>Dark Shores enters tapped.
 When Dark Shores enters, you may pay {3}. If you do, create a 2/2 black Zombie creature token.
 {T}: Add {U} or {B}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/42.jpg" num="66">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/41.jpg" num="66">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -755,7 +736,7 @@ When Dark Shores enters, you may pay {3}. If you do, create a 2/2 black Zombie c
 			<text>Indigo Tree enters tapped.
 When Indigo Tree enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
 {T}: Add {G} or {U}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/43.jpg" num="72">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/42.jpg" num="72">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -772,7 +753,7 @@ When Indigo Tree enters, you may pay {2}. If you do, create a 1/1 white Human cr
 			<text>Forgotten Battlefield enters tapped.
 When Forgotten Waters enters, you may pay {3}. If you do, create a 2/2 black Zombie creature token.
 {T}: Add {B} or {R}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/44.jpg" num="70">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/43.jpg" num="70">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -789,7 +770,7 @@ When Forgotten Waters enters, you may pay {3}. If you do, create a 2/2 black Zom
 			<text>Sirene&apos;s Dress enters tapped.
 When Sirene&apos;s Dress enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
 {T}: Add {R} or {W}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/45.jpg" num="75">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/44.jpg" num="75">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -806,7 +787,7 @@ When Sirene&apos;s Dress enters, you may pay {2}. If you do, create a 1/1 white 
 			<text>Frozen Hearts enters tapped.
 When Frozen Hearts enters, you may pay {2}. If you do, create a 1/1 white Human creature token.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/46.jpg" num="71">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/45.jpg" num="71">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -823,7 +804,7 @@ When Frozen Hearts enters, you may pay {2}. If you do, create a 1/1 white Human 
 			<text>Endless Night Sanctuary enters tapped.
 When Endless Night Sanctuary enters, you may pay {4}. If you do, create a 3/3 colorless Golem artifact creature token.
 {T}: Add {B} or {G}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/47.jpg" num="67">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/46.jpg" num="67">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -840,7 +821,7 @@ When Endless Night Sanctuary enters, you may pay {4}. If you do, create a 3/3 co
 			<text>Esoteric Ruins enters tapped.
 When Esoteric Ruins enters, you may pay {3}. If you do, create a 2/2 black Zombie creature token.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/48.jpg" num="68">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/47.jpg" num="68">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -857,7 +838,7 @@ When Esoteric Ruins enters, you may pay {3}. If you do, create a 2/2 black Zombi
 			<text>Monoco&apos;s Station enters tapped.
 When Monoco&apos;s Station enters, you may pay {4}. If you do, create a 3/3 colorless Golem artifact creature token.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/49.jpg" num="74">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/48.jpg" num="74">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -873,7 +854,7 @@ When Monoco&apos;s Station enters, you may pay {4}. If you do, create a 3/3 colo
 			<name>Pugnacious Gestrals</name>
 			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 When Pugnacious Gestrals enters, if it was kicked, create a 3/3 colorless Golem artifact creature token.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/50.jpg" num="60">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/49.jpg" num="60">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -889,7 +870,7 @@ When Pugnacious Gestrals enters, if it was kicked, create a 3/3 colorless Golem 
 			<name>Golgra, Brawler&apos;s Peak</name>
 			<text>Whenever a creature you control fights a creature you don&apos;t control, the creature you control gets +5/+0 and gains menace until end of turn.
 Once per turn, during your precombat main phase, you may have target creature you control fight target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/51.jpg" num="27">DPG</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/50.jpg" num="27">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -906,7 +887,7 @@ Once per turn, during your precombat main phase, you may have target creature yo
 		<card>
 			<name>Sprong</name>
 			<text>At the beginning of your upkeep, Sprong fights another target creature you control chosen at random and target creature you don&apos;t control chosen at random.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/52.jpg" num="62">DPG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/51.jpg" num="62">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -922,7 +903,7 @@ Once per turn, during your precombat main phase, you may have target creature yo
 			<name>Arena Ringmaster</name>
 			<text>When Arena Ringmaster enters, target creature you control fights target creature you don&apos;t control.
 Whenever a creature you control loses a fight, return Arena Ringmaster to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/53.jpg" num="44">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/52.jpg" num="44">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -941,7 +922,7 @@ Whenever a creature you control loses a fight, return Arena Ringmaster to its ow
 			<text>Soulbond
 As long as Clair is paired with another creature, each of those creatures has ward {2}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 {W}: Target creature gets -2/-0 until end of turn. Activate only once per turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/54.jpg" num="8">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/53.jpg" num="8">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -961,7 +942,7 @@ As long as Clair is paired with another creature, each of those creatures has wa
 When Esquie&apos;s Magic Rock enters, choose a color.
 {T}: Add one mana of the chosen color.
 {5}, {T}: Target creature of the chosen color gets +2/+1 and gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/55.jpg" num="51">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/54.jpg" num="51">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -974,18 +955,18 @@ When Esquie&apos;s Magic Rock enters, choose a color.
 		</card>
 		<card>
 			<name>Mask of Visages</name>
-			<text>Bestow {4}{B} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
-When Mask of Visages enters or enchanted creature dies, put a -1/-1 counter on target creature.
-Whenever a creature with a counter on it dies, surveil 2.
-Enchanted creature gets +3/-1.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/56.jpg" num="10">DPG</set>
+			<text>Bestow {3}{B} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
+When Mask of Visages or enchanted creature dies, put a -1/-1 counter on target creature.
+Whenever a creature with a counter on it dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Enchanted creature gets +3/+0.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/55.jpg" num="10">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment Creature — Shade</type>
 				<maintype>Creature</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>0/3</pt>
@@ -995,7 +976,7 @@ Enchanted creature gets +3/-1.</text>
 		<card>
 			<name>Enforce Emotion</name>
 			<text>Target creature you control gets +3/+0 and gains haste and menace until end of turn. At the beginning of the next end step, sacrifice that creature.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/57.jpg" num="17">DPG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/56.jpg" num="17">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1016,7 +997,7 @@ Whenever equipped creature deals combat damage to a player choose one—
 • Populate
 • Proliferate
 Equip {4}</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/58.jpg" num="52">DPG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/57.jpg" num="52">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1032,7 +1013,7 @@ Equip {4}</text>
 			<text>[+2]: Renoir deals damage to target creature equal to 1 plus the total number of cards in exile. If a creature dealt damage this way would die this turn, exile it instead.
 [-3]: Create a 5/4 colorless Horror creature token with menace and &quot;Whenever a creature dealt damage by this creature would die this turn, exile it instead.&quot;
 [-10]: Exile all lands you don&apos;t control.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/59.jpg" num="37">DPG</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/58.jpg" num="37">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1050,7 +1031,7 @@ Equip {4}</text>
 			<name>Esquie, Youth&apos;s Bliss</name>
 			<text>Flying
 If Esquie, Youth&apos;s Bliss would deal combat damage to a player, prevent that damage then distribute that many +1/+1 counters among any number of other target creatures.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/60.jpg" num="1">DPG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/59.jpg" num="1">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1069,25 +1050,7 @@ If Esquie, Youth&apos;s Bliss would deal combat damage to a player, prevent that
 			<text>Put a +1/+1 counter on target creature.
 Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
 Draw cards equal to the number of +1/+1 counters on target creature you control.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/61.jpg" num="46">DPG</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>2G/WUU</manacost>
-				<cmc>5</cmc>
-				<colors>WUG</colors>
-				<coloridentity>WUG</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Aria of the Soul</name>
-			<text>Put a +1/+1 counter on target creature.
-Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
-Draw cards equal to the number of +1/+1 counters on target creature you control.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/62.jpg" num="45">DPG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/60.jpg" num="46">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1107,7 +1070,7 @@ When Mask Keeper enters, return target enchantment card from your graveyard to y
 Mask Keeper&apos;s power and toughness are each equal to the number of enchantments you control.
 {1}{B}{G}: For each Aura attached to Mask Keeper, attach it to another target permanent it can enchant. Then return Mask Keeper to its owner&apos;s hand.
 Partner (You can have two commanders if both have partner.)</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/63.jpg" num="33">DPG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/61.jpg" num="33">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1128,7 +1091,7 @@ Enchanted creatures you control get +2/+2.
 Enchantment creatures you control get +2/+2.
 Visages can block an additional creature.
 Partner</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/64.jpg" num="43">DPG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/62.jpg" num="43">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1145,7 +1108,7 @@ Partner</text>
 		<card>
 			<name>Pliant Moissoneusse</name>
 			<text>Whenever a nontoken Aura becomes attached to Pliant Moissoneusse, create a token copy of that card and attach it to Pliant Moissoneusse.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/65.jpg" num="5">DPG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/63.jpg" num="5">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1164,7 +1127,7 @@ Partner</text>
 			<text>Whenever you cast an instant or sorcery spell, put a charm counter on Sirene.
 Remove two charm counters from Sirene: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
 When Sirene dies, it deals damage to any target equal to the total power of creatures you control but don&apos;t own.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/66.jpg" num="40">DPG</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/64.jpg" num="40">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1182,7 +1145,7 @@ When Sirene dies, it deals damage to any target equal to the total power of crea
 			<name>Ballet Tempter</name>
 			<text>Flying
 {3}{U}{U}{U}{U}, Sacrifice Ballet Tempter: Gain control of target creature.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/67.jpg" num="7">DPG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/65.jpg" num="7">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1201,7 +1164,7 @@ When Sirene dies, it deals damage to any target equal to the total power of crea
 			<text>Whenever a nontoken creature you control enters the battlefield, put a loyalty counter on Maelle, sans Alicia.
 [0]: Exile target creature you control, then return it to the battlefield under its owner&apos;s control. If that creature had counters on it, draw a card.
 [-13]: You get an emblem with &quot;Creatures you control have undying.&quot; and &quot;At the beginning of your upkeep, you may remove a +1/+1 counter from target creature. If you do, draw a card.&quot;</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/68.jpg" num="32">DPG</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/66.jpg" num="32">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1221,7 +1184,7 @@ When Sirene dies, it deals damage to any target equal to the total power of crea
 When Renoir&apos;s Creation enters, surveil 4.
 Whenever a card would be put into your graveyard from anywhere other than the battlefield, you may exile it instead. If you do, each other player exiles a card from their graveyard.
 {1}{B}{R}: Choose a card type. Renoir&apos;s Creation gets +X/+0 until end of turn, where X is the total number of cards of the chosen type in exile.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/69.jpg" num="38">DPG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/67.jpg" num="38">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1239,7 +1202,7 @@ Whenever a card would be put into your graveyard from anywhere other than the ba
 			<name>Those Who Come After</name>
 			<text>Delirium — Those Who Come After costs {2} less to cast as long as there are four or more card types among cards in your graveyard.
 Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/70.jpg" num="12">DPG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/68.jpg" num="12">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1259,7 +1222,7 @@ Undying (When this creature dies, if it had no +1/+1 counters on it, return it t
 Whenever Scieleson becomes attached to a creature, scry 1.
 Equipped creature gets +2/+2.
 Equip {4}</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/71.jpg" num="61">DPG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/69.jpg" num="61">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1272,20 +1235,20 @@ Equip {4}</text>
 		</card>
 		<card>
 			<name>Clea, Meddling Shadow</name>
-			<text>[+2]: Delirium — Surveil 3. Add {1} if there are four or more card types among cards in your graveyard.
-[-3]: Sacrifice a creature: Destroy target creature. Investigate, then investigate again. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
-[-10]: You get an emblem with &quot;At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.&quot;</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/72.jpg" num="23">DPG</set>
+			<text>[+2]: Delirium — Surveil 3. Then, add {B}{G} if there are four or more card types among cards in your graveyard.
+[-3]: You may sacrifice a creature. If you do, destroy target creature, investigate, then investigate again. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+[-11]: You get an emblem with &quot;At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.&quot;</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/70.jpg" num="23">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Planeswalker — Clea</type>
 				<maintype>Planeswalker</maintype>
-				<manacost>3BG</manacost>
-				<cmc>5</cmc>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<loyalty>4</loyalty>
+				<loyalty>5</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -1293,7 +1256,7 @@ Equip {4}</text>
 			<name>Expedition Sixty</name>
 			<text>Shroud (This creature can&apos;t be the target of spells or abilities.)
 When Expedition Sixty enters, exile target artifact or enchantment.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/73.jpg" num="2">DPG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/71.jpg" num="2">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1310,7 +1273,7 @@ When Expedition Sixty enters, exile target artifact or enchantment.</text>
 		<card>
 			<name>Bruler</name>
 			<text>As long as Bruler is equipped, it has trample.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/74.jpg" num="16">DPG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/72.jpg" num="16">DPG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1323,6 +1286,43 @@ When Expedition Sixty enters, exile target artifact or enchantment.</text>
 				<pt>5/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Endless Tower</name>
+			<text>Play with the top card of your library revealed.
+You may cast the top card of your library if it&apos;s a creature card.
+At the beginning of your upkeep, if the top card of your library is a creature card, you may put it onto the battlefield.
+{T}: Surveil 2.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/73.jpg" num="20">DPG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5GGG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aria of the Soul</name>
+			<text>Put a +1/+1 counter on target creature.
+Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Draw cards equal to the number of +1/+1 counters on target creature you control.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DPG-files/img/74.jpg" num="45">DPG</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G/WUU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

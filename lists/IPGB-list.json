@@ -1,0 +1,115 @@
+﻿[
+    {
+        "card_name": "Minos Prime",
+        "number": 1,
+        "shape": "adventure",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Magical Hats",
+        "number": 2,
+        "shape": "normal",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Blue-Eyes White Dragon",
+        "number": 4,
+        "shape": "normal",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Red-Eyes Black Dragon",
+        "number": 5,
+        "shape": "normal",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Frieren the Slayer",
+        "number": 3,
+        "shape": "normal",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

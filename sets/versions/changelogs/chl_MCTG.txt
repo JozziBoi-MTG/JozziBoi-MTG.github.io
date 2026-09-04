@@ -1,4 +1,671 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Emerald Petal added.
+
+
+Forest
+
+Island
+
+Mountain
+
+Plains
+
+Swamp
+
+Wastes
+
+Timorous Sheep
+
+Thieving Fox
+
+Wandering Panda
+
+Scavenger Cat
+rules_text: Scavenger Cat gets +1/+1 if you control a Villager.
+{T}: Add {B}. => When Scavenger Cat enters, if you control a Villager, add {W}{W}.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 1/2 => 1/1
+
+Stalwart Swine
+
+School of Fish
+
+Polar Bear Cub
+
+Cyclical Chicken
+
+Agitated Rabbit
+
+Guiding Dolphin
+rules_text: Islandwalk, soulbond
+As long as Guiding Dolphin is paired with another creature, each of those creatures has “Whenever this creature deals combat damage to a player, draw a card.” => Islandwalk, soulbond
+As long as Guiding Dolphin is paired with another creature, each of those creatures has “Whenever this creature deals combat damage to an opponent, draw a card.”
+
+Loyal Wolf
+
+Familiar Parrot
+
+Whimsical Llama
+
+Murky Squid
+
+Umbra Bat
+
+Shrieking Ocelot
+
+Vengeful Polar Bear
+
+Spurred Horse
+
+Richly-Fed Cow
+
+Mooshroom
+
+Killer Rabbit
+
+Baby Villager
+rules_text: At the beginning of your upkeep, put an age counter on Baby Villager.
+{W}, {T}: Search your library for a Villager creature card with mana value X or less and put it onto the battlefield, where X is the number of age counters on Baby Villager. Then shuffle your library. => At the beginning of your upkeep, put an age counter on Baby Villager.
+{W}, {T}, Remove X age counters from Baby Villager and sacrifice it: Search your library for a Villager creature card with mana value X or less, put it onto the battlefield, then shuffle.
+
+Nitwit
+rules_text: Kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+When Nitwit enters, if it was kicked, create a 1/1 white Villager creature token. It has “{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.” => Kicker {2} [i](You may pay an additional {2} as you cast this spell.)[/i]
+When Nitwit enters, if it was kicked, create a 1/1 white Villager creature token. It has “{T}: Add {C}. Spend this mana only to activate abilities.”
+
+Cartographer
+cost: {1}{W}{W} => {1}{W}
+rules_text: [i]Metalcraft[/i] — When Cartographer enters, if you control three or more artifacts, draw a card.
+{1}, {T}: Scry 3. Then you may reveal the top card of your library. If a card named Cartographer's Map is revealed this way, put it into your hand. => {1}, {T}: Scry 3. Then you may reveal the top card of your library. If a card named Cartographer's Map is revealed this way, put it into your hand.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+pt: 1/2 => 1/1
+
+Adept Butcher
+
+Passionate Farmer
+
+Blacksmith
+
+Librarian
+
+Summoned Iron Golem
+
+Steve
+
+Alex
+
+Compulsory Zombie
+
+Nocked Skeleton
+pt: 3/2 => 3/1
+
+Creeper
+
+Zombie Villager
+
+Congealed Slime
+
+Skittering Spider
+
+Spider Jockey
+
+Enderman
+rules_text: Flash, first strike
+Whenever Enderman enters or deals combat damage to a player, tap target land that player controls. It does not untap during its controller's next untap step. => Flash, first strike
+Whenever Enderman enters or deals combat damage to a player, tap target land that player controls and put a stun counter on it.
+
+Outcast Witch
+
+Endermite
+
+Ghast
+
+Blaze
+cost: {2}{R}{R} => {2}{R}
+rules_text: Flying
+Blaze gets +1/+0 if your devotion to red is eight or more.
+{R}: Blaze gets +1/+0 until end of turn. => Flying
+{4}{R}: Blaze gets +X/+0 until end of turn, where X is your devotion to red. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i]
+
+Wither Skeleton
+
+Nether Fortress
+
+Zombie Piglin
+
+Magma Cube
+
+Soul Sand Valley
+
+Nether Portal
+
+Armored Spawn
+
+Rain of Blades
+
+Water Trap
+
+Lightning Bolt
+rules_text: Lightning Bolt deals 3 damage to target creature or player. => Lightning Bolt deals 3 damage to any target.
+
+Anger the Tribe
+
+Village Haven
+rules_text: When Village Haven enters, create two 1/1 white Villager creature tokens. They have “{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.”
+Creature tokens you control get +1/+1 and have “{1}, {T}: Target creature gets +1/+1 until end of turn”
+{2}, {T}: Target creature gets +3/+3 until end of turn. => When Village Haven enters, create two 1/1 white Villager creature tokens. They have “{T}: Add {C}. Spend this mana only to activate abilities.”
+Creature tokens you control get +1/+1 and have “{1}, {T}: Target creature gets +1/+1 until end of turn”
+{2}, {T}: Target creature gets +3/+3 until end of turn.
+
+Fall Damage
+
+Spawn Egg
+
+Voidrift Stronghold
+
+Altar of Myths
+
+Herobrine, Soulless
+rules_text: At the beginning of your upkeep, return target creature card from a graveyard to the battlefield under your control.
+At the beginning of each opponent's upkeep, that player sacrifices a creature. => When Herobrine, Soulless enters, each opponent sacrifices a creature. Then, for each graveyard, return target creature card from that graveyard to the battlefield under your control.
+
+Herobrine, Warmonger
+
+Master of the End
+
+Ender Dragon, Immortal
+
+Wither, the Corrupter
+
+Potion of Weakness
+
+Potion of Harming
+
+Potion of Invisibiliy
+
+Potion of Healing
+
+Potion of Swiftness
+
+Potion of Regeneration
+
+Potion of Leaping
+
+Potion of Strength
+
+Potion of Slowness
+
+Potion of Poison
+
+Brewing Stand
+
+Dragon's Breath
+
+Ætherfeed Silverfish
+
+Shulker
+
+Fitted Gear
+
+Elytra
+
+Bucket of Water
+
+Bucket of Lava
+
+Hardy Shield
+
+Mass Explosion
+
+Mushroom Stew
+
+Critical Hit
+
+Creaking
+type: Creature — Elemental => Creature — Dryad Horror
+cost: {2}{G} => {G}{G}{G}
+pt: 2/3 => 4/4
+
+Command Block
+cost: {2}{UR}{UR} => {2}{U}{R}
+rules_text: Draw three cards. Then, you may discard a card at random. If you don't, each other player draws a card. => Draw four cards, then discard a card at random. If a land card is discarded this way, discard an additional card at random.
+
+Snow Golem
+
+Baby Zombie
+
+Cactus Patch
+
+Ocean Monument
+
+Guardian
+
+Elder Guardian
+
+Daybreak
+
+Flint and Steel
+
+Food for the Cause
+type: Sorcery => Enchantment — Aura
+cost: {2}{W} => {3}{W}
+rules_text: Sacrifice up to two creatures. You gain life equal to twice the total toughness of the creatures sacrificed this way. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Enchant creature
+When enchanted creature dies, you gain life equal to its toughness.
+When enchanted creature dies under your control, you gain life equal to its power.
+
+Sharpness
+
+Protection
+
+Projectile Protection
+
+Unbreaking
+
+Enchantment Table
+
+Giant's Corpse
+
+Sleep Off the Night
+
+Spawnpoint
+
+Chicken Bomb
+
+Nightfall
+
+Breeding
+
+Mob Spawner
+
+Desert Temple
+
+Jungle Temple
+
+Fleeting Durability
+
+Explore
+
+Soul Torch
+
+Ender Pearl
+
+Pitfall
+
+Jungle Vines
+
+The First Night
+
+Skybridge
+
+Beacon
+rules_text: As long as Beacon has at least one charge counter on it, creatures you control have haste.
+As long as Beacon has at least two charge counters on it, creatures you control get +2/+1.
+{3}, {T}: Put a charge counter on Beacon.
+{T}: Add {X}, where X is the number of charge counters on Beacon. Spend this mana only to activate abilities. => As long as Beacon has at least one charge counter on it, creatures you control have haste.
+As long as Beacon has at least two charge counters on it, creatures you control get +2/+1.
+{3}, {T}: Put a charge counter on Beacon.
+{T}: Add {C} for each charge counter on Beacon. Spend this mana only to activate abilities.
+
+Zombie Siege
+
+Iron Door
+
+Cartographer's Map
+type: Instant => Artifact
+cost: {2}{GW} => {1}
+rules_text: Search your library for an artifact card with a mana ability or land card, reveal it, and put it into your hand. Then shuffle. => {1}, {T}, Sacrifice Cartographer's Map: Search your library for an artifact card with a mana ability or land card, reveal it, and put it into your hand. Then shuffle.
+
+Abandoned Stray
+
+Husk
+
+Recipe Book
+
+Skillful Shot
+
+Cave Spider
+
+Golden Apple
+
+Crafting Table
+
+Treasure Map
+
+Drowned
+
+Trident
+
+Conduit
+
+Swooping Phantom
+
+Igloo
+
+Coral Reef
+
+Woodland Mansion
+rules_text: Whenever you cast a spell, put a +1/+1 counter on target creature.
+{G}, {T}: Choose creature, land, or other, then reveal the top card of your library. If the revealed card is of the chosen kind, put it into your hand. Otherwise, you may put it on the top or bottom of your library. => Whenever you cast a spell, put a +1/+1 counter on target creature.
+{G}, {T}: Choose creature, land, or noncreature nonland, then reveal the top card of your library. If the revealed card is of the chosen type, put it into your hand. Otherwise, you may put it on the top or bottom of your library.
+
+Pillager Outpost
+cost: {1}{B}{G} => {2}
+rules_text: When Pillager Outpost enters, create a 2/2 black and green Ranger creature token.
+{1}{BG}, {T}: Create a 2/2 black and green Ranger creature token.
+Sacrifice Pillager Outpost: Creature tokens you control gain battle cry until end of turn. => {1}{BG}, {T}: Create a 2/2 black and green Ranger creature token.
+Sacrifice Pillager Outpost: Creature tokens you control gain battle cry until end of turn.
+
+Vindicator
+cost: {2}{G}{G} => {3}{B}
+rules_text: First strike => Kicker—Sacrifice a creature. [i](You may sacrifice a creature in addition to any other costs as you cast this spell.)[/i]
+First strike
+Vindicator enters with an additional +1/+1 counter on it if it was kicked.
+
+Evoker
+
+Hateful Vex
+
+Ravager
+
+Illager Patrol
+
+Ravager Jockey
+
+Spiteful Pillager
+
+Pillager Captain
+cost: {2}{B}{B}{G} => {3}{G}
+rules_text: Creatures you control have haste.
+When Pillager Captain dies, put a +1/+1 counter on up to two target creatures. => When Pillager Captain dies, put a +1/+1 counter on each of up to two target creatures.
+pt: 3/3 => 4/2
+
+Illusioner
+
+Ominous Banner
+
+Wandering Trader
+cost: {2}{G}{G} => {3}{G}
+rules_text: Hexproof
+{2}, {T}: Draw a card. => Hexproof
+{2}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.
+pt: 2/2 => 1/4
+
+Savage Raid
+
+Fire Charge
+
+Giant Bee
+cost: {1}{G} => {2}{G}
+rules_text: Flying => Flying
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Kick the Hive
+
+Bee Nest
+
+Honey Hive
+cost: {2}{G} => {4}
+rules_text: When Honey Hive enters, create a 2/2 green Insect creature token with flying.
+{T}: Add one mana of any color. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When Honey Hive enters, create a 2/2 green Insect creature token with flying.
+{T}: Add one mana of any color.
+
+Piglin
+
+Hoglin
+cost: {R}{R} => {R}{R}{R}
+rules_text: Trample => As long as your devotion to red is eight or greater, Hoglin has trample. [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i]
+pt: 3/2 => 3/3
+
+Piglin Brute
+
+Zoglin
+
+Slag Strider
+
+Thorns
+
+Farlands
+
+Abandoned Village
+
+Forbidden Ritual
+
+Lush Cave
+
+Witch Hut
+cost: {1}{W}{B} => {W}{B}
+
+Wither Skull
+
+Desolate Library
+
+Glow Squid
+
+Braying Goat
+
+Lodestone
+
+Forged in Netherite
+
+Ruined Portal
+
+Eye of Ender
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Scry 4, then draw 2 cards. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Scry 4, then draw two cards.
+
+Beach-Dwelling Turtle
+
+Blackened Bastion
+
+Escape to Flames
+
+Fallen Horn
+
+Allay
+
+Peckish Axolotl
+
+Bad Omen
+rules_text: Non-Villager creatures get +1/+1 and have menace. => Creatures have menace.
+Madness {1}{B}{G} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Pufferfish
+
+Sound the Horn
+
+Amethyst Spyglass
+
+Nimble Camel
+pt: 2/3 => 4/1
+
+Glow Frog
+
+Brave the End
+
+Adventuring Time
+
+Name Tag
+
+Dinnerbone
+
+Here's Johnny!
+cost: {2}{G}{G} => {3}{G}
+
+Jeb the Sheep
+rules_text: Spells you cast have convoke. [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Whenever you cast a spell, place a +1/+1 counter on each tapped creature you control. Then, draw a card. => You have no maximum hand size.
+Spells you cast have convoke. [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Whenever you cast a spell, put a +1/+1 counter on each tapped creature you control. Then, draw a card.
+
+Gray Cleric
+
+Weathered Fisherman
+
+Respawn Anchor
+
+Cultivate
+
+Dispenser
+
+Bond of the Creaking Heart
+
+Riches from Dust
+cost: {R} => {1}{R}
+rules_text: [i]Metalcraft[/i] — Surveil 1, then you may draw a card. If you do, discard a card unless you control three or more artifacts. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Multikicker—Sacrifice an artifact. [i](You may sacrifice an artifact in addition to any other costs any number of times as you cast this spell.)[/i]
+Surveil 3. [i](Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Draw a card for each time Riches from Dust was kicked.
+
+Totem of Undying
+
+Welcome Travellers
+rules_text: Choose one —
+• Create three 1/1 white Human creature tokens.
+• Create two 1/1 white Villager creature tokens. They have “{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.” => Choose one —
+• Create three 1/1 white Human creature tokens.
+• Create two 1/1 white Villager creature tokens. They have “{T}: Add {C}. Spend this mana only to activate abilities.”
+
+Trail Ruins
+cost: {3}{BR}{U} => {5}
+
+Awkward Potion
+
+Shulker's Box
+
+Glowstone Infusion
+
+Cleansing Grindstone
+
+Dimensional Excursion
+
+Infinity Snapshot
+rules_text: When Infinity Snapshot enters, choose a basic land type. Each land is the chosen type in addition to its other types.
+At the beginning of your upkeep, each player exiles the top two cards of their library.
+During their turn, players may play lands and cast spells exiled with Infinity Snapshot. => When Infinity Snapshot enters, choose a basic land type. Each land is the chosen type in addition to its other types.
+At the beginning of your upkeep, each player exiles the top two cards of their library.
+During their turn, players may play cards exiled with Infinity Snapshot.
+
+Potion of Night Vision
+
+End City
+
+Recovery Compass
+
+Ominous Vault
+
+Tipped Arrow
+
+Helm of the Turtle
+
+Dominator's Mace
+
+Loam Sniffer
+
+Ghastling
+
+Wilted Soul
+
+Skeleton Horseman
+cost: {2}{R}{R} => {3}{R}
+rules_text: Kicker {2}{R}
+Flash, haste
+When Skeleton Horseman enters, if it was kicked, create a token that is a copy of Skeleton Horseman. => Flash
+pt: 4/2 => 4/3
+
+Oozing Demise
+
+Abandoned Mineshaft
+
+Valley of Bones
+
+Warped Forest
+
+Irresistible Peddler
+cost: {1}{R}{R} => {1}{R}
+rules_text: Gain control of target noncreature permanent until end of turn. Untap that permanent. It gains haste until end of turn.
+Cycling {1}{RW}
+When you cycle Irresistible Peddler, create a 1/1 white Villager creature token. It has “{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.” => Gain control of target noncreature permanent until end of turn. Untap that permanent. It gains haste until end of turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Chamber's Omen
+rules_text: Create a 2/2 black Zombie creature token. Chamber's Omen deals 2 damage to target creature or player. => Create a 2/2 black Zombie creature token. Chamber's Omen deals 1 damage to any target.
+
+Suspicious Stew
+
+Sculk Sensor
+
+Bogged
+
+Murder
+
+Binding and Vanishing
+
+Shulker Spire
+
+Disc: Creator
+
+Dreamstealer Phantom
+
+Happy Ghast
+
+Decrepit Cage
+
+Gardner's Enchanted Shears
+
+Copper Golem
+
+Copper Chest
+
+Buried Treasure
+rules_text: When Buried Treasure enters, you may tap it. If you do, draw a card.
+{T}: Add one mana of any color. => You may have Buried Treasure enter tapped. If you do, draw a card.
+{T}: Add one mana of any color.
+
+Desert Well
+
+Lunging Spear
+
+Parched Bones
+
+Camel's Husk
+rules_text: Bestow {5}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+Enchanted creature gets +2/+3 and has undying. => Bestow {5}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+Enchanted creature gets +3/+3 and has undying.
+pt: 2/3 => 3/3
+
+Farseek
+
+Aria Math
+
+Disc: 13
+
+Warden Enraged
+
+Jellie of the Homestead
+rules_text: Creature tokens you control get +1/+1 and have “{1}, {T}: Add one mana of any color.”
+{1}, {T}: Create a 1/1 white Villager creature token. It has “{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.” => Creature tokens you control get +1/+1 and have “{1}, {T}: Add one mana of any color.”
+{2}, {T}: Create a 1/1 white Villager creature token. It has “{T}: Add {C}. Spend this mana only to activate abilities.”
+
+Crimson Forest
+
+Floral Chantry
+
+Unreachable Sanctuary
+
+Pale Oak Grotto
+
+Cavernous Geode
+
+Ethereal Blossoms
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Stalwart Swine added.

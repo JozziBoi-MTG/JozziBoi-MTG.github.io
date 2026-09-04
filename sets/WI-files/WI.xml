@@ -5,7 +5,7 @@
 			<name>WI</name>
 			<longname>Weaver&apos;s Intrigue</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-21</releasedate>
+			<releasedate>2026-09-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -223,7 +223,7 @@ Sacrifice Obsessive Mappings: Untap target land.</text>
 			<name>Soul Vessel</name>
 			<text>When Soul Vessel enters, you gain 1 life.
 Sacrifice Soul Vessel: Choose one —
-• Scry 1 (Look at the top card of your library. You may put that card on the bottom of your library.)
+• Scry 1 (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)
 • Surveil 1 (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/12.jpg" num="75">WI</set>
 			<prop>
@@ -382,8 +382,7 @@ Sagas you control have hexproof.</text>
 			<name>Lace&apos;s Resolve</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Target creature you control fights target creature you don&apos;t control. If a creature would die this way, exile it instead.
-III — Creatures you control get +X/+X until end of turn, where X is the total number of cards in exile.
-​</text>
+III — Creatures you control get +X/+X until end of turn, where X is the total number of cards in exile.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/21.jpg" num="45">WI</set>
 			<prop>
 				<layout>saga</layout>
@@ -400,9 +399,7 @@ III — Creatures you control get +X/+X until end of turn, where X is the total 
 		<card>
 			<name>Dreams of Futures Passed</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II, III — You may tap an untapped creature you control. If you do, scry X, where X is that creature&apos;s toughness, then draw a card.
-​
-​</text>
+I, II, III — You may tap an untapped creature you control. If you do, scry X, where X is that creature&apos;s toughness, then draw a card.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/22.jpg" num="12">WI</set>
 			<prop>
 				<layout>saga</layout>
@@ -420,7 +417,7 @@ I, II, III — You may tap an untapped creature you control. If you do, scry X, 
 			<name>Bellheart</name>
 			<text>Bellheart enters tapped.
 {T}: Add {C}.
-{T}: Create a 1/1 white Villager creature token with &quot;{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.&quot; Activate only if a historic permanent entered under your control this turn. (Artifacts, legendaries, and Sagas are historic.)</text>
+{T}: Create a 1/1 white Villager creature token with &quot;{T}: Add {C}. Spend this mana only to activate abilities.&quot; Activate only if a historic permanent entered under your control this turn. (Artifacts, legendaries, and Sagas are historic.)</text>
 			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/23.jpg" num="77">WI</set>
 			<prop>
 				<layout>normal</layout>
@@ -951,18 +948,17 @@ Blocking creatures you control get +0/+1 for each of their colors.</text>
 		</card>
 		<card>
 			<name>Godseeker</name>
-			<text>Whenever a historic permanent leaves the battlefield, put a charge counter on Godseeker.
-{T}, Remove four charge counters from Godseeker: Return target historic card from your graveyard to your hand.
-{T}: Add {C}.
-{T}: Add one mana of any color. Spend this mana only to cast historic spells or activate abilities of historic permanents you control. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/54.jpg" num="66">WI</set>
+			<text>Whenever another historic permanent you control leaves the battlefield, put a charge counter on Godseeker.
+{T}, Remove X charge counters from Godseeker and sacrifice it: If X is 4 or more, search your library for a historic permanent card with mana value X or less, put it onto the battlefield, then shuffle. Activate only as a sorcery. (Artifacts, legendaries, and Sagas are historic.)
+{T}: Add {C}.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/54.jpg" num="66">WI</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>3</manacost>
-				<cmc>3</cmc>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>IPGB</name>
+			<longname>IP Grab Bag</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-04</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Frieren the Slayer</name>
+			<text>As long as it&apos;s not your turn, Frieren the Slayer has hexproof.
+At the beginning of your upkeep, draw a card.
+If you would draw a card, you may instead reveal cards from the top of your library until you reveal an instant, sorcery, or enchantment card. Put that card into your hand and the rest on the bottom of your library in a random order.
+Discard a card: Add {U}, {R}, or {W}. Only spend this mana to cast instant, sorcery, or enchantment spells.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/0.jpg" num="3">IPGB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1URW</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minos Prime // Wrath of God</name>
+			<text>As long as Minos Prime is on the battlefield, it has all abilities of all Human cards in your graveyard.
+
+---
+
+Destroy all creatures. They can&apos;t be regenerated.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/1.jpg" num="1">IPGB</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Noble // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>4WWWW // 2WW</manacost>
+				<cmc>8</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>8/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magical Hats</name>
+			<text>Flash
+Exile up to four permanents you control, then manifest those cards. They enter with an additional hat counter. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)
+Remove a hat counter from target face down card: Exile that card face up. Then if its a permanent card, return it to the battlefield under your control. It gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/2.jpg" num="2">IPGB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blue-Eyes White Dragon</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/3.jpg" num="4">IPGB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5W/U</manacost>
+				<cmc>6</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Red-Eyes Black Dragon</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/4.jpg" num="5">IPGB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5B/R</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>7/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

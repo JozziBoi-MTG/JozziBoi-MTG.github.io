@@ -1,4 +1,105 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Monoco, Trophy Vaunter
+rules_text: {T}, Exile target creature card from an opponent's graveyard: Exile Monoco, Trophy Vaunter, then return it to the battlefield under its owners control. It enters as a copy of the exiled card until end of turn except it's name is Monoco, Trophy Vaunter and it's legendary in addition to its other types. It gains haste until end of turn. Activate only as a sorcery. => {T}, Exile target creature card from an opponent's graveyard: Exile Monoco, Trophy Vaunter, then return it to the battlefield under its owners control. It enters as a copy of the exiled card until end of turn except its name is Monoco, Trophy Vaunter and it's legendary in addition to its other types. It gains haste until end of turn. Activate only as a sorcery.
+
+Ancient Sanctuary
+
+Flying Waters
+
+Dark Shores
+
+Indigo Tree
+
+Forgotten Battlefield
+
+Sirene's Dress
+
+Frozen Hearts
+
+Endless Night Sanctuary
+
+Esoteric Ruins
+
+Monoco's Station
+
+Pugnacious Gestrals
+
+Golgra, Brawler's Peak
+
+Sprong
+
+Arena Ringmaster
+
+Clair
+
+Esquie's Magic Rock
+
+Mask of Visages
+cost: {2}{B} => {1}{B}
+rules_text: Bestow {4}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+When Mask of Visages enters or enchanted creature dies, put a -1/-1 counter on target creature.
+Whenever a creature with a counter on it dies, surveil 2.
+Enchanted creature gets +3/-1. => Bestow {3}{B} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+When Mask of Visages or enchanted creature dies, put a -1/-1 counter on target creature.
+Whenever a creature with a counter on it dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Enchanted creature gets +3/+0.
+
+Enforce Emotion
+
+Expedition Banner
+
+Renoir, the Unpainted
+
+Esquie, Youth's Bliss
+
+Aria of the Soul
+
+Mask Keeper
+
+Visages
+
+Pliant Moissoneusse
+
+Sirene
+
+Ballet Tempter
+
+Maelle, sans Alicia
+
+Renoir's Creation
+
+Those Who Come After
+
+Scieleson
+
+Clea, Meddling Shadow
+cost: {3}{B}{G} => {4}{B}{G}
+rules_text: [+2]: [i]Delirium[/i] — Surveil 3. Add {1} if there are four or more card types among cards in your graveyard.
+[-3]: Sacrifice a creature: Destroy target creature. Investigate, then investigate again. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[-10]: You get an emblem with “At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.” => [+2]: [i]Delirium[/i] — Surveil 3. Then, add {B}{G} if there are four or more card types among cards in your graveyard.
+[-3]: You may sacrifice a creature. If you do, destroy target creature, investigate, then investigate again. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[-11]: You get an emblem with “At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.”
+special_text: [+2]: [i]Delirium[/i] — Surveil 3. Add {1} if there are four or more card types among cards in your graveyard.
+[-3]: Sacrifice a creature: Destroy target creature. Investigate, then investigate again. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[-10]: You get an emblem with “At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.” => [+2]: [i]Delirium[/i] — Surveil 3. Then, add {B}{G} if there are four or more card types among cards in your graveyard.
+[-3]: You may sacrifice a creature. If you do, destroy target creature, investigate, then investigate again. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[-11]: You get an emblem with “At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.”
+loyalty: 4 => 5
+
+Expedition Sixty
+
+Bruler
+
+Endless Tower
+
+Aria of the Soul
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

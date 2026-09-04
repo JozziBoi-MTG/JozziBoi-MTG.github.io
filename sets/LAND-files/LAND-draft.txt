@@ -1,0 +1,490 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Blood Crypt",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Swamp",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Breeding Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Godless Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Hallowed Fountain",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Overgrown Tomb",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Sacred Foundry",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Steam Vents",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Stomping Ground",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/26.jpg"
+			}
+		},
+		{
+			"name": "Temple Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Watery Grave",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/37.jpg"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/LAND-files/img/42.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Blood Crypt
+	2 Breeding Pool
+	2 Godless Shrine
+	2 Hallowed Fountain
+	2 Overgrown Tomb
+	2 Sacred Foundry
+	2 Steam Vents
+	2 Stomping Ground
+	2 Temple Garden
+	2 Watery Grave
+[uncommon(3)]
+[common(6)]
+	8 Forest
+	8 Mountain
+	8 Plains
+	8 Island
+	8 Swamp
+[common | masterpiece(1)]
+	8 Forest
+	8 Mountain
+	8 Plains
+	8 Island
+	8 Swamp
+[foil(1)]
+	12 Forest
+	12 Mountain
+	2 Blood Crypt
+	2 Breeding Pool
+	2 Godless Shrine
+	2 Hallowed Fountain
+	2 Overgrown Tomb
+	2 Sacred Foundry
+	2 Steam Vents
+	2 Stomping Ground
+	2 Temple Garden
+	2 Watery Grave
+	12 Plains
+	12 Island
+	12 Swamp
+[wildcard(1)]
+	6 Forest
+	6 Mountain
+	7 Blood Crypt
+	7 Breeding Pool
+	7 Godless Shrine
+	7 Hallowed Fountain
+	7 Overgrown Tomb
+	7 Sacred Foundry
+	7 Steam Vents
+	7 Stomping Ground
+	7 Temple Garden
+	7 Watery Grave
+	6 Plains
+	6 Island
+	6 Swamp

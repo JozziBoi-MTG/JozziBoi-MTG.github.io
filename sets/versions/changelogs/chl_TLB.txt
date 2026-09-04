@@ -1,4 +1,187 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Crystalian added.
+Altar of Marika added.
+Demon Regent added.
+Capra Demon added.
+Soldier of Godrick added.
+Cave of Knowledge added.
+Tarnished Prisoner added.
+Torrent, Spectral Steed added.
+
+
+Beget Vengeance
+
+Rivers of Blood
+
+Heolstor, the Nightlord
+
+Roundtable Duchess
+
+Restage
+
+Evolving Wilds
+
+Shrouded City Noklateo
+
+Limveld's Crater
+
+Limveld's Ice Spire
+
+Limveld's Rotwood
+
+Empiric Recluse
+
+Glory-Seeking Raider
+
+Archaic Executor
+
+Suncatcher
+
+Ironeye
+
+Flock's Guardian
+
+Gladius, Beast of Night
+
+Fulghor, Darkdrift Knight
+
+Godskin Apostles
+
+Nihil
+
+Reality Rift
+
+Glintstone Staff
+
+Radagon Icon
+cost: {U}{UR}{R} => {1}{U}{R}
+
+Frenzied Flame
+
+Finger Seal
+
+Gnoster, Wisdom of Night
+
+Tibia Mariner
+
+Crystal Tear
+
+Soulsworn Skeleton
+
+Burning Erdtree
+
+Darksteel Greatsword
+
+Libra, Equilibrious
+
+Oracle Envoy
+
+Wylder
+
+Pickled Fowl-Foot
+
+Site of Grace
+
+Duty Beyond Death
+
+Ceramic Revenant
+
+Doting Butler
+
+Agile Page
+
+Burly Cook
+
+Sorcerer's Rise
+
+Hut of the Faithful
+
+Notorious Poison Swamp
+
+Scarlet Rot
+
+Maris, Fathom of Night
+
+Soporific Teardrop
+
+Runebear
+
+Limveld's Castle
+
+Totem Stela
+
+Adel, Baron of Night
+rules_text: Adel, Baron of Night attacks each turn if able.
+[i]Landfall[/i] — Whenever a land enters under your control, Adel, Baron of Night and another target creature you control each get +3/+1 and gain menace until end of turn.
+Sacrifice two other nonland permanents: Surveil 2, draw a card, then you may put a land card from your graveyard onto the battlefield tapped. => Menace
+Adel, Baron of Night attacks each turn if able.
+[i]Landfall[/i] — Whenever a land enters under your control, Adel, Baron of Night and another target creature you control each get +3/+1 until end of turn.
+Sacrifice two other nonland permanents: Surveil 2, draw a card, then you may put a land card from your graveyard onto the battlefield tapped.
+
+Fissure in the Fog
+
+Caligo, Miasma of Night
+
+Spirit Shelter
+
+Bell Bearing Hunter
+
+Tincture Scholar
+
+Cloistered Undertaker
+
+Balancer Harmonia
+
+Melina, Grace's Guide
+
+Wending Grace
+
+Radahn, Starscourge
+
+Stormveil Warhawk
+
+Teardrop Scarab
+
+Straghess, Dreglord
+
+Gnoster, Wisdom of Night
+
+Crucible Knight
+
+Erdtree Avatar
+
+Evergaol
+
+Deacons of the Deep
+
+Grafted Scion
+
+Tree Sentinel
+
+Roundtable Hold
+
+Abyss Watcher
+
+Frenzy Balance
+
+Animus, Ascendant Light
+cost: {3}{BR} => {1}{BR}
+rules_text: Bestow {BR}{BR}{BR}{BR}
+Flying
+Whenever Animus, Ascendant Light or enchanted creature dies, discard a card at random from your hand.
+When you cast Animus for its bestow cost, you may return target creature card from your graveyard to the battlefield. If you do, attach Animus to it. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+Enchanted creature gets +5/+3. => Bestow {B}{B}{R}{R} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+You may cast Animus, Ascendant Light for its bestow cost without a target. If you do, as Animus resolves, return target creature card from your graveyard to the battlefield. Change the target of Animus to that creature. Sacrifice that creature at the beginning of the next end step.
+Flying
+Enchanted creature gets +3/+1 and has haste.
+pt: 3/5 => 1/3
+
+Giant-Crusher
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Libra, Equilibrious added.

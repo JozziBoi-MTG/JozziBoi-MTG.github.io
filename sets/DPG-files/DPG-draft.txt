@@ -391,23 +391,13 @@
 			}
 		},
 		{
-			"name": "Endless Tower",
-			"rarity": "rare",
-			"mana_cost": "{5}{G}{G}{G}",
-			"type": "Enchantment",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/39.jpg"
-			}
-		},
-		{
 			"name": "Ancient Sanctuary",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/40.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/39.jpg"
 			}
 		},
 		{
@@ -417,7 +407,7 @@
 			"type": "Land",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/41.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/40.jpg"
 			}
 		},
 		{
@@ -427,7 +417,7 @@
 			"type": "Land",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/42.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/41.jpg"
 			}
 		},
 		{
@@ -437,7 +427,7 @@
 			"type": "Land",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/43.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/42.jpg"
 			}
 		},
 		{
@@ -447,7 +437,7 @@
 			"type": "Land",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/44.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/43.jpg"
 			}
 		},
 		{
@@ -457,7 +447,7 @@
 			"type": "Land",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/45.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/44.jpg"
 			}
 		},
 		{
@@ -467,7 +457,7 @@
 			"type": "Land",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/46.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/45.jpg"
 			}
 		},
 		{
@@ -477,7 +467,7 @@
 			"type": "Land",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/47.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/46.jpg"
 			}
 		},
 		{
@@ -487,7 +477,7 @@
 			"type": "Land",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/48.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/47.jpg"
 			}
 		},
 		{
@@ -497,7 +487,7 @@
 			"type": "Land",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/49.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/48.jpg"
 			}
 		},
 		{
@@ -507,7 +497,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/50.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/49.jpg"
 			}
 		},
 		{
@@ -517,7 +507,7 @@
 			"type": "Legendary Creature — Golem Berserker",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/51.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/50.jpg"
 			}
 		},
 		{
@@ -527,7 +517,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/52.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/51.jpg"
 			}
 		},
 		{
@@ -537,7 +527,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/53.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/52.jpg"
 			}
 		},
 		{
@@ -547,7 +537,7 @@
 			"type": "Creature — Nymph",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/54.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/53.jpg"
 			}
 		},
 		{
@@ -557,17 +547,17 @@
 			"type": "Artifact",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/55.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/54.jpg"
 			}
 		},
 		{
 			"name": "Mask of Visages",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Enchantment Creature — Shade",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/56.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/55.jpg"
 			}
 		},
 		{
@@ -577,7 +567,7 @@
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/57.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/56.jpg"
 			}
 		},
 		{
@@ -587,7 +577,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/58.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/57.jpg"
 			}
 		},
 		{
@@ -597,7 +587,7 @@
 			"type": "Legendary Planeswalker — Renoir",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/59.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/58.jpg"
 			}
 		},
 		{
@@ -607,7 +597,7 @@
 			"type": "Legendary Creature — Angel",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/60.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/59.jpg"
 			}
 		},
 		{
@@ -617,17 +607,7 @@
 			"type": "Sorcery",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/61.jpg"
-			}
-		},
-		{
-			"name": "Aria of the Soul",
-			"rarity": "rare",
-			"mana_cost": "{2}{G/W}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/62.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/60.jpg"
 			}
 		},
 		{
@@ -637,7 +617,7 @@
 			"type": "Legendary Enchantment Creature — Archon",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/63.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/61.jpg"
 			}
 		},
 		{
@@ -647,7 +627,7 @@
 			"type": "Legendary Creature — Construct",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/64.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/62.jpg"
 			}
 		},
 		{
@@ -657,7 +637,7 @@
 			"type": "Creature — Nymph",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/65.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/63.jpg"
 			}
 		},
 		{
@@ -667,7 +647,7 @@
 			"type": "Legendary Creature — Archon",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/66.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/64.jpg"
 			}
 		},
 		{
@@ -677,7 +657,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/67.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/65.jpg"
 			}
 		},
 		{
@@ -687,7 +667,7 @@
 			"type": "Legendary Planeswalker — Alicia",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/68.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/66.jpg"
 			}
 		},
 		{
@@ -697,7 +677,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/69.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/67.jpg"
 			}
 		},
 		{
@@ -707,7 +687,7 @@
 			"type": "Creature — Shade",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/70.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/68.jpg"
 			}
 		},
 		{
@@ -717,17 +697,17 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/71.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/69.jpg"
 			}
 		},
 		{
 			"name": "Clea, Meddling Shadow",
 			"rarity": "mythic",
-			"mana_cost": "{3}{B}{G}",
+			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Planeswalker — Clea",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/72.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/70.jpg"
 			}
 		},
 		{
@@ -737,7 +717,7 @@
 			"type": "Creature — Human",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/73.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/71.jpg"
 			}
 		},
 		{
@@ -746,6 +726,26 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Berserker",
 			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/72.jpg"
+			}
+		},
+		{
+			"name": "Endless Tower",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/73.jpg"
+			}
+		},
+		{
+			"name": "Aria of the Soul",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/W}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/74.jpg"
 			}
@@ -766,13 +766,11 @@
 	2 Fracture
 	2 Lumina Converter
 	2 Barrier Breaker
-	2 Endless Tower
 	1 Golgra, Brawler's Peak
 	2 Sprong
 	2 Expedition Banner
 	1 Renoir, the Unpainted
 	2 Esquie, Youth's Bliss
-	2 Aria of the Soul
 	2 Aria of the Soul
 	2 Mask Keeper
 	2 Visages
@@ -781,6 +779,8 @@
 	1 Maelle, sans Alicia
 	2 Renoir's Creation
 	1 Clea, Meddling Shadow
+	2 Endless Tower
+	2 Aria of the Soul
 [uncommon(3)]
 	4 Prosthetic Overcharge
 	4 Flicker
@@ -900,7 +900,6 @@
 	6 Verso's Despair
 	6 Chaos Canvas
 	2 Barrier Breaker
-	2 Endless Tower
 	12 Ancient Sanctuary
 	12 Flying Waters
 	12 Dark Shores
@@ -923,7 +922,6 @@
 	1 Renoir, the Unpainted
 	2 Esquie, Youth's Bliss
 	2 Aria of the Soul
-	2 Aria of the Soul
 	2 Mask Keeper
 	2 Visages
 	2 Pliant Moissoneusse
@@ -936,6 +934,8 @@
 	1 Clea, Meddling Shadow
 	6 Expedition Sixty
 	6 Bruler
+	2 Endless Tower
+	2 Aria of the Soul
 [wildcard(1)]
 	7 Gommage
 	15 Prosthetic Overcharge
@@ -976,7 +976,6 @@
 	15 Verso's Despair
 	15 Chaos Canvas
 	7 Barrier Breaker
-	7 Endless Tower
 	6 Ancient Sanctuary
 	6 Flying Waters
 	6 Dark Shores
@@ -999,7 +998,6 @@
 	4 Renoir, the Unpainted
 	7 Esquie, Youth's Bliss
 	7 Aria of the Soul
-	7 Aria of the Soul
 	7 Mask Keeper
 	7 Visages
 	7 Pliant Moissoneusse
@@ -1012,3 +1010,5 @@
 	4 Clea, Meddling Shadow
 	15 Expedition Sixty
 	15 Bruler
+	7 Endless Tower
+	7 Aria of the Soul

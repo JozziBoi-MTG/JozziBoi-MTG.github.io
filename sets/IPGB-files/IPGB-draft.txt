@@ -1,0 +1,77 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Frieren the Slayer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Creature — Elf Wizard",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Minos Prime",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}{W}{W}",
+			"type": "Legendary Creature — Avatar Noble",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Magical Hats",
+			"rarity": "rare",
+			"mana_cost": "{6}{U}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Blue-Eyes White Dragon",
+			"rarity": "common",
+			"mana_cost": "{5}{W/U}",
+			"type": "Creature — Dragon",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Red-Eyes Black Dragon",
+			"rarity": "common",
+			"mana_cost": "{5}{B/R}",
+			"type": "Creature — Dragon",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/4.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Frieren the Slayer
+	1 Minos Prime
+	2 Magical Hats
+[uncommon(3)]
+[common(6)]
+	8 Blue-Eyes White Dragon
+	8 Red-Eyes Black Dragon
+[common | masterpiece(1)]
+	8 Blue-Eyes White Dragon
+	8 Red-Eyes Black Dragon
+[foil(1)]
+	1 Frieren the Slayer
+	1 Minos Prime
+	2 Magical Hats
+	12 Blue-Eyes White Dragon
+	12 Red-Eyes Black Dragon
+[wildcard(1)]
+	4 Frieren the Slayer
+	4 Minos Prime
+	7 Magical Hats
+	6 Blue-Eyes White Dragon
+	6 Red-Eyes Black Dragon

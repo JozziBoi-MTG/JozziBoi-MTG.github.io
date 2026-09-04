@@ -1,4 +1,342 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+Godless Shrine removed.
+Steam Vents removed.
+Overgrown Tomb removed.
+Breeding Pool removed.
+Watery Grave removed.
+Temple Garden removed.
+Blood Crypt removed.
+Hallowed Fountain removed.
+Stomping Ground removed.
+Sacred Foundry removed.
+
+Hero of the Village
+rules_text: Whenever Hero of the Village enters or a creature dealt damage by Hero of the Village this turn dies, create a 1/1 white Villager creature token. It has “{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.”
+Hero of the Village gets +1/+1 for each Villager you control.
+{4}: Hero of the Village gains menace and can block an additional creature until end of turn. => Whenever Hero of the Village enters or a creature dealt damage by Hero of the Village this turn dies, create a 1/1 white Villager creature token. It has “{T}: Add {C}. Spend this mana only to activate abilities.”
+Hero of the Village gets +1/+1 for each Villager you control.
+{4}: Hero of the Village gains menace and can block an additional creature until end of turn.
+
+Corrupted Cauldron
+
+Esoteric Lotus
+
+Eight F--king Bears
+
+Bequeath to Slag
+
+Bequeath to Ruins
+
+Disdain
+
+Amber Mortis
+
+Coagulate
+
+Adriel, Bloodcrag Tyrant
+
+Bane of the Impossible
+
+Evergreen Evensong
+
+Serotiny
+
+Hinterland Devotee
+
+Stairway to Heaven
+
+False Phoenix
+
+Wraith Appraiser
+
+Isa, the Founder
+
+Mevia, Essence of Conflict
+
+Miloni, Esfonmeri's Matron
+
+Skeptical Suppliant
+
+Ego Death
+
+Ætherflight Mage
+
+Cyril, Soul Chauffeur
+cost: {1}{B}{B}{G}{G} => {3}{B}{G}
+rules_text: [i]Delirium[/i] — At the beginning of your upkeep, reveal the top four cards of your library. If there are four or more card types among cards in your graveyard, put up to one land card revealed this way onto the battlefield. Then put the rest into your graveyard.
+{2}, {T}: You may cast target creature card from your graveyard until end of turn. => [i]Delirium[/i] — At the beginning of your upkeep, reveal the top four cards of your library. If there are four or more card types among cards in your graveyard, put up to one land card revealed this way onto the battlefield. Then put the rest into your graveyard.
+{2}: You may cast target creature card in your graveyard this turn.
+
+Call to Alms
+
+The Eversource
+
+Told Tales
+
+Lefre, Forge Bulwark
+
+Penitentiary Cell
+rules_text: Defender
+When Penitentiary Cell dies, create a 1/1 white Villager creature token. It has “{T}: Add {1}. Only spend this mana to activate abilities of permanents you control.” => Defender
+When Penitentiary Cell dies, create a 1/1 white Villager creature token. It has “{T}: Add {C}. Spend this mana only to activate abilities.”
+
+Redstone Monstrosity
+
+Psychophage
+
+Thaumaturge Eclectic
+
+Bitter Struggle
+
+Destitution
+
+Adriel's Omen
+
+Peat Nekojins
+
+Esfonmeri Tenant
+
+Æther Sap
+
+Impaler Titan
+
+False Leviathan
+
+Ash Keeper
+
+Grovebound Envoy
+
+Culona, the Ætherken
+
+Enthroned Soulcarver
+
+Xathregos, Forgotten
+
+Rosewitch
+
+Wastebearer
+
+Scar-Evoked
+
+Ætherweft Wandering
+
+Razed Reflection
+
+Bereft Gouger
+
+Guardian Shadow
+
+Timeless Dream
+
+Stoneshapen Wyrm
+
+Feywhisper Guide
+
+Nidoform
+
+Lakeside Nekojin
+
+Harpy Aspirant
+
+Smithy Nekojin
+
+Ecotone
+
+Runic Rearguard
+
+Corpserot Drake
+
+Foray Frontliner
+
+Flammeum Mortia
+
+Condemmed Routmaker
+
+Temple Arbiter
+
+Xathregos's Ichor
+
+Acolyte's Page
+
+Icon of Hope
+
+Assimilated Royal
+
+Assigned Martyr
+
+Lifeblade
+
+Slag Spewer
+
+Deiscape
+
+Reclaimant Nekojin
+
+Murdered Crow
+
+Patrician Nekojin
+
+Window of the Soul
+
+Thrall Liege
+
+Actuality
+
+Zephyrrhicism
+
+Dzoavits
+
+Kanatowa, Ascendant
+
+Deadeye Oni
+
+Grovebound Consul
+
+Razed Defiance
+
+Shelter from the Rain
+
+Band of Misfits
+
+Endspark
+
+Leach Titan
+
+Wyrmbann
+
+Fish Upon a Star
+
+False Spider
+
+Chromas Criomag
+
+Chromas Ultimatum
+
+Chromas Geata
+
+Psyche Æthercruth
+
+Sanguinary Stature
+
+Assimilated Shepherd
+
+Bole Wrecker
+
+Hydra Transgression
+
+Flesh Mantis
+
+Grodadh, Rot's End
+
+Ætherbloat Guardian
+
+Territorial Atrocities
+
+Cavalry Conscript
+
+Ruinic Cerberus
+
+Duslach, Rot's Origin
+
+Sky's Scream
+
+Moss's Tears
+
+Portentious Lense
+
+Wayside Feast
+
+Grey Castaway
+
+Enervating Crowkeep
+
+Retired Journeyman
+
+Kusi, Leyline Cartographer
+
+Irastus
+
+Uma
+
+Chromas Seeker
+
+Okina Matara, Chromas
+
+Divine Currents
+
+Uncanny Artistry
+
+Lochstealer
+
+Hoarfrost Lynx
+
+Thanatic Bull
+
+Canyon Vivifer
+
+Amalgamaw
+
+Sanguine Script
+
+False Cherub
+
+Shillehrig
+
+Bangle Finch
+
+Ravager Raven
+
+Festerspot Toad
+
+False Serpent
+
+Bhainn Wardens
+
+Finding Familiar
+
+Caustic Hydra
+
+Mindwrack Conceit
+
+Hollowed Dryss
+
+Kingly Poltergeist
+
+Hello to a World
+
+Demonic Divination
+rules_text: Each player mills five cards. Then, each player returns a card from their graveyard to their hand. => Each player reveals the top five cards of their library, puts a card they revealed this way into their hand, then puts the rest into their graveyard.
+
+Rot Wench
+
+Necromaniac
+
+Estuic Blast
+
+Stained Ascension
+
+Periosteulent Wyrm
+
+Edge of Fantasy
+
+Dustborn Dragon
+
+Cthonic Freeze
+
+Under a Dark Flare
+rules_text: At the beginning of your upkeep, exile target card from a graveyard. You may cast that card as long as it remains exiled and spend mana as though it were mana of any color to cast that spell.
+Whenever you cast a permanent spell from exile, it enters with an additional finality counter on it.
+Whenever you cast a nonpermanent spell from exile, exile it as it resolves. => At the beginning of your upkeep, exile target nonland card from a graveyard. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+Whenever you cast a permanent spell from exile, it enters with an additional finality counter on it.
+Whenever you cast a nonpermanent spell from exile, exile it as it resolves.
+
+Venation Mystic
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Edge of Fantasy added.

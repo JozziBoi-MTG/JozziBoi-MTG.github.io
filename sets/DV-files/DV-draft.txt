@@ -481,23 +481,13 @@
 			}
 		},
 		{
-			"name": "Megalomania",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Enchantment",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/48.jpg"
-			}
-		},
-		{
 			"name": "Lucy, Visitant Anomaly",
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/49.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/48.jpg"
 			}
 		},
 		{
@@ -507,7 +497,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/50.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/49.jpg"
 			}
 		},
 		{
@@ -517,7 +507,7 @@
 			"type": "Legendary Creature — Human Samurai",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/51.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/50.jpg"
 			}
 		},
 		{
@@ -527,7 +517,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/52.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/51.jpg"
 			}
 		},
 		{
@@ -537,7 +527,7 @@
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/53.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/52.jpg"
 			}
 		},
 		{
@@ -547,7 +537,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/54.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/53.jpg"
 			}
 		},
 		{
@@ -557,7 +547,7 @@
 			"type": "Legendary Creature — Human Barbarian",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/55.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/54.jpg"
 			}
 		},
 		{
@@ -567,7 +557,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/55.jpg"
 			}
 		},
 		{
@@ -577,7 +567,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/57.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg"
 			}
 		},
 		{
@@ -587,7 +577,7 @@
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/58.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/57.jpg"
 			}
 		},
 		{
@@ -597,7 +587,7 @@
 			"type": "Legendary Creature — Human Ninja",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/59.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/58.jpg"
 			}
 		},
 		{
@@ -607,7 +597,7 @@
 			"type": "Legendary Creature — Human Monk",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/60.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/59.jpg"
 			}
 		},
 		{
@@ -617,7 +607,7 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/61.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/60.jpg"
 			}
 		},
 		{
@@ -627,17 +617,17 @@
 			"type": "Legendary Creature — Human",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/62.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/61.jpg"
 			}
 		},
 		{
 			"name": "Roger, Tailored Trinket",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Artifact Creature — Spirit Construct",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/63.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/62.jpg"
 			}
 		},
 		{
@@ -647,7 +637,7 @@
 			"type": "Instant",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/64.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/63.jpg"
 			}
 		},
 		{
@@ -657,7 +647,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/65.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/64.jpg"
 			}
 		},
 		{
@@ -667,7 +657,7 @@
 			"type": "Enchantment",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/66.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/65.jpg"
 			}
 		},
 		{
@@ -677,7 +667,7 @@
 			"type": "Legendary Creature — Human Assassin",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/67.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/66.jpg"
 			}
 		},
 		{
@@ -687,7 +677,7 @@
 			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/68.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/67.jpg"
 			}
 		},
 		{
@@ -696,6 +686,16 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Pirate",
 			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Megalomania",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DV-files/img/69.jpg"
 			}
@@ -747,7 +747,6 @@
 	4 Justice, Balance of Juno
 	4 Slayer, Master of Dandyism
 	4 I-No, Annihilation Pariah
-	4 Megalomania
 	4 Giovanna, Lazing Facade
 	4 Zappa, Maligned Medium
 	4 Brynhildr
@@ -758,6 +757,7 @@
 	4 Bridget, Bubbly Bounty Hunter
 	4 Kickstart My Heart
 	4 Delilah, Revenant's Delight
+	4 Megalomania
 [common(6)]
 	8 Hairdash
 	8 Faultless Defense
@@ -841,7 +841,6 @@
 	6 Justice, Balance of Juno
 	6 Slayer, Master of Dandyism
 	6 I-No, Annihilation Pariah
-	6 Megalomania
 	2 Lucy, Visitant Anomaly
 	12 Monowire
 	2 Baiken, Vengeful Survivor
@@ -863,6 +862,7 @@
 	2 Venom, Genteel Hustler
 	12 QV
 	2 Johnny, Bravado Wielder
+	6 Megalomania
 [wildcard(1)]
 	6 Hairdash
 	6 Faultless Defense
@@ -912,7 +912,6 @@
 	15 Justice, Balance of Juno
 	15 Slayer, Master of Dandyism
 	15 I-No, Annihilation Pariah
-	15 Megalomania
 	7 Lucy, Visitant Anomaly
 	6 Monowire
 	7 Baiken, Vengeful Survivor
@@ -934,3 +933,4 @@
 	7 Venom, Genteel Hustler
 	6 QV
 	7 Johnny, Bravado Wielder
+	15 Megalomania

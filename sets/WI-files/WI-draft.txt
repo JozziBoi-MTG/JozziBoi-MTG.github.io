@@ -542,8 +542,8 @@
 		},
 		{
 			"name": "Godseeker",
-			"rarity": "common",
-			"mana_cost": "{3}",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "66",
 			"image_uris": {
@@ -825,6 +825,7 @@
 	4 Nosk
 	4 Nailmaster Disciples
 	4 Paintmaster Disciple
+	4 Godseeker
 	4 Uumuu
 	4 Watcher Knight
 	4 Needolin Song
@@ -855,7 +856,6 @@
 	8 Cogwork Dancers
 	8 Savage Beastfly
 	8 Enter Hallownest
-	8 Godseeker
 	8 Sanctum's Vice
 	8 Oblobble
 	8 Dung Defender
@@ -883,7 +883,6 @@
 	8 Cogwork Dancers
 	8 Savage Beastfly
 	8 Enter Hallownest
-	8 Godseeker
 	8 Sanctum's Vice
 	8 Oblobble
 	8 Dung Defender
@@ -946,7 +945,7 @@
 	6 Nosk
 	6 Nailmaster Disciples
 	6 Paintmaster Disciple
-	12 Godseeker
+	6 Godseeker
 	2 Soul Master
 	12 Sanctum's Vice
 	6 Uumuu
@@ -1025,7 +1024,7 @@
 	15 Nosk
 	15 Nailmaster Disciples
 	15 Paintmaster Disciple
-	6 Godseeker
+	15 Godseeker
 	7 Soul Master
 	6 Sanctum's Vice
 	15 Uumuu

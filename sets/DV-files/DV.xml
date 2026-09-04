@@ -3,9 +3,9 @@
 	<sets>
 		<set>
 			<name>DV</name>
-			<longname></longname>
+			<longname>Daisuke&apos;s Vision</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-21</releasedate>
+			<releasedate>2026-09-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -206,7 +206,7 @@ Enchanted creature gets +2+0.</text>
 			<name>Sixth Forbidden Spell</name>
 			<text>Enchant creature
 Enchanted creature has double strike.
-Totem armor (If enchanted enchantment would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/11.jpg" num="9">DV</set>
 			<prop>
 				<layout>normal</layout>
@@ -779,8 +779,8 @@ When Elphelt Valentine leaves the battlefield, each opponent loses 2 life for ea
 		<card>
 			<name>Ramlethal Valentine</name>
 			<text>Flying
-Landfall—Whenever a land enters under your control, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
-Sacrifice an artifact: Target creature gets +2/+2 and gains trample until end of turn.</text>
+Landfall — Whenever a land enters under your control, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Sacrifice an artifact: Target creature gets +2/+2 and gains until end of turn.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/43.jpg" num="56">DV</set>
 			<prop>
 				<layout>normal</layout>
@@ -873,28 +873,12 @@ Whenever I-No deals combat damage to a player, you may discard a card. If you do
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Megalomania</name>
-			<text>At the beginning of your upkeep, you may discard a card. If you do, Megalomania deals 3 damage to target opponent. Then draw a card.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/48.jpg" num="27">DV</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1RR</manacost>
-				<cmc>3</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Lucy, Visitant Anomaly</name>
 			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
 Whenever another creature dies, if that creature had a counter on it, surveil 2.
 {4}, Remove a -1/-1 counter from any number of creatures you don&apos;t control: Draw a card for each counter removed this way.
 {T}: Lucy, Visitant Anomaly deals 1 damage to target creature.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/49.jpg" num="1">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/48.jpg" num="1">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -910,7 +894,7 @@ Whenever another creature dies, if that creature had a counter on it, surveil 2.
 			<name>Monowire</name>
 			<text>Whenever equipped creature deals damage to a creature, put a -1/-1 counter on that creature. Monowire deals 1 damage to that creature&apos;s controller.
 Equip {1}</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/50.jpg" num="68">DV</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/49.jpg" num="68">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -930,7 +914,7 @@ When Baiken, Vengeful Survivor enters, choose two —
 • Exile target enchantment.
 • Baiken deals 3 damage to any target.
 • Gain 5 life.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/51.jpg" num="41">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/50.jpg" num="41">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -950,7 +934,7 @@ When Baiken, Vengeful Survivor enters, choose two —
 • Creatures you control get +1/+1 until end of turn.
 • Creatures you control gain menace until end of turn.
 • Draw a card.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/52.jpg" num="35">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/51.jpg" num="35">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -968,7 +952,7 @@ When Baiken, Vengeful Survivor enters, choose two —
 			<name>Zappa, Maligned Medium</name>
 			<text>At the beginning of your upkeep, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 At the beginning of each combat, each noncreature artifact you control becomes a 2/2 Spirit creature in addition to its other types until end of combat.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/53.jpg" num="2">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/52.jpg" num="2">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -984,7 +968,7 @@ At the beginning of each combat, each noncreature artifact you control becomes a
 			<name>S-Ko&apos;s Affection</name>
 			<text>Enchant creature
 Enchanted creature has &quot;Whenever this creature attacks, target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. This creature gets +X/+0 until end of turn, where X is the number cards put into a graveyard this way.&quot;</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/54.jpg" num="20">DV</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/53.jpg" num="20">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1002,7 +986,7 @@ Enchanted creature has &quot;Whenever this creature attacks, target player revea
 			<text>Defender
 Effects that alter Leo Whitefang&apos;s power alter its toughness instead, and vice versa.
 Whenever Leo Whitefang assigns lethal combat damage to each creature it is blocking, it may assign up to 3 excess damage to target attacking player.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/55.jpg" num="60">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/54.jpg" num="60">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1021,7 +1005,7 @@ Whenever Leo Whitefang assigns lethal combat damage to each creature it is block
 			<text>Enchant creature
 Enchanted creature loses defender and can&apos;t gain defender.
 Enchanted creature has trample and &quot;Effects that alter this creature&apos;s power alter its toughness instead, and vice versa.&quot;</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg" num="33">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/55.jpg" num="33">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1038,7 +1022,7 @@ Enchanted creature has trample and &quot;Effects that alter this creature&apos;s
 			<name>Anji Mito</name>
 			<text>Hexproof
 Whenever Anji Mito deals combat damage to an opponent, draw a card.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/57.jpg" num="10">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg" num="10">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1056,7 +1040,7 @@ Whenever Anji Mito deals combat damage to an opponent, draw a card.</text>
 			<name>Suigetsu no Hakobi</name>
 			<text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
 Counter target spell that targets a permanent you control. If Suigetsu no Hakobi was kicked, draw cards equal to that spell&apos;s mana value.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/58.jpg" num="17">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/57.jpg" num="17">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1075,7 +1059,7 @@ Counter target spell that targets a permanent you control. If Suigetsu no Hakobi
 Ninjutsu {UR}
 When Chipp Zanuff enters, creatures you control get +1/+0 until end of turn.
 Discard a card: Return Chipp Zanuff to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/59.jpg" num="43">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/58.jpg" num="43">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1094,7 +1078,7 @@ Discard a card: Return Chipp Zanuff to its owner&apos;s hand.</text>
 			<text>This spell can&apos;t be countered.
 Haste, prowess
 When Jam Kuradoberi enters, you may exile any number of instant, sorcery, and enchantment cards from your graveyard. Jam Kuradoberi enters with an additional +1/+1 counter on it for each card exiled this way.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/60.jpg" num="51">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/59.jpg" num="51">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1116,7 +1100,7 @@ When Jam Kuradoberi enters, you may exile any number of instant, sorcery, and en
 • Target creature gains menace until end of turn.
 Flashback {R}{G}
 When WOTCHAAA! is put into exile from anywhere, cast a copy of it without paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/61.jpg" num="62">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/60.jpg" num="62">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1133,7 +1117,7 @@ When WOTCHAAA! is put into exile from anywhere, cast a copy of it without paying
 			<name>Bridget, Bubbly Bounty Hunter</name>
 			<text>Whenever Bridget, Bubbly Bounty Hunter attacks or blocks, create an Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot;
 Partner (You can have two commanders if both have partner.)</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/62.jpg" num="3">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/61.jpg" num="3">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1149,18 +1133,17 @@ Partner (You can have two commanders if both have partner.)</text>
 		</card>
 		<card>
 			<name>Roger, Tailored Trinket</name>
-			<text>Equipped creatures you control have haste.
-Phyrexian Germs you control get +0/+1.
+			<text>Equipped creatures you control get +1/+1 and have haste.
 Equipments you control have living weapon. (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)
 Partner</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/63.jpg" num="28">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/62.jpg" num="28">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Artifact Creature — Spirit Construct</type>
 				<maintype>Creature</maintype>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>2/2</pt>
@@ -1170,7 +1153,7 @@ Partner</text>
 		<card>
 			<name>Kickstart My Heart</name>
 			<text>Target creature gains haste until end of turn. Create an Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot; You may attach it to the target creature.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/64.jpg" num="26">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/63.jpg" num="26">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1188,7 +1171,7 @@ Partner</text>
 			<text>Soulbond
 As long as Delilah, Revenant&apos;s Delight is paired with another creature, Delilah has shroud.
 {T}: Untap target creature Delilah, Revenant&apos;s Delight is paired with. That creature gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/65.jpg" num="59">DV</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/64.jpg" num="59">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1207,7 +1190,7 @@ As long as Delilah, Revenant&apos;s Delight is paired with another creature, Del
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Whenever a nontoken creature you control dies, create a token that&apos;s a copy of it except it&apos;s a 1/1 blue Illusion.
 {T}, Exile target creature card from a graveyard: Create a token that&apos;s a copy of the exiled card except it&apos;s a 1/1 blue Illusion.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/66.jpg" num="42">DV</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/65.jpg" num="42">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1225,7 +1208,7 @@ Whenever a nontoken creature you control dies, create a token that&apos;s a copy
 			<text>Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
 When Venom enters, create an Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}&quot; for each time it was kicked.
 Metalcraft — As long as you control three or more artifacts, Venom, Genteel Hustler can&apos;t be blocked.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/67.jpg" num="57">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/66.jpg" num="57">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1244,7 +1227,7 @@ Metalcraft — As long as you control three or more artifacts, Venom, Genteel Hu
 			<text>Create an Equipment artifact token with &quot;Equipped creature gets +1/+0.&quot; and &quot;Equip {0}.&quot;
 When QV is put into exile from anywhere, draw a card.
 Flashback {1}{WU}</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/68.jpg" num="61">DV</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/67.jpg" num="61">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1261,7 +1244,7 @@ Flashback {1}{WU}</text>
 			<name>Johnny, Bravado Wielder</name>
 			<text>First strike
 Whenever Johnny, Bravado Wielder attacks alone, it gets +2/+1 for each creature you control.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/69.jpg" num="6">DV</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/68.jpg" num="6">DV</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1274,6 +1257,22 @@ Whenever Johnny, Bravado Wielder attacks alone, it gets +2/+1 for each creature 
 				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Megalomania</name>
+			<text>At the beginning of your upkeep, you may discard a card. If you do, Megalomania deals 3 damage to target opponent. Then draw a card.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/69.jpg" num="27">DV</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

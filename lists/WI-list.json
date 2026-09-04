@@ -597,6 +597,14 @@
         "position": "63"
     },
     {
+        "card_name": "Godseeker",
+        "number": 66,
+        "shape": "normal",
+        "set": "WI",
+        "rotated": false,
+        "position": "54"
+    },
+    {
         "card_name": "Magnetite Dice",
         "number": 67,
         "shape": "normal",
@@ -675,14 +683,6 @@
         "set": "WI",
         "rotated": false,
         "position": "36"
-    },
-    {
-        "card_name": "Godseeker",
-        "number": 66,
-        "shape": "normal",
-        "set": "WI",
-        "rotated": false,
-        "position": "54"
     },
     {
         "card_name": "Rosary Cannon",

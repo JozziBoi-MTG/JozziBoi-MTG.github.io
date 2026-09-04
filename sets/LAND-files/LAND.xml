@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LAND</name>
+			<longname>Landscape</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-04</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/0.jpg" num="3">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/1.jpg" num="4">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/2.jpg" num="5">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/3.jpg" num="6">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/4.jpg" num="11">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/5.jpg" num="12">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/6.jpg" num="13">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/7.jpg" num="17">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/8.jpg" num="18">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/9.jpg" num="19">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/10.jpg" num="20">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/11.jpg" num="24">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/12.jpg" num="25">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/13.jpg" num="26">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/14.jpg" num="33">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/15.jpg" num="37">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/16.jpg" num="34">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wastes</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/17.jpg" num="41">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wastes</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/18.jpg" num="40">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blood Crypt</name>
+			<text>As Blood Crypt enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/19.jpg" num="1">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Breeding Pool</name>
+			<text>As Breeding Pool enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/20.jpg" num="2">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Godless Shrine</name>
+			<text>As Godless Shrine enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/21.jpg" num="9">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hallowed Fountain</name>
+			<text>As Hallowed Fountain enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/22.jpg" num="10">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Overgrown Tomb</name>
+			<text>As Overgrown Tomb enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/23.jpg" num="23">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sacred Foundry</name>
+			<text>As Sacred Foundry enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/24.jpg" num="30">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Steam Vents</name>
+			<text>As Steam Vents enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/25.jpg" num="31">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Stomping Ground</name>
+			<text>As Stomping Ground enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/26.jpg" num="32">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple Garden</name>
+			<text>As Temple Garden enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/27.jpg" num="39">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Watery Grave</name>
+			<text>As Watery Grave enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/28.jpg" num="43">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/29.jpg" num="27">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/30.jpg" num="14">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/31.jpg" num="35">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/32.jpg" num="15">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/33.jpg" num="36">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/34.jpg" num="21">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/35.jpg" num="28">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/36.jpg" num="7">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/37.jpg" num="16">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/38.jpg" num="8">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/39.jpg" num="29">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wastes</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/40.jpg" num="42">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/41.jpg" num="38">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/LAND-files/img/42.jpg" num="22">LAND</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -1,4 +1,75 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Sixth Forbidden Spell
+rules_text: Enchant creature
+Enchanted creature has double strike.
+Totem armor [i](If enchanted enchantment would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Enchanted creature has double strike.
+Totem armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i]
+
+Ramlethal Valentine
+rules_text: Flying
+[i]Landfall[/i]—Whenever a land enters under your control, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice an artifact: Target creature gets +2/+2 and gains trample until end of turn. => Flying
+[i]Landfall[/i] — Whenever a land enters under your control, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice an artifact: Target creature gets +2/+2 and gains until end of turn.
+
+Lucy, Visitant Anomaly
+
+Monowire
+
+Baiken, Vengeful Survivor
+
+Giovanna, Lazing Facade
+
+Zappa, Maligned Medium
+
+S-Ko's Affection
+
+Leo Whitefang
+
+Brynhildr
+
+Anji Mito
+
+Suigetsu no Hakobi
+
+Chipp Zanuff
+
+Jam Kuradoberi
+
+WOTCHAAA!
+
+Bridget, Bubbly Bounty Hunter
+
+Roger, Tailored Trinket
+cost: {2}{R}{R} => {3}{R}{R}
+rules_text: Equipped creatures you control have haste.
+Phyrexian Germs you control get +0/+1.
+Equipments you control have living weapon. [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Partner => Equipped creatures you control get +1/+1 and have haste.
+Equipments you control have living weapon. [i](When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)[/i]
+Partner
+
+Kickstart My Heart
+
+Delilah, Revenant's Delight
+
+Bedman's Absolute World
+
+Venom, Genteel Hustler
+
+QV
+
+Johnny, Bravado Wielder
+
+Megalomania
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "60"
+        "position": "59"
     },
     {
         "card_name": "Ballet Tempter",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "67"
+        "position": "65"
     },
     {
         "card_name": "Mask of Visages",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "56"
+        "position": "55"
     },
     {
         "card_name": "Bruler",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "74"
+        "position": "72"
     },
     {
         "card_name": "Endless Tower",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "39"
+        "position": "73"
     },
     {
         "card_name": "Gommage",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "54"
+        "position": "53"
     },
     {
         "card_name": "Paradigm Killer",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "65"
+        "position": "63"
     },
     {
         "card_name": "Grayscale",
@@ -101,7 +101,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "70"
+        "position": "68"
     },
     {
         "card_name": "Aqueous Luster",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "73"
+        "position": "71"
     },
     {
         "card_name": "e"
@@ -169,7 +169,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "57"
+        "position": "56"
     },
     {
         "card_name": "e"
@@ -218,7 +218,7 @@
         "shape": "planeswalker",
         "set": "DPG",
         "rotated": false,
-        "position": "68"
+        "position": "66"
     },
     {
         "card_name": "e"
@@ -229,7 +229,7 @@
         "shape": "planeswalker",
         "set": "DPG",
         "rotated": false,
-        "position": "59"
+        "position": "58"
     },
     {
         "card_name": "Golgra, Brawler's Peak",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "51"
+        "position": "50"
     },
     {
         "card_name": "Visages",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "64"
+        "position": "62"
     },
     {
         "card_name": "Gustave, Hope's Inventor",
@@ -264,7 +264,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "69"
+        "position": "67"
     },
     {
         "card_name": "Gestral Merchant",
@@ -292,7 +292,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "53"
+        "position": "52"
     },
     {
         "card_name": "e"
@@ -346,7 +346,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "66"
+        "position": "64"
     },
     {
         "card_name": "Clea, Meddling Shadow",
@@ -354,7 +354,7 @@
         "shape": "planeswalker",
         "set": "DPG",
         "rotated": false,
-        "position": "72"
+        "position": "70"
     },
     {
         "card_name": "e"
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "63"
+        "position": "61"
     },
     {
         "card_name": "e"
@@ -435,7 +435,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "62"
+        "position": "74"
     },
     {
         "card_name": "e"
@@ -579,7 +579,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "58"
+        "position": "57"
     },
     {
         "card_name": "Lumina Converter",
@@ -595,7 +595,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "52"
+        "position": "51"
     },
     {
         "card_name": "Hidden Gestral Village",
@@ -619,7 +619,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "71"
+        "position": "69"
     },
     {
         "card_name": "Uncanny Mime",
@@ -635,7 +635,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "55"
+        "position": "54"
     },
     {
         "card_name": "Expedition Journal",
@@ -675,7 +675,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "50"
+        "position": "49"
     },
     {
         "card_name": "e"
@@ -701,7 +701,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "41"
+        "position": "40"
     },
     {
         "card_name": "Dark Shores",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "42"
+        "position": "41"
     },
     {
         "card_name": "Forgotten Battlefield",
@@ -717,7 +717,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "44"
+        "position": "43"
     },
     {
         "card_name": "Ancient Sanctuary",
@@ -725,7 +725,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "40"
+        "position": "39"
     },
     {
         "card_name": "Monoco's Station",
@@ -733,7 +733,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "49"
+        "position": "48"
     },
     {
         "card_name": "er"
@@ -756,7 +756,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "48"
+        "position": "47"
     },
     {
         "card_name": "Frozen Hearts",
@@ -764,7 +764,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "46"
+        "position": "45"
     },
     {
         "card_name": "Endless Night Sanctuary",
@@ -772,7 +772,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "47"
+        "position": "46"
     },
     {
         "card_name": "Sirene's Dress",
@@ -780,7 +780,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "45"
+        "position": "44"
     },
     {
         "card_name": "Indigo Tree",
@@ -788,7 +788,7 @@
         "shape": "normal",
         "set": "DPG",
         "rotated": false,
-        "position": "43"
+        "position": "42"
     },
     {
         "card_name": "er"

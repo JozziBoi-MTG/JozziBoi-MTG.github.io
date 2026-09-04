@@ -145,109 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "177",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/14.jpg"
-			}
-		},
-		{
-			"name": "Godless Shrine",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "170",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/15.jpg"
-			}
-		},
-		{
-			"name": "Steam Vents",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Island Mountain",
-			"collector_number": "181",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/16.jpg"
-			}
-		},
-		{
-			"name": "Overgrown Tomb",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Swamp Forest",
-			"collector_number": "176",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/17.jpg"
-			}
-		},
-		{
-			"name": "Breeding Pool",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Forest Island",
-			"collector_number": "165",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/18.jpg"
-			}
-		},
-		{
-			"name": "Watery Grave",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Island Swamp",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/19.jpg"
-			}
-		},
-		{
-			"name": "Temple Garden",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Forest Plains",
-			"collector_number": "185",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/20.jpg"
-			}
-		},
-		{
-			"name": "Blood Crypt",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Swamp",
-			"collector_number": "164",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/21.jpg"
-			}
-		},
-		{
-			"name": "Hallowed Fountain",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Plains Island",
-			"collector_number": "171",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/22.jpg"
-			}
-		},
-		{
-			"name": "Stomping Ground",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Forest",
-			"collector_number": "182",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/23.jpg"
-			}
-		},
-		{
-			"name": "Sacred Foundry",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Plains",
-			"collector_number": "180",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/24.jpg"
 			}
 		},
 		{
@@ -257,7 +157,7 @@
 			"type": "Legendary Creature — Ooze Construct",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/25.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/15.jpg"
 			}
 		},
 		{
@@ -267,7 +167,7 @@
 			"type": "Artifact",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/26.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/16.jpg"
 			}
 		},
 		{
@@ -277,7 +177,7 @@
 			"type": "Creature — Bear",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/27.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/17.jpg"
 			}
 		},
 		{
@@ -287,7 +187,7 @@
 			"type": "Instant",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/28.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/18.jpg"
 			}
 		},
 		{
@@ -297,7 +197,7 @@
 			"type": "Instant",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/29.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/19.jpg"
 			}
 		},
 		{
@@ -307,7 +207,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/30.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/20.jpg"
 			}
 		},
 		{
@@ -317,7 +217,7 @@
 			"type": "Artifact",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/31.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/21.jpg"
 			}
 		},
 		{
@@ -327,7 +227,7 @@
 			"type": "Instant",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/32.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/22.jpg"
 			}
 		},
 		{
@@ -337,7 +237,7 @@
 			"type": "Legendary Creature — Vampire Noble",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/33.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/23.jpg"
 			}
 		},
 		{
@@ -347,7 +247,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/34.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/24.jpg"
 			}
 		},
 		{
@@ -357,7 +257,7 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/35.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/25.jpg"
 			}
 		},
 		{
@@ -367,7 +267,7 @@
 			"type": "Enchantment",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/36.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/26.jpg"
 			}
 		},
 		{
@@ -377,7 +277,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/37.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/27.jpg"
 			}
 		},
 		{
@@ -387,7 +287,7 @@
 			"type": "Sorcery",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/38.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/28.jpg"
 			}
 		},
 		{
@@ -397,7 +297,7 @@
 			"type": "Creature — Nightmare Harpy",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/39.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/29.jpg"
 			}
 		},
 		{
@@ -407,7 +307,7 @@
 			"type": "Creature — Goblin Spirit",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/40.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/30.jpg"
 			}
 		},
 		{
@@ -417,7 +317,7 @@
 			"type": "Legendary Creature — Cat Cleric",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/41.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/31.jpg"
 			}
 		},
 		{
@@ -427,7 +327,7 @@
 			"type": "Legendary Creature — Nypmh Warrior",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/42.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/32.jpg"
 			}
 		},
 		{
@@ -437,7 +337,7 @@
 			"type": "Legendary Creature — Elf Druid",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/43.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/33.jpg"
 			}
 		},
 		{
@@ -447,7 +347,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/44.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/34.jpg"
 			}
 		},
 		{
@@ -457,7 +357,7 @@
 			"type": "Instant",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/45.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/35.jpg"
 			}
 		},
 		{
@@ -467,17 +367,17 @@
 			"type": "Creature — Wizard",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/46.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/36.jpg"
 			}
 		},
 		{
 			"name": "Cyril, Soul Chauffeur",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{B}{G}{G}",
+			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Nymph Cleric",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/47.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/37.jpg"
 			}
 		},
 		{
@@ -487,7 +387,7 @@
 			"type": "Legendary Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/48.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/38.jpg"
 			}
 		},
 		{
@@ -497,7 +397,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/49.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/39.jpg"
 			}
 		},
 		{
@@ -507,7 +407,7 @@
 			"type": "Sorcery",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/50.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/40.jpg"
 			}
 		},
 		{
@@ -517,7 +417,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/51.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/41.jpg"
 			}
 		},
 		{
@@ -527,7 +427,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/52.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/42.jpg"
 			}
 		},
 		{
@@ -537,7 +437,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/53.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/43.jpg"
 			}
 		},
 		{
@@ -547,7 +447,7 @@
 			"type": "Creature — Skeleton Leviathan",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/54.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/44.jpg"
 			}
 		},
 		{
@@ -557,7 +457,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/55.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/45.jpg"
 			}
 		},
 		{
@@ -567,7 +467,7 @@
 			"type": "Instant",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/56.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/46.jpg"
 			}
 		},
 		{
@@ -577,7 +477,7 @@
 			"type": "Enchantment",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/57.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/47.jpg"
 			}
 		},
 		{
@@ -587,7 +487,7 @@
 			"type": "Sorcery",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/58.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/48.jpg"
 			}
 		},
 		{
@@ -597,7 +497,7 @@
 			"type": "Creature — Cat Ranger",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/59.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/49.jpg"
 			}
 		},
 		{
@@ -607,7 +507,7 @@
 			"type": "Creature — Druid",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/60.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/50.jpg"
 			}
 		},
 		{
@@ -617,7 +517,7 @@
 			"type": "Instant",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/61.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/51.jpg"
 			}
 		},
 		{
@@ -627,7 +527,7 @@
 			"type": "Creature — Giant Berserker",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/62.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/52.jpg"
 			}
 		},
 		{
@@ -637,7 +537,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/63.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/53.jpg"
 			}
 		},
 		{
@@ -647,7 +547,7 @@
 			"type": "Creature — Demon Cleric",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/64.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/54.jpg"
 			}
 		},
 		{
@@ -657,7 +557,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/65.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/55.jpg"
 			}
 		},
 		{
@@ -667,7 +567,7 @@
 			"type": "Legendary Creature — Nymph Wizard",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/66.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/56.jpg"
 			}
 		},
 		{
@@ -677,7 +577,7 @@
 			"type": "Creature — Demon Warrior",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/67.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/57.jpg"
 			}
 		},
 		{
@@ -687,7 +587,7 @@
 			"type": "Legendary Creature — Angel Demon",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/68.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/58.jpg"
 			}
 		},
 		{
@@ -697,7 +597,7 @@
 			"type": "Creature — Plant Wizard",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/69.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/59.jpg"
 			}
 		},
 		{
@@ -707,7 +607,7 @@
 			"type": "Creature — Construct Berserker",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/70.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/60.jpg"
 			}
 		},
 		{
@@ -717,7 +617,7 @@
 			"type": "Creature — Dragon Elemental",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/71.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/61.jpg"
 			}
 		},
 		{
@@ -727,7 +627,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/72.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/62.jpg"
 			}
 		},
 		{
@@ -737,7 +637,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/73.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/63.jpg"
 			}
 		},
 		{
@@ -747,7 +647,7 @@
 			"type": "Creature — Harpy Demon",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/74.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/64.jpg"
 			}
 		},
 		{
@@ -757,7 +657,7 @@
 			"type": "Enchantment Creature — Vampire",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/75.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/65.jpg"
 			}
 		},
 		{
@@ -767,7 +667,7 @@
 			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/76.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/66.jpg"
 			}
 		},
 		{
@@ -777,7 +677,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/77.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/67.jpg"
 			}
 		},
 		{
@@ -787,7 +687,7 @@
 			"type": "Creature — Fox Rogue",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/78.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/68.jpg"
 			}
 		},
 		{
@@ -797,7 +697,7 @@
 			"type": "Creature — Fungus Fish",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/79.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/69.jpg"
 			}
 		},
 		{
@@ -807,7 +707,7 @@
 			"type": "Creature — Cat Wizard",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/80.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/70.jpg"
 			}
 		},
 		{
@@ -817,7 +717,7 @@
 			"type": "Creature — Harpy",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/81.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/71.jpg"
 			}
 		},
 		{
@@ -827,7 +727,7 @@
 			"type": "Creature — Cat Artificer",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/82.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/72.jpg"
 			}
 		},
 		{
@@ -837,7 +737,7 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/83.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/73.jpg"
 			}
 		},
 		{
@@ -847,7 +747,7 @@
 			"type": "Creature — Demon Knight",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/84.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/74.jpg"
 			}
 		},
 		{
@@ -857,7 +757,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/85.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/75.jpg"
 			}
 		},
 		{
@@ -867,7 +767,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/86.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/76.jpg"
 			}
 		},
 		{
@@ -877,7 +777,7 @@
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/87.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/77.jpg"
 			}
 		},
 		{
@@ -887,7 +787,7 @@
 			"type": "Creature — Knight",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/88.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/78.jpg"
 			}
 		},
 		{
@@ -897,7 +797,7 @@
 			"type": "Creature — Knight",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/89.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/79.jpg"
 			}
 		},
 		{
@@ -907,7 +807,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/90.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/80.jpg"
 			}
 		},
 		{
@@ -917,7 +817,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/91.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/81.jpg"
 			}
 		},
 		{
@@ -927,7 +827,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/92.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/82.jpg"
 			}
 		},
 		{
@@ -937,7 +837,7 @@
 			"type": "Creature — Plant Shaman",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/93.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/83.jpg"
 			}
 		},
 		{
@@ -947,7 +847,7 @@
 			"type": "Creature — Knight",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/94.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/84.jpg"
 			}
 		},
 		{
@@ -957,7 +857,7 @@
 			"type": "Creature — Avatar Knight",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/95.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/85.jpg"
 			}
 		},
 		{
@@ -967,7 +867,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/96.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/86.jpg"
 			}
 		},
 		{
@@ -975,9 +875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "166",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/97.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/87.jpg"
 			}
 		},
 		{
@@ -987,7 +887,7 @@
 			"type": "Creature — Cat Cleric",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/98.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/88.jpg"
 			}
 		},
 		{
@@ -997,7 +897,7 @@
 			"type": "Enchantment Creature — Zombie Bird",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/99.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/89.jpg"
 			}
 		},
 		{
@@ -1007,7 +907,7 @@
 			"type": "Creature — Vampire Cat",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/100.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/90.jpg"
 			}
 		},
 		{
@@ -1017,7 +917,7 @@
 			"type": "Instant",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/101.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/91.jpg"
 			}
 		},
 		{
@@ -1027,7 +927,7 @@
 			"type": "Creature — Vampire Wizard",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/102.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/92.jpg"
 			}
 		},
 		{
@@ -1037,7 +937,7 @@
 			"type": "Enchantment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/103.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/93.jpg"
 			}
 		},
 		{
@@ -1047,7 +947,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/104.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/94.jpg"
 			}
 		},
 		{
@@ -1057,7 +957,7 @@
 			"type": "Creature — Demon Giant",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/105.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/95.jpg"
 			}
 		},
 		{
@@ -1067,7 +967,7 @@
 			"type": "Legendary Creature — Dragon Angel",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/106.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/96.jpg"
 			}
 		},
 		{
@@ -1077,7 +977,7 @@
 			"type": "Creature — Demon Samurai",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/107.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/97.jpg"
 			}
 		},
 		{
@@ -1087,7 +987,7 @@
 			"type": "Creature — Dryad Demon",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/108.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/98.jpg"
 			}
 		},
 		{
@@ -1097,7 +997,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/109.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/99.jpg"
 			}
 		},
 		{
@@ -1107,7 +1007,7 @@
 			"type": "Instant",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/110.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/100.jpg"
 			}
 		},
 		{
@@ -1117,7 +1017,7 @@
 			"type": "Creature — Warrior",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/111.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/101.jpg"
 			}
 		},
 		{
@@ -1127,7 +1027,7 @@
 			"type": "Artifact",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/112.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/102.jpg"
 			}
 		},
 		{
@@ -1137,107 +1037,7 @@
 			"type": "Creature — Giant",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/113.jpg"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "174",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/114.jpg"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "183",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/115.jpg"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "168",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/116.jpg"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "178",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/117.jpg"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "173",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/118.jpg"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "169",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/119.jpg"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "175",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/120.jpg"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "172",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/121.jpg"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "179",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/122.jpg"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "184",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/123.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/103.jpg"
 			}
 		},
 		{
@@ -1247,7 +1047,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/124.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/104.jpg"
 			}
 		},
 		{
@@ -1257,7 +1057,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/125.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/105.jpg"
 			}
 		},
 		{
@@ -1267,7 +1067,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/126.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/106.jpg"
 			}
 		},
 		{
@@ -1277,7 +1077,7 @@
 			"type": "Enchantment Creature — Avatar Wizard",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/127.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/107.jpg"
 			}
 		},
 		{
@@ -1287,7 +1087,7 @@
 			"type": "Instant",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/128.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/108.jpg"
 			}
 		},
 		{
@@ -1297,7 +1097,7 @@
 			"type": "Enchantment Artifact",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/129.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/109.jpg"
 			}
 		},
 		{
@@ -1307,7 +1107,7 @@
 			"type": "Creature — Wizard",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/130.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/110.jpg"
 			}
 		},
 		{
@@ -1317,7 +1117,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/131.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/111.jpg"
 			}
 		},
 		{
@@ -1327,7 +1127,7 @@
 			"type": "Creature — Spirit Shaman",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/132.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/112.jpg"
 			}
 		},
 		{
@@ -1337,7 +1137,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/133.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/113.jpg"
 			}
 		},
 		{
@@ -1347,7 +1147,7 @@
 			"type": "Creature — Hydra Horror",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/134.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/114.jpg"
 			}
 		},
 		{
@@ -1357,7 +1157,7 @@
 			"type": "Creature — Insect Demon",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/135.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/115.jpg"
 			}
 		},
 		{
@@ -1367,7 +1167,7 @@
 			"type": "Legendary Creature — Insect Nightmare",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/136.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/116.jpg"
 			}
 		},
 		{
@@ -1377,7 +1177,7 @@
 			"type": "Creature — Leviathan Horror",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/137.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/117.jpg"
 			}
 		},
 		{
@@ -1387,7 +1187,7 @@
 			"type": "Instant",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/138.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/118.jpg"
 			}
 		},
 		{
@@ -1397,7 +1197,7 @@
 			"type": "Creature — Nightmare Knight",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/139.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/119.jpg"
 			}
 		},
 		{
@@ -1407,7 +1207,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/140.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/120.jpg"
 			}
 		},
 		{
@@ -1417,7 +1217,7 @@
 			"type": "Legendary Creature — Pest Horror",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/141.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/121.jpg"
 			}
 		},
 		{
@@ -1427,7 +1227,7 @@
 			"type": "Enchantment",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/142.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/122.jpg"
 			}
 		},
 		{
@@ -1437,7 +1237,7 @@
 			"type": "Enchantment",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/143.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/123.jpg"
 			}
 		},
 		{
@@ -1447,7 +1247,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/144.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/124.jpg"
 			}
 		},
 		{
@@ -1457,7 +1257,7 @@
 			"type": "Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/145.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/125.jpg"
 			}
 		},
 		{
@@ -1467,7 +1267,7 @@
 			"type": "Creature — Vampire",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/146.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/126.jpg"
 			}
 		},
 		{
@@ -1477,7 +1277,7 @@
 			"type": "Creature — Vampire",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/147.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/127.jpg"
 			}
 		},
 		{
@@ -1487,7 +1287,7 @@
 			"type": "Creature — Knight",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/148.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/128.jpg"
 			}
 		},
 		{
@@ -1497,7 +1297,7 @@
 			"type": "Legendary Creature — Elf Druid",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/149.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/129.jpg"
 			}
 		},
 		{
@@ -1507,7 +1307,7 @@
 			"type": "Creature — Knight",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/150.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/130.jpg"
 			}
 		},
 		{
@@ -1517,7 +1317,7 @@
 			"type": "Creature — Horse Human",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/151.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/131.jpg"
 			}
 		},
 		{
@@ -1527,7 +1327,7 @@
 			"type": "Creature — Wizard",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/152.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/132.jpg"
 			}
 		},
 		{
@@ -1537,7 +1337,7 @@
 			"type": "Legendary Enchantment Creature — God",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/153.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/133.jpg"
 			}
 		},
 		{
@@ -1547,7 +1347,7 @@
 			"type": "Enchantment",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/154.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/134.jpg"
 			}
 		},
 		{
@@ -1557,7 +1357,7 @@
 			"type": "Enchantment",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/155.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/135.jpg"
 			}
 		},
 		{
@@ -1567,7 +1367,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/156.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/136.jpg"
 			}
 		},
 		{
@@ -1577,7 +1377,7 @@
 			"type": "Creature — Elemental Cat",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/157.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/137.jpg"
 			}
 		},
 		{
@@ -1587,7 +1387,7 @@
 			"type": "Creature — Ox Shade",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/158.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/138.jpg"
 			}
 		},
 		{
@@ -1597,7 +1397,7 @@
 			"type": "Enchantment Creature — Wolf Spirit",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/159.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/139.jpg"
 			}
 		},
 		{
@@ -1607,7 +1407,7 @@
 			"type": "Enchantment",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/160.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/140.jpg"
 			}
 		},
 		{
@@ -1617,7 +1417,7 @@
 			"type": "Enchantment",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/161.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/141.jpg"
 			}
 		},
 		{
@@ -1627,7 +1427,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/162.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/142.jpg"
 			}
 		},
 		{
@@ -1637,7 +1437,7 @@
 			"type": "Creature — Nymph Wizard",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/163.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/143.jpg"
 			}
 		},
 		{
@@ -1647,7 +1447,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/164.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/144.jpg"
 			}
 		},
 		{
@@ -1657,7 +1457,7 @@
 			"type": "Creature — Bird Demon",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/165.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/145.jpg"
 			}
 		},
 		{
@@ -1667,7 +1467,7 @@
 			"type": "Creature — Frog Horror",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/166.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/146.jpg"
 			}
 		},
 		{
@@ -1677,7 +1477,7 @@
 			"type": "Creature — Salamander",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/167.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/147.jpg"
 			}
 		},
 		{
@@ -1687,7 +1487,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/168.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/148.jpg"
 			}
 		},
 		{
@@ -1697,7 +1497,7 @@
 			"type": "Enchantment Creature — Faerie",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/169.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/149.jpg"
 			}
 		},
 		{
@@ -1707,7 +1507,7 @@
 			"type": "Creature — Hydra",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/170.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/150.jpg"
 			}
 		},
 		{
@@ -1717,7 +1517,7 @@
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/171.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/151.jpg"
 			}
 		},
 		{
@@ -1727,7 +1527,7 @@
 			"type": "Artifact",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/172.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/152.jpg"
 			}
 		},
 		{
@@ -1737,7 +1537,7 @@
 			"type": "Creature — Spirit Knight",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/173.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/153.jpg"
 			}
 		},
 		{
@@ -1747,27 +1547,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/174.jpg"
-			}
-		},
-		{
-			"name": "Wastes",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "187",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/175.jpg"
-			}
-		},
-		{
-			"name": "Wastes",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "186",
-			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/176.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/154.jpg"
 			}
 		},
 		{
@@ -1777,7 +1557,7 @@
 			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/177.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/155.jpg"
 			}
 		},
 		{
@@ -1787,7 +1567,7 @@
 			"type": "Creature — Shaman",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/178.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/156.jpg"
 			}
 		},
 		{
@@ -1797,7 +1577,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/179.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/157.jpg"
 			}
 		},
 		{
@@ -1807,7 +1587,7 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/180.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/158.jpg"
 			}
 		},
 		{
@@ -1817,7 +1597,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/181.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/159.jpg"
 			}
 		},
 		{
@@ -1827,7 +1607,7 @@
 			"type": "Creature — Skeleton Leviathan",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/182.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/160.jpg"
 			}
 		},
 		{
@@ -1835,9 +1615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "167",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/183.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/161.jpg"
 			}
 		},
 		{
@@ -1847,7 +1627,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/184.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/162.jpg"
 			}
 		},
 		{
@@ -1857,7 +1637,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/185.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/163.jpg"
 			}
 		},
 		{
@@ -1867,7 +1647,7 @@
 			"type": "Enchantment",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/186.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/164.jpg"
 			}
 		},
 		{
@@ -1877,7 +1657,7 @@
 			"type": "Enchantment Creature — Nymph Shaman",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/187.jpg"
+				"en": "https://JozziBoi-MTG.github.io/sets/JZBI-files/img/165.jpg"
 			}
 		}
 	]
@@ -1889,16 +1669,6 @@
 	2 Hero of the Village
 	2 Canopy Guerilla
 	2 Pandora
-	2 Godless Shrine
-	2 Steam Vents
-	2 Overgrown Tomb
-	2 Breeding Pool
-	2 Watery Grave
-	2 Temple Garden
-	2 Blood Crypt
-	2 Hallowed Fountain
-	2 Stomping Ground
-	2 Sacred Foundry
 	2 Esoteric Lotus
 	1 Bane of the Impossible
 	1 Mevia, Essence of Conflict
@@ -2152,16 +1922,6 @@
 	6 Hellbound Oracle
 	12 Loveable Upstart
 	2 Pandora
-	2 Godless Shrine
-	2 Steam Vents
-	2 Overgrown Tomb
-	2 Breeding Pool
-	2 Watery Grave
-	2 Temple Garden
-	2 Blood Crypt
-	2 Hallowed Fountain
-	2 Stomping Ground
-	2 Sacred Foundry
 	6 Corrupted Cauldron
 	2 Esoteric Lotus
 	6 Eight F--king Bears
@@ -2329,16 +2089,6 @@
 	15 Hellbound Oracle
 	6 Loveable Upstart
 	7 Pandora
-	7 Godless Shrine
-	7 Steam Vents
-	7 Overgrown Tomb
-	7 Breeding Pool
-	7 Watery Grave
-	7 Temple Garden
-	7 Blood Crypt
-	7 Hallowed Fountain
-	7 Stomping Ground
-	7 Sacred Foundry
 	15 Corrupted Cauldron
 	7 Esoteric Lotus
 	15 Eight F--king Bears
