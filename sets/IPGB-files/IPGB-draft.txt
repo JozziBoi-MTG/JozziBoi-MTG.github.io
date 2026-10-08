@@ -5,7 +5,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Creature — Elf Wizard",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/0.jpg"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{W}{W}{W}",
 			"type": "Legendary Creature — Avatar Noble",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/1.jpg"
 			}
@@ -23,9 +23,9 @@
 		{
 			"name": "Magical Hats",
 			"rarity": "rare",
-			"mana_cost": "{6}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
-			"collector_number": "2",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/2.jpg"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W/U}",
 			"type": "Creature — Dragon",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/3.jpg"
 			}
@@ -45,9 +45,29 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B/R}",
 			"type": "Creature — Dragon",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Cirno, the Strongest",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Faerie",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Marisa Kirisame",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/6.jpg"
 			}
 		}
 	]
@@ -56,6 +76,8 @@
 	1 Frieren the Slayer
 	1 Minos Prime
 	2 Magical Hats
+	2 Cirno, the Strongest
+	1 Marisa Kirisame
 [uncommon(3)]
 [common(6)]
 	8 Blue-Eyes White Dragon
@@ -69,9 +91,13 @@
 	2 Magical Hats
 	12 Blue-Eyes White Dragon
 	12 Red-Eyes Black Dragon
+	2 Cirno, the Strongest
+	1 Marisa Kirisame
 [wildcard(1)]
 	4 Frieren the Slayer
 	4 Minos Prime
 	7 Magical Hats
 	6 Blue-Eyes White Dragon
 	6 Red-Eyes Black Dragon
+	7 Cirno, the Strongest
+	4 Marisa Kirisame

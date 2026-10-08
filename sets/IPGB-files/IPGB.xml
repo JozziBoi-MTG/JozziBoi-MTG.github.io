@@ -5,7 +5,7 @@
 			<name>IPGB</name>
 			<longname>IP Grab Bag</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-04</releasedate>
+			<releasedate>2026-10-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -15,7 +15,7 @@
 At the beginning of your upkeep, draw a card.
 If you would draw a card, you may instead reveal cards from the top of your library until you reveal an instant, sorcery, or enchantment card. Put that card into your hand and the rest on the bottom of your library in a random order.
 Discard a card: Add {U}, {R}, or {W}. Only spend this mana to cast instant, sorcery, or enchantment spells.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/0.jpg" num="3">IPGB</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/0.jpg" num="5">IPGB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -36,7 +36,7 @@ Discard a card: Add {U}, {R}, or {W}. Only spend this mana to cast instant, sorc
 ---
 
 Destroy all creatures. They can&apos;t be regenerated.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/1.jpg" num="1">IPGB</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/1.jpg" num="2">IPGB</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -53,16 +53,16 @@ Destroy all creatures. They can&apos;t be regenerated.</text>
 		<card>
 			<name>Magical Hats</name>
 			<text>Flash
-Exile up to four permanents you control, then manifest those cards. They enter with an additional hat counter. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)
-Remove a hat counter from target face down card: Exile that card face up. Then if its a permanent card, return it to the battlefield under your control. It gains haste until end of turn.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/2.jpg" num="2">IPGB</set>
+Exile up to four target permanents you control, then manifest each card exiled this way. They enter with an additional hat counter on them. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it&apos;s a creature card.)
+Remove a hat counter from target face down card: Turn that card face up. (If a nonpermanent card would be turned face up, reveal it instead. It remains face down)</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/2.jpg" num="4">IPGB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>6U</manacost>
-				<cmc>7</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -71,7 +71,7 @@ Remove a hat counter from target face down card: Exile that card face up. Then i
 		<card>
 			<name>Blue-Eyes White Dragon</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/3.jpg" num="4">IPGB</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/3.jpg" num="6">IPGB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -88,7 +88,7 @@ Remove a hat counter from target face down card: Exile that card face up. Then i
 		<card>
 			<name>Red-Eyes Black Dragon</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/4.jpg" num="5">IPGB</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/4.jpg" num="7">IPGB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -99,6 +99,51 @@ Remove a hat counter from target face down card: Exile that card face up. Then i
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 				<pt>7/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cirno, the Strongest // Perfect Freeze</name>
+			<text>Flying
+Protection from Frogs
+
+---
+
+Affinity for Faeries
+Tap each creature you don&apos;t control.
+Put a stun counter on each creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/5.jpg" num="3">IPGB</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>U // 9</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marisa Kirisame // Master Spark</name>
+			<text>Noncreature artifacts you control have &quot;{T}: Add one mana of any color.&quot;
+
+---
+
+Master Spark deals 10 damage to any target.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/6.jpg" num="1">IPGB</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard // Sorcery — Adventure</type>
+				<maintype>Creature</maintype>
+				<manacost>5W // WUBRG</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Fox",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/7.jpg"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/8.jpg"
 			}
@@ -115,17 +115,17 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Fish",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/11.jpg"
 			}
 		},
 		{
-			"name": "Polar Bear Cub",
+			"name": "Ice Capped Cub",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Bear",
-			"collector_number": "59",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/12.jpg"
 			}
@@ -153,7 +153,7 @@
 		{
 			"name": "Guiding Dolphin",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Whale",
 			"collector_number": "52",
 			"image_uris": {
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Wolf",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/16.jpg"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment Creature — Bird",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/17.jpg"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Llama",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/18.jpg"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Squid",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/19.jpg"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Bat",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/20.jpg"
 			}
@@ -221,11 +221,11 @@
 			}
 		},
 		{
-			"name": "Vengeful Polar Bear",
+			"name": "Polar Protector",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Bear",
-			"collector_number": "73",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/22.jpg"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Ox",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/24.jpg"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Rabbit",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/26.jpg"
 			}
@@ -315,14 +315,14 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Villager",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/31.jpg"
 			}
 		},
 		{
 			"name": "Blacksmith",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Villager",
 			"collector_number": "7",
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/38.jpg"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Villager Zombie",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/40.jpg"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spider",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/42.jpg"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Creature — Skeleton Spider",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/43.jpg"
 			}
@@ -443,9 +443,9 @@
 		{
 			"name": "Enderman",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}{B}",
+			"mana_cost": "{3}{U}{B}",
 			"type": "Creature — Nightmare",
-			"collector_number": "86",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/44.jpg"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Villager Shaman",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/45.jpg"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Nightmare Pest",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/46.jpg"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Nightmare",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/47.jpg"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/48.jpg"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Skeleton",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/49.jpg"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}{R}",
 			"type": "Artifact",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/50.jpg"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Zombie Boar",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/51.jpg"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/52.jpg"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/53.jpg"
 			}
@@ -573,8 +573,8 @@
 		{
 			"name": "Water Trap",
 			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Instant",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
 			"collector_number": "74",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/57.jpg"
@@ -585,7 +585,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/58.jpg"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/59.jpg"
 			}
@@ -603,9 +603,9 @@
 		{
 			"name": "Village Haven",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Artifact",
-			"collector_number": "201",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/60.jpg"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/61.jpg"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/62.jpg"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/63.jpg"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/64.jpg"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{G}{U}{R}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/68.jpg"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}{B}{B}",
 			"type": "Legendary Creature — Horror",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/69.jpg"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/70.jpg"
 			}
@@ -715,7 +715,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/71.jpg"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/72.jpg"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/75.jpg"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/76.jpg"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/77.jpg"
 			}
@@ -785,7 +785,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/78.jpg"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/79.jpg"
 			}
@@ -805,7 +805,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/80.jpg"
 			}
@@ -815,7 +815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/81.jpg"
 			}
@@ -835,7 +835,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Nautilus",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/83.jpg"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/86.jpg"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/87.jpg"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/90.jpg"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{G}{G}",
 			"type": "Creature — Dryad Horror",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/92.jpg"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/93.jpg"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Golem",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/94.jpg"
 			}
@@ -953,7 +953,7 @@
 		{
 			"name": "Baby Zombie",
 			"rarity": "common",
-			"mana_cost": "{B}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "78",
 			"image_uris": {
@@ -975,7 +975,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/97.jpg"
 			}
@@ -983,7 +983,7 @@
 		{
 			"name": "Guardian",
 			"rarity": "common",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Leviathan",
 			"collector_number": "51",
 			"image_uris": {
@@ -1015,7 +1015,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/101.jpg"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/103.jpg"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/105.jpg"
 			}
@@ -1072,7 +1072,7 @@
 		},
 		{
 			"name": "Enchantment Table",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{X}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "16",
@@ -1085,7 +1085,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Giant",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/108.jpg"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/W}{G/W}",
 			"type": "Enchantment",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/109.jpg"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/112.jpg"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/114.jpg"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Artifact",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/116.jpg"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}",
 			"type": "Instant",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/117.jpg"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/118.jpg"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/119.jpg"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/121.jpg"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/122.jpg"
 			}
@@ -1235,7 +1235,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/123.jpg"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/125.jpg"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/126.jpg"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/128.jpg"
 			}
@@ -1295,17 +1295,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Skeleton",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/129.jpg"
 			}
 		},
 		{
 			"name": "Husk",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/130.jpg"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B/P}{B/P}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/131.jpg"
 			}
@@ -1365,7 +1365,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/136.jpg"
 			}
@@ -1395,7 +1395,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Artifact",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/139.jpg"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment Creature — Nightmare",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/140.jpg"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/141.jpg"
 			}
@@ -1423,9 +1423,9 @@
 		{
 			"name": "Coral Reef",
 			"rarity": "common",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "43",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/142.jpg"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Artifact",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/143.jpg"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Barbarian",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/145.jpg"
 			}
@@ -1465,7 +1465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Druid",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/146.jpg"
 			}
@@ -1474,8 +1474,8 @@
 			"name": "Hateful Vex",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Nightmare",
-			"collector_number": "91",
+			"type": "Creature — Faerie",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/147.jpg"
 			}
@@ -1485,7 +1485,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/148.jpg"
 			}
@@ -1512,10 +1512,10 @@
 		},
 		{
 			"name": "Spiteful Pillager",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Ranger",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/151.jpg"
 			}
@@ -1525,7 +1525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Ranger",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/152.jpg"
 			}
@@ -1535,7 +1535,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Wizard",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/153.jpg"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Villager",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/155.jpg"
 			}
@@ -1575,7 +1575,7 @@
 			"rarity": "common",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Instant",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/157.jpg"
 			}
@@ -1585,7 +1585,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/158.jpg"
 			}
@@ -1595,7 +1595,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/159.jpg"
 			}
@@ -1605,7 +1605,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/160.jpg"
 			}
@@ -1625,7 +1625,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Boar",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/162.jpg"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Creature — Boar",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/163.jpg"
 			}
@@ -1645,7 +1645,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Boar",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/164.jpg"
 			}
@@ -1655,7 +1655,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Zombie Boar",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/165.jpg"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Beast",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/166.jpg"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/173.jpg"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/P}{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/176.jpg"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Artifact",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/178.jpg"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment Creature — Squid",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/181.jpg"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Goat",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/182.jpg"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Turtle",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/187.jpg"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}{R}",
 			"type": "Artifact",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/188.jpg"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/189.jpg"
 			}
@@ -1914,8 +1914,8 @@
 			"name": "Allay",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Spirit",
-			"collector_number": "145",
+			"type": "Creature — Faerie",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/191.jpg"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/192.jpg"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/193.jpg"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/194.jpg"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/196.jpg"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Camel",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/197.jpg"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Frog",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/198.jpg"
 			}
@@ -2005,7 +2005,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/200.jpg"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/201.jpg"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/202.jpg"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Instant",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/203.jpg"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Villager",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/206.jpg"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/207.jpg"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/208.jpg"
 			}
@@ -2105,7 +2105,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/210.jpg"
 			}
@@ -2115,7 +2115,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/211.jpg"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/213.jpg"
 			}
@@ -2155,7 +2155,7 @@
 			"rarity": "common",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/215.jpg"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U/P}",
 			"type": "Artifact",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/216.jpg"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R/P}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/217.jpg"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Instant",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/218.jpg"
 			}
@@ -2203,9 +2203,9 @@
 		{
 			"name": "Infinity Snapshot",
 			"rarity": "mythic",
-			"mana_cost": "{5}{R}{R}",
+			"mana_cost": "{4}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/220.jpg"
 			}
@@ -2215,7 +2215,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "167",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/221.jpg"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Skeleton",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/231.jpg"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/232.jpg"
 			}
@@ -2365,7 +2365,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/236.jpg"
 			}
@@ -2375,7 +2375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B/R}",
 			"type": "Instant",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/237.jpg"
 			}
@@ -2385,7 +2385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/238.jpg"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/239.jpg"
 			}
@@ -2415,7 +2415,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/241.jpg"
 			}
@@ -2445,7 +2445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/244.jpg"
 			}
@@ -2455,7 +2455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/245.jpg"
 			}
@@ -2465,7 +2465,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/246.jpg"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}{W/B}{W/B}",
 			"type": "Instant",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/249.jpg"
 			}
@@ -2545,7 +2545,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/254.jpg"
 			}
@@ -2555,7 +2555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/255.jpg"
 			}
@@ -2565,7 +2565,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/256.jpg"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/259.jpg"
 			}
@@ -2625,7 +2625,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/262.jpg"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/263.jpg"
 			}
@@ -2645,7 +2645,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/264.jpg"
 			}
@@ -2655,7 +2655,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{R}{W}",
 			"type": "Creature — Fungus Horror",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/MCTG-files/img/265.jpg"
 			}
@@ -2741,7 +2741,6 @@
 	1 Ender Dragon, Immortal
 	1 Wither, the Corrupter
 	2 Elder Guardian
-	2 Enchantment Table
 	2 Nightfall
 	2 Ravager Jockey
 	2 Illusioner
@@ -2767,9 +2766,10 @@
 	2 Ethereal Blossoms
 [uncommon(3)]
 	4 Guiding Dolphin
-	4 Vengeful Polar Bear
+	4 Polar Protector
 	4 Richly-Fed Cow
 	4 Killer Rabbit
+	4 Blacksmith
 	4 Steve
 	4 Alex
 	4 Creeper
@@ -2788,12 +2788,12 @@
 	4 Command Block
 	4 Ocean Monument
 	4 Unbreaking
+	4 Enchantment Table
 	4 Chicken Bomb
 	4 Jungle Temple
 	4 Soul Torch
 	4 Beacon
 	4 Abandoned Stray
-	4 Husk
 	4 Golden Apple
 	4 Igloo
 	4 Woodland Mansion
@@ -2801,7 +2801,6 @@
 	4 Evoker
 	4 Hateful Vex
 	4 Illager Patrol
-	4 Spiteful Pillager
 	4 Pillager Captain
 	4 Savage Raid
 	4 Honey Hive
@@ -2859,7 +2858,7 @@
 	8 Scavenger Cat
 	8 Stalwart Swine
 	8 School of Fish
-	8 Polar Bear Cub
+	8 Ice Capped Cub
 	8 Cyclical Chicken
 	8 Agitated Rabbit
 	8 Loyal Wolf
@@ -2875,7 +2874,6 @@
 	8 Cartographer
 	8 Adept Butcher
 	8 Passionate Farmer
-	8 Blacksmith
 	8 Librarian
 	8 Summoned Iron Golem
 	8 Compulsory Zombie
@@ -2940,6 +2938,7 @@
 	8 Zombie Siege
 	8 Iron Door
 	8 Cartographer's Map
+	8 Husk
 	8 Recipe Book
 	8 Skillful Shot
 	8 Cave Spider
@@ -2952,6 +2951,7 @@
 	8 Coral Reef
 	8 Vindicator
 	8 Ravager
+	8 Spiteful Pillager
 	8 Ominous Banner
 	8 Wandering Trader
 	8 Fire Charge
@@ -3014,7 +3014,7 @@
 	8 Scavenger Cat
 	8 Stalwart Swine
 	8 School of Fish
-	8 Polar Bear Cub
+	8 Ice Capped Cub
 	8 Cyclical Chicken
 	8 Agitated Rabbit
 	8 Loyal Wolf
@@ -3030,7 +3030,6 @@
 	8 Cartographer
 	8 Adept Butcher
 	8 Passionate Farmer
-	8 Blacksmith
 	8 Librarian
 	8 Summoned Iron Golem
 	8 Compulsory Zombie
@@ -3095,6 +3094,7 @@
 	8 Zombie Siege
 	8 Iron Door
 	8 Cartographer's Map
+	8 Husk
 	8 Recipe Book
 	8 Skillful Shot
 	8 Cave Spider
@@ -3107,6 +3107,7 @@
 	8 Coral Reef
 	8 Vindicator
 	8 Ravager
+	8 Spiteful Pillager
 	8 Ominous Banner
 	8 Wandering Trader
 	8 Fire Charge
@@ -3169,7 +3170,7 @@
 	12 Scavenger Cat
 	12 Stalwart Swine
 	12 School of Fish
-	12 Polar Bear Cub
+	12 Ice Capped Cub
 	12 Cyclical Chicken
 	12 Agitated Rabbit
 	6 Guiding Dolphin
@@ -3179,7 +3180,7 @@
 	12 Murky Squid
 	12 Umbra Bat
 	12 Shrieking Ocelot
-	6 Vengeful Polar Bear
+	6 Polar Protector
 	12 Spurred Horse
 	6 Richly-Fed Cow
 	12 Mooshroom
@@ -3189,7 +3190,7 @@
 	12 Cartographer
 	12 Adept Butcher
 	12 Passionate Farmer
-	12 Blacksmith
+	6 Blacksmith
 	12 Librarian
 	12 Summoned Iron Golem
 	6 Steve
@@ -3264,7 +3265,7 @@
 	12 Protection
 	12 Projectile Protection
 	6 Unbreaking
-	2 Enchantment Table
+	6 Enchantment Table
 	12 Giant's Corpse
 	12 Sleep Off the Night
 	12 Spawnpoint
@@ -3287,7 +3288,7 @@
 	12 Iron Door
 	12 Cartographer's Map
 	6 Abandoned Stray
-	6 Husk
+	12 Husk
 	12 Recipe Book
 	12 Skillful Shot
 	12 Cave Spider
@@ -3308,7 +3309,7 @@
 	12 Ravager
 	6 Illager Patrol
 	2 Ravager Jockey
-	6 Spiteful Pillager
+	12 Spiteful Pillager
 	6 Pillager Captain
 	2 Illusioner
 	12 Ominous Banner
@@ -3436,7 +3437,7 @@
 	6 Scavenger Cat
 	6 Stalwart Swine
 	6 School of Fish
-	6 Polar Bear Cub
+	6 Ice Capped Cub
 	6 Cyclical Chicken
 	6 Agitated Rabbit
 	15 Guiding Dolphin
@@ -3446,7 +3447,7 @@
 	6 Murky Squid
 	6 Umbra Bat
 	6 Shrieking Ocelot
-	15 Vengeful Polar Bear
+	15 Polar Protector
 	6 Spurred Horse
 	15 Richly-Fed Cow
 	6 Mooshroom
@@ -3456,7 +3457,7 @@
 	6 Cartographer
 	6 Adept Butcher
 	6 Passionate Farmer
-	6 Blacksmith
+	15 Blacksmith
 	6 Librarian
 	6 Summoned Iron Golem
 	15 Steve
@@ -3531,7 +3532,7 @@
 	6 Protection
 	6 Projectile Protection
 	15 Unbreaking
-	7 Enchantment Table
+	15 Enchantment Table
 	6 Giant's Corpse
 	6 Sleep Off the Night
 	6 Spawnpoint
@@ -3554,7 +3555,7 @@
 	6 Iron Door
 	6 Cartographer's Map
 	15 Abandoned Stray
-	15 Husk
+	6 Husk
 	6 Recipe Book
 	6 Skillful Shot
 	6 Cave Spider
@@ -3575,7 +3576,7 @@
 	6 Ravager
 	15 Illager Patrol
 	7 Ravager Jockey
-	15 Spiteful Pillager
+	6 Spiteful Pillager
 	15 Pillager Captain
 	7 Illusioner
 	6 Ominous Banner

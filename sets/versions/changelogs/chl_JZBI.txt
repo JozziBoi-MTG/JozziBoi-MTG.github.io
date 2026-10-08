@@ -1,4 +1,113 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Esoteric Obsession added.
+Scaring Crow added.
+Interplanar Inevitability added.
+Sagacious Sentinel added.
+Thikyos Malor added.
+Grovebound Specter added.
+Bloodcrag Enforcer added.
+Contagion Herald added.
+Pyretic Wendigo added.
+Geata Vanquisher added.
+
+
+Stairway to Heaven
+
+Impaler Titan
+rules_text: [i]Metalcraft[/i] — When Impaler Titan enters, if you control three or more artifacts, destroy target creature with flying.
+As long as Impaler Titan is modified, it has reach. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Reach
+[i]Metalcraft[/i] — When Impaler Titan enters, if you control three or more artifacts, destroy target creature with flying.
+
+Bereft Gouger
+rules_text: Flying
+When Bereft Gouger enters, you may sacrifice another permanent. If you do, target player sacrifices a permanent that shares a type with the sacrificed permanent. => Flying
+When Bereft Gouger enters, you may sacrifice another permanent. If you do, each opponent sacrifices a permanent that shares a type with the sacrificed permanent.
+
+Timeless Dream
+rules_text: Each player draws a card.
+Draw a card.
+Flashback {U}{U}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Each player draws a card.
+Draw a card.
+Flashback {1}{U}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Runic Rearguard
+rules_text: Runic Rearguard can block an additional creature.
+Sacrifice another creature: Gain 2 life. Runic Rearguard gets +1/+2 until end of turn. => Runic Rearguard can block an additional creature.
+Sacrifice another creature: Runic Rearguard gets +1/+2 and gains lifelink until end of turn.
+
+Xathregos's Ichor
+rules_text: Enchant creature
+Enchanted creature has flying and is an Angel in addition to its other types.
+Whenever enchanted creature attacks, its controller may exile four target cards from a graveyard. If at least four cards are exiled this way, enchanted creature gets +2/+2 until end of turn. Untap enchanted creature. => Enchant creature
+Enchanted creature gets +2/+1 and has flying and is an Angel in addition to its other types.
+Exile three target cards from a graveyard: Untap enchanted creature. Activate only as a sorcery and only once each turn.
+
+Icon of Hope
+rules_text: Enchant permanent
+Whenever enchanted permanent becomes tapped, gain 2 life.
+Cycling {1}{W} [i]({1}{W}, Discard this card: Draw a card.)[/i]
+When you cycle Icon of Hope, gain 3 life. => Enchant nonland permanent
+Whenever enchanted permanent becomes tapped, you gain 2 life.
+Cycling {1}{W} [i]({1}{W}, Discard this card: Draw a card.)[/i]
+When you cycle Icon of Hope, you gain 3 life.
+
+Kanatowa, Ascendant
+rules_text: Flying, vigilance
+Other creatures with flying you control get +1/+1 and have vigilance.
+Whenever a creature with flying you control attacks or blocks, gain 1 life. => Flying, vigilance
+Other creatures with flying you control get +1/+1 and have vigilance.
+Whenever a creature with flying you control attacks or blocks, you gain 1 life.
+pt: 4/5 => 4/4
+
+Shelter from the Rain
+rules_text: Counter target spell. If a spell is countered this way, exile it instead of putting it into its owner's graveyard. Gain life equal to that spell's mana value. => Counter target spell. If a spell is countered this way, exile it instead of putting it into its owner's graveyard. You gain life equal to that spell's mana value.
+
+Psyche Æthercruth
+cost: {1}{UB}{UB} => {U}{B}
+rules_text: Ninjutsu {U}{B} [i]({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Flying
+Whenever Psyche Æthercruth deals combat damage to a player, that player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard. => Ninjutsu {UB} [i]({UB}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Flying
+Whenever Psyche Æthercruth deals combat damage to a player, that player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard.
+
+Flesh Mantis
+cost: {4}{GP}{B} => {4}{BG}{BG}
+
+Grodadh, Rot's End
+rules_text: Flying
+When Grodadh, Rot's End enters, create a 2/2 green Insect creature token with flying for each land card in your graveyard.
+Whenever an Insect, Pest, or Spider you control deals combat damage to a player, return a card at random from your graveyard to your hand. => Flying
+When Grodadh, Rot's End enters, create a 2/2 green Insect creature token with “This creature has flying as long as its attacking.” for each land card in your graveyard.
+Whenever an Insect, Pest, or Spider you control deals combat damage to a player, return a card at random from your graveyard to your hand.
+
+Enervating Crowkeep
+pt: 3/1 => 2/3
+
+Retired Journeyman
+
+Kusi, Leyline Cartographer
+cost: {1}{U}{U}{U} => {2}{U}{U}
+
+Okina Matara, Chromas
+rules_text: Indestructible
+For each color, as long as your devotion to that color is less than two, Okina Matara, Chromas isn't a creature.
+As long as its a creature, Okina has hexproof.
+{T}, Add {W}{U}{B}{R}{G}. Then, shuffle Okina into your library if it isn't a creature. => Indestructible
+For each color, as long as your devotion to that color is less than two, Okina Matara, Chromas isn't a creature.
+As long as it's a creature, Okina has hexproof.
+{T}, Add {W}{U}{B}{R}{G}. Then, shuffle Okina into your library if it isn't a creature.
+
+Shillehrig
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control, put a +1/+1 counter on Shillehrig.
+When Shillehrig dies, gain 1 life for each counter on it. => [i]Landfall[/i] — Whenever a land enters under your control, put a +1/+1 counter on Shillehrig.
+When Shillehrig dies, you gain 1 life for each counter on it.
+
+Periosteulent Wyrm
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

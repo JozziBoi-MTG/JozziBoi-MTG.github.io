@@ -5,7 +5,7 @@
 			<name>WI</name>
 			<longname>Weaver&apos;s Intrigue</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-04</releasedate>
+			<releasedate>2026-10-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -30,8 +30,7 @@ Sacrifice three artifacts: Search your library for an Equipment card, reveal it,
 		</card>
 		<card>
 			<name>Lost Kin</name>
-			<text>Phyrexian Germs you control get +0/+1.
-The first time you surveil each turn, create a 0/0 black Phyrexian Germ creature token.</text>
+			<text>The first time you surveil each turn, create a 1/1 black Pest creature token.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/1.jpg" num="24">WI</set>
 			<prop>
 				<layout>normal</layout>
@@ -309,7 +308,7 @@ Exile target enchantment creature.</text>
 			<name>Lifeblood</name>
 			<text>Enchant Creature
 Enchanted creature gets +0/+1.
-Totem armor (If enchanted enchantment would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+Totem armor</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/17.jpg" num="57">WI</set>
 			<prop>
 				<layout>normal</layout>
@@ -805,7 +804,7 @@ Constellation — Whenever an enchantment enters under your control, you gain 2 
 		<card>
 			<name>Moss Mother</name>
 			<text>Flying
-Landfall — Whenever a land enters under your control, you may pay {G}{G}. If you do, create a 2/2 green Insect creature token with flying.</text>
+Landfall — Whenever a land enters under your control, you may pay {G}{G}. If you do, create a 2/2 green Insect creature token with &quot;This creature has flying as long as its attacking.&quot;</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/46.jpg" num="39">WI</set>
 			<prop>
 				<layout>normal</layout>
@@ -986,7 +985,7 @@ Constellation — Whenever Soul Master or another enchantment enters under your 
 			<name>Sanctum&apos;s Vice</name>
 			<text>Kicker {B}
 Target player mills three cards. Then if Sanctum&apos;s Vice was kicked, that player discards a card.
-Create a 0/0 black Phyrexian Germ creature token. It enters with an additional +1/+1 counter on it.</text>
+Create a 1/1 black Pest creature token.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/WI-files/img/56.jpg" num="16">WI</set>
 			<prop>
 				<layout>normal</layout>

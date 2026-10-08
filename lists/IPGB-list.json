@@ -1,7 +1,32 @@
 ﻿[
     {
-        "card_name": "Minos Prime",
+        "card_name": "Marisa Kirisame",
         "number": 1,
+        "shape": "adventure",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Cirno, the Strongest",
+        "number": 3,
+        "shape": "adventure",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Minos Prime",
+        "number": 2,
         "shape": "adventure",
         "set": "IPGB",
         "rotated": false,
@@ -9,7 +34,7 @@
     },
     {
         "card_name": "Magical Hats",
-        "number": 2,
+        "number": 4,
         "shape": "normal",
         "set": "IPGB",
         "rotated": false,
@@ -39,7 +64,7 @@
     "a->gold",
     {
         "card_name": "Blue-Eyes White Dragon",
-        "number": 4,
+        "number": 6,
         "shape": "normal",
         "set": "IPGB",
         "rotated": false,
@@ -50,7 +75,7 @@
     },
     {
         "card_name": "Red-Eyes Black Dragon",
-        "number": 5,
+        "number": 7,
         "shape": "normal",
         "set": "IPGB",
         "rotated": false,
@@ -79,7 +104,7 @@
     },
     {
         "card_name": "Frieren the Slayer",
-        "number": 3,
+        "number": 5,
         "shape": "normal",
         "set": "IPGB",
         "rotated": false,

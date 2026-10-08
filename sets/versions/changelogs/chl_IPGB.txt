@@ -1,4 +1,20 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Cirno, the Strongest added.
+Marisa Kirisame added.
+
+
+Magical Hats
+cost: {6}{U} => {3}{U}
+rules_text: Flash
+Exile up to four permanents you control, then manifest those cards. They enter with an additional hat counter. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Remove a hat counter from target face down card: Exile that card face up. Then if its a permanent card, return it to the battlefield under your control. It gains haste until end of turn. => Flash
+Exile up to four target permanents you control, then manifest each card exiled this way. They enter with an additional hat counter on them. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+Remove a hat counter from target face down card: Turn that card face up. [i](If a nonpermanent card would be turned face up, reveal it instead. It remains face down)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -1,4 +1,33 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Lost Kin
+rules_text: Phyrexian Germs you control get +0/+1.
+The first time you surveil each turn, create a 0/0 black Phyrexian Germ creature token. => The first time you surveil each turn, create a 1/1 black Pest creature token.
+
+Lifeblood
+rules_text: Enchant Creature
+Enchanted creature gets +0/+1.
+Totem armor [i](If enchanted enchantment would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant Creature
+Enchanted creature gets +0/+1.
+Totem armor
+
+Moss Mother
+rules_text: Flying
+[i]Landfall[/i] — Whenever a land enters under your control, you may pay {G}{G}. If you do, create a 2/2 green Insect creature token with flying. => Flying
+[i]Landfall[/i] — Whenever a land enters under your control, you may pay {G}{G}. If you do, create a 2/2 green Insect creature token with “This creature has flying as long as its attacking.”
+
+Sanctum's Vice
+rules_text: Kicker {B}
+Target player mills three cards. Then if Sanctum's Vice was kicked, that player discards a card.
+Create a 0/0 black Phyrexian Germ creature token. It enters with an additional +1/+1 counter on it. => Kicker {B}
+Target player mills three cards. Then if Sanctum's Vice was kicked, that player discards a card.
+Create a 1/1 black Pest creature token.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

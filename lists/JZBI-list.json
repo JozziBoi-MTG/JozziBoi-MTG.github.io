@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Stained Ascension",
-        "number": 22,
+        "number": 23,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Periosteulent Wyrm",
-        "number": 43,
+        "number": 46,
         "shape": "adventure",
         "set": "JZBI",
         "rotated": false,
@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Amalgamaw",
-        "number": 51,
+        "number": 54,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Wyrmbann",
-        "number": 93,
+        "number": 100,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Duslach, Rot's Origin",
-        "number": 100,
+        "number": 107,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Finding Familiar",
-        "number": 35,
+        "number": 36,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -57,23 +57,23 @@
     },
     {
         "card_name": "Grodadh, Rot's End",
-        "number": 65,
+        "number": 68,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "116"
     },
     {
-        "card_name": "Dustborn Dragon",
-        "number": 79,
+        "card_name": "Bloodcrag Enforcer",
+        "number": 82,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "162"
+        "position": "172"
     },
     {
         "card_name": "Assimilated Royal",
-        "number": 95,
+        "number": 102,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -88,36 +88,76 @@
         "position": "153"
     },
     {
-        "card_name": "Kusi, Leyline Cartographer",
-        "number": 38,
+        "card_name": "Interplanar Inevitability",
+        "number": 40,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "129"
+        "position": "168"
     },
     {
         "card_name": "Under a Dark Flare",
-        "number": 75,
+        "number": 79,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "164"
     },
     {
+        "card_name": "Dustborn Dragon",
+        "number": 85,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "Canopy Guerilla",
+        "number": 106,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Sagacious Sentinel",
+        "number": 22,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "False Spider",
+        "number": 34,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "Callous Strip Miner",
+        "number": 57,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "5"
+    },
+    {
         "card_name": "Ekrimaniac",
-        "number": 80,
+        "number": 86,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "4"
     },
     {
-        "card_name": "Canopy Guerilla",
-        "number": 99,
+        "card_name": "Zephyrrhicism",
+        "number": 122,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "10"
+        "position": "94"
     },
     {
         "card_name": "Assimilated Shepherd",
@@ -128,36 +168,36 @@
         "position": "112"
     },
     {
-        "card_name": "False Spider",
-        "number": 33,
+        "card_name": "Fish Upon a Star",
+        "number": 37,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "106"
+        "position": "105"
     },
     {
-        "card_name": "Callous Strip Miner",
-        "number": 54,
+        "card_name": "Coagulate",
+        "number": 59,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "5"
+        "position": "22"
     },
     {
         "card_name": "False Serpent",
-        "number": 81,
+        "number": 87,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "147"
     },
     {
-        "card_name": "Zephyrrhicism",
-        "number": 114,
+        "card_name": "Bole Wrecker",
+        "number": 105,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "94"
+        "position": "113"
     },
     {
         "card_name": "Band of Misfits",
@@ -168,36 +208,36 @@
         "position": "101"
     },
     {
-        "card_name": "Fish Upon a Star",
-        "number": 36,
-        "shape": "normal",
+        "card_name": "Geata Vanquisher",
+        "number": 38,
+        "shape": "adventure",
         "set": "JZBI",
         "rotated": false,
-        "position": "105"
+        "position": "175"
     },
     {
-        "card_name": "Coagulate",
-        "number": 56,
+        "card_name": "Corpserot Drake",
+        "number": 60,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "22"
+        "position": "75"
     },
     {
         "card_name": "Flammeum Mortia",
-        "number": 82,
+        "number": 88,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "77"
     },
     {
-        "card_name": "Bole Wrecker",
-        "number": 98,
+        "card_name": "Eight F--king Bears",
+        "number": 109,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "113"
+        "position": "17"
     },
     {
         "card_name": "Call to Alms",
@@ -209,35 +249,35 @@
     },
     {
         "card_name": "Hoarfrost Lynx",
-        "number": 37,
+        "number": 39,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "137"
     },
     {
-        "card_name": "Corpserot Drake",
-        "number": 57,
+        "card_name": "Ego Death",
+        "number": 63,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "75"
+        "position": "35"
     },
     {
         "card_name": "Hellbound Oracle",
-        "number": 84,
+        "number": 90,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "12"
     },
     {
-        "card_name": "Eight F--king Bears",
-        "number": 102,
+        "card_name": "Evergreen Evensong",
+        "number": 111,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "17"
+        "position": "25"
     },
     {
         "card_name": "End Buster",
@@ -248,36 +288,36 @@
         "position": "0"
     },
     {
-        "card_name": "Lochstealer",
-        "number": 40,
+        "card_name": "Kusi, Leyline Cartographer",
+        "number": 41,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "136"
+        "position": "129"
     },
     {
-        "card_name": "Ego Death",
-        "number": 60,
+        "card_name": "False Phoenix",
+        "number": 66,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "35"
+        "position": "29"
     },
     {
-        "card_name": "Razed Defiance",
-        "number": 85,
+        "card_name": "Pyretic Wendigo",
+        "number": 91,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "99"
+        "position": "174"
     },
     {
-        "card_name": "Evergreen Evensong",
-        "number": 104,
+        "card_name": "False Leviathan",
+        "number": 112,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "25"
+        "position": "53"
     },
     {
         "card_name": "False Cherub",
@@ -288,116 +328,116 @@
         "position": "142"
     },
     {
-        "card_name": "Uncanny Artistry",
-        "number": 47,
+        "card_name": "Lochstealer",
+        "number": 43,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "135"
-    },
-    {
-        "card_name": "False Phoenix",
-        "number": 63,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "29"
-    },
-    {
-        "card_name": "Redstone Monstrosity",
-        "number": 86,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "43"
-    },
-    {
-        "card_name": "False Leviathan",
-        "number": 105,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "53"
-    },
-    {
-        "card_name": "Wayside Feast",
-        "number": 24,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "125"
-    },
-    {
-        "card_name": "Voidsoarer",
-        "number": 48,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "8"
+        "position": "136"
     },
     {
         "card_name": "Murdered Crow",
-        "number": 67,
+        "number": 70,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "89"
     },
     {
-        "card_name": "Rosewitch",
-        "number": 87,
+        "card_name": "Razed Defiance",
+        "number": 92,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "59"
+        "position": "99"
     },
     {
         "card_name": "Nidoform",
-        "number": 109,
+        "number": 117,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "69"
     },
     {
-        "card_name": "Xathregos's Ichor",
+        "card_name": "Wayside Feast",
         "number": 25,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "80"
+        "position": "125"
     },
     {
-        "card_name": "\u00c6therbloat Guardian",
-        "number": 26,
+        "card_name": "Uncanny Artistry",
+        "number": 50,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "117"
+        "position": "135"
     },
     {
         "card_name": "Patrician Nekojin",
-        "number": 69,
+        "number": 72,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "90"
     },
     {
-        "card_name": "Bequeath to Slag",
-        "number": 77,
+        "card_name": "Redstone Monstrosity",
+        "number": 93,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "18"
+        "position": "43"
     },
     {
         "card_name": "Reclaimant Nekojin",
-        "number": 110,
+        "number": 118,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "88"
+    },
+    {
+        "card_name": "Xathregos's Ichor",
+        "number": 26,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Voidsoarer",
+        "number": 51,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Adriel's Omen",
+        "number": 52,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Rosewitch",
+        "number": 94,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Shillehrig",
+        "number": 120,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "143"
     },
     {
         "card_name": "Acolyte's Page",
@@ -408,36 +448,36 @@
         "position": "81"
     },
     {
-        "card_name": "\u00c6therflight Mage",
+        "card_name": "\u00c6therbloat Guardian",
         "number": 27,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "36"
+        "position": "117"
     },
     {
-        "card_name": "Adriel's Omen",
-        "number": 49,
+        "card_name": "\u00c6ther Sap",
+        "number": 53,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "48"
+        "position": "51"
     },
     {
-        "card_name": "Canyon Vivifer",
-        "number": 78,
+        "card_name": "Bequeath to Slag",
+        "number": 81,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "139"
+        "position": "18"
     },
     {
-        "card_name": "Shillehrig",
-        "number": 112,
+        "card_name": "Ash Keeper",
+        "number": 101,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "143"
+        "position": "54"
     },
     {
         "card_name": "Actuality",
@@ -448,36 +488,36 @@
         "position": "93"
     },
     {
-        "card_name": "Bangle Finch",
+        "card_name": "\u00c6therflight Mage",
         "number": 28,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "144"
+        "position": "36"
     },
     {
-        "card_name": "\u00c6ther Sap",
-        "number": 50,
+        "card_name": "Bereft Gouger",
+        "number": 55,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "51"
+        "position": "64"
     },
     {
-        "card_name": "Foray Frontliner",
+        "card_name": "Canyon Vivifer",
         "number": 83,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "76"
+        "position": "139"
     },
     {
-        "card_name": "Ash Keeper",
-        "number": 94,
+        "card_name": "Bequeath to Ruins",
+        "number": 103,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "54"
+        "position": "19"
     },
     {
         "card_name": "Brewer Benevolent",
@@ -488,36 +528,36 @@
         "position": "7"
     },
     {
-        "card_name": "Chromas Seeker",
+        "card_name": "Bangle Finch",
         "number": 29,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "132"
+        "position": "144"
     },
     {
-        "card_name": "Bereft Gouger",
-        "number": 52,
+        "card_name": "Brewbooster",
+        "number": 56,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "64"
+        "position": "6"
     },
     {
-        "card_name": "Sky's Scream",
-        "number": 88,
+        "card_name": "Contagion Herald",
+        "number": 84,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "122"
+        "position": "173"
     },
     {
-        "card_name": "Bequeath to Ruins",
-        "number": 96,
+        "card_name": "Bitter Struggle",
+        "number": 104,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "19"
+        "position": "46"
     },
     {
         "card_name": "Destitution",
@@ -528,36 +568,36 @@
         "position": "47"
     },
     {
-        "card_name": "Cthonic Freeze",
+        "card_name": "Chromas Seeker",
         "number": 30,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "163"
+        "position": "132"
     },
     {
-        "card_name": "Brewbooster",
-        "number": 53,
+        "card_name": "Cavalry Conscript",
+        "number": 58,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "6"
+        "position": "119"
     },
     {
-        "card_name": "Slag Spewer",
+        "card_name": "Foray Frontliner",
         "number": 89,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "86"
+        "position": "76"
     },
     {
-        "card_name": "Bitter Struggle",
-        "number": 97,
+        "card_name": "Ecotone",
+        "number": 108,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "46"
+        "position": "73"
     },
     {
         "card_name": "Disdain",
@@ -568,36 +608,36 @@
         "position": "20"
     },
     {
-        "card_name": "Divine Currents",
+        "card_name": "Cthonic Freeze",
         "number": 31,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "134"
+        "position": "163"
     },
     {
-        "card_name": "Cavalry Conscript",
-        "number": 55,
+        "card_name": "Demonic Divination",
+        "number": 61,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "119"
+        "position": "155"
     },
     {
-        "card_name": "Smithy Nekojin",
-        "number": 90,
+        "card_name": "Sky's Scream",
+        "number": 95,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "72"
+        "position": "122"
     },
     {
-        "card_name": "Ecotone",
-        "number": 101,
+        "card_name": "Esfonmeri Tenant",
+        "number": 110,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "73"
+        "position": "50"
     },
     {
         "card_name": "Guardian Shadow",
@@ -608,36 +648,36 @@
         "position": "65"
     },
     {
-        "card_name": "Estuic Blast",
+        "card_name": "Divine Currents",
         "number": 32,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "158"
+        "position": "134"
     },
     {
-        "card_name": "Demonic Divination",
-        "number": 58,
+        "card_name": "Dzoavits",
+        "number": 62,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "155"
+        "position": "95"
     },
     {
-        "card_name": "Stoneshapen Wyrm",
-        "number": 91,
+        "card_name": "Slag Spewer",
+        "number": 96,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "67"
+        "position": "86"
     },
     {
-        "card_name": "Esfonmeri Tenant",
-        "number": 103,
+        "card_name": "Festerspot Toad",
+        "number": 113,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "50"
+        "position": "146"
     },
     {
         "card_name": "Harpy Aspirant",
@@ -648,36 +688,36 @@
         "position": "71"
     },
     {
-        "card_name": "Feywhisper Guide",
-        "number": 34,
+        "card_name": "Estuic Blast",
+        "number": 33,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "68"
+        "position": "158"
     },
     {
-        "card_name": "Dzoavits",
-        "number": 59,
+        "card_name": "Enervating Crowkeep",
+        "number": 64,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "95"
+        "position": "127"
     },
     {
-        "card_name": "Venation Mystic",
-        "number": 92,
+        "card_name": "Smithy Nekojin",
+        "number": 97,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "165"
+        "position": "72"
     },
     {
-        "card_name": "Festerspot Toad",
-        "number": 106,
+        "card_name": "Grovebound Specter",
+        "number": 114,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "146"
+        "position": "171"
     },
     {
         "card_name": "Icon of Hope",
@@ -688,27 +728,32 @@
         "position": "82"
     },
     {
-        "card_name": "Lakeside Nekojin",
-        "number": 39,
+        "card_name": "Feywhisper Guide",
+        "number": 35,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "70"
+        "position": "68"
     },
     {
-        "card_name": "Enervating Crowkeep",
-        "number": 61,
+        "card_name": "Enthroned Soulcarver",
+        "number": 65,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "127"
+        "position": "57"
     },
     {
-        "card_name": "e"
+        "card_name": "Stoneshapen Wyrm",
+        "number": 98,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "67"
     },
     {
         "card_name": "Hinterland Devotee",
-        "number": 107,
+        "number": 115,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -723,27 +768,32 @@
         "position": "130"
     },
     {
-        "card_name": "Loveable Upstart",
-        "number": 41,
+        "card_name": "Lakeside Nekojin",
+        "number": 42,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "13"
+        "position": "70"
     },
     {
-        "card_name": "Enthroned Soulcarver",
-        "number": 62,
+        "card_name": "Grey Castaway",
+        "number": 67,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "57"
+        "position": "126"
     },
     {
-        "card_name": "e"
+        "card_name": "Venation Mystic",
+        "number": 99,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "165"
     },
     {
         "card_name": "Moss's Tears",
-        "number": 108,
+        "number": 116,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -758,27 +808,27 @@
         "position": "49"
     },
     {
-        "card_name": "Mindwrack Conceit",
-        "number": 42,
+        "card_name": "Loveable Upstart",
+        "number": 44,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "151"
+        "position": "13"
     },
     {
-        "card_name": "Grey Castaway",
-        "number": 64,
+        "card_name": "Impaler Titan",
+        "number": 69,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "126"
+        "position": "52"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Ruinic Cerberus",
-        "number": 111,
+        "number": 119,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -793,51 +843,16 @@
         "position": "128"
     },
     {
-        "card_name": "Psychophage",
-        "number": 44,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "44"
-    },
-    {
-        "card_name": "Impaler Titan",
-        "number": 66,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "52"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Territorial Atrocities",
-        "number": 113,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "118"
-    },
-    {
-        "card_name": "Wastebearer",
-        "number": 23,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "60"
-    },
-    {
-        "card_name": "Skeptical Suppliant",
+        "card_name": "Mindwrack Conceit",
         "number": 45,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "34"
+        "position": "151"
     },
     {
         "card_name": "Necromaniac",
-        "number": 68,
+        "number": 71,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -847,22 +862,32 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Timeless Dream",
-        "number": 46,
+        "card_name": "Territorial Atrocities",
+        "number": 121,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "66"
+        "position": "118"
+    },
+    {
+        "card_name": "Wastebearer",
+        "number": 24,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Psychophage",
+        "number": 47,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "44"
     },
     {
         "card_name": "Ravager Raven",
-        "number": 70,
+        "number": 73,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -878,11 +903,16 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Skeptical Suppliant",
+        "number": 48,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "34"
     },
     {
         "card_name": "Sanguinary Stature",
-        "number": 71,
+        "number": 74,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -898,11 +928,36 @@
         "card_name": "e"
     },
     {
+        "card_name": "Timeless Dream",
+        "number": 49,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Scaring Crow",
+        "number": 75,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "e"
     },
     {
         "card_name": "Thanatic Bull",
-        "number": 72,
+        "number": 76,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -922,7 +977,7 @@
     },
     {
         "card_name": "Thaumaturge Eclectic",
-        "number": 73,
+        "number": 77,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -942,7 +997,7 @@
     },
     {
         "card_name": "Thrall Liege",
-        "number": 74,
+        "number": 78,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -962,7 +1017,7 @@
     },
     {
         "card_name": "Wraith Appraiser",
-        "number": 76,
+        "number": 80,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -989,7 +1044,7 @@
     "a->gold",
     {
         "card_name": "Kanatowa, Ascendant",
-        "number": 129,
+        "number": 136,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -997,7 +1052,7 @@
     },
     {
         "card_name": "Psyche \u00c6thercruth",
-        "number": 149,
+        "number": 143,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1005,7 +1060,7 @@
     },
     {
         "card_name": "Finale, Griefbringer",
-        "number": 124,
+        "number": 132,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1013,7 +1068,7 @@
     },
     {
         "card_name": "Scar-Evoked",
-        "number": 139,
+        "number": 147,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1021,7 +1076,7 @@
     },
     {
         "card_name": "Lefre, Forge Bulwark",
-        "number": 130,
+        "number": 137,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1029,23 +1084,23 @@
     },
     {
         "card_name": "Shelter from the Rain",
-        "number": 141,
+        "number": 149,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "100"
     },
     {
-        "card_name": "Window of the Soul",
-        "number": 154,
+        "card_name": "Esoteric Obsession",
+        "number": 157,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
-        "position": "91"
+        "position": "166"
     },
     {
         "card_name": "Condemmed Routmaker",
-        "number": 120,
+        "number": 128,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1053,7 +1108,7 @@
     },
     {
         "card_name": "Miloni, Esfonmeri's Matron",
-        "number": 133,
+        "number": 140,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1061,7 +1116,7 @@
     },
     {
         "card_name": "Temple Arbiter",
-        "number": 152,
+        "number": 162,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1069,18 +1124,23 @@
     },
     {
         "card_name": "Isa, the Founder",
-        "number": 148,
+        "number": 159,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "31"
     },
     {
-        "card_name": "e"
+        "card_name": "Window of the Soul",
+        "number": 164,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "91"
     },
     {
         "card_name": "Razed Reflection",
-        "number": 136,
+        "number": 144,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1088,7 +1148,7 @@
     },
     {
         "card_name": "Serotiny",
-        "number": 140,
+        "number": 148,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1105,7 +1165,7 @@
     },
     {
         "card_name": "Adriel, Bloodcrag Tyrant",
-        "number": 145,
+        "number": 154,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1113,7 +1173,7 @@
     },
     {
         "card_name": "Rageful Broadcast",
-        "number": 150,
+        "number": 160,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1130,7 +1190,7 @@
     },
     {
         "card_name": "Deadeye Oni",
-        "number": 147,
+        "number": 156,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1150,7 +1210,7 @@
     },
     {
         "card_name": "Sanguine Script",
-        "number": 151,
+        "number": 161,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1179,7 +1239,7 @@
     },
     {
         "card_name": "Lifeblade",
-        "number": 131,
+        "number": 138,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1187,7 +1247,7 @@
     },
     {
         "card_name": "Told Tales",
-        "number": 143,
+        "number": 152,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1195,7 +1255,7 @@
     },
     {
         "card_name": "Caustic Hydra",
-        "number": 118,
+        "number": 126,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1203,7 +1263,7 @@
     },
     {
         "card_name": "Mevia, Essence of Conflict",
-        "number": 132,
+        "number": 139,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1211,7 +1271,7 @@
     },
     {
         "card_name": "Culona, the \u00c6therken",
-        "number": 121,
+        "number": 129,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1219,7 +1279,7 @@
     },
     {
         "card_name": "Xathregos, Forgotten",
-        "number": 144,
+        "number": 153,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1230,7 +1290,7 @@
     },
     {
         "card_name": "Cyril, Soul Chauffeur",
-        "number": 122,
+        "number": 130,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1238,7 +1298,7 @@
     },
     {
         "card_name": "Uma",
-        "number": 153,
+        "number": 163,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1246,7 +1306,7 @@
     },
     {
         "card_name": "\u00c6therweft Wandering",
-        "number": 115,
+        "number": 123,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1254,7 +1314,7 @@
     },
     {
         "card_name": "Runic Rearguard",
-        "number": 138,
+        "number": 146,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1265,7 +1325,7 @@
     },
     {
         "card_name": "Grovebound Consul",
-        "number": 126,
+        "number": 133,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1273,7 +1333,7 @@
     },
     {
         "card_name": "Assigned Martyr",
-        "number": 116,
+        "number": 124,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1281,7 +1341,7 @@
     },
     {
         "card_name": "Bhainn Wardens",
-        "number": 117,
+        "number": 125,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1295,7 +1355,7 @@
     },
     {
         "card_name": "Grovebound Envoy",
-        "number": 127,
+        "number": 134,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1315,7 +1375,7 @@
     },
     {
         "card_name": "Corrupted Cauldron",
-        "number": 146,
+        "number": 155,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1334,28 +1394,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Flesh Mantis",
-        "number": 125,
-        "shape": "normal",
-        "set": "JZBI",
-        "rotated": false,
-        "position": "115"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Hydra Transgression",
-        "number": 128,
+        "number": 135,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1375,7 +1415,7 @@
     },
     {
         "card_name": "Rot Wench",
-        "number": 137,
+        "number": 145,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1388,7 +1428,24 @@
         "card_name": "e"
     },
     {
-        "card_name": "er"
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Flesh Mantis",
+        "number": 158,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1401,10 +1458,21 @@
     },
     {
         "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Thikyos Malor",
+        "number": 151,
+        "shape": "normal",
+        "set": "JZBI",
+        "rotated": false,
+        "position": "170"
     },
     {
         "card_name": "The Eversource",
-        "number": 123,
+        "number": 131,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1412,7 +1480,7 @@
     },
     {
         "card_name": "Original, Worldshaper",
-        "number": 135,
+        "number": 142,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1420,7 +1488,7 @@
     },
     {
         "card_name": "Stairway to Heaven",
-        "number": 142,
+        "number": 150,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1428,7 +1496,7 @@
     },
     {
         "card_name": "Okina Matara, Chromas",
-        "number": 134,
+        "number": 141,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1436,11 +1504,23 @@
     },
     {
         "card_name": "Chromas Ultimatum",
-        "number": 119,
+        "number": 127,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
         "position": "108"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1465,7 +1545,7 @@
     },
     {
         "card_name": "Bane of the Impossible",
-        "number": 156,
+        "number": 166,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1473,7 +1553,7 @@
     },
     {
         "card_name": "The Bargainer's Cache",
-        "number": 157,
+        "number": 167,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1481,7 +1561,7 @@
     },
     {
         "card_name": "Endspark",
-        "number": 159,
+        "number": 169,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1489,7 +1569,7 @@
     },
     {
         "card_name": "Esoteric Lotus",
-        "number": 160,
+        "number": 170,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1497,7 +1577,7 @@
     },
     {
         "card_name": "Hollowed Dryss",
-        "number": 161,
+        "number": 171,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1513,7 +1593,7 @@
     },
     {
         "card_name": "Amber Mortis",
-        "number": 155,
+        "number": 165,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1521,7 +1601,7 @@
     },
     {
         "card_name": "Chromas Geata",
-        "number": 158,
+        "number": 168,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1537,7 +1617,7 @@
     },
     {
         "card_name": "Penitentiary Cell",
-        "number": 162,
+        "number": 172,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1545,7 +1625,7 @@
     },
     {
         "card_name": "Portentious Lense",
-        "number": 163,
+        "number": 173,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1577,7 +1657,7 @@
     },
     {
         "card_name": "Pandora",
-        "number": 166,
+        "number": 176,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1585,7 +1665,7 @@
     },
     {
         "card_name": "Deiscape",
-        "number": 164,
+        "number": 174,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,
@@ -1593,7 +1673,7 @@
     },
     {
         "card_name": "Edge of Fantasy",
-        "number": 165,
+        "number": 175,
         "shape": "normal",
         "set": "JZBI",
         "rotated": false,

@@ -5,7 +5,7 @@
 			<name>MCTG</name>
 			<longname>Minecraft: The Gathering</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-04</releasedate>
+			<releasedate>2026-10-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -124,7 +124,7 @@
 			<name>Thieving Fox</name>
 			<text>{T}: Add {C}.
 Metalcraft — {T}: Add one mana of any color. Activate only if you control three or more artifacts.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/7.jpg" num="172">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/7.jpg" num="171">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -141,7 +141,7 @@ Metalcraft — {T}: Add one mana of any color. Activate only if you control thre
 		<card>
 			<name>Wandering Panda</name>
 			<text>Landfall — Whenever a land enters under your control, Wandering Panda gets +2/+1 and gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/8.jpg" num="174">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/8.jpg" num="173">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -193,7 +193,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 		<card>
 			<name>School of Fish</name>
 			<text>When School of Fish dies, create a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/11.jpg" num="65">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/11.jpg" num="66">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -208,16 +208,16 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Polar Bear Cub</name>
-			<text>Polar Bear Cub gets +1/+1 and has trample as long as you control another creature with power 4 or greater.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/12.jpg" num="59">MCTG</set>
+			<name>Ice Capped Cub</name>
+			<text>When Ice Capped Cub becomes the target of a spell or ability for the first time each turn, create a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/12.jpg" num="53">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Bear</type>
 				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>2/2</pt>
@@ -269,8 +269,8 @@ As long as Guiding Dolphin is paired with another creature, each of those creatu
 				<side>front</side>
 				<type>Creature — Whale</type>
 				<maintype>Creature</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>1/3</pt>
@@ -281,7 +281,7 @@ As long as Guiding Dolphin is paired with another creature, each of those creatu
 			<name>Loyal Wolf</name>
 			<text>Loyal Wolf enters with an additional +1/+1 counter on it if your life total is less than or equal to half your starting life total.
 Loyal Wolf gets +2/+0 while attacking.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/16.jpg" num="162">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/16.jpg" num="161">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -300,7 +300,7 @@ Loyal Wolf gets +2/+0 while attacking.</text>
 			<text>Bestow {1}{G} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
 Enchanted creature gets +1/+1.
 Flying</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/17.jpg" num="154">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/17.jpg" num="153">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -317,7 +317,7 @@ Flying</text>
 		<card>
 			<name>Whimsical Llama</name>
 			<text></text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/18.jpg" num="38">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/18.jpg" num="39">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -334,7 +334,7 @@ Flying</text>
 		<card>
 			<name>Murky Squid</name>
 			<text>Islandwalk (This creature can&apos;t be blocked as long as defending player controls an Island.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/19.jpg" num="55">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/19.jpg" num="56">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -353,7 +353,7 @@ Flying</text>
 			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 Flying
 When Umbra Bat enters, if it was kicked, create a 1/1 black Bat creature token with flying.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/20.jpg" num="107">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/20.jpg" num="106">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -386,20 +386,21 @@ When Umbra Bat enters, if it was kicked, create a 1/1 black Bat creature token w
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Vengeful Polar Bear</name>
-			<text>Vengeful Polar Bear enters with an additional two +1/+1 counters if a creature died under your control this turn.
-Vengeful Polar Bear has trample while attacking if defending player controls an Island.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/22.jpg" num="73">MCTG</set>
+			<name>Polar Protector</name>
+			<text>Whenever another creature you control leaves the battlefield, put a +1/+1 counter on Polar Protector and another target creature you control.
+Cycling {U}
+When you cycle Polar Protector, return target creature you control to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/22.jpg" num="60">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Bear</type>
 				<maintype>Creature</maintype>
-				<manacost>3UU</manacost>
-				<cmc>5</cmc>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>5/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -422,15 +423,19 @@ As long as Spurred Horse is paired with another creature, each of those creature
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Richly-Fed Cow</name>
-			<text>Richly-Fed Cow can&apos;t be the target of instant spells your opponents control.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/24.jpg" num="170">MCTG</set>
+			<name>Richly-Fed Cow // Detox</name>
+			<text>Richly-Fed Cow can&apos;t be the target of instant spells your opponents control.
+
+---
+
+Remove all counters from target creature you control. That creature gains hexproof until end of turn.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/24.jpg" num="169">MCTG</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Ox</type>
+				<type>Creature — Ox // Instant — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>2G</manacost>
+				<manacost>2G // 1GG</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -459,7 +464,7 @@ At the beginning of your upkeep, you gain 1 life.</text>
 		<card>
 			<name>Killer Rabbit</name>
 			<text>Haste, Killer Rabbit attacks each turn if able.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/26.jpg" num="125">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/26.jpg" num="124">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -549,7 +554,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Passionate Farmer</name>
 			<text>Passionate Farmer gets +1/+1 for each basic land type you control.
 {4}, {T}: Search your library for a basic land card and put it onto the battlefield. Then, shuffle your library.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/31.jpg" num="165">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/31.jpg" num="164">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -565,9 +570,9 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Blacksmith</name>
-			<text>Creatures you control get +0/+1
+			<text>Whenever an artifact enters under your control, put a +1/+1 counter on target creature.
 {3}, {T}: Search your library for an Equipment card, reveal it, and put it into your hand. Then, shuffle your library.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/32.jpg" num="7">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/32.jpg" num="7">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -584,7 +589,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Librarian</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-{3}, {T}: Search your library for an Aura card, reveal it, and put it into your hand. Then, shuffle your library.</text>
+{2}, {T}: Search your library for an Aura card, reveal it, and put it into your hand. Then, shuffle your library.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/33.jpg" num="22">MCTG</set>
 			<prop>
 				<layout>normal</layout>
@@ -669,7 +674,7 @@ Alex enters with X +1/+1 counters on it.</text>
 		<card>
 			<name>Nocked Skeleton</name>
 			<text>Reach, vigilance</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/38.jpg" num="96">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/38.jpg" num="95">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -685,7 +690,8 @@ Alex enters with X +1/+1 counters on it.</text>
 		</card>
 		<card>
 			<name>Creeper</name>
-			<text>Sacrifice Creeper: Creeper deals 3 damage to target creature or player.</text>
+			<text>When Creeper dies, target player loses 2 life.
+{2}{B}, Sacrifice Creeper: Creeper deals 2 damage to any target.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/39.jpg" num="84">MCTG</set>
 			<prop>
 				<layout>normal</layout>
@@ -696,7 +702,7 @@ Alex enters with X +1/+1 counters on it.</text>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>0/3</pt>
+				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -704,7 +710,7 @@ Alex enters with X +1/+1 counters on it.</text>
 			<name>Zombie Villager</name>
 			<text>When Zombie Villager enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {1}{W}, {T}: Sacrifice Zombie Villager: Return target Villager creature card from your graveyard to the battlefield tapped.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/40.jpg" num="111">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/40.jpg" num="110">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -738,7 +744,7 @@ Alex enters with X +1/+1 counters on it.</text>
 		<card>
 			<name>Skittering Spider</name>
 			<text>Haste, reach</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/42.jpg" num="103">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/42.jpg" num="102">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -756,7 +762,7 @@ Alex enters with X +1/+1 counters on it.</text>
 			<name>Spider Jockey</name>
 			<text>Reach
 When Spider Jockey dies, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/43.jpg" num="105">MCTG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/43.jpg" num="104">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -773,26 +779,26 @@ When Spider Jockey dies, return target creature card with mana value 3 or less f
 		<card>
 			<name>Enderman</name>
 			<text>Flash, first strike
-Whenever Enderman enters or deals combat damage to a player, tap target land that player controls and put a stun counter on it.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/44.jpg" num="86">MCTG</set>
+Enderman gets +1/+1 for each land card in all graveyards.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/44.jpg" num="185">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Nightmare</type>
 				<maintype>Creature</maintype>
-				<manacost>1BBB</manacost>
-				<cmc>4</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Outcast Witch</name>
-			<text>{B}{B}: Place a -1/-1 counter on target creature. Activate only once each turn.
-{B}{B}: Place a +1/+1 counter on target creature. Activate only once each turn.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/45.jpg" num="97">MCTG</set>
+			<text>{1}{B}: Place a -1/-1 counter on target creature. Activate only once each turn.
+{1}{B}: Place a +1/+1 counter on target creature. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/45.jpg" num="96">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -809,7 +815,7 @@ Whenever Enderman enters or deals combat damage to a player, tap target land tha
 		<card>
 			<name>Endermite</name>
 			<text>Flash, first strike</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/46.jpg" num="87">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/46.jpg" num="86">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -827,7 +833,7 @@ Whenever Enderman enters or deals combat damage to a player, tap target land tha
 			<name>Ghast</name>
 			<text>Flying
 Whenever Ghast attacks, it deals 2 damage to each of up to two target creatures.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/47.jpg" num="119">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/47.jpg" num="118">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -845,7 +851,7 @@ Whenever Ghast attacks, it deals 2 damage to each of up to two target creatures.
 			<name>Blaze</name>
 			<text>Flying
 {4}{R}: Blaze gets +X/+0 until end of turn, where X is your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/48.jpg" num="114">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/48.jpg" num="113">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -863,7 +869,7 @@ Whenever Ghast attacks, it deals 2 damage to each of up to two target creatures.
 			<name>Wither Skeleton</name>
 			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
 When Wither Skeleton dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/49.jpg" num="141">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/49.jpg" num="140">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -882,7 +888,7 @@ When Wither Skeleton dies, proliferate. (Choose any number of permanents and/or 
 			<text>{T}: Draw a card, then discard a card.
 {3}, {T}: Draw two cards, then discard a card.
 {1}{R}, {T}: Return target creature card from your graveyard to your hand. Activate only if your devotion to red is eight or greater. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/50.jpg" num="128">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/50.jpg" num="127">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -898,7 +904,7 @@ When Wither Skeleton dies, proliferate. (Choose any number of permanents and/or 
 		<card>
 			<name>Zombie Piglin</name>
 			<text>As long as your devotion to red is less than eight, Zombie Piglin can&apos;t attack or block alone. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/51.jpg" num="143">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/51.jpg" num="142">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -915,7 +921,7 @@ When Wither Skeleton dies, proliferate. (Choose any number of permanents and/or 
 		<card>
 			<name>Magma Cube</name>
 			<text>When this creature dies, create a 2/2 red Elemental creature token. It has &quot;When this creature dies, create two 1/1 red Elemental creature tokens.&quot;</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/52.jpg" num="127">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/52.jpg" num="126">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -932,7 +938,7 @@ When Wither Skeleton dies, proliferate. (Choose any number of permanents and/or 
 		<card>
 			<name>Soul Sand Valley</name>
 			<text>Soul Sand Valley deals damage to target creature equal to the number of creature cards in all graveyards.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/53.jpg" num="139">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/53.jpg" num="138">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -997,17 +1003,18 @@ Enchanted creature gets +3/+3.</text>
 		</card>
 		<card>
 			<name>Water Trap</name>
-			<text>Choose one —
+			<text>Choose two —
 • Return target creature to its owner&apos;s hand.
-• Destroy target red creature.</text>
+• Create a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;
+• Draw a card.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/57.jpg" num="74">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -1016,7 +1023,7 @@ Enchanted creature gets +3/+3.</text>
 		<card>
 			<name>Lightning Bolt</name>
 			<text>Lightning Bolt deals 3 damage to any target.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/58.jpg" num="126">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/58.jpg" num="125">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1033,7 +1040,7 @@ Enchanted creature gets +3/+3.</text>
 			<name>Anger the Tribe</name>
 			<text>Anger the Tribe costs {3} less to cast if your life total is less than or equal to half your starting life total.
 Create two 3/2 red Zombie Boar creature tokens with haste.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/59.jpg" num="112">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/59.jpg" num="111">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1048,26 +1055,26 @@ Create two 3/2 red Zombie Boar creature tokens with haste.</text>
 		</card>
 		<card>
 			<name>Village Haven</name>
-			<text>When Village Haven enters, create two 1/1 white Villager creature tokens. They have &quot;{T}: Add {C}. Spend this mana only to activate abilities.&quot;
-Creature tokens you control get +1/+1 and have &quot;{1}, {T}: Target creature gets +1/+1 until end of turn&quot;
-{2}, {T}: Target creature gets +3/+3 until end of turn.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/60.jpg" num="201">MCTG</set>
+			<text>{T}: Add {C}{C}. Spend this mana only to activate abilities.
+{2}, {T}: Populate (Create a token that&apos;s a copy of a creature token you control.)
+{3}, {T}: Put a +1/+1 counter on each of up to two target creatures.</text>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/60.jpg" num="37">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>3GW</manacost>
-				<cmc>5</cmc>
-				<colors>WG</colors>
-				<coloridentity>WG</coloridentity>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Fall Damage</name>
 			<text>Destroy target creature without flying.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/61.jpg" num="153">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/61.jpg" num="152">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1083,7 +1090,7 @@ Creature tokens you control get +1/+1 and have &quot;{1}, {T}: Target creature g
 		<card>
 			<name>Spawn Egg</name>
 			<text>Search your library for a creature card, reveal it, and put it into your hand. Then, shuffle your library.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/62.jpg" num="104">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/62.jpg" num="103">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1100,7 +1107,7 @@ Creature tokens you control get +1/+1 and have &quot;{1}, {T}: Target creature g
 			<name>Voidrift Stronghold</name>
 			<text>{1}{U}{R}, Tap target untapped creature you control: Target player mills three cards. Draw a card. Put a charge counter on Voidrift Stronghold.
 {T}, Remove six charge counters from Voidrift Stronghold and sacrifice it: Put a legendary Dragon creature card you own from outside the game onto the battlefield.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/63.jpg" num="202">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/63.jpg" num="201">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1118,7 +1125,7 @@ Creature tokens you control get +1/+1 and have &quot;{1}, {T}: Target creature g
 			<text>Altar of Myths enters tapped.
 Sacrifice a creature: Put a +1/+1 counter on target creature and a charge counter on Altar of Myths.
 {T}, Remove seven charge counters from Altar of Myths and sacrifice it: Put a legendary Avatar creature card you own from outside the game onto the battlefield.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/64.jpg" num="211">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/64.jpg" num="210">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1188,7 +1195,7 @@ Whenever you cast a spell, target opponent mills five cards.</text>
 			<text>This spell can&apos;t be countered.
 Flying, hexproof, indestructible
 An opponent may pay 7 life and choose hexproof or indestructible. If they do, Ender Dragon, Immortal loses the chosen ability until end of turn.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/68.jpg" num="185">MCTG</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/68.jpg" num="184">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1207,7 +1214,7 @@ An opponent may pay 7 life and choose hexproof or indestructible. If they do, En
 			<text>Flying, wither
 When Wither, the Corrupter enters, put two -1/-1 counters on each creature controlled by an opponent.
 Each creature an opponent controls enters with an additional -1/-1 counter on it.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/69.jpg" num="109">MCTG</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/69.jpg" num="108">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1224,7 +1231,7 @@ Each creature an opponent controls enters with an additional -1/-1 counter on it
 		<card>
 			<name>Potion of Weakness</name>
 			<text>Target creature gets -4/-0 until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/70.jpg" num="101">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/70.jpg" num="100">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1240,7 +1247,7 @@ Each creature an opponent controls enters with an additional -1/-1 counter on it
 		<card>
 			<name>Potion of Harming</name>
 			<text>Deal 2 damage divided as you choose among up to two target creatures.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/71.jpg" num="132">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/71.jpg" num="131">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1257,7 +1264,7 @@ Each creature an opponent controls enters with an additional -1/-1 counter on it
 			<name>Potion of Invisibiliy</name>
 			<text>Target creature can&apos;t be blocked until end of turn.
 Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/72.jpg" num="60">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/72.jpg" num="61">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1309,7 +1316,7 @@ Scry 2. (Look at the top two cards of your library, then put any number of them 
 		<card>
 			<name>Potion of Regeneration</name>
 			<text>Regenerate target creature. Place a +1/+1 counter on it. (The next time this instant would be destroyed this turn, it isn&apos;t. Instead tap it.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/75.jpg" num="168">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/75.jpg" num="167">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1325,7 +1332,7 @@ Scry 2. (Look at the top two cards of your library, then put any number of them 
 		<card>
 			<name>Potion of Leaping</name>
 			<text>Target creature gains flying until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/76.jpg" num="61">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/76.jpg" num="62">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1341,7 +1348,7 @@ Scry 2. (Look at the top two cards of your library, then put any number of them 
 		<card>
 			<name>Potion of Strength</name>
 			<text>Target creature gets +2/+0 and gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/77.jpg" num="133">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/77.jpg" num="132">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1357,7 +1364,7 @@ Scry 2. (Look at the top two cards of your library, then put any number of them 
 		<card>
 			<name>Potion of Slowness</name>
 			<text>Tap target creature. It doesn&apos;t untap during its controller&apos;s next untap step.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/78.jpg" num="62">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/78.jpg" num="63">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1373,7 +1380,7 @@ Scry 2. (Look at the top two cards of your library, then put any number of them 
 		<card>
 			<name>Potion of Poison</name>
 			<text>Target creature gets -1/-1 until end of turn. Place a -1/-1 counter on it.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/79.jpg" num="100">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/79.jpg" num="99">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1392,7 +1399,7 @@ Scry 2. (Look at the top two cards of your library, then put any number of them 
 Sacrifice Brewing Stand: Choose one —
 • Instant cards with mana value 1 or less in your graveyard gain flashback {2} until end of turn.
 • Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/80.jpg" num="215">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/80.jpg" num="214">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1407,7 +1414,7 @@ Sacrifice Brewing Stand: Choose one —
 			<name>Dragon&apos;s Breath</name>
 			<text>When Dragon&apos;s Breath enters, exile target instant card with mana value 1 or less from your graveyard.
 {1}, {T}: Cast a copy of the exiled card without paying its mana cost.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/81.jpg" num="184">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/81.jpg" num="183">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1441,8 +1448,8 @@ Sacrifice Brewing Stand: Choose one —
 			<name>Shulker</name>
 			<text>Defender
 When Shulker enters, tap target creature and put a stun counter on it.
-{U}, {T}: Regenerate Shulker. (The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/83.jpg" num="67">MCTG</set>
+{U}: Put Shulker on top of its owner&apos;s library.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/83.jpg" num="68">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1493,7 +1500,7 @@ Equip {1}</text>
 			<name>Bucket of Water</name>
 			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 Tap or untap up to one target creature. If Bucket of Water was kicked, target land becomes an Island in addition to its other types until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/86.jpg" num="41">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/86.jpg" num="42">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1509,7 +1516,7 @@ Tap or untap up to one target creature. If Bucket of Water was kicked, target la
 		<card>
 			<name>Bucket of Lava</name>
 			<text>Bucket of Lava deals 2 damage to target creature. It deals 4 damage instead if that creature is tapped.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/87.jpg" num="115">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/87.jpg" num="114">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1557,7 +1564,7 @@ Equip {1}</text>
 			<name>Mushroom Stew</name>
 			<text>Target player gains 3 life.
 Put a +1/+1 counter on target creature.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/90.jpg" num="163">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/90.jpg" num="162">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1590,7 +1597,7 @@ Put a +1/+1 counter on target creature.</text>
 			<name>Creaking</name>
 			<text>Forestwalk (This creature can&apos;t be blocked as long as defending player controls a Forest.)
 Sacrifice a land: Creaking gains hexproof and indestructible until end of turn.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/92.jpg" num="148">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/92.jpg" num="147">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1607,7 +1614,7 @@ Sacrifice a land: Creaking gains hexproof and indestructible until end of turn.<
 		<card>
 			<name>Command Block</name>
 			<text>Draw four cards, then discard a card at random. If a land card is discarded this way, discard an additional card at random.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/93.jpg" num="180">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/93.jpg" num="179">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1624,7 +1631,7 @@ Sacrifice a land: Creaking gains hexproof and indestructible until end of turn.<
 			<name>Snow Golem</name>
 			<text>Snow Golem can block an additional creature.
 When Snow Golem dies, put a stun counter on target creature it blocked this turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/94.jpg" num="70">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/94.jpg" num="71">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1640,15 +1647,16 @@ When Snow Golem dies, put a stun counter on target creature it blocked this turn
 		</card>
 		<card>
 			<name>Baby Zombie</name>
-			<text>Haste</text>
+			<text>Haste
+When Baby Zombie dies, target player loses 1 life.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/95.jpg" num="78">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Zombie</type>
 				<maintype>Creature</maintype>
-				<manacost>BB</manacost>
-				<cmc>2</cmc>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>3/1</pt>
@@ -1677,7 +1685,7 @@ Tap target creature. If Cactus Patch was kicked, tap an additional target creatu
 			<text>When this card enters, target land becomes an Island in addition to its other types until Ocean Monument leaves play.
 As long as your devotion to blue is eight or greater, creatures you control get +2/+2. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
 {3}, {T}: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/97.jpg" num="57">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/97.jpg" num="58">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1692,19 +1700,18 @@ As long as your devotion to blue is eight or greater, creatures you control get 
 		</card>
 		<card>
 			<name>Guardian</name>
-			<text>Guardian gets +1/+1 if an opponent controls an Island.
-{T}: Guardian deals 2 damage to target creature.</text>
+			<text>Guardian gets +2/+0 for each player that controls an Island.</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/98.jpg" num="51">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Leviathan</type>
 				<maintype>Creature</maintype>
-				<manacost>2UU</manacost>
+				<manacost>3U</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/4</pt>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1749,7 +1756,7 @@ Whenever Elder Guardian deals combat damage to a player, untap it.</text>
 			<text>Enchant Equipment
 Enchanted Equipment has &quot;{R}: Equipped creature gets +1/+0 until end of turn.&quot;
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/101.jpg" num="118">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/101.jpg" num="117">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1785,7 +1792,7 @@ When enchanted creature dies under your control, you gain life equal to its powe
 			<name>Sharpness</name>
 			<text>Enchant creature
 Enchanted creature gets +2/+0. It gets an additional +1/+0 if it has an Equipment attached to it.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/103.jpg" num="136">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/103.jpg" num="135">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1821,7 +1828,7 @@ Enchanted creature gets +0/+2. It gets an additional +0/+1 if it has an Equipmen
 Enchanted creature has ward {3}. (Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
 Cycling {2}{U}
 When you cycle Projectile Protection, counter target instant or sorcery spell.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/105.jpg" num="63">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/105.jpg" num="64">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1854,7 +1861,7 @@ Enchanted artifact has indestructible as long as it&apos;s not a creature.</text
 		<card>
 			<name>Enchantment Table</name>
 			<text>Return X enchantment cards at random from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/107.jpg" num="16">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/107.jpg" num="16">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1871,7 +1878,7 @@ Enchanted artifact has indestructible as long as it&apos;s not a creature.</text
 			<name>Giant&apos;s Corpse</name>
 			<text>As an additional cost to cast Giant&apos;s Corpse, sacrifice a creature or discard a card.
 Whenever Giant&apos;s Corpse enters or attacks, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/108.jpg" num="90">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/108.jpg" num="89">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1890,7 +1897,7 @@ Whenever Giant&apos;s Corpse enters or attacks, surveil 2. (Look at the top two 
 			<text>Flash
 When Sleep Off the Night enters, target creature you control gains lifelink until end of turn.
 Tapped creatures you control have hexproof.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/109.jpg" num="210">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/109.jpg" num="209">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1938,7 +1945,7 @@ Create three 1/1 white Bird creature tokens with flying.</text>
 		<card>
 			<name>Nightfall</name>
 			<text>Return up to two target creature cards from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/112.jpg" num="95">MCTG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/112.jpg" num="94">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1971,7 +1978,7 @@ Create three 1/1 white Bird creature tokens with flying.</text>
 			<name>Mob Spawner</name>
 			<text>Kicker {1}{BP} (You may pay an additional {1}{BP} as you cast this spell.)
 Create a token that is a copy of target black creature you control. If Mob Spawner was kicked, create a token that is a copy of target creature you control instead.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/114.jpg" num="93">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/114.jpg" num="92">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2007,7 +2014,7 @@ Create a token that is a copy of target black creature you control. If Mob Spawn
 			<text>Landfall — Whenever a land enters under your control, place a +1/+1 counter on target creature.
 {3}, {T}: Reveal the top three cards of your library. Exile one of them, then put the rest into your graveyard.
 You may play cards exiled with Jungle Temple.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/116.jpg" num="159">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/116.jpg" num="158">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2024,7 +2031,7 @@ You may play cards exiled with Jungle Temple.</text>
 			<name>Fleeting Durability</name>
 			<text>Destroy target artifact.
 Cycling {1} ({1}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/117.jpg" num="209">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/117.jpg" num="208">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2041,7 +2048,7 @@ Cycling {1} ({1}, Discard this card: Draw a card.)</text>
 			<name>Explore</name>
 			<text>You may play an additional land this turn.
 Draw a card.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/118.jpg" num="152">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/118.jpg" num="151">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2058,7 +2065,7 @@ Draw a card.</text>
 			<name>Soul Torch</name>
 			<text>Kicker {UP}{UP} (You may pay an additional {UP}{UP} as you cast this spell.)
 Counter target creature spell. If Soul Torch was kicked, counter target spell instead.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/119.jpg" num="71">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/119.jpg" num="72">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2092,7 +2099,7 @@ Target creature can&apos;t be blocked and gains hexproof until end of turn.</tex
 			<name>Pitfall</name>
 			<text>Kicker {B}{B} (You may pay an additional {B}{B} as you cast this spell.)
 Target player discards a card and loses 1 life. Then if Pitfall was kicked, repeat this process.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/121.jpg" num="99">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/121.jpg" num="98">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2110,7 +2117,7 @@ Target player discards a card and loses 1 life. Then if Pitfall was kicked, repe
 			<text>Enchant creature
 Enchanted creature has reach.
 Landfall — Whenever a land enters under your control, you may exile Jungle Vines, then return it to the battlefield under its owner&apos;s control.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/122.jpg" num="160">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/122.jpg" num="159">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2127,7 +2134,7 @@ Landfall — Whenever a land enters under your control, you may exile Jungle Vin
 			<name>The First Night</name>
 			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 Return target creature card from your graveyard to your hand. If The First Night was kicked, gain life equal to that card&apos;s mana value.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/123.jpg" num="88">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/123.jpg" num="87">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2163,7 +2170,7 @@ Enchanted creature has flying and &quot;Whenever this creature attacks or blocks
 As long as Beacon has at least two charge counters on it, creatures you control get +2/+1.
 {3}, {T}: Put a charge counter on Beacon.
 {T}: Add {C} for each charge counter on Beacon. Spend this mana only to activate abilities.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/125.jpg" num="214">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/125.jpg" num="213">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2177,7 +2184,7 @@ As long as Beacon has at least two charge counters on it, creatures you control 
 		<card>
 			<name>Zombie Siege</name>
 			<text>When Zombie Siege dies, create a 2/2 black Zombie creature token.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/126.jpg" num="110">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/126.jpg" num="109">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2209,7 +2216,7 @@ Equip {3}</text>
 		<card>
 			<name>Cartographer&apos;s Map</name>
 			<text>{1}, {T}, Sacrifice Cartographer&apos;s Map: Search your library for an artifact card with a mana ability or land card, reveal it, and put it into your hand. Then shuffle.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/128.jpg" num="217">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/128.jpg" num="216">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2224,8 +2231,8 @@ Equip {3}</text>
 			<name>Abandoned Stray</name>
 			<text>Reach
 When Abandoned Stray enters, it deals 1 damage to target creature. Tap that creature. It doesn&apos;t untap during its controller&apos;s next untap step.
-Abandoned Stray gets +1/+1 if you control a Swamp.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/129.jpg" num="39">MCTG</set>
+Abandoned Stray gets +1/+1 as long as you control a Swamp.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/129.jpg" num="40">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2242,8 +2249,8 @@ Abandoned Stray gets +1/+1 if you control a Swamp.</text>
 		<card>
 			<name>Husk</name>
 			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
-Husk gets +1/+1 if you control a Plains.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/130.jpg" num="92">MCTG</set>
+Husk gets +1/+1 as long as you control a Plains.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/130.jpg" num="91">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2260,7 +2267,7 @@ Husk gets +1/+1 if you control a Plains.</text>
 		<card>
 			<name>Recipe Book</name>
 			<text>Search your library for a card, reveal it, and put it into your hand. Then, shuffle your library.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/131.jpg" num="102">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/131.jpg" num="101">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2342,7 +2349,7 @@ Sacrifice Golden Apple: Enchanted creature gains indestructible until end of tur
 			<name>Treasure Map</name>
 			<text>If your devotion to blue is eight or greater, scry 2. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
 Draw two cards.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/136.jpg" num="72">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/136.jpg" num="73">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2357,7 +2364,8 @@ Draw two cards.</text>
 		</card>
 		<card>
 			<name>Drowned</name>
-			<text>Drowned gets +1/+1 and has haste if an opponent controls an Island.</text>
+			<text>Drowned gets +1/+1 and has vigilance as long as an opponent controls an Island.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/137.jpg" num="47">MCTG</set>
 			<prop>
 				<layout>normal</layout>
@@ -2368,7 +2376,7 @@ Draw two cards.</text>
 				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2391,7 +2399,7 @@ Equip {3}</text>
 			<name>Conduit</name>
 			<text>Creatures you control have islandwalk.
 {T}: Return target attacking creature with toughness X or less to its owner&apos;s hand, where X is half the number of Islands on the battlefield, rounded down.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/139.jpg" num="42">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/139.jpg" num="43">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2409,7 +2417,7 @@ Equip {3}</text>
 			<text>Bestow {3}{B}{B} (If you cast this card for its bestow cost, it&apos;s an Aura spell with enchant creature. It becomes a creature again if it&apos;s not attached.)
 Flying
 Enchanted creature gets +3/+2 and has flying.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/140.jpg" num="106">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/140.jpg" num="105">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2427,7 +2435,7 @@ Enchanted creature gets +3/+2 and has flying.</text>
 			<name>Igloo</name>
 			<text>When Igloo enters, create a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;
 {U}{U}, Sacrifice Igloo: Return target permanent you control to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/141.jpg" num="53">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/141.jpg" num="54">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2442,16 +2450,17 @@ Enchanted creature gets +3/+2 and has flying.</text>
 		</card>
 		<card>
 			<name>Coral Reef</name>
-			<text>At the beginning of your upkeep, create a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/142.jpg" num="43">MCTG</set>
+			<text>At the beginning of your upkeep, create a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)
+When you cycle Coral Reef, target land becomes an Island in addition to its other types until end of turn.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/142.jpg" num="219">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>1UU</manacost>
+				<manacost>3</manacost>
 				<cmc>3</cmc>
-				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
@@ -2460,7 +2469,7 @@ Enchanted creature gets +3/+2 and has flying.</text>
 			<name>Woodland Mansion</name>
 			<text>Whenever you cast a spell, put a +1/+1 counter on target creature.
 {G}, {T}: Choose creature, land, or noncreature nonland, then reveal the top card of your library. If the revealed card is of the chosen type, put it into your hand. Otherwise, you may put it on the top or bottom of your library.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/143.jpg" num="176">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/143.jpg" num="175">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2494,7 +2503,7 @@ Sacrifice Pillager Outpost: Creature tokens you control gain battle cry until en
 			<text>Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)
 First strike
 Vindicator enters with an additional +1/+1 counter on it if it was kicked.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/145.jpg" num="108">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/145.jpg" num="107">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2511,8 +2520,8 @@ Vindicator enters with an additional +1/+1 counter on it if it was kicked.</text
 		<card>
 			<name>Evoker</name>
 			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
-{2}{G}: Create a 2/1 black Nightmare creature token with flying.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/146.jpg" num="151">MCTG</set>
+{2}{BG}: Create a 2/1 black Faerie creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/146.jpg" num="150">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2521,7 +2530,7 @@ Vindicator enters with an additional +1/+1 counter on it if it was kicked.</text
 				<manacost>3GG</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
-				<coloridentity>G</coloridentity>
+				<coloridentity>BG</coloridentity>
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -2529,17 +2538,17 @@ Vindicator enters with an additional +1/+1 counter on it if it was kicked.</text
 		<card>
 			<name>Hateful Vex</name>
 			<text>Flying, first strike
-When you cast this spell, if {G} was spent to cast it, it enters with an additional haste counter on it.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/147.jpg" num="91">MCTG</set>
+Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/147.jpg" num="90">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Nightmare</type>
+				<type>Creature — Faerie</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
-				<coloridentity>BG</coloridentity>
+				<coloridentity>B</coloridentity>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -2548,7 +2557,7 @@ When you cast this spell, if {G} was spent to cast it, it enters with an additio
 			<name>Ravager</name>
 			<text>Trample, unleash (You may have this creature enter with a +1/+1 counter on it. It can&apos;t block as long as it has a +1/+1 counter on it.)
 Whenever Ravager deals combat damage to a creature, if Ravager has a +1/+1 counter on it, destroy target Equipment attached to that creature.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/148.jpg" num="169">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/148.jpg" num="168">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2601,10 +2610,10 @@ Whenever Ravager Jockey attacks, other attacking creatures you control get +3/+1
 		</card>
 		<card>
 			<name>Spiteful Pillager</name>
-			<text>Kicker {B}
-Reach, battle cry
-When Spiteful Pillager enters, if it was kicked, create a 2/2 black and green Ranger creature token.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/151.jpg" num="171">MCTG</set>
+			<text>Reach
+Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)
+When you cycle Spiteful Pillager, target creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/151.jpg" num="170">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2613,7 +2622,7 @@ When Spiteful Pillager enters, if it was kicked, create a 2/2 black and green Ra
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
-				<coloridentity>BG</coloridentity>
+				<coloridentity>G</coloridentity>
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -2621,7 +2630,7 @@ When Spiteful Pillager enters, if it was kicked, create a 2/2 black and green Ra
 		<card>
 			<name>Pillager Captain</name>
 			<text>When Pillager Captain dies, put a +1/+1 counter on each of up to two target creatures.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/152.jpg" num="166">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/152.jpg" num="165">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2639,7 +2648,7 @@ When Spiteful Pillager enters, if it was kicked, create a 2/2 black and green Ra
 			<name>Illusioner</name>
 			<text>Reach, vigilance
 Whenever Illusioner attacks, create two 2/1 blue Illusion creature tokens tapped and attacking. Exile those tokens at end of combat.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/153.jpg" num="54">MCTG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/153.jpg" num="55">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2673,7 +2682,7 @@ Whenever Illusioner attacks, create two 2/1 blue Illusion creature tokens tapped
 			<name>Wandering Trader</name>
 			<text>Hexproof
 {2}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/155.jpg" num="175">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/155.jpg" num="174">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2707,7 +2716,7 @@ Creatures you control get +1/+0 until end of turn and attack this turn if able.<
 		<card>
 			<name>Fire Charge</name>
 			<text>Fire Charge deals X damage to any target.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/157.jpg" num="117">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/157.jpg" num="116">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2724,7 +2733,7 @@ Creatures you control get +1/+0 until end of turn and attack this turn if able.<
 			<name>Giant Bee</name>
 			<text>Flying
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/158.jpg" num="156">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/158.jpg" num="155">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2740,8 +2749,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		</card>
 		<card>
 			<name>Kick the Hive</name>
-			<text>Create three 2/2 green Insect creature tokens with flying.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/159.jpg" num="161">MCTG</set>
+			<text>Create three 2/2 green Insect creature tokens with &quot;This creature has flying as long as its attacking.&quot;</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/159.jpg" num="160">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2757,8 +2766,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Bee Nest</name>
 			<text>{G}, {T}: Creature tokens you control get +1/+1 until end of turn.
-{2}{G}, {T}: Create a 2/2 green Insect creature token with flying.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/160.jpg" num="146">MCTG</set>
+{3}, {T}: Create a 2/2 green Insect creature token with &quot;This creature has flying as long as its attacking.&quot;</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/160.jpg" num="145">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2774,7 +2783,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Honey Hive</name>
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
-When Honey Hive enters, create a 2/2 green Insect creature token with flying.
+When Honey Hive enters, create a 2/2 green Insect creature token with &quot;This creature has flying as long as its attacking.&quot;
 {T}: Add one mana of any color.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/161.jpg" num="232">MCTG</set>
 			<prop>
@@ -2790,7 +2799,7 @@ When Honey Hive enters, create a 2/2 green Insect creature token with flying.
 		<card>
 			<name>Piglin</name>
 			<text>{1}, {T}: Draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/162.jpg" num="130">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/162.jpg" num="129">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2807,7 +2816,7 @@ When Honey Hive enters, create a 2/2 green Insect creature token with flying.
 		<card>
 			<name>Hoglin</name>
 			<text>As long as your devotion to red is eight or greater, Hoglin has trample. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/163.jpg" num="122">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/163.jpg" num="121">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2824,7 +2833,7 @@ When Honey Hive enters, create a 2/2 green Insect creature token with flying.
 		<card>
 			<name>Piglin Brute</name>
 			<text>Double strike</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/164.jpg" num="131">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/164.jpg" num="130">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2842,7 +2851,7 @@ When Honey Hive enters, create a 2/2 green Insect creature token with flying.
 			<name>Zoglin</name>
 			<text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)
 When Zoglin dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/165.jpg" num="142">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/165.jpg" num="141">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2858,8 +2867,9 @@ When Zoglin dies, surveil 1. (Look at the top card of your library. You may put 
 		</card>
 		<card>
 			<name>Slag Strider</name>
-			<text>Mountainwalk (This creature can&apos;t be blocked as long as defending player controls a Mountain.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/166.jpg" num="138">MCTG</set>
+			<text>Mountainwalk (This creature can&apos;t be blocked as long as defending player controls a Mountain.)
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/166.jpg" num="137">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2966,7 +2976,7 @@ When Zoglin dies, surveil 1. (Look at the top card of your library. You may put 
 			<name>Thorns</name>
 			<text>Enchant creature
 Enchanted creature assigns combat damage equal to its toughness rather than its power.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/173.jpg" num="173">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/173.jpg" num="172">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3017,7 +3027,7 @@ When Transguild Promenade enters, sacrifice it unless you pay {1}.
 Draw two cards. Create a colorless Ritual Skull artifact token. It has &quot;Sacrifice three cards named Ritual Skull: Put a legendary Horror creature card you own from outside the game onto the battlefield.&quot;
 If the mana value of the sacrificed card is 5 or greater, create an additional Ritual Skull token.
 Flashback {3}{BP}{BP}{B}</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/176.jpg" num="89">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/176.jpg" num="88">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3050,7 +3060,7 @@ Whenever Lush Cave is tapped for mana, if you control five or more basic lands, 
 		<card>
 			<name>Witch Hut</name>
 			<text>Whenever a counter is placed on a creature you control, you may pay {1}{WB}. If you do, each opponent loses 1 life and you gain 1 life. Then, draw a card.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/178.jpg" num="205">MCTG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/178.jpg" num="204">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3081,7 +3091,7 @@ Equip {2}</text>
 		<card>
 			<name>Desolate Library</name>
 			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
-Surveil 1, then draw a card. If Desolate Library was kicked, you may return target enchantment card from your graveyard to the battlefield.</text>
+Surveil 1, then draw a card. If Desolate Library was kicked, you may return target enchantment from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/180.jpg" num="44">MCTG</set>
 			<prop>
 				<layout>normal</layout>
@@ -3100,7 +3110,7 @@ Surveil 1, then draw a card. If Desolate Library was kicked, you may return targ
 			<text>Bestow {3}{G}{G}
 All creatures able to block Glow Squid must do so.
 Enchanted creature gets +1/+1 and has &quot;All creatures able to block this creature do so.&quot;</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/181.jpg" num="157">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/181.jpg" num="156">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3118,7 +3128,7 @@ Enchanted creature gets +1/+1 and has &quot;All creatures able to block this cre
 			<name>Braying Goat</name>
 			<text>Trample
 Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/182.jpg" num="147">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/182.jpg" num="146">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3201,7 +3211,7 @@ Scry 4, then draw two cards.</text>
 			<name>Beach-Dwelling Turtle</name>
 			<text>Defender
 Beach-Dwelling Turtle gets +0/+1 for each basic land type you control.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/187.jpg" num="40">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/187.jpg" num="41">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3220,7 +3230,7 @@ Beach-Dwelling Turtle gets +0/+1 for each basic land type you control.</text>
 			<text>Red creatures you control get +1/+0
 As long as your devotion to red is eight or greater, creatures you control get +1/+1. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)
 {3}, {T}: Target creature gets +1/+0 and gains double strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/188.jpg" num="113">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/188.jpg" num="112">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3237,7 +3247,7 @@ As long as your devotion to red is eight or greater, creatures you control get +
 			<name>Escape to Flames</name>
 			<text>As an additional cost to cast Escape to Flames, sacrifice a creature.
 Escape to Flames deals damage to any target equal to the sacrificed creature&apos;s power.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/189.jpg" num="116">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/189.jpg" num="115">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3271,11 +3281,11 @@ Equip {1}</text>
 Flying
 When Allay enters, if it was kicked, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {T}: Add one mana of a color that basic lands you control could produce.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/191.jpg" num="145">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/191.jpg" num="144">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Spirit</type>
+				<type>Creature — Faerie</type>
 				<maintype>Creature</maintype>
 				<manacost>G</manacost>
 				<cmc>1</cmc>
@@ -3289,7 +3299,7 @@ When Allay enters, if it was kicked, search your library for a basic land card, 
 			<name>Peckish Axolotl</name>
 			<text>When Peckish Axolotl enters, create a 0/1 blue Fish creature token with &quot;Sacrifice this creature: Add {1}.&quot;
 Sacrifice a Fish: Peckish Axoltl gets +2/+0 and gains islandwalk until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/192.jpg" num="58">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/192.jpg" num="59">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3307,7 +3317,7 @@ Sacrifice a Fish: Peckish Axoltl gets +2/+0 and gains islandwalk until end of tu
 			<name>Bad Omen</name>
 			<text>Creatures have menace.
 Madness {1}{B}{G} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/193.jpg" num="178">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/193.jpg" num="177">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3323,7 +3333,7 @@ Madness {1}{B}{G} (If you discard this card, discard it into exile. When you do,
 		<card>
 			<name>Pufferfish</name>
 			<text>Whenever Pufferfish blocks or becomes blocked, it gets +2/+2 until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/194.jpg" num="64">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/194.jpg" num="65">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3358,7 +3368,7 @@ Madness {1}{B}{G} (If you discard this card, discard it into exile. When you do,
 			<text>Whenever equipped creature attacks, scry 2.
 Whenever equipped creature deals combat damage to a player, draw a card.
 Equip {2}</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/196.jpg" num="212">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/196.jpg" num="211">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3372,7 +3382,7 @@ Equip {2}</text>
 		<card>
 			<name>Nimble Camel</name>
 			<text>Haste, unleash (You may have this creature enter with a +1/+1 counter on it. It can&apos;t block as long as it has a +1/+1 counter on it.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/197.jpg" num="129">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/197.jpg" num="128">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3390,7 +3400,7 @@ Equip {2}</text>
 			<name>Glow Frog</name>
 			<text>Reach
 When Glow Frog enters, you may draw a card. If you do, discard a card.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/198.jpg" num="120">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/198.jpg" num="119">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3424,7 +3434,7 @@ When Glow Frog enters, you may draw a card. If you do, discard a card.</text>
 			<name>Adventuring Time</name>
 			<text>Enchant creature
 Enchanted creature gets +1/+1 for each land you control.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/200.jpg" num="144">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/200.jpg" num="143">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3441,7 +3451,7 @@ Enchanted creature gets +1/+1 for each land you control.</text>
 			<name>Name Tag</name>
 			<text>Enchant creature
 As Name Tag enters, choose a creature type. Enchanted creature is the chosen type in addition to its other types.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/201.jpg" num="56">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/201.jpg" num="57">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3457,7 +3467,7 @@ As Name Tag enters, choose a creature type. Enchanted creature is the chosen typ
 		<card>
 			<name>Dinnerbone</name>
 			<text>Switch target creature&apos;s power and toughness until end of turn. Effects that alter the creature&apos;s power alter its toughness instead, and vice versa, this turn.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/202.jpg" num="150">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/202.jpg" num="149">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3473,7 +3483,7 @@ As Name Tag enters, choose a creature type. Enchanted creature is the chosen typ
 		<card>
 			<name>Here&apos;s Johnny!</name>
 			<text>Target creature gets +4/+2 and gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/203.jpg" num="158">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/203.jpg" num="157">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3526,7 +3536,7 @@ When Gray Cleric enters, place a -1/-1 counter on target creature.</text>
 		<card>
 			<name>Weathered Fisherman</name>
 			<text>When Weathered Fisherman enters, create two 0/1 blue Fish creature tokens with &quot;Sacrifice this creature: Add {1}.&quot;</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/206.jpg" num="204">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/206.jpg" num="203">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3543,7 +3553,7 @@ When Gray Cleric enters, place a -1/-1 counter on target creature.</text>
 		<card>
 			<name>Respawn Anchor</name>
 			<text>Creatures you control get +2/+0 until end of turn. Regenerate those creatures.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/207.jpg" num="134">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/207.jpg" num="133">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3559,7 +3569,7 @@ When Gray Cleric enters, place a -1/-1 counter on target creature.</text>
 		<card>
 			<name>Cultivate</name>
 			<text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/208.jpg" num="149">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/208.jpg" num="148">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3592,7 +3602,7 @@ When Gray Cleric enters, place a -1/-1 counter on target creature.</text>
 			<text>Enchant creature
 Prevent all damage that would be dealt to enchanted creature.
 An opponent may sacrifice a land. If they do, sacrifice Bond of the Creaking Heart.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/210.jpg" num="179">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/210.jpg" num="178">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3610,7 +3620,7 @@ An opponent may sacrifice a land. If they do, sacrifice Bond of the Creaking Hea
 			<text>Multikicker—Sacrifice an artifact. (You may sacrifice an artifact in addition to any other costs any number of times as you cast this spell.)
 Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 Draw a card for each time Riches from Dust was kicked.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/211.jpg" num="135">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/211.jpg" num="134">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3646,7 +3656,7 @@ You may cast Totem of Undying from your graveyard by paying {3}{G}{W} instead of
 			<text>Choose one —
 • Create three 1/1 white Human creature tokens.
 • Create two 1/1 white Villager creature tokens. They have &quot;{T}: Add {C}. Spend this mana only to activate abilities.&quot;</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/213.jpg" num="37">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/213.jpg" num="38">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3679,7 +3689,7 @@ You may cast Totem of Undying from your graveyard by paying {3}{G}{W} instead of
 			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 When Awkward Potion enters, if it was kicked, search your library for an instant card with mana value 1 or less, reveal it, put it into your hand, then shuffle.
 Sacrifice Awkward Potion: Return target instant card with mana value 1 or less from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/215.jpg" num="213">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/215.jpg" num="212">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3694,7 +3704,7 @@ Sacrifice Awkward Potion: Return target instant card with mana value 1 or less f
 			<name>Shulker&apos;s Box</name>
 			<text>You may play cards exiled with Shulker&apos;s Box as long as it is untapped.
 {T}: Exile the top card of your library.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/216.jpg" num="69">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/216.jpg" num="70">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3710,7 +3720,7 @@ Sacrifice Awkward Potion: Return target instant card with mana value 1 or less f
 		<card>
 			<name>Glowstone Infusion</name>
 			<text>Copy target instant spell with mana value 1 or less. You may choose new targets for the copy.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/217.jpg" num="121">MCTG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/217.jpg" num="120">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3727,7 +3737,7 @@ Sacrifice Awkward Potion: Return target instant card with mana value 1 or less f
 			<name>Cleansing Grindstone</name>
 			<text>Exile target enchantment.
 Cycling {1} ({1}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/218.jpg" num="207">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/218.jpg" num="206">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3761,14 +3771,14 @@ Cycling {1} ({1}, Discard this card: Draw a card.)</text>
 			<text>When Infinity Snapshot enters, choose a basic land type. Each land is the chosen type in addition to its other types.
 At the beginning of your upkeep, each player exiles the top two cards of their library.
 During their turn, players may play cards exiled with Infinity Snapshot.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/220.jpg" num="123">MCTG</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/220.jpg" num="122">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>5RR</manacost>
-				<cmc>7</cmc>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -3777,7 +3787,7 @@ During their turn, players may play cards exiled with Infinity Snapshot.</text>
 		<card>
 			<name>Potion of Night Vision</name>
 			<text>Target creature can block an additional creature until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/221.jpg" num="167">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/221.jpg" num="166">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3950,7 +3960,7 @@ Sacrifice Wilted Soul: Cast a creature spell from your hand with mana value X or
 ---
 
 Lightning Strike deals 3 damage to any target. (Then exile this card. You may cast the creature later from exile.)</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/231.jpg" num="137">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/231.jpg" num="136">MCTG</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -3969,7 +3979,7 @@ Lightning Strike deals 3 damage to any target. (Then exile this card. You may ca
 			<text>Kicker {B}
 Creatures gain &quot;When this creature dies, create a 2/2 black Ooze creature token.&quot; until end of turn.
 If Oozing Demise was kicked, destroy target creature.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/232.jpg" num="164">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/232.jpg" num="163">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4033,7 +4043,7 @@ If Oozing Demise was kicked, destroy target creature.</text>
 			<name>Irresistible Peddler</name>
 			<text>Gain control of target noncreature permanent until end of turn. Untap that permanent. It gains haste until end of turn.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/236.jpg" num="124">MCTG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/236.jpg" num="123">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4049,7 +4059,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Chamber&apos;s Omen</name>
 			<text>Create a 2/2 black Zombie creature token. Chamber&apos;s Omen deals 1 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/237.jpg" num="206">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/237.jpg" num="205">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4067,7 +4077,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<text>As an additional cost to cast Suspicious Stew, pay 3 life.
 Exile the top card of your library. Until your next end step, you may play that card from exile by paying life equal to its mana value in addition to its other costs.
 Add {R}{R}{R}. Spend this mana only to cast spells from exile.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/238.jpg" num="140">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/238.jpg" num="139">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4084,7 +4094,7 @@ Add {R}{R}{R}. Spend this mana only to cast spells from exile.</text>
 			<name>Sculk Sensor</name>
 			<text>Whenever a player attacks with three or more creatures, draw a card.
 Cycling {U} ({U}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/239.jpg" num="66">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/239.jpg" num="67">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4117,7 +4127,7 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Murder</name>
 			<text>Destroy target creature.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/241.jpg" num="94">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/241.jpg" num="93">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4168,12 +4178,12 @@ When you cycle Binding and Vanishing, counter target artifact spell.</text>
 		<card>
 			<name>Shulker Spire</name>
 			<text>Creatures you control have flying.
-Exile three cards from your graveyard: Choose one —
+Exile three target cards from your graveyard: Choose one —
 • Draw a card.
 • Target opponent mills five cards.
 • Target creature with flying gets +2/+1 until end of turn.
 Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/244.jpg" num="68">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/244.jpg" num="69">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4188,10 +4198,10 @@ Activate only as a sorcery.</text>
 		</card>
 		<card>
 			<name>Disc: Creator</name>
-			<text>Kicker {3} 
-When Disc: Creator enters, if it was kicked, create a 2/2 green Insect creature token with flying.
+			<text>Kicker {2} 
+When Disc: Creator enters, if it was kicked, create a 2/2 green Insect creature token with &quot;This creature has flying as long as its attacking.&quot;
 Whenever a nontoken creature you control deals combat damage to a player, populate. (Create a token that&apos;s a copy of a creature token you control.)</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/245.jpg" num="183">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/245.jpg" num="182">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4209,7 +4219,7 @@ Whenever a nontoken creature you control deals combat damage to a player, popula
 			<text>Enchant creature
 Enchanted creature has menace.
 Whenever enchanted creature deals damage to a player, that player discards a card at random from their hand. Then, surveil 2.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/246.jpg" num="181">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/246.jpg" num="180">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4260,7 +4270,7 @@ Crew 2</text>
 		<card>
 			<name>Contagion Cocktail</name>
 			<text>Proliferate. Target creature gets -X/-X until end of turn, where X is the total number of counters on all permanents. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/249.jpg" num="208">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/249.jpg" num="207">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4351,7 +4361,7 @@ Sacrifice Gardner&apos;s Enchanted Shears: Add {C}. Then add {G} for every three
 			<text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
 When Copper Golem enters, if it was kicked, search your library for an artifact card with mana value 2 or less, put that card onto the battlefield, then shuffle.
 Whenever Copper Golem attacks, put a charge counter on target artifact.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/254.jpg" num="219">MCTG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/254.jpg" num="218">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4369,7 +4379,7 @@ Whenever Copper Golem attacks, put a charge counter on target artifact.</text>
 Copper Chest enters with two charge counters on it if it was kicked.
 At the beginning of your upkeep, put a charge counter on Copper Chest.
 Sacrifice Copper Chest: Draw X cards, where X is half the number of charge counters on Copper Chest, rounded down.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/255.jpg" num="218">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/255.jpg" num="217">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4385,7 +4395,7 @@ Sacrifice Copper Chest: Draw X cards, where X is half the number of charge count
 			<name>Buried Treasure</name>
 			<text>You may have Buried Treasure enter tapped. If you do, draw a card.
 {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/256.jpg" num="216">MCTG</set>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/256.jpg" num="215">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4437,7 +4447,7 @@ Equip {2}</text>
 			<name>Parched Bones</name>
 			<text>Flash
 When Parched Bones enters, target creature gets -2/-0 until end of turn.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/259.jpg" num="98">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/259.jpg" num="97">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4489,7 +4499,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		<card>
 			<name>Farseek</name>
 			<text>Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/262.jpg" num="155">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/262.jpg" num="154">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4508,7 +4518,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 Enchanted creature has flying and prowess.
 Whenever you draw your second card each turn, enchanted creature gets +3/+3 until end of turn.
 Cycling {WU}</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/263.jpg" num="177">MCTG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/263.jpg" num="176">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4526,7 +4536,7 @@ Cycling {WU}</text>
 			<text>Enchant creature
 Enchanted creature gets +2/+0 and can&apos;t be blocked if defending player has thirteen or more cards in their graveyard.
 Whenever enchanted creature attacks, defending player mills three cards.</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/264.jpg" num="182">MCTG</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/264.jpg" num="181">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4544,7 +4554,7 @@ Whenever enchanted creature attacks, defending player mills three cards.</text>
 			<text>Suspend 3—{1}{R}{W}
 Vigilance, reach
 Whenever you are attacked, Warden Enraged deals 3 damage to target attacking creature creature unless that creature&apos;s controller pays {3}.</text>
-			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/265.jpg" num="203">MCTG</set>
+			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/MCTG-files/img/265.jpg" num="202">MCTG</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
