@@ -1,4 +1,161 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Forgotten Threnody added.
+Painted Wrath added.
+Fated Return added.
+Eveque added.
+Paintress's Monolith added.
+
+
+Prosthetic Overcharge
+
+Sciel, Prescient
+rules_text: Flash
+Whenever you choose to put one or more cards on the bottom of your library while scrying, put that many +1/+1 counters on target creature.
+At the beginning of each combat, scry 3. => Flash
+When Sciel, Prescient enters, scry 6.
+Whenever you scry, put X +1/+1 counters on target creature, where X is the number of cards looked at while scrying this way.
+
+Maelle, Ever Restless
+cost: {1}{R}{W}{B} => {R}{W}{B}
+rules_text: Double strike
+At the beginning of your upkeep and whenever Maelle, Ever Restless deals combat damage, put a flame counter on Maelle.
+Remove ten flame counters from Maelle, Ever Restless: Maelle deals 10 damage to any target. => Double strike
+Whenever Maelle, Ever Restless deals damage, put that many flame counters on it.
+{T}, Remove ten flame counters from Maelle, Ever Restless: Choose one —
+• Destroy target permanent
+• Target player loses 10 life.
+pt: 2/3 => 1/3
+
+Bloodwhet Cultist
+rules_text: {1}{R}: Bloodwhet Cultist gets +2/-2 until end of turn. Regenerate it. [i](The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)[/i] => {1}{R}: Bloodwhet Cultist gets +2/-2 and gains indestructible until end of turn. [i](Damage and effects that say “destroy” don't destroy this creature.)[/i]
+
+Bourgeon
+cost: {5}{WU}{G} => {5}{W}{W}
+
+For Those Who Come After
+rules_text: As long as there are three or more creature cards in your graveyard, creatures you control get +1/+1.
+At the beginning of combat on your turn, if there are six or more creature cards in your graveyard, up to two target creatures you control gain vigilance until end of turn. Then if there are nine or more creature cards in your graveyard, target creature you control gains lifelink and can't be blocked until end of turn. => As long as there are three or more creature cards in your graveyard, creatures you control get +1/+1.
+As long as there are five or more creature cards in your graveyard, creatures you control have vigilance.
+Exile target creature card from your graveyard: Target creature you control gains lifelink until end of turn and can't be blocked this turn. Activate only if there are seven or more creature cards in your graveyard.
+
+Gustave, Hope's Inventor
+rules_text: When Gustave, Hope's Inventor enters, search your library for an artifact card, reveal it, and put it into your hand, then shuffle.
+[i]Metalcraft[/i] — Whenever a creature controlled by an opponent dies, if you control three or more artifacts, put a +1/+1 counter on Gustave.
+When Gustave leaves the battlefield, put X +1/+1 counters on target creature, where X is the number of +1/+1 counters on Gustave. => When Gustave, Hope's Inventor enters, search your library for an artifact card, reveal it, and put it into your hand. Then shuffle.
+[i]Metalcraft[/i] — Whenever a creature controlled by an opponent dies, if you control three or more artifacts, put a +1/+1 counter on Gustave.
+When Gustave leaves the battlefield, if it had +1/+1 counters on it, put those counters on target creature.
+
+Imposing Stalact
+cost: {2}{G}{U} => {2}{U}{U}
+rules_text: Trample
+Imposing Stalact enters tapped. => Trample
+Imposing Stalact enters tapped with a stun counter on it.
+
+Hidden Gestral Village
+
+Paradigm Killer
+cost: {B} => {2}{B}{B}
+rules_text: Target legendary creature gets -5/-5 until end of turn.
+Cycling {2}{B}{B} [i]({2}{B}{B}, Discard this card: Draw a card.)[/i]
+When you cycle Paradigm Killer, target creature gets -5/-5 until end of turn. => Paradigm Killer costs {1}{B} less to cast if it targets a legendary creature.
+Target creature gets -5/-5 until end of turn.
+Surveil 1.
+
+Grayscale
+rules_text: Kicker—Tap four untapped creatures you control. [i](You may tap four untapped creatures you control in addition to any other costs as you cast this spell.)[/i]
+Counter target activated ability or triggered ability. If Grayscale was kicked, counter target spell instead. => Kicker—Exile three target creature cards from your graveyard.
+Counter target activated ability or triggered ability. If Grayscale was kicked, counter target spell instead.
+
+Sacred Gestral River
+rules_text: Whenever a creature you control dies, remove a -1/-1 counter from target creature.
+Whenever a nontoken artifact creature you control dies, you may pay {2}. If you do, create a 3/3 colorless Golem artifact creature token. It enters with an additional two -1/-1 counters on it. => Whenever a nontoken creature you control dies, you may pay {2}. If you do, create a 3/3 colorless Golem artifact creature token. It enters tapped with an additional two stun counters on it.
+{T}: Untap target artifact creature.
+
+Gestral Merchant
+rules_text: Kicker {1}
+When Gestral Merchant enters, if it was kicked, it fights target creature.
+Whenever Gestral Merchant fights, surveil 2, then draw a card. => Kicker {1}
+When Gestral Merchant enters, if it was kicked, it fights target creature.
+Whenever Gestral Merchant fights, scry 2, then draw a card.
+
+Golgra, Brawler's Peak
+rules_text: Whenever a creature you control fights a creature you don't control, the creature you control gets +5/+0 and gains menace until end of turn.
+Once per turn, during your precombat main phase, you may have target creature you control fight target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i] => Whenever a creature you control fights a creature you don't control, the creature you control gets +5/+0 and gains menace until end of turn.
+Whenever Golgra, Brawler's Peak attacks, you may have target creature you control fight target creature you don't control.
+
+Expedition Banner
+rules_text: When Expedition Banner enters, create a 1/1 white Human creature token, then attach Expedition Banner to it.
+Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player choose one—
+• Populate
+• Proliferate
+Equip {4} => When Expedition Banner enters, create a 1/1 white Human creature token, then attach Expedition Banner to it.
+Equipped creature gets +1/+1.
+Whenever equipped creature deals damage to an opponent, choose one—
+• Populate
+• Proliferate
+Equip {4}
+
+Renoir, the Unpainted
+
+Esquie, Youth's Bliss
+rules_text: Flying
+If Esquie, Youth's Bliss would deal combat damage to a player, prevent that damage then distribute that many +1/+1 counters among any number of other target creatures. => Flying
+If Esquie, Youth's Bliss would deal damage to an opponent, prevent that damage then distribute that many +1/+1 counters among any number of other target creatures.
+
+Aria of the Soul
+cost: {2}{GW}{U}{U} => {3}{U}{U}
+rules_text: Put a +1/+1 counter on target creature.
+Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+Draw cards equal to the number of +1/+1 counters on target creature you control. => Put a +1/+1 counter on target creature.
+Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+Choose target creature you control. Draw X cards, where X is the number of +1/+1 counters on that creature.
+
+Ballet Tempter
+cost: {U}{U} => {1}{U}
+rules_text: Flying
+{3}{U}{U}{U}{U}, Sacrifice Ballet Tempter: Gain control of target creature. => Flying
+{3}{U}{U}{U}{U}, {T}, Sacrifice Ballet Tempter: Gain control of target creature.
+pt: 3/1 => 2/1
+
+Renoir's Creation
+rules_text: Flying
+When Renoir's Creation enters, surveil 4.
+Whenever a card would be put into your graveyard from anywhere other than the battlefield, you may exile it instead. If you do, each other player exiles a card from their graveyard.
+{1}{B}{R}: Choose a card type. Renoir's Creation gets +X/+0 until end of turn, where X is the total number of cards of the chosen type in exile. => Flying
+When Renoir's Creation enters, surveil 4.
+Whenever a card would be put into your graveyard from anywhere, you may exile it instead. If you do, each other player exiles a card from their graveyard.
+{1}{B}{R}: Choose a card type. Renoir's Creation gets +1/+1 until end of turn for each card of the chosen type in exile.
+
+Clea, Meddling Shadow
+rules_text: [+2]: [i]Delirium[/i] — Surveil 3. Then, add {B}{G} if there are four or more card types among cards in your graveyard.
+[-3]: You may sacrifice a creature. If you do, destroy target creature, investigate, then investigate again. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[-11]: You get an emblem with “At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.” => [+2]: [i]Delirium[/i] — Surveil 3. Then if there are four or more card types among cards in your graveyard, add {B}{G}.
+[-3]: You may sacrifice a creature. If you do, destroy target creature, investigate, then investigate again. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[-11]: You get an emblem with “At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.”
+special_text: [+2]: [i]Delirium[/i] — Surveil 3. Then, add {B}{G} if there are four or more card types among cards in your graveyard.
+[-3]: You may sacrifice a creature. If you do, destroy target creature, investigate, then investigate again. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[-11]: You get an emblem with “At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.” => [+2]: [i]Delirium[/i] — Surveil 3. Then if there are four or more card types among cards in your graveyard, add {B}{G}.
+[-3]: You may sacrifice a creature. If you do, destroy target creature, investigate, then investigate again. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+[-11]: You get an emblem with “At the beginning of each upkeep, target creature you control gets +X/+X and gains trample and indestructible until end of turn, where X is the total number of creature cards in all graveyards.”
+
+Bruler
+
+Endless Tower
+cost: {5}{G}{G}{G} => {3}{G}{G}{G}{G}
+
+Aria of the Soul
+cost: {2}{GW}{U}{U} => {3}{U}{U}
+rules_text: Put a +1/+1 counter on target creature.
+Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+Draw cards equal to the number of +1/+1 counters on target creature you control. => Put a +1/+1 counter on target creature.
+Proliferate.
+Choose target creature you control. Draw X cards, where X is the number of +1/+1 counters on that creature.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

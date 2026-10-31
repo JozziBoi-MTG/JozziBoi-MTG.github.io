@@ -5,7 +5,7 @@
 			<name>IPGB</name>
 			<longname>IP Grab Bag</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-07</releasedate>
+			<releasedate>2026-10-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -15,7 +15,7 @@
 At the beginning of your upkeep, draw a card.
 If you would draw a card, you may instead reveal cards from the top of your library until you reveal an instant, sorcery, or enchantment card. Put that card into your hand and the rest on the bottom of your library in a random order.
 Discard a card: Add {U}, {R}, or {W}. Only spend this mana to cast instant, sorcery, or enchantment spells.</text>
-			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/0.jpg" num="5">IPGB</set>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/0.jpg" num="7">IPGB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -71,7 +71,7 @@ Remove a hat counter from target face down card: Turn that card face up. (If a n
 		<card>
 			<name>Blue-Eyes White Dragon</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/3.jpg" num="6">IPGB</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/3.jpg" num="9">IPGB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -88,7 +88,7 @@ Remove a hat counter from target face down card: Turn that card face up. (If a n
 		<card>
 			<name>Red-Eyes Black Dragon</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/4.jpg" num="7">IPGB</set>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/4.jpg" num="10">IPGB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -144,6 +144,61 @@ Master Spark deals 10 damage to any target.</text>
 				<colors>W</colors>
 				<coloridentity>WUBRG</coloridentity>
 				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Qual, Corruption Sage</name>
+			<text>Deathtouch
+Whenever you cast a spell that has one or more targets, you may pay {UR}{UR}. If you do, copy that spell. You may choose new targets for the copy.
+Whenever an opponent casts a spell, you may pay {BG}{BG}. If you do, return target card from your graveyard to your hand that shares a card type with that spell.</text>
+			<set rarity="mythic" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/7.jpg" num="8">IPGB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UBRG</manacost>
+				<cmc>4</cmc>
+				<colors>UBRG</colors>
+				<coloridentity>UBRG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Death, Straight Up</name>
+			<text>Protection from modified creatures
+Whenever a nontoken creature an opponent controls would die, if Death, Straight Up is in your graveyard, you may instead put a finality counter on that creature. If you do, return Death to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/8.jpg" num="6">IPGB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assault Bear</name>
+			<text>Flash
+When Assault Bear enters, it gains haste, reach, deathtouch, and indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://JozziBoi-MTG.github.io/sets/IPGB-files/img/9.jpg" num="5">IPGB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bear Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

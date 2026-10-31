@@ -5,7 +5,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{W}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/0.jpg"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "19",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/1.jpg"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/2.jpg"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}{W}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "30",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/3.jpg"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "53",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/4.jpg"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}{U}{U}{R}{R}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "39",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/5.jpg"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{10}",
 			"type": "Artifact Creature — Avatar Construct",
-			"collector_number": "58",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/6.jpg"
 			}
@@ -73,9 +73,9 @@
 		{
 			"name": "Maelle, Ever Restless",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}{W}{B}",
+			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Human Fighter",
-			"collector_number": "31",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/7.jpg"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Avatar",
-			"collector_number": "35",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/8.jpg"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}{G}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "41",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/9.jpg"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Merfolk",
-			"collector_number": "14",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/10.jpg"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Berserker",
-			"collector_number": "15",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/11.jpg"
 			}
@@ -123,9 +123,9 @@
 		{
 			"name": "Bourgeon",
 			"rarity": "common",
-			"mana_cost": "{5}{W/U}{G}",
+			"mana_cost": "{5}{W}{W}",
 			"type": "Creature — Plant Giant",
-			"collector_number": "47",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/12.jpg"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W/U}{U/B}{B/R}{R/G}{G/W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "48",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/13.jpg"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Nymph",
-			"collector_number": "18",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/14.jpg"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Legendary Creature — Shapeshifter",
-			"collector_number": "34",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/15.jpg"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "{R/G}{R/G}{R/G}",
 			"type": "Enchantment",
-			"collector_number": "49",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/16.jpg"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Town",
-			"collector_number": "73",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/17.jpg"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{0}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "63",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/18.jpg"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "24",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/19.jpg"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{G}",
 			"type": "Creature — Yeti",
-			"collector_number": "22",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/20.jpg"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "28",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/21.jpg"
 			}
@@ -223,19 +223,19 @@
 		{
 			"name": "Imposing Stalact",
 			"rarity": "common",
-			"mana_cost": "{2}{G}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Weird",
-			"collector_number": "29",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/22.jpg"
 			}
 		},
 		{
 			"name": "Hidden Gestral Village",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "55",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/23.jpg"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Golem Warrior",
-			"collector_number": "54",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/24.jpg"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "56",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/25.jpg"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "25",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/26.jpg"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "59",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/27.jpg"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Nightmare",
-			"collector_number": "13",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/28.jpg"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Weird",
-			"collector_number": "36",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/29.jpg"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
-			"collector_number": "57",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/30.jpg"
 			}
@@ -313,9 +313,9 @@
 		{
 			"name": "Paradigm Killer",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "11",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/31.jpg"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "9",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/32.jpg"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/33.jpg"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "26",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/34.jpg"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "21",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/35.jpg"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "42",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/36.jpg"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "65",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/37.jpg"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "50",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/38.jpg"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "64",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/39.jpg"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "69",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/40.jpg"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "66",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/41.jpg"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "72",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/42.jpg"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "70",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/43.jpg"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "75",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/44.jpg"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "71",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/45.jpg"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "67",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/46.jpg"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "68",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/47.jpg"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "74",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/48.jpg"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "60",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/49.jpg"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}{G}{G}",
 			"type": "Legendary Creature — Golem Berserker",
-			"collector_number": "27",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/50.jpg"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "rare",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "62",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/51.jpg"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/G}{R/G}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "44",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/52.jpg"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Nymph",
-			"collector_number": "8",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/53.jpg"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "51",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/54.jpg"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment Creature — Shade",
-			"collector_number": "10",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/55.jpg"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/56.jpg"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "52",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/57.jpg"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}{R}{R}",
 			"type": "Legendary Planeswalker — Renoir",
-			"collector_number": "37",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/58.jpg"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}{W}{W}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/59.jpg"
 			}
@@ -603,9 +603,9 @@
 		{
 			"name": "Aria of the Soul",
 			"rarity": "rare",
-			"mana_cost": "{2}{G/W}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "46",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/60.jpg"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Enchantment Creature — Archon",
-			"collector_number": "33",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/61.jpg"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}{W}",
 			"type": "Legendary Creature — Construct",
-			"collector_number": "43",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/62.jpg"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}{W}",
 			"type": "Creature — Nymph",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/63.jpg"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}{R}",
 			"type": "Legendary Creature — Archon",
-			"collector_number": "40",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/64.jpg"
 			}
@@ -653,9 +653,9 @@
 		{
 			"name": "Ballet Tempter",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Spirit",
-			"collector_number": "7",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/65.jpg"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Planeswalker — Alicia",
-			"collector_number": "32",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/66.jpg"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{R}",
 			"type": "Creature — Horror",
-			"collector_number": "38",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/67.jpg"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Shade",
-			"collector_number": "12",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/68.jpg"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "61",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/69.jpg"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Planeswalker — Clea",
-			"collector_number": "23",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/70.jpg"
 			}
@@ -715,17 +715,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Human",
-			"collector_number": "2",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/71.jpg"
 			}
 		},
 		{
 			"name": "Bruler",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Berserker",
-			"collector_number": "16",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/72.jpg"
 			}
@@ -733,9 +733,9 @@
 		{
 			"name": "Endless Tower",
 			"rarity": "rare",
-			"mana_cost": "{5}{G}{G}{G}",
+			"mana_cost": "{3}{G}{G}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "20",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/73.jpg"
 			}
@@ -743,11 +743,61 @@
 		{
 			"name": "Aria of the Soul",
 			"rarity": "rare",
-			"mana_cost": "{2}{G/W}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "45",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/74.jpg"
+			}
+		},
+		{
+			"name": "Forgotten Threnody",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/75.jpg"
+			}
+		},
+		{
+			"name": "Painted Wrath",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/76.jpg"
+			}
+		},
+		{
+			"name": "Fated Return",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/77.jpg"
+			}
+		},
+		{
+			"name": "Eveque",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Construct",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/78.jpg"
+			}
+		},
+		{
+			"name": "Paintress's Monolith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/DPG-files/img/79.jpg"
 			}
 		}
 	]
@@ -781,13 +831,13 @@
 	1 Clea, Meddling Shadow
 	2 Endless Tower
 	2 Aria of the Soul
+	2 Fated Return
 [uncommon(3)]
 	4 Prosthetic Overcharge
 	4 Flicker
 	4 Monolith Colossus
 	4 Uncanny Mime
 	4 Gustave, Hope's Inventor
-	4 Hidden Gestral Village
 	4 Pardox Danseuse
 	4 Paradigm Killer
 	4 Sacred Gestral River
@@ -799,7 +849,7 @@
 	4 Those Who Come After
 	4 Scieleson
 	4 Expedition Sixty
-	4 Bruler
+	4 Paintress's Monolith
 [common(6)]
 	8 Expedition Journal
 	8 Aqueous Luster
@@ -809,6 +859,7 @@
 	8 Gestral Arena
 	8 Grandis Orator
 	8 Imposing Stalact
+	8 Hidden Gestral Village
 	8 Gestral Tournament Warriors
 	8 Lancelier
 	8 Portier
@@ -830,6 +881,10 @@
 	8 Clair
 	8 Esquie's Magic Rock
 	8 Enforce Emotion
+	8 Bruler
+	8 Forgotten Threnody
+	8 Painted Wrath
+	8 Eveque
 [common | masterpiece(1)]
 	8 Expedition Journal
 	8 Aqueous Luster
@@ -839,6 +894,7 @@
 	8 Gestral Arena
 	8 Grandis Orator
 	8 Imposing Stalact
+	8 Hidden Gestral Village
 	8 Gestral Tournament Warriors
 	8 Lancelier
 	8 Portier
@@ -860,6 +916,10 @@
 	8 Clair
 	8 Esquie's Magic Rock
 	8 Enforce Emotion
+	8 Bruler
+	8 Forgotten Threnody
+	8 Painted Wrath
+	8 Eveque
 [foil(1)]
 	2 Gommage
 	6 Prosthetic Overcharge
@@ -884,7 +944,7 @@
 	12 Grandis Orator
 	6 Gustave, Hope's Inventor
 	12 Imposing Stalact
-	6 Hidden Gestral Village
+	12 Hidden Gestral Village
 	12 Gestral Tournament Warriors
 	12 Lancelier
 	2 Fracture
@@ -933,9 +993,14 @@
 	6 Scieleson
 	1 Clea, Meddling Shadow
 	6 Expedition Sixty
-	6 Bruler
+	12 Bruler
 	2 Endless Tower
 	2 Aria of the Soul
+	12 Forgotten Threnody
+	12 Painted Wrath
+	2 Fated Return
+	12 Eveque
+	6 Paintress's Monolith
 [wildcard(1)]
 	7 Gommage
 	15 Prosthetic Overcharge
@@ -960,7 +1025,7 @@
 	6 Grandis Orator
 	15 Gustave, Hope's Inventor
 	6 Imposing Stalact
-	15 Hidden Gestral Village
+	6 Hidden Gestral Village
 	6 Gestral Tournament Warriors
 	6 Lancelier
 	7 Fracture
@@ -1009,6 +1074,11 @@
 	15 Scieleson
 	4 Clea, Meddling Shadow
 	15 Expedition Sixty
-	15 Bruler
+	6 Bruler
 	7 Endless Tower
 	7 Aria of the Soul
+	6 Forgotten Threnody
+	6 Painted Wrath
+	7 Fated Return
+	6 Eveque
+	15 Paintress's Monolith

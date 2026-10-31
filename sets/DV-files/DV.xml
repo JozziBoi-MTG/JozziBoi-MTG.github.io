@@ -5,7 +5,7 @@
 			<name>DV</name>
 			<longname>Daisuke&apos;s Vision</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-04</releasedate>
+			<releasedate>2026-10-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -63,7 +63,7 @@ Flashback {1}{G}{U} (You may cast this card from your graveyard for its flashbac
 			<name>A.B.A, Raving Creation</name>
 			<text>Undying
 Delirium — A.B.A, Raving Creation has double strike as long as there are four or more card types among cards in your graveyard.
-When A.B.A, Raving Creation dies, reveal cards from the top of your library until you reveal a land card. Deal damage to any target equal to twice the number of cards revealed this way, then put those cards into your graveyard.</text>
+When A.B.A, Raving Creation dies, reveal cards from the top of your library until you reveal a land card. A.B.A deals damage to any target equal to twice the number of cards revealed this way, then put those cards into your graveyard.</text>
 			<set rarity="rare" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/3.jpg" num="38">DV</set>
 			<prop>
 				<layout>normal</layout>
@@ -206,7 +206,7 @@ Enchanted creature gets +2+0.</text>
 			<name>Sixth Forbidden Spell</name>
 			<text>Enchant creature
 Enchanted creature has double strike.
-Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+Totem armor</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/11.jpg" num="9">DV</set>
 			<prop>
 				<layout>normal</layout>
@@ -369,7 +369,7 @@ Suspend 5—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B
 			<name>Jellyfish Pirate&apos;s Anchor</name>
 			<text>Equipped creature gets +3/+1.
 Equip creature with power 1 or less {1}
-Equip {3}</text>
+Equip 3</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/20.jpg" num="66">DV</set>
 			<prop>
 				<layout>normal</layout>
@@ -780,7 +780,7 @@ When Elphelt Valentine leaves the battlefield, each opponent loses 2 life for ea
 			<name>Ramlethal Valentine</name>
 			<text>Flying
 Landfall — Whenever a land enters under your control, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
-Sacrifice an artifact: Target creature gets +2/+2 and gains until end of turn.</text>
+Sacrifice an artifact: Target creature gets +2/+2 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/43.jpg" num="56">DV</set>
 			<prop>
 				<layout>normal</layout>
@@ -856,7 +856,7 @@ Dash {1}{G}{G}{G}</text>
 		<card>
 			<name>I-No, Annihilation Pariah</name>
 			<text>Flying, menace
-Whenever you draw a card or discard a card, I-No, Annihilation Pariah deals 1 damage to any target.
+Whenever you discard a card, I-No, Annihilation Pariah deals 2 damage to target player.
 Whenever I-No deals combat damage to a player, you may discard a card. If you do, return another target card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/47.jpg" num="25">DV</set>
 			<prop>
@@ -909,7 +909,7 @@ Equip {1}</text>
 			<name>Baiken, Vengeful Survivor</name>
 			<text>Flash
 First strike
-When Baiken, Vengeful Survivor enters, choose two —
+When this creature enters, choose two —
 • Counter target activated ability or triggered ability.
 • Exile target enchantment.
 • Baiken deals 3 damage to any target.
@@ -1021,7 +1021,7 @@ Enchanted creature has trample and &quot;Effects that alter this creature&apos;s
 		<card>
 			<name>Anji Mito</name>
 			<text>Hexproof
-Whenever Anji Mito deals combat damage to an opponent, draw a card.</text>
+Whenever Anji Mito deals damage to an opponent, draw a card.</text>
 			<set rarity="uncommon" picurl="https://JozziBoi-MTG.github.io/sets/DV-files/img/56.jpg" num="10">DV</set>
 			<prop>
 				<layout>normal</layout>

@@ -16,7 +16,12 @@
         "position": "5"
     },
     {
-        "card_name": "e"
+        "card_name": "Death, Straight Up",
+        "number": 6,
+        "shape": "normal",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "8"
     },
     {
         "card_name": "e"
@@ -41,7 +46,12 @@
         "position": "2"
     },
     {
-        "card_name": "e"
+        "card_name": "Assault Bear",
+        "number": 5,
+        "shape": "normal",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "9"
     },
     {
         "card_name": "e"
@@ -64,7 +74,7 @@
     "a->gold",
     {
         "card_name": "Blue-Eyes White Dragon",
-        "number": 6,
+        "number": 9,
         "shape": "normal",
         "set": "IPGB",
         "rotated": false,
@@ -75,7 +85,7 @@
     },
     {
         "card_name": "Red-Eyes Black Dragon",
-        "number": 7,
+        "number": 10,
         "shape": "normal",
         "set": "IPGB",
         "rotated": false,
@@ -104,14 +114,19 @@
     },
     {
         "card_name": "Frieren the Slayer",
-        "number": 5,
+        "number": 7,
         "shape": "normal",
         "set": "IPGB",
         "rotated": false,
         "position": "0"
     },
     {
-        "card_name": "e"
+        "card_name": "Qual, Corruption Sage",
+        "number": 8,
+        "shape": "normal",
+        "set": "IPGB",
+        "rotated": false,
+        "position": "7"
     },
     {
         "card_name": "e"

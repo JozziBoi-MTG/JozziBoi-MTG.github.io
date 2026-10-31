@@ -1,4 +1,65 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+A.B.A, Raving Creation
+rules_text: Undying
+[i]Delirium[/i] — A.B.A, Raving Creation has double strike as long as there are four or more card types among cards in your graveyard.
+When A.B.A, Raving Creation dies, reveal cards from the top of your library until you reveal a land card. Deal damage to any target equal to twice the number of cards revealed this way, then put those cards into your graveyard. => Undying
+[i]Delirium[/i] — A.B.A, Raving Creation has double strike as long as there are four or more card types among cards in your graveyard.
+When A.B.A, Raving Creation dies, reveal cards from the top of your library until you reveal a land card. A.B.A deals damage to any target equal to twice the number of cards revealed this way, then put those cards into your graveyard.
+
+Sixth Forbidden Spell
+rules_text: Enchant creature
+Enchanted creature has double strike.
+Totem armor [i](If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)[/i] => Enchant creature
+Enchanted creature has double strike.
+Totem armor
+
+Jellyfish Pirate's Anchor
+rules_text: Equipped creature gets +3/+1.
+Equip creature with power 1 or less {1}
+Equip {3} => Equipped creature gets +3/+1.
+Equip creature with power 1 or less {1}
+Equip 3
+
+Ramlethal Valentine
+rules_text: Flying
+[i]Landfall[/i] — Whenever a land enters under your control, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice an artifact: Target creature gets +2/+2 and gains until end of turn. => Flying
+[i]Landfall[/i] — Whenever a land enters under your control, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice an artifact: Target creature gets +2/+2 until end of turn.
+
+I-No, Annihilation Pariah
+rules_text: Flying, menace
+Whenever you draw a card or discard a card, I-No, Annihilation Pariah deals 1 damage to any target.
+Whenever I-No deals combat damage to a player, you may discard a card. If you do, return another target card from your graveyard to your hand. => Flying, menace
+Whenever you discard a card, I-No, Annihilation Pariah deals 2 damage to target player.
+Whenever I-No deals combat damage to a player, you may discard a card. If you do, return another target card from your graveyard to your hand.
+
+Baiken, Vengeful Survivor
+rules_text: Flash
+First strike
+When Baiken, Vengeful Survivor enters, choose two —
+• Counter target activated ability or triggered ability.
+• Exile target enchantment.
+• Baiken deals 3 damage to any target.
+• Gain 5 life. => Flash
+First strike
+When this creature enters, choose two —
+• Counter target activated ability or triggered ability.
+• Exile target enchantment.
+• Baiken deals 3 damage to any target.
+• Gain 5 life.
+
+Anji Mito
+rules_text: Hexproof
+Whenever Anji Mito deals combat damage to an opponent, draw a card. => Hexproof
+Whenever Anji Mito deals damage to an opponent, draw a card.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

@@ -5,7 +5,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Creature — Elf Wizard",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/0.jpg"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W/U}",
 			"type": "Creature — Dragon",
-			"collector_number": "6",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/3.jpg"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B/R}",
 			"type": "Creature — Dragon",
-			"collector_number": "7",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/4.jpg"
 			}
@@ -69,6 +69,36 @@
 			"image_uris": {
 				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/6.jpg"
 			}
+		},
+		{
+			"name": "Qual, Corruption Sage",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Legendary Creature — Demon Wizard",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Death, Straight Up",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Wolf Avatar",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Assault Bear",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Creature — Bear Construct",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://JozziBoi-MTG.github.io/sets/IPGB-files/img/9.jpg"
+			}
 		}
 	]
 
@@ -78,13 +108,17 @@
 	2 Magical Hats
 	2 Cirno, the Strongest
 	1 Marisa Kirisame
+	1 Qual, Corruption Sage
 [uncommon(3)]
+	4 Death, Straight Up
 [common(6)]
 	8 Blue-Eyes White Dragon
 	8 Red-Eyes Black Dragon
+	8 Assault Bear
 [common | masterpiece(1)]
 	8 Blue-Eyes White Dragon
 	8 Red-Eyes Black Dragon
+	8 Assault Bear
 [foil(1)]
 	1 Frieren the Slayer
 	1 Minos Prime
@@ -93,6 +127,9 @@
 	12 Red-Eyes Black Dragon
 	2 Cirno, the Strongest
 	1 Marisa Kirisame
+	1 Qual, Corruption Sage
+	6 Death, Straight Up
+	12 Assault Bear
 [wildcard(1)]
 	4 Frieren the Slayer
 	4 Minos Prime
@@ -101,3 +138,6 @@
 	6 Red-Eyes Black Dragon
 	7 Cirno, the Strongest
 	4 Marisa Kirisame
+	4 Qual, Corruption Sage
+	15 Death, Straight Up
+	6 Assault Bear

@@ -1,4 +1,13 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Qual, Corruption Sage added.
+Death, Straight Up added.
+Assault Bear added.
+
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Cirno, the Strongest added.
